@@ -1,0 +1,16 @@
+name: Eleventy Build Master
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+      - uses: n1hility/cancel-previous-runs@v2
+        with: 
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Azure Storage Action
+        uses: lauchacarro/Azure-Storage-Action@v1.1
