@@ -4,9 +4,10 @@ on:
     branches:
       - master
 
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - uses: lauchacarro/Azure-Storage-Action@master
-        with:
-          connection-string: ${{ secrets.CONNECTION_STRING }}
+jobs:
+  build:
+    steps: 
+    - uses: actions/checkout@master
+    - uses: lauchacarro/Azure-Storage-Action@master
+      with:
+        connection-string: ${{ secrets.CONNECTION_STRING }}
