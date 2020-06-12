@@ -4,13 +4,9 @@ on:
     branches:
       - master
 
-jobs:
-  build_deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - uses: n1hility/cancel-previous-runs@v2
-        with: 
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Azure Storage Action
-        uses: lauchacarro/Azure-Storage-Action@v1.1
+      - uses: lauchacarro/Azure-Storage-Action@master
+        with:
+          connection-string: ${{ secrets.CONNECTION_STRING }}
