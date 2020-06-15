@@ -1,14 +1,19 @@
-name: Blob Build Master
-
-on: 
+name: Upload To Azure Blob Storage
+on:
   push:
     branches:
       - master
 jobs:
-  build:
+  upload:
     runs-on: ubuntu-latest
-    steps: 
-    - uses: actions/checkout@master
-    - uses: lauchacarro/Azure-Storage-Action@master
-      with:
-        connection-string: ${{ secrets.CONNECTION_STRING }}
+    steps:
+      - uses: actions/checkout@v1
+      - run: mkdir -p path/to/artifact
+      - run: cp ./pdf/* path/to/artifact/
+      - uses: StateOfCalifornia/azblob-upload-artifact@master     
+        with:
+          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+          container: '$web'
+          path: path/to/artifact
+          name: pdf
+          sync: true
