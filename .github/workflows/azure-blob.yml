@@ -16,4 +16,5 @@ jobs:
           container: '$web'
           path: path/to/artifact
           name: pdf
+          cleanup: false
           sync: false
