@@ -22,7 +22,7 @@ jobs:
           echo '${{ steps.file_changes.outputs.files_removed}}'
       - uses: actions/checkout@v1
       - run: mkdir -p path/to/artifact
-      - run: mkdir -f data/
+      - run: mkdir -p data/
       - run: cp $HOME/files.json data/
       - run: npm run move
       - run: cp ./pdf/* path/to/artifact/
