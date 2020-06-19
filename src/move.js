@@ -13,5 +13,5 @@ console.log(fileContents)
   echo '${{ steps.file_changes.outputs.files_added}}'
   echo '${{ steps.file_changes.outputs.files_removed}}'
 */
-
+console.log('bye')
 // move them to: - run: cp ./pdf/* path/to/artifact/
