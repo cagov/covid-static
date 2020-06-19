@@ -1,7 +1,7 @@
 const fs = require('fs')
 // get the list of files from
 console.log('hello')
-let fileContents = fs.readFileSync('../data/files.json');
+let fileContents = fs.readFileSync(`${process.env.HOMEDIR}/files.json`);
 console.log(fileContents)
 /*
   cat $HOME/files.json
