@@ -21,7 +21,7 @@ jobs:
           echo '${{ steps.file_changes.outputs.files_added}}'
           echo '${{ steps.file_changes.outputs.files_removed}}'
       - uses: actions/checkout@v1
-      - run: mkdir -p path/to/artifact
+      - run: mkdir -p path/to/artifact/pdf
       - run: HOMEDIR=$HOME npm run move
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
         with:
