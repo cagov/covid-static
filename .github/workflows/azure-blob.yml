@@ -20,9 +20,11 @@ jobs:
           echo '${{ steps.file_changes.outputs.files_modified}}'
           echo '${{ steps.file_changes.outputs.files_added}}'
           echo '${{ steps.file_changes.outputs.files_removed}}'
+          npm install
+          npm run move
       - uses: actions/checkout@v1
       - run: mkdir -p path/to/artifact
-      - run: cp ./pdf/19-11069-Natomas-LLC.pdf path/to/artifact/
+      - run: cp ./pdf/* path/to/artifact/
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
         with:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
