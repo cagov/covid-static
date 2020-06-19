@@ -1,7 +1,7 @@
 const fs = require('fs')
 // get the list of files from
 console.log('hello')
-let fileContents = fs.readFileSync(`${process.env.HOMEDIR}/files.json`);
+let fileContents = JSON.parse(fs.readFileSync(`${process.env.HOMEDIR}/files.json`,'utf8'));
 console.log(fileContents)
 /*
   cat $HOME/files.json
@@ -13,5 +13,4 @@ console.log(fileContents)
   echo '${{ steps.file_changes.outputs.files_added}}'
   echo '${{ steps.file_changes.outputs.files_removed}}'
 */
-console.log('bye')
 // move them to: - run: cp ./pdf/* path/to/artifact/
