@@ -22,11 +22,13 @@ jobs:
           echo '${{ steps.file_changes.outputs.files_removed}}'
       - uses: actions/checkout@v1
       - run: mkdir -p path/to/artifact/pdf
+      - run: mkdir -p path/to/artifact/img
       - run: HOMEDIR=$HOME npm run move
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
         with:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container: '$web'
           path: path/to/artifact
+          name: pdf
           cleanup: false
           sync: false
