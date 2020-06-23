@@ -38,5 +38,5 @@ jobs:
           container: '$web'
           name: img
           path: path/to/artifact/img
-          cleanup: false
+          cleanup: true
           sync: false
