@@ -29,7 +29,7 @@ jobs:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container: '$web'
           name: pdf
-          path: path/to/artifact
+          path: path/to/artifact/pdf
           cleanup: false
           sync: false
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
@@ -37,6 +37,6 @@ jobs:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container: '$web'
           name: img
-          path: path/to/artifact
+          path: path/to/artifact/img
           cleanup: false
           sync: false
