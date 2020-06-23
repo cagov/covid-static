@@ -7,6 +7,6 @@ fileContents.forEach(file => {
   if(file.indexOf('pdf/') === 0) {
     if(fs.existsSync(file)) {
       fs.createReadStream(file).pipe(fs.createWriteStream('path/to/artifact/'+file));
-    }    
+    }
   }
 })

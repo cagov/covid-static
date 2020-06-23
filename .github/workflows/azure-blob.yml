@@ -28,6 +28,5 @@ jobs:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container: '$web'
           path: path/to/artifact
-          name: pdf
           cleanup: false
           sync: false
