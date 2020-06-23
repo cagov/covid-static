@@ -29,6 +29,6 @@ jobs:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container: '$web'
           name: artifact
-          path: path/to
+          path: path/to/artifact
           cleanup: false
           sync: false
