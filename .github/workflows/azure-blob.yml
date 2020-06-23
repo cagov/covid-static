@@ -30,7 +30,7 @@ jobs:
           container: '$web'
           name: pdf
           path: path/to/artifact/pdf
-          cleanup: true
+          cleanup: false
           sync: false
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
         with:
@@ -38,5 +38,5 @@ jobs:
           container: '$web'
           name: img
           path: path/to/artifact/img
-          cleanup: true
+          cleanup: false
           sync: false
