@@ -16,5 +16,5 @@ There is a redirect in place on the covid19.ca.gov server so that /pdf/ requests
 
 - You can type directory names into the filename field and when you type a / at the end it will add them to the path and give you another field to name the file itself
 
-<img src="readme/typing-directories.png">
-<img src="readme/typing-directories.png">
+<img src="readme/typing-directories-1.png">
+<img src="readme/typing-directories-2.png">
