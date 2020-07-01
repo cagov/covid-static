@@ -7,7 +7,7 @@ let fileContents = JSON.parse(fs.readFileSync(`${process.env.HOMEDIR}/files.json
 fileContents.forEach(file => {
   if(file.indexOf('pdf/') === 0 || file.indexOf('img/') === 0 ) {
     if(fs.existsSync(file)) {
-      fs.mkdirSync(file, { recursive: true });
+      fs.mkdirSync('path/to/artifact/'+file, { recursive: true });
       fs.createReadStream(file).pipe(fs.createWriteStream('path/to/artifact/'+file));
     }
   }
