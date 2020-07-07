@@ -18,3 +18,15 @@ There is a redirect in place on the covid19.ca.gov server so that /pdf/ requests
 
 <img src="readme/typing-directories-1.png">
 <img src="readme/typing-directories-2.png">
+
+## File naming
+
+### Dynamically linking translated files
+
+We often have English and translated versions of images or pdfs that are used in the WordPress posts. We send these to AvantPage for human translation and they only translate the visible HTML, leaving the urls the same. In order to get the translated file to dynamically appear when it exists use the following file naming convention:
+
+Your filename should end with: ```--en.pdf``` or ```--en.png```
+
+If you name a file like that when the site is built (which happens anytime content is updated) the page build code creating any non english page will look for a corresponding file location on files.covid19.ca.gov like ```--es.pdf```. If that file is found the appropriate translated file version will be used. If not found the English url will remain.
+
+So if you have a file named: ```myfile--en.pdf``` and you upload it in the pdf directory with another file named ```myfile--ar.pdf``` when the Arabic page containing that url is built the Arabic url will be used.
