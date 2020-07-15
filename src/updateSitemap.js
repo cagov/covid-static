@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+const sitemapOutputPath = 'root/sitemap.xml';
 const sitemapPaths = ['pdf/','img/'];
 
 const getAllFiles = (dirPath, arrayOfFiles) => {
@@ -37,4 +38,4 @@ for (targetpath of sitemapPaths) {
 }
 xml += '</urlset>\n';
 
-console.log(xml);
+fs.writeFile(sitemapOutputPath, xml, err => {if (err) console.error(err); else console.log('Sitemap created.');});
