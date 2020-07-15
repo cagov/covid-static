@@ -20,7 +20,7 @@ const getAllFiles = (dirPath, arrayOfFiles) => {
 }
 
 // the root of your website - the protocol and the domain name with a trailing slash
-var root_path = 'http://files.covid19.ca.gov/';
+var root_path = 'https://files.covid19.ca.gov/';
 // XML sitemap generation starts here
 //var priority = 0.5;
 //var freq = 'monthly';
