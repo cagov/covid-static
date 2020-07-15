@@ -4,6 +4,9 @@ const path = require('path');
 const sitemapOutputPath = 'root/sitemap.xml';
 const sitemapPaths = ['pdf/','img/'];
 
+// the root of your website - the protocol and the domain name with a trailing slash
+const root_path = 'https://files.covid19.ca.gov/';
+
 const getAllFiles = (dirPath, arrayOfFiles) => {
   const files = fs.readdirSync(dirPath);
 
@@ -20,8 +23,6 @@ const getAllFiles = (dirPath, arrayOfFiles) => {
   return arrayOfFiles
 }
 
-// the root of your website - the protocol and the domain name with a trailing slash
-var root_path = 'https://files.covid19.ca.gov/';
 // XML sitemap generation starts here
 //var priority = 0.5;
 //var freq = 'monthly';
