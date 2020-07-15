@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "move": "node src/move.js"
+    "move": "node src/move.js",
+    "UpdateSitemap": "node src/updateSitemap.js"
   },
   "repository": {
     "type": "git",
