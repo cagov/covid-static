@@ -28,6 +28,14 @@ jobs:
         with:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container: '$web'
+          name: root
+          path: path/to/artifact/root
+          cleanup: false
+          sync: false
+      - uses: StateOfCalifornia/azblob-upload-artifact@master     
+        with:
+          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+          container: '$web'
           name: pdf
           path: path/to/artifact/pdf
           cleanup: false
