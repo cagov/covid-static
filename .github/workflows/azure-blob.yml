@@ -30,7 +30,7 @@ jobs:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container: '$web'
           name: .
-          path: path/to/artifact/root
+          path: path/to/artifact
           cleanup: false
           sync: false
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
