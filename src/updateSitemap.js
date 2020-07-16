@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const sitemapOutputPath = 'path/to/artifact/sitemap.xml';
+const artifactPath = 'path/to/artifact';
+const sitemapOutputPath = `${artifactPath}/sitemap.xml`;
 const sitemapPaths = ['pdf/','img/'];
 
 // the root of your website - the protocol and the domain name with a trailing slash
@@ -39,4 +40,5 @@ for (targetpath of sitemapPaths) {
 }
 xml += '</urlset>\n';
 
+fs.mkdirSync(artifactPath, { recursive: true });
 fs.writeFile(sitemapOutputPath, xml, err => {if (err) console.error(err); else console.log('Sitemap created.');});
