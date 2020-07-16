@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const sitemapOutputPath = 'root/sitemap.xml';
+const sitemapOutputPath = 'path/to/artifact/sitemap.xml';
 const sitemapPaths = ['pdf/','img/'];
 
 // the root of your website - the protocol and the domain name with a trailing slash
