@@ -31,8 +31,11 @@ var xml = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitem
 
 for (targetpath of sitemapPaths) {
   for (file of getAllFiles(targetpath)) {
-    xml += '<url>';
-    xml += '<loc>'+ root_path + file + '</loc>';
+    const lastmod = fs.statSync(file).mtime;
+
+    xml += '<url>\n';
+    xml += '\t<loc>'+ root_path + file + '</loc>\n';
+    xml += '\t<lastmod>'+lastmod.toISOString()+'</lastmod>\n';
     //xml += '<changefreq>'+ freq +'</changefreq>';
     //xml += '<priority>'+ priority +'</priority>';
     xml += '</url>\n';
