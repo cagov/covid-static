@@ -31,7 +31,7 @@ var xml = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitem
 
 for (targetpath of sitemapPaths) {
   for (file of getAllFiles(targetpath)) {
-    const lastmod = fs.statSync(file).mtime;
+    const lastmod = fs.statSync(file).atime;
 
     xml += '<url>\n';
     xml += '\t<loc>'+ root_path + file + '</loc>\n';
