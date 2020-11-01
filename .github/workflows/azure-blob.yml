@@ -23,6 +23,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: mkdir -p path/to/artifact/pdf
       - run: mkdir -p path/to/artifact/img
+      - run: mkdir -p path/to/artifact/data
       - run: HOMEDIR=$HOME npm run updateSitemap
       - run: HOMEDIR=$HOME npm run move
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
