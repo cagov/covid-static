@@ -1,1 +1,77 @@
-{"race_ethnicity":{"cases":{"COUNTY":"Sierra","METRIC":"cases","MISSING":2,"NOT_MISSING":7,"TOTAL":9,"PERCENT_COMPLETE":0.777777777777778,"PERCENT_COMPLETE_30_DAYS_PRIOR":1,"PERCENT_COMPLETE_30_DAYS_DIFF":-0.222222222222222,"REPORT_DATE":"2020-12-01"},"deaths":{"COUNTY":"Sierra","METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_PRIOR":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"},"tests":{"COUNTY":"Sierra","METRIC":"tests","MISSING":232,"NOT_MISSING":43,"TOTAL":275,"PERCENT_COMPLETE":0.156363636363636,"PERCENT_COMPLETE_30_DAYS_PRIOR":0.142857142857143,"PERCENT_COMPLETE_30_DAYS_DIFF":0.0135064935064935,"REPORT_DATE":"2020-12-01"}},"gender_identity":{"cases":{"METRIC":"cases","MISSING":0,"NOT_MISSING":10,"TOTAL":10,"PERCENT_COMPLETE":1,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"},"deaths":{"METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"}},"sexual_orientation":{"cases":{"METRIC":"cases","MISSING":10,"NOT_MISSING":0,"TOTAL":10,"PERCENT_COMPLETE":0,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"},"deaths":{"METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"}}}
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Sierra",
+      "METRIC": "cases",
+      "MISSING": 3,
+      "NOT_MISSING": 7,
+      "TOTAL": 10,
+      "PERCENT_COMPLETE": 0.7,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.3,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "COUNTY": "Sierra",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "tests": {
+      "COUNTY": "Sierra",
+      "METRIC": "tests",
+      "MISSING": 251,
+      "NOT_MISSING": 45,
+      "TOTAL": 296,
+      "PERCENT_COMPLETE": 0.152027027027027,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.142857142857143,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0091698841698842,
+      "REPORT_DATE": "2020-12-02"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 0,
+      "NOT_MISSING": 11,
+      "TOTAL": 11,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 11,
+      "NOT_MISSING": 0,
+      "TOTAL": 11,
+      "PERCENT_COMPLETE": 0,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    }
+  }
+}

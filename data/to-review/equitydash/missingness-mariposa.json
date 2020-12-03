@@ -1,1 +1,77 @@
-{"race_ethnicity":{"cases":{"COUNTY":"Mariposa","METRIC":"cases","MISSING":29,"NOT_MISSING":12,"TOTAL":41,"PERCENT_COMPLETE":0.292682926829268,"PERCENT_COMPLETE_30_DAYS_PRIOR":0.5,"PERCENT_COMPLETE_30_DAYS_DIFF":-0.207317073170732,"REPORT_DATE":"2020-12-01"},"deaths":{"COUNTY":"Mariposa","METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_PRIOR":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"},"tests":{"COUNTY":"Mariposa","METRIC":"tests","MISSING":1436,"NOT_MISSING":570,"TOTAL":2006,"PERCENT_COMPLETE":0.284147557328016,"PERCENT_COMPLETE_30_DAYS_PRIOR":0.114935064935065,"PERCENT_COMPLETE_30_DAYS_DIFF":0.169212492392951,"REPORT_DATE":"2020-12-01"}},"gender_identity":{"cases":{"METRIC":"cases","MISSING":0,"NOT_MISSING":44,"TOTAL":44,"PERCENT_COMPLETE":1,"PERCENT_COMPLETE_30_DAYS_DIFF":0,"REPORT_DATE":"2020-12-01"},"deaths":{"METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"}},"sexual_orientation":{"cases":{"METRIC":"cases","MISSING":32,"NOT_MISSING":12,"TOTAL":44,"PERCENT_COMPLETE":0.272727272727273,"PERCENT_COMPLETE_30_DAYS_DIFF":-0.227272727272727,"REPORT_DATE":"2020-12-01"},"deaths":{"METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-12-01"}}}
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Mariposa",
+      "METRIC": "cases",
+      "MISSING": 31,
+      "NOT_MISSING": 15,
+      "TOTAL": 46,
+      "PERCENT_COMPLETE": 0.326086956521739,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.5,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.173913043478261,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "COUNTY": "Mariposa",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "tests": {
+      "COUNTY": "Mariposa",
+      "METRIC": "tests",
+      "MISSING": 1532,
+      "NOT_MISSING": 624,
+      "TOTAL": 2156,
+      "PERCENT_COMPLETE": 0.289424860853432,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.114904793171372,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.17452006768206,
+      "REPORT_DATE": "2020-12-02"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 0,
+      "NOT_MISSING": 49,
+      "TOTAL": 49,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 37,
+      "NOT_MISSING": 12,
+      "TOTAL": 49,
+      "PERCENT_COMPLETE": 0.244897959183673,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.255102040816327,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    }
+  }
+}
