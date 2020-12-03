@@ -1,1 +1,77 @@
-{"race_ethnicity":{"cases":{"COUNTY":"Lassen","METRIC":"cases","MISSING":861,"NOT_MISSING":79,"TOTAL":940,"PERCENT_COMPLETE":0.0840425531914894,"PERCENT_COMPLETE_30_DAYS_PRIOR":0.645161290322581,"PERCENT_COMPLETE_30_DAYS_DIFF":-0.561118737131091,"REPORT_DATE":"2020-11-29"},"deaths":{"COUNTY":"Lassen","METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_PRIOR":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-11-29"},"tests":{"COUNTY":"Lassen","METRIC":"tests","MISSING":14472,"NOT_MISSING":1050,"TOTAL":15522,"PERCENT_COMPLETE":0.0676459219172787,"PERCENT_COMPLETE_30_DAYS_PRIOR":0.136154965849289,"PERCENT_COMPLETE_30_DAYS_DIFF":-0.0685090439320103,"REPORT_DATE":"2020-11-29"}},"gender_identity":{"cases":{"METRIC":"cases","MISSING":0,"NOT_MISSING":944,"TOTAL":944,"PERCENT_COMPLETE":1,"PERCENT_COMPLETE_30_DAYS_DIFF":0,"REPORT_DATE":"2020-11-29"},"deaths":{"METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-11-29"}},"sexual_orientation":{"cases":{"METRIC":"cases","MISSING":944,"NOT_MISSING":0,"TOTAL":944,"PERCENT_COMPLETE":0,"PERCENT_COMPLETE_30_DAYS_DIFF":0,"REPORT_DATE":"2020-11-29"},"deaths":{"METRIC":"deaths","MISSING":0,"NOT_MISSING":0,"TOTAL":0,"PERCENT_COMPLETE":null,"PERCENT_COMPLETE_30_DAYS_DIFF":null,"REPORT_DATE":"2020-11-29"}}}
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Lassen",
+      "METRIC": "cases",
+      "MISSING": 1168,
+      "NOT_MISSING": 99,
+      "TOTAL": 1267,
+      "PERCENT_COMPLETE": 0.0781373322809787,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.636363636363636,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.558226304082658,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "COUNTY": "Lassen",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "tests": {
+      "COUNTY": "Lassen",
+      "METRIC": "tests",
+      "MISSING": 15604,
+      "NOT_MISSING": 1058,
+      "TOTAL": 16662,
+      "PERCENT_COMPLETE": 0.0634977793782259,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.143561914158855,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0800641347806295,
+      "REPORT_DATE": "2020-12-02"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 0,
+      "NOT_MISSING": 1272,
+      "TOTAL": 1272,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 1272,
+      "NOT_MISSING": 0,
+      "TOTAL": 1272,
+      "PERCENT_COMPLETE": 0,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2020-12-02"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-02"
+    }
+  }
+}
