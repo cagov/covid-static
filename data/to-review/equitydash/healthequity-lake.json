@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Lake",
-      "DATE": "2020-10-27",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.033065236818588,
-      "METRIC_VALUE_30_DAYS_AGO": 0.039298669891173,
-      "METRIC_VALUE_DIFF": -0.006233433072585
-    },
-    {
-      "COUNTY": "Lake",
       "DATE": "2020-10-28",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.030755711775044,
@@ -228,28 +220,28 @@
       "COUNTY": "Lake",
       "DATE": "2020-11-24",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.064772727272727,
+      "METRIC_VALUE": 0.064204545454546,
       "METRIC_VALUE_30_DAYS_AGO": 0.024236983842011,
-      "METRIC_VALUE_DIFF": 0.040535743430717
+      "METRIC_VALUE_DIFF": 0.039967561612535
     },
     {
       "COUNTY": "Lake",
       "DATE": "2020-11-25",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.060570071258907,
+      "METRIC_VALUE": 0.059940652818991,
       "METRIC_VALUE_30_DAYS_AGO": 0.035250463821892,
-      "METRIC_VALUE_DIFF": 0.025319607437015
+      "METRIC_VALUE_DIFF": 0.024690188997099
+    },
+    {
+      "COUNTY": "Lake",
+      "DATE": "2020-11-26",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.06389088298636,
+      "METRIC_VALUE_30_DAYS_AGO": 0.033065236818588,
+      "METRIC_VALUE_DIFF": 0.030825646167772
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Lake",
-      "DATE": "2020-10-27",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Lake",
       "DATE": "2020-10-28",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Lake",
       "DATE": "2020-11-25",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Lake",
+      "DATE": "2020-11-26",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
