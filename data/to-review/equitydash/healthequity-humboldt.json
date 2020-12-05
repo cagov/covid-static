@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Humboldt",
-      "DATE": "2020-10-27",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.007404181184669,
-      "METRIC_VALUE_30_DAYS_AGO": 0.014799154334038,
-      "METRIC_VALUE_DIFF": -0.007394973149369
-    },
-    {
-      "COUNTY": "Humboldt",
       "DATE": "2020-10-28",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.007870572802798,
@@ -228,28 +220,28 @@
       "COUNTY": "Humboldt",
       "DATE": "2020-11-24",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.033208489388265,
+      "METRIC_VALUE": 0.033183632734531,
       "METRIC_VALUE_30_DAYS_AGO": 0.006068487212831,
-      "METRIC_VALUE_DIFF": 0.027140002175434
+      "METRIC_VALUE_DIFF": 0.0271151455217
     },
     {
       "COUNTY": "Humboldt",
       "DATE": "2020-11-25",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.033563925185755,
+      "METRIC_VALUE": 0.03347814975722,
       "METRIC_VALUE_30_DAYS_AGO": 0.006905481225723,
-      "METRIC_VALUE_DIFF": 0.026658443960032
+      "METRIC_VALUE_DIFF": 0.026572668531497
+    },
+    {
+      "COUNTY": "Humboldt",
+      "DATE": "2020-11-26",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.033825338253383,
+      "METRIC_VALUE_30_DAYS_AGO": 0.007404181184669,
+      "METRIC_VALUE_DIFF": 0.026421157068714
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Humboldt",
-      "DATE": "2020-10-27",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.002222222222222,
-      "METRIC_VALUE_30_DAYS_AGO": 0,
-      "METRIC_VALUE_DIFF": 0.002222222222222
-    },
     {
       "COUNTY": "Humboldt",
       "DATE": "2020-10-28",
@@ -481,6 +473,14 @@
       "METRIC_VALUE": 0.032432432432432,
       "METRIC_VALUE_30_DAYS_AGO": 0.002222222222222,
       "METRIC_VALUE_DIFF": 0.03021021021021
+    },
+    {
+      "COUNTY": "Humboldt",
+      "DATE": "2020-11-26",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.037156704361874,
+      "METRIC_VALUE_30_DAYS_AGO": 0.002222222222222,
+      "METRIC_VALUE_DIFF": 0.034934482139652
     }
   ]
 }
