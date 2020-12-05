@@ -3,46 +3,46 @@
     "cases": {
       "COUNTY": "Contra Costa",
       "METRIC": "cases",
-      "MISSING": 661,
-      "NOT_MISSING": 4808,
-      "TOTAL": 5469,
-      "PERCENT_COMPLETE": 0.879136953739258,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.920137398024903,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0410004442856457,
-      "REPORT_DATE": "2020-12-04"
+      "MISSING": 666,
+      "NOT_MISSING": 4892,
+      "TOTAL": 5558,
+      "PERCENT_COMPLETE": 0.880172724001439,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.918484973240016,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.038312249238577,
+      "REPORT_DATE": "2020-12-05"
     },
     "deaths": {
       "COUNTY": "Contra Costa",
       "METRIC": "deaths",
       "MISSING": 0,
-      "NOT_MISSING": 7,
-      "TOTAL": 7,
+      "NOT_MISSING": 6,
+      "TOTAL": 6,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-04"
+      "REPORT_DATE": "2020-12-05"
     },
     "tests": {
       "COUNTY": "Contra Costa",
       "METRIC": "tests",
-      "MISSING": 53211,
-      "NOT_MISSING": 88605,
-      "TOTAL": 141816,
-      "PERCENT_COMPLETE": 0.624788458283974,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.56964557669259,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0551428815913837,
-      "REPORT_DATE": "2020-12-04"
+      "MISSING": 53676,
+      "NOT_MISSING": 89924,
+      "TOTAL": 143600,
+      "PERCENT_COMPLETE": 0.626211699164345,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.57029161550987,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0559200836544754,
+      "REPORT_DATE": "2020-12-05"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 21,
-      "NOT_MISSING": 5966,
-      "TOTAL": 5987,
-      "PERCENT_COMPLETE": 0.996492400200434,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.000105769667462,
-      "REPORT_DATE": "2020-12-04"
+      "MISSING": 26,
+      "NOT_MISSING": 6028,
+      "TOTAL": 6054,
+      "PERCENT_COMPLETE": 0.995705318797489,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.000874416131968,
+      "REPORT_DATE": "2020-12-05"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 8,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-04"
+      "REPORT_DATE": "2020-12-05"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 5002,
-      "NOT_MISSING": 985,
-      "TOTAL": 5987,
-      "PERCENT_COMPLETE": 0.164523133455821,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.101962864737494,
-      "REPORT_DATE": "2020-12-04"
+      "MISSING": 5113,
+      "NOT_MISSING": 941,
+      "TOTAL": 6054,
+      "PERCENT_COMPLETE": 0.155434423521639,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.11391145078362,
+      "REPORT_DATE": "2020-12-05"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 8,
       "PERCENT_COMPLETE": 0.25,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0.25,
-      "REPORT_DATE": "2020-12-04"
+      "REPORT_DATE": "2020-12-05"
     }
   }
 }
