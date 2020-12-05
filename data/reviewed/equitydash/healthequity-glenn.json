@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Glenn",
-      "DATE": "2020-10-27",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.063829787234043,
-      "METRIC_VALUE_30_DAYS_AGO": 0.062098501070664,
-      "METRIC_VALUE_DIFF": 0.001731286163379
-    },
-    {
-      "COUNTY": "Glenn",
       "DATE": "2020-10-28",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.068493150684932,
@@ -236,20 +228,20 @@
       "COUNTY": "Glenn",
       "DATE": "2020-11-25",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.164433617539586,
+      "METRIC_VALUE": 0.164233576642336,
       "METRIC_VALUE_30_DAYS_AGO": 0.063241106719368,
-      "METRIC_VALUE_DIFF": 0.101192510820218
+      "METRIC_VALUE_DIFF": 0.100992469922968
+    },
+    {
+      "COUNTY": "Glenn",
+      "DATE": "2020-11-26",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.163513513513514,
+      "METRIC_VALUE_30_DAYS_AGO": 0.063829787234043,
+      "METRIC_VALUE_DIFF": 0.099683726279471
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Glenn",
-      "DATE": "2020-10-27",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Glenn",
       "DATE": "2020-10-28",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Glenn",
       "DATE": "2020-11-25",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Glenn",
+      "DATE": "2020-11-26",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
