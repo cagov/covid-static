@@ -4,12 +4,12 @@
       "COUNTY": "Sierra",
       "METRIC": "cases",
       "MISSING": 3,
-      "NOT_MISSING": 7,
-      "TOTAL": 10,
-      "PERCENT_COMPLETE": 0.7,
+      "NOT_MISSING": 5,
+      "TOTAL": 8,
+      "PERCENT_COMPLETE": 0.625,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.3,
-      "REPORT_DATE": "2020-12-05"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.375,
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "COUNTY": "Sierra",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     },
     "tests": {
       "COUNTY": "Sierra",
       "METRIC": "tests",
-      "MISSING": 237,
-      "NOT_MISSING": 48,
+      "MISSING": 236,
+      "NOT_MISSING": 49,
       "TOTAL": 285,
-      "PERCENT_COMPLETE": 0.168421052631579,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.125,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0434210526315789,
-      "REPORT_DATE": "2020-12-05"
+      "PERCENT_COMPLETE": 0.171929824561404,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.13963963963964,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0322901849217639,
+      "REPORT_DATE": "2020-12-06"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 11,
-      "TOTAL": 11,
+      "NOT_MISSING": 10,
+      "TOTAL": 10,
       "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 11,
+      "MISSING": 10,
       "NOT_MISSING": 0,
-      "TOTAL": 11,
+      "TOTAL": 10,
       "PERCENT_COMPLETE": 0,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     }
   }
 }
