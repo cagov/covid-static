@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Amador",
-      "DATE": "2020-10-28",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.025100401606426,
-      "METRIC_VALUE_30_DAYS_AGO": 0.010769230769231,
-      "METRIC_VALUE_DIFF": 0.014331170837195
-    },
-    {
-      "COUNTY": "Amador",
       "DATE": "2020-10-29",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.024714828897338,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.042553191489362,
       "METRIC_VALUE_30_DAYS_AGO": 0.026402640264026,
       "METRIC_VALUE_DIFF": 0.016150551225335
+    },
+    {
+      "COUNTY": "Amador",
+      "DATE": "2020-11-27",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.042095416276894,
+      "METRIC_VALUE_30_DAYS_AGO": 0.025100401606426,
+      "METRIC_VALUE_DIFF": 0.016995014670469
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Amador",
-      "DATE": "2020-10-28",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Amador",
       "DATE": "2020-10-29",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Amador",
       "DATE": "2020-11-26",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Amador",
+      "DATE": "2020-11-27",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,

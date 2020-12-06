@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Plumas",
       "METRIC": "cases",
-      "MISSING": 16,
-      "NOT_MISSING": 111,
-      "TOTAL": 127,
-      "PERCENT_COMPLETE": 0.874015748031496,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.981481481481482,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.107465733449986,
-      "REPORT_DATE": "2020-12-05"
+      "MISSING": 23,
+      "NOT_MISSING": 115,
+      "TOTAL": 138,
+      "PERCENT_COMPLETE": 0.833333333333333,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.982456140350877,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.149122807017544,
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "COUNTY": "Plumas",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     },
     "tests": {
       "COUNTY": "Plumas",
       "METRIC": "tests",
-      "MISSING": 1422,
-      "NOT_MISSING": 1218,
-      "TOTAL": 2640,
-      "PERCENT_COMPLETE": 0.461363636363636,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.348086124401914,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.113277511961722,
-      "REPORT_DATE": "2020-12-05"
+      "MISSING": 1452,
+      "NOT_MISSING": 1232,
+      "TOTAL": 2684,
+      "PERCENT_COMPLETE": 0.459016393442623,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.356376638855781,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.102639754586842,
+      "REPORT_DATE": "2020-12-06"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 144,
-      "TOTAL": 144,
+      "NOT_MISSING": 158,
+      "TOTAL": 158,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 51,
-      "NOT_MISSING": 93,
-      "TOTAL": 144,
-      "PERCENT_COMPLETE": 0.645833333333333,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.169956140350878,
-      "REPORT_DATE": "2020-12-05"
+      "MISSING": 63,
+      "NOT_MISSING": 95,
+      "TOTAL": 158,
+      "PERCENT_COMPLETE": 0.60126582278481,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.209544988026001,
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     }
   }
 }
