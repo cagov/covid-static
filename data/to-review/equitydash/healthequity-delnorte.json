@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Del Norte",
-      "DATE": "2020-10-29",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.011363636363636,
-      "METRIC_VALUE_30_DAYS_AGO": 0.018691588785047,
-      "METRIC_VALUE_DIFF": -0.00732795242141
-    },
-    {
-      "COUNTY": "Del Norte",
       "DATE": "2020-10-30",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.010794896957802,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.041988003427592,
       "METRIC_VALUE_30_DAYS_AGO": 0.010248901903368,
       "METRIC_VALUE_DIFF": 0.031739101524225
+    },
+    {
+      "COUNTY": "Del Norte",
+      "DATE": "2020-11-28",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.043220338983051,
+      "METRIC_VALUE_30_DAYS_AGO": 0.011363636363636,
+      "METRIC_VALUE_DIFF": 0.031856702619415
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Del Norte",
-      "DATE": "2020-10-29",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Del Norte",
       "DATE": "2020-10-30",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Del Norte",
       "DATE": "2020-11-27",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Del Norte",
+      "DATE": "2020-11-28",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,

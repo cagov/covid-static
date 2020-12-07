@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Sierra",
-      "DATE": "2020-10-29",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0,
-      "METRIC_VALUE_30_DAYS_AGO": 0,
-      "METRIC_VALUE_DIFF": 0
-    },
-    {
-      "COUNTY": "Sierra",
       "DATE": "2020-10-30",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.0125,
       "METRIC_VALUE_30_DAYS_AGO": 0,
       "METRIC_VALUE_DIFF": 0.0125
+    },
+    {
+      "COUNTY": "Sierra",
+      "DATE": "2020-11-28",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.012658227848101,
+      "METRIC_VALUE_30_DAYS_AGO": 0,
+      "METRIC_VALUE_DIFF": 0.012658227848101
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Sierra",
-      "DATE": "2020-10-29",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Sierra",
       "DATE": "2020-10-30",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Sierra",
       "DATE": "2020-11-27",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Sierra",
+      "DATE": "2020-11-28",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
