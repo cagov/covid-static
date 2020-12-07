@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "Amador",
       "METRIC": "cases",
-      "MISSING": 217,
-      "NOT_MISSING": 162,
-      "TOTAL": 379,
-      "PERCENT_COMPLETE": 0.427440633245383,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.835294117647059,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.407853484401676,
-      "REPORT_DATE": "2020-12-05"
+      "MISSING": 280,
+      "NOT_MISSING": 175,
+      "TOTAL": 455,
+      "PERCENT_COMPLETE": 0.384615384615385,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.840909090909091,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.456293706293706,
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "COUNTY": "Amador",
       "METRIC": "deaths",
       "MISSING": 0,
-      "NOT_MISSING": 0,
-      "TOTAL": 0,
-      "PERCENT_COMPLETE": null,
+      "NOT_MISSING": 1,
+      "TOTAL": 1,
+      "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     },
     "tests": {
       "COUNTY": "Amador",
       "METRIC": "tests",
-      "MISSING": 5848,
-      "NOT_MISSING": 1859,
-      "TOTAL": 7707,
-      "PERCENT_COMPLETE": 0.241209290255612,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.197221426525351,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0439878637302609,
-      "REPORT_DATE": "2020-12-05"
+      "MISSING": 6472,
+      "NOT_MISSING": 1927,
+      "TOTAL": 8399,
+      "PERCENT_COMPLETE": 0.229432075247053,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.19166314603577,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0377689292112836,
+      "REPORT_DATE": "2020-12-06"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 402,
-      "TOTAL": 402,
+      "NOT_MISSING": 477,
+      "TOTAL": 477,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "METRIC": "deaths",
       "MISSING": 0,
-      "NOT_MISSING": 0,
-      "TOTAL": 0,
-      "PERCENT_COMPLETE": null,
+      "NOT_MISSING": 1,
+      "TOTAL": 1,
+      "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 373,
-      "NOT_MISSING": 29,
-      "TOTAL": 402,
-      "PERCENT_COMPLETE": 0.072139303482587,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.302860696517413,
-      "REPORT_DATE": "2020-12-05"
+      "MISSING": 452,
+      "NOT_MISSING": 25,
+      "TOTAL": 477,
+      "PERCENT_COMPLETE": 0.052410901467505,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.367878953604959,
+      "REPORT_DATE": "2020-12-06"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 0,
+      "MISSING": 1,
       "NOT_MISSING": 0,
-      "TOTAL": 0,
-      "PERCENT_COMPLETE": null,
+      "TOTAL": 1,
+      "PERCENT_COMPLETE": 0,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-05"
+      "REPORT_DATE": "2020-12-06"
     }
   }
 }
