@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Lassen",
       "METRIC": "cases",
-      "MISSING": 1251,
-      "NOT_MISSING": 122,
-      "TOTAL": 1373,
-      "PERCENT_COMPLETE": 0.088856518572469,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.533333333333333,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.444476814760864,
-      "REPORT_DATE": "2020-12-06"
+      "MISSING": 1248,
+      "NOT_MISSING": 121,
+      "TOTAL": 1369,
+      "PERCENT_COMPLETE": 0.0883856829802776,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.5,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.411614317019722,
+      "REPORT_DATE": "2020-12-07"
     },
     "deaths": {
       "COUNTY": "Lassen",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-06"
+      "REPORT_DATE": "2020-12-07"
     },
     "tests": {
       "COUNTY": "Lassen",
       "METRIC": "tests",
-      "MISSING": 16143,
-      "NOT_MISSING": 1147,
-      "TOTAL": 17290,
-      "PERCENT_COMPLETE": 0.0663389242336611,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.139436296975252,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.073097372741591,
-      "REPORT_DATE": "2020-12-06"
+      "MISSING": 16973,
+      "NOT_MISSING": 1178,
+      "TOTAL": 18151,
+      "PERCENT_COMPLETE": 0.0649000055093383,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.129245392372783,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0643453868634448,
+      "REPORT_DATE": "2020-12-07"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 1381,
-      "TOTAL": 1381,
+      "NOT_MISSING": 1376,
+      "TOTAL": 1376,
       "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-06"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.023809523809524,
+      "REPORT_DATE": "2020-12-07"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-06"
+      "REPORT_DATE": "2020-12-07"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 1381,
+      "MISSING": 1376,
       "NOT_MISSING": 0,
-      "TOTAL": 1381,
+      "TOTAL": 1376,
       "PERCENT_COMPLETE": 0,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-06"
+      "REPORT_DATE": "2020-12-07"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-06"
+      "REPORT_DATE": "2020-12-07"
     }
   }
 }
