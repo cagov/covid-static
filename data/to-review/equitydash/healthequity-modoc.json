@@ -2,22 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Modoc",
-      "DATE": "2020-10-30",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.04375,
-      "METRIC_VALUE_30_DAYS_AGO": 0.014705882352941,
-      "METRIC_VALUE_DIFF": 0.029044117647059
-    },
-    {
-      "COUNTY": "Modoc",
-      "DATE": "2020-10-31",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.044303797468354,
-      "METRIC_VALUE_30_DAYS_AGO": 0.02,
-      "METRIC_VALUE_DIFF": 0.024303797468354
-    },
-    {
-      "COUNTY": "Modoc",
       "DATE": "2020-11-01",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.042682926829268,
@@ -239,25 +223,25 @@
       "METRIC_VALUE": 0.231884057971014,
       "METRIC_VALUE_30_DAYS_AGO": 0.039473684210526,
       "METRIC_VALUE_DIFF": 0.192410373760488
+    },
+    {
+      "COUNTY": "Modoc",
+      "DATE": "2020-11-29",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.222222222222222,
+      "METRIC_VALUE_30_DAYS_AGO": 0.04375,
+      "METRIC_VALUE_DIFF": 0.178472222222222
+    },
+    {
+      "COUNTY": "Modoc",
+      "DATE": "2020-11-30",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.225806451612903,
+      "METRIC_VALUE_30_DAYS_AGO": 0.044303797468354,
+      "METRIC_VALUE_DIFF": 0.181502654144549
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Modoc",
-      "DATE": "2020-10-30",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
-    {
-      "COUNTY": "Modoc",
-      "DATE": "2020-10-31",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Modoc",
       "DATE": "2020-11-01",
@@ -477,6 +461,22 @@
     {
       "COUNTY": "Modoc",
       "DATE": "2020-11-28",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Modoc",
+      "DATE": "2020-11-29",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Modoc",
+      "DATE": "2020-11-30",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
