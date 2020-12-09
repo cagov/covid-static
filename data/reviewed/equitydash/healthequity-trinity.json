@@ -2,22 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Trinity",
-      "DATE": "2020-10-30",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.06,
-      "METRIC_VALUE_30_DAYS_AGO": 0.038461538461539,
-      "METRIC_VALUE_DIFF": 0.021538461538462
-    },
-    {
-      "COUNTY": "Trinity",
-      "DATE": "2020-10-31",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.060402684563758,
-      "METRIC_VALUE_30_DAYS_AGO": 0.063492063492064,
-      "METRIC_VALUE_DIFF": -0.003089378928305
-    },
-    {
-      "COUNTY": "Trinity",
       "DATE": "2020-11-01",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.058064516129032,
@@ -239,25 +223,25 @@
       "METRIC_VALUE": 0.123655913978495,
       "METRIC_VALUE_30_DAYS_AGO": 0.026143790849673,
       "METRIC_VALUE_DIFF": 0.097512123128821
+    },
+    {
+      "COUNTY": "Trinity",
+      "DATE": "2020-11-29",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.134228187919463,
+      "METRIC_VALUE_30_DAYS_AGO": 0.06,
+      "METRIC_VALUE_DIFF": 0.074228187919463
+    },
+    {
+      "COUNTY": "Trinity",
+      "DATE": "2020-11-30",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.143835616438356,
+      "METRIC_VALUE_30_DAYS_AGO": 0.060402684563758,
+      "METRIC_VALUE_DIFF": 0.083432931874598
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Trinity",
-      "DATE": "2020-10-30",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
-    {
-      "COUNTY": "Trinity",
-      "DATE": "2020-10-31",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Trinity",
       "DATE": "2020-11-01",
@@ -477,6 +461,22 @@
     {
       "COUNTY": "Trinity",
       "DATE": "2020-11-28",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Trinity",
+      "DATE": "2020-11-29",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Trinity",
+      "DATE": "2020-11-30",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
