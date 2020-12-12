@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Inyo",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.030690537084399,
-      "METRIC_VALUE_30_DAYS_AGO": 0.012145748987854,
-      "METRIC_VALUE_DIFF": 0.018544788096545
-    },
-    {
-      "COUNTY": "Inyo",
       "DATE": "2020-11-04",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.029569892473118,
@@ -228,28 +220,28 @@
       "COUNTY": "Inyo",
       "DATE": "2020-12-01",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.081364829396326,
+      "METRIC_VALUE": 0.081151832460733,
       "METRIC_VALUE_30_DAYS_AGO": 0.025862068965517,
-      "METRIC_VALUE_DIFF": 0.055502760430808
+      "METRIC_VALUE_DIFF": 0.055289763495216
     },
     {
       "COUNTY": "Inyo",
       "DATE": "2020-12-02",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.077464788732394,
+      "METRIC_VALUE": 0.077102803738318,
       "METRIC_VALUE_30_DAYS_AGO": 0.031700288184438,
-      "METRIC_VALUE_DIFF": 0.045764500547956
+      "METRIC_VALUE_DIFF": 0.04540251555388
+    },
+    {
+      "COUNTY": "Inyo",
+      "DATE": "2020-12-03",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.073412698412698,
+      "METRIC_VALUE_30_DAYS_AGO": 0.030690537084399,
+      "METRIC_VALUE_DIFF": 0.042722161328299
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Inyo",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Inyo",
       "DATE": "2020-11-04",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Inyo",
       "DATE": "2020-12-02",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Inyo",
+      "DATE": "2020-12-03",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
