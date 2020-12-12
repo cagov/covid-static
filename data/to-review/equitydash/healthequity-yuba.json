@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Yuba",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.067026194144838,
-      "METRIC_VALUE_30_DAYS_AGO": 0.04363974001857,
-      "METRIC_VALUE_DIFF": 0.023386454126268
-    },
-    {
-      "COUNTY": "Yuba",
       "DATE": "2020-11-04",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.072037180480248,
@@ -228,28 +220,28 @@
       "COUNTY": "Yuba",
       "DATE": "2020-12-01",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.18649885583524,
+      "METRIC_VALUE": 0.186392224128073,
       "METRIC_VALUE_30_DAYS_AGO": 0.060082304526749,
-      "METRIC_VALUE_DIFF": 0.126416551308491
+      "METRIC_VALUE_DIFF": 0.126309919601324
     },
     {
       "COUNTY": "Yuba",
       "DATE": "2020-12-02",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.189398122584208,
+      "METRIC_VALUE": 0.189293598233996,
       "METRIC_VALUE_30_DAYS_AGO": 0.063658340048348,
-      "METRIC_VALUE_DIFF": 0.12573978253586
+      "METRIC_VALUE_DIFF": 0.125635258185647
+    },
+    {
+      "COUNTY": "Yuba",
+      "DATE": "2020-12-03",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.199172033118675,
+      "METRIC_VALUE_30_DAYS_AGO": 0.067026194144838,
+      "METRIC_VALUE_DIFF": 0.132145838973837
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Yuba",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Yuba",
       "DATE": "2020-11-04",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Yuba",
       "DATE": "2020-12-02",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Yuba",
+      "DATE": "2020-12-03",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,

@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Nevada",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.028376248029427,
-      "METRIC_VALUE_30_DAYS_AGO": 0.010113027959548,
-      "METRIC_VALUE_DIFF": 0.018263220069879
-    },
-    {
-      "COUNTY": "Nevada",
       "DATE": "2020-11-04",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.032064128256513,
@@ -228,28 +220,28 @@
       "COUNTY": "Nevada",
       "DATE": "2020-12-01",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.101356443104748,
+      "METRIC_VALUE": 0.101242002258186,
       "METRIC_VALUE_30_DAYS_AGO": 0.020245071923282,
-      "METRIC_VALUE_DIFF": 0.081111371181466
+      "METRIC_VALUE_DIFF": 0.080996930334904
     },
     {
       "COUNTY": "Nevada",
       "DATE": "2020-12-02",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.105054151624549,
+      "METRIC_VALUE": 0.104902667627974,
       "METRIC_VALUE_30_DAYS_AGO": 0.024038461538462,
-      "METRIC_VALUE_DIFF": 0.081015690086087
+      "METRIC_VALUE_DIFF": 0.080864206089513
+    },
+    {
+      "COUNTY": "Nevada",
+      "DATE": "2020-12-03",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.106170598911071,
+      "METRIC_VALUE_30_DAYS_AGO": 0.028376248029427,
+      "METRIC_VALUE_DIFF": 0.077794350881644
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Nevada",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Nevada",
       "DATE": "2020-11-04",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Nevada",
       "DATE": "2020-12-02",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Nevada",
+      "DATE": "2020-12-03",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,

@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Mono",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.142015706806283,
-      "METRIC_VALUE_30_DAYS_AGO": 0.028089887640449,
-      "METRIC_VALUE_DIFF": 0.113925819165833
-    },
-    {
-      "COUNTY": "Mono",
       "DATE": "2020-11-04",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.142760942760943,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.177242888402626,
       "METRIC_VALUE_30_DAYS_AGO": 0.14453125,
       "METRIC_VALUE_DIFF": 0.032711638402626
+    },
+    {
+      "COUNTY": "Mono",
+      "DATE": "2020-12-03",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.171328671328671,
+      "METRIC_VALUE_30_DAYS_AGO": 0.142015706806283,
+      "METRIC_VALUE_DIFF": 0.029312964522389
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Mono",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Mono",
       "DATE": "2020-11-04",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Mono",
       "DATE": "2020-12-02",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Mono",
+      "DATE": "2020-12-03",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,

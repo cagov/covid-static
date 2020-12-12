@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Sutter",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.053855569155447,
-      "METRIC_VALUE_30_DAYS_AGO": 0.031007751937985,
-      "METRIC_VALUE_DIFF": 0.022847817217462
-    },
-    {
-      "COUNTY": "Sutter",
       "DATE": "2020-11-04",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.064203513022411,
@@ -220,36 +212,36 @@
       "COUNTY": "Sutter",
       "DATE": "2020-11-30",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.214514066496164,
+      "METRIC_VALUE": 0.214765100671141,
       "METRIC_VALUE_30_DAYS_AGO": 0.054692775151924,
-      "METRIC_VALUE_DIFF": 0.159821291344239
+      "METRIC_VALUE_DIFF": 0.160072325519217
     },
     {
       "COUNTY": "Sutter",
       "DATE": "2020-12-01",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.224445139105971,
+      "METRIC_VALUE": 0.2246875,
       "METRIC_VALUE_30_DAYS_AGO": 0.058981233243968,
-      "METRIC_VALUE_DIFF": 0.165463905862003
+      "METRIC_VALUE_DIFF": 0.165706266756032
     },
     {
       "COUNTY": "Sutter",
       "DATE": "2020-12-02",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.228956228956229,
+      "METRIC_VALUE": 0.229427959620679,
       "METRIC_VALUE_30_DAYS_AGO": 0.054441260744986,
-      "METRIC_VALUE_DIFF": 0.174514968211243
+      "METRIC_VALUE_DIFF": 0.174986698875693
+    },
+    {
+      "COUNTY": "Sutter",
+      "DATE": "2020-12-03",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.229558151345861,
+      "METRIC_VALUE_30_DAYS_AGO": 0.053855569155447,
+      "METRIC_VALUE_DIFF": 0.175702582190414
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Sutter",
-      "DATE": "2020-11-03",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Sutter",
       "DATE": "2020-11-04",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Sutter",
       "DATE": "2020-12-02",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Sutter",
+      "DATE": "2020-12-03",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
