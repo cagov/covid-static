@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Plumas",
-      "DATE": "2020-11-04",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.032751091703057,
-      "METRIC_VALUE_30_DAYS_AGO": 0.003921568627451,
-      "METRIC_VALUE_DIFF": 0.028829523075606
-    },
-    {
-      "COUNTY": "Plumas",
       "DATE": "2020-11-05",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.033684210526316,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.077639751552795,
       "METRIC_VALUE_30_DAYS_AGO": 0.022132796780684,
       "METRIC_VALUE_DIFF": 0.055506954772111
+    },
+    {
+      "COUNTY": "Plumas",
+      "DATE": "2020-12-04",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.075153374233129,
+      "METRIC_VALUE_30_DAYS_AGO": 0.032751091703057,
+      "METRIC_VALUE_DIFF": 0.042402282530072
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Plumas",
-      "DATE": "2020-11-04",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Plumas",
       "DATE": "2020-11-05",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Plumas",
       "DATE": "2020-12-03",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Plumas",
+      "DATE": "2020-12-04",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
