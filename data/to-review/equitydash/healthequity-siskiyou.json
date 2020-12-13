@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Siskiyou",
-      "DATE": "2020-11-04",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.056532663316583,
-      "METRIC_VALUE_30_DAYS_AGO": 0.007272727272727,
-      "METRIC_VALUE_DIFF": 0.049259936043856
-    },
-    {
-      "COUNTY": "Siskiyou",
       "DATE": "2020-11-05",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.062901155327343,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.126463700234192,
       "METRIC_VALUE_30_DAYS_AGO": 0.065963060686016,
       "METRIC_VALUE_DIFF": 0.060500639548176
+    },
+    {
+      "COUNTY": "Siskiyou",
+      "DATE": "2020-12-04",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.114663726571114,
+      "METRIC_VALUE_30_DAYS_AGO": 0.056532663316583,
+      "METRIC_VALUE_DIFF": 0.058131063254531
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Siskiyou",
-      "DATE": "2020-11-04",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Siskiyou",
       "DATE": "2020-11-05",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Siskiyou",
       "DATE": "2020-12-03",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Siskiyou",
+      "DATE": "2020-12-04",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
