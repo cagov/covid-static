@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Mariposa",
-      "DATE": "2020-11-04",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.012787723785166,
-      "METRIC_VALUE_30_DAYS_AGO": 0,
-      "METRIC_VALUE_DIFF": 0.012787723785166
-    },
-    {
-      "COUNTY": "Mariposa",
       "DATE": "2020-11-05",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.012722646310433,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.028151774785802,
       "METRIC_VALUE_30_DAYS_AGO": 0.012468827930175,
       "METRIC_VALUE_DIFF": 0.015682946855627
+    },
+    {
+      "COUNTY": "Mariposa",
+      "DATE": "2020-12-04",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.030769230769231,
+      "METRIC_VALUE_30_DAYS_AGO": 0.012787723785166,
+      "METRIC_VALUE_DIFF": 0.017981506984065
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Mariposa",
-      "DATE": "2020-11-04",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Mariposa",
       "DATE": "2020-11-05",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Mariposa",
       "DATE": "2020-12-03",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Mariposa",
+      "DATE": "2020-12-04",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
