@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "Tehama",
       "METRIC": "cases",
-      "MISSING": 348,
-      "NOT_MISSING": 522,
-      "TOTAL": 870,
-      "PERCENT_COMPLETE": 0.6,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.84390243902439,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.24390243902439,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": 431,
+      "NOT_MISSING": 573,
+      "TOTAL": 1004,
+      "PERCENT_COMPLETE": 0.570717131474104,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.83640081799591,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.265683686521806,
+      "REPORT_DATE": "2020-12-12"
     },
     "deaths": {
       "COUNTY": "Tehama",
       "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 1,
-      "TOTAL": 1,
-      "PERCENT_COMPLETE": 1,
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-07"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-12"
     },
     "tests": {
       "COUNTY": "Tehama",
       "METRIC": "tests",
-      "MISSING": 3454,
-      "NOT_MISSING": 2395,
-      "TOTAL": 5849,
-      "PERCENT_COMPLETE": 0.409471704564883,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.306872037914692,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.102599666650191,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": 3663,
+      "NOT_MISSING": 2648,
+      "TOTAL": 6311,
+      "PERCENT_COMPLETE": 0.419584851845983,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.331995412844037,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0875894390019465,
+      "REPORT_DATE": "2020-12-12"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 22,
-      "NOT_MISSING": 920,
-      "TOTAL": 942,
-      "PERCENT_COMPLETE": 0.976645435244161,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.012425603007205,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": 28,
+      "NOT_MISSING": 1090,
+      "TOTAL": 1118,
+      "PERCENT_COMPLETE": 0.974955277280859,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.01491814044066,
+      "REPORT_DATE": "2020-12-12"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 1,
-      "TOTAL": 1,
-      "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-12"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 832,
-      "NOT_MISSING": 110,
-      "TOTAL": 942,
-      "PERCENT_COMPLETE": 0.116772823779193,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.167380181685288,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": 1031,
+      "NOT_MISSING": 87,
+      "TOTAL": 1118,
+      "PERCENT_COMPLETE": 0.077817531305903,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.233574873757388,
+      "REPORT_DATE": "2020-12-12"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 1,
-      "NOT_MISSING": 0,
-      "TOTAL": 1,
-      "PERCENT_COMPLETE": 0,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-12"
     }
   }
 }
