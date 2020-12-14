@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Kings",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.034657039711191,
-      "METRIC_VALUE_30_DAYS_AGO": 0.022457408363449,
-      "METRIC_VALUE_DIFF": 0.012199631347743
-    },
-    {
-      "COUNTY": "Kings",
       "DATE": "2020-11-06",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.040040805916858,
@@ -236,20 +228,20 @@
       "COUNTY": "Kings",
       "DATE": "2020-12-04",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.111603433951814,
+      "METRIC_VALUE": 0.111695501730104,
       "METRIC_VALUE_30_DAYS_AGO": 0.03166897827092,
-      "METRIC_VALUE_DIFF": 0.079934455680894
+      "METRIC_VALUE_DIFF": 0.080026523459184
+    },
+    {
+      "COUNTY": "Kings",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.109915554344865,
+      "METRIC_VALUE_30_DAYS_AGO": 0.034657039711191,
+      "METRIC_VALUE_DIFF": 0.075258514633674
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Kings",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.039187227866473,
-      "METRIC_VALUE_30_DAYS_AGO": 0.018461538461539,
-      "METRIC_VALUE_DIFF": 0.020725689404935
-    },
     {
       "COUNTY": "Kings",
       "DATE": "2020-11-06",
@@ -478,9 +470,17 @@
       "COUNTY": "Kings",
       "DATE": "2020-12-04",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.130881094952951,
+      "METRIC_VALUE": 0.131623931623932,
       "METRIC_VALUE_30_DAYS_AGO": 0.03240058910162,
-      "METRIC_VALUE_DIFF": 0.098480505851331
+      "METRIC_VALUE_DIFF": 0.099223342522312
+    },
+    {
+      "COUNTY": "Kings",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.144053601340034,
+      "METRIC_VALUE_30_DAYS_AGO": 0.039187227866473,
+      "METRIC_VALUE_DIFF": 0.10486637347356
     }
   ]
 }
