@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Sierra",
       "METRIC": "cases",
-      "MISSING": 3,
-      "NOT_MISSING": 5,
-      "TOTAL": 8,
-      "PERCENT_COMPLETE": 0.625,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.375,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.666666666666667,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-12"
     },
     "deaths": {
       "COUNTY": "Sierra",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-07"
+      "REPORT_DATE": "2020-12-12"
     },
     "tests": {
       "COUNTY": "Sierra",
       "METRIC": "tests",
-      "MISSING": 244,
-      "NOT_MISSING": 52,
-      "TOTAL": 296,
-      "PERCENT_COMPLETE": 0.175675675675676,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.165178571428571,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0104971042471043,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": 266,
+      "NOT_MISSING": 49,
+      "TOTAL": 315,
+      "PERCENT_COMPLETE": 0.155555555555556,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.171945701357466,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0163901458019105,
+      "REPORT_DATE": "2020-12-12"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 0,
-      "NOT_MISSING": 10,
-      "TOTAL": 10,
-      "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-12"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-07"
+      "REPORT_DATE": "2020-12-12"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 10,
-      "NOT_MISSING": 0,
-      "TOTAL": 10,
-      "PERCENT_COMPLETE": 0,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-07"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2020-12-12"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-07"
+      "REPORT_DATE": "2020-12-12"
     }
   }
 }
