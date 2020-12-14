@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Lassen",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.042884990253411,
-      "METRIC_VALUE_30_DAYS_AGO": 0.008771929824561,
-      "METRIC_VALUE_DIFF": 0.03411306042885
-    },
-    {
-      "COUNTY": "Lassen",
       "DATE": "2020-11-06",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.065274151436031,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.133484162895928,
       "METRIC_VALUE_30_DAYS_AGO": 0.031128404669261,
       "METRIC_VALUE_DIFF": 0.102355758226667
+    },
+    {
+      "COUNTY": "Lassen",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.132543711223914,
+      "METRIC_VALUE_30_DAYS_AGO": 0.042884990253411,
+      "METRIC_VALUE_DIFF": 0.089658720970503
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Lassen",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Lassen",
       "DATE": "2020-11-06",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Lassen",
       "DATE": "2020-12-04",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Lassen",
+      "DATE": "2020-12-05",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
