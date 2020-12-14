@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Madera",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.057817310981868,
-      "METRIC_VALUE_30_DAYS_AGO": 0.047545219638243,
-      "METRIC_VALUE_DIFF": 0.010272091343625
-    },
-    {
-      "COUNTY": "Madera",
       "DATE": "2020-11-06",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.061758548499651,
@@ -236,20 +228,20 @@
       "COUNTY": "Madera",
       "DATE": "2020-12-04",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.139041259241593,
+      "METRIC_VALUE": 0.139595719381688,
       "METRIC_VALUE_30_DAYS_AGO": 0.055714285714286,
-      "METRIC_VALUE_DIFF": 0.083326973527307
+      "METRIC_VALUE_DIFF": 0.083881433667403
+    },
+    {
+      "COUNTY": "Madera",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.145967002749771,
+      "METRIC_VALUE_30_DAYS_AGO": 0.057817310981868,
+      "METRIC_VALUE_DIFF": 0.088149691767903
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Madera",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.093298291721419,
-      "METRIC_VALUE_30_DAYS_AGO": 0.066098081023454,
-      "METRIC_VALUE_DIFF": 0.027200210697965
-    },
     {
       "COUNTY": "Madera",
       "DATE": "2020-11-06",
@@ -478,9 +470,17 @@
       "COUNTY": "Madera",
       "DATE": "2020-12-04",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.141304347826087,
+      "METRIC_VALUE": 0.140886699507389,
       "METRIC_VALUE_30_DAYS_AGO": 0.093837535014006,
-      "METRIC_VALUE_DIFF": 0.047466812812081
+      "METRIC_VALUE_DIFF": 0.047049164493384
+    },
+    {
+      "COUNTY": "Madera",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.145101663585952,
+      "METRIC_VALUE_30_DAYS_AGO": 0.093298291721419,
+      "METRIC_VALUE_DIFF": 0.051803371864533
     }
   ]
 }
