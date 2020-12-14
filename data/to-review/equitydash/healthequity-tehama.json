@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Tehama",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.081669691470054,
-      "METRIC_VALUE_30_DAYS_AGO": 0.061243144424132,
-      "METRIC_VALUE_DIFF": 0.020426547045923
-    },
-    {
-      "COUNTY": "Tehama",
       "DATE": "2020-11-06",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.086012163336229,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.149071358748778,
       "METRIC_VALUE_30_DAYS_AGO": 0.077642656688494,
       "METRIC_VALUE_DIFF": 0.071428702060284
+    },
+    {
+      "COUNTY": "Tehama",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.154536390827517,
+      "METRIC_VALUE_30_DAYS_AGO": 0.081669691470054,
+      "METRIC_VALUE_DIFF": 0.072866699357463
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Tehama",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Tehama",
       "DATE": "2020-11-06",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Tehama",
       "DATE": "2020-12-04",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Tehama",
+      "DATE": "2020-12-05",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,

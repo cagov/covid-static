@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "San Joaquin",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.055953981772001,
-      "METRIC_VALUE_30_DAYS_AGO": 0.041807274090739,
-      "METRIC_VALUE_DIFF": 0.014146707681262
-    },
-    {
-      "COUNTY": "San Joaquin",
       "DATE": "2020-11-06",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.061227533745992,
@@ -212,44 +204,44 @@
       "COUNTY": "San Joaquin",
       "DATE": "2020-12-01",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.141727460043437,
+      "METRIC_VALUE": 0.14171956788061,
       "METRIC_VALUE_30_DAYS_AGO": 0.042668609829164,
-      "METRIC_VALUE_DIFF": 0.099058850214274
+      "METRIC_VALUE_DIFF": 0.099050958051447
     },
     {
       "COUNTY": "San Joaquin",
       "DATE": "2020-12-02",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.150824080067719,
+      "METRIC_VALUE": 0.150858849887976,
       "METRIC_VALUE_30_DAYS_AGO": 0.043565307920237,
-      "METRIC_VALUE_DIFF": 0.107258772147482
+      "METRIC_VALUE_DIFF": 0.107293541967739
     },
     {
       "COUNTY": "San Joaquin",
       "DATE": "2020-12-03",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.146870317962377,
+      "METRIC_VALUE": 0.146887483355526,
       "METRIC_VALUE_30_DAYS_AGO": 0.047476340694006,
-      "METRIC_VALUE_DIFF": 0.099393977268371
+      "METRIC_VALUE_DIFF": 0.09941114266152
     },
     {
       "COUNTY": "San Joaquin",
       "DATE": "2020-12-04",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.150651948436805,
+      "METRIC_VALUE": 0.150666666666667,
       "METRIC_VALUE_30_DAYS_AGO": 0.050583958542811,
-      "METRIC_VALUE_DIFF": 0.100067989893995
+      "METRIC_VALUE_DIFF": 0.100082708123856
+    },
+    {
+      "COUNTY": "San Joaquin",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.15078241295429,
+      "METRIC_VALUE_30_DAYS_AGO": 0.055953981772001,
+      "METRIC_VALUE_DIFF": 0.094828431182289
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "San Joaquin",
-      "DATE": "2020-11-05",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.069254984260231,
-      "METRIC_VALUE_30_DAYS_AGO": 0.065074626865672,
-      "METRIC_VALUE_DIFF": 0.004180357394559
-    },
     {
       "COUNTY": "San Joaquin",
       "DATE": "2020-11-06",
@@ -462,25 +454,33 @@
       "COUNTY": "San Joaquin",
       "DATE": "2020-12-02",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.158989123480486,
+      "METRIC_VALUE": 0.158450704225352,
       "METRIC_VALUE_30_DAYS_AGO": 0.052515201768933,
-      "METRIC_VALUE_DIFF": 0.106473921711553
+      "METRIC_VALUE_DIFF": 0.105935502456419
     },
     {
       "COUNTY": "San Joaquin",
       "DATE": "2020-12-03",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.159591617409995,
+      "METRIC_VALUE": 0.159097016930933,
       "METRIC_VALUE_30_DAYS_AGO": 0.054901960784314,
-      "METRIC_VALUE_DIFF": 0.104689656625681
+      "METRIC_VALUE_DIFF": 0.104195056146619
     },
     {
       "COUNTY": "San Joaquin",
       "DATE": "2020-12-04",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.160141509433962,
+      "METRIC_VALUE": 0.159707478178816,
       "METRIC_VALUE_30_DAYS_AGO": 0.057285873192436,
-      "METRIC_VALUE_DIFF": 0.102855636241526
+      "METRIC_VALUE_DIFF": 0.10242160498638
+    },
+    {
+      "COUNTY": "San Joaquin",
+      "DATE": "2020-12-05",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.156685236768802,
+      "METRIC_VALUE_30_DAYS_AGO": 0.069254984260231,
+      "METRIC_VALUE_DIFF": 0.087430252508571
     }
   ]
 }
