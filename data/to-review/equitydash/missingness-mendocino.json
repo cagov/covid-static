@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Mendocino",
       "METRIC": "cases",
-      "MISSING": 83,
-      "NOT_MISSING": 504,
-      "TOTAL": 587,
-      "PERCENT_COMPLETE": 0.858603066439523,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.933035714285714,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0744326478461913,
-      "REPORT_DATE": "2020-12-14"
+      "MISSING": 81,
+      "NOT_MISSING": 541,
+      "TOTAL": 622,
+      "PERCENT_COMPLETE": 0.869774919614148,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.931914893617021,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0621399740028734,
+      "REPORT_DATE": "2020-12-15"
     },
     "deaths": {
       "COUNTY": "Mendocino",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-14"
+      "REPORT_DATE": "2020-12-15"
     },
     "tests": {
       "COUNTY": "Mendocino",
       "METRIC": "tests",
-      "MISSING": 4790,
-      "NOT_MISSING": 5692,
-      "TOTAL": 10482,
-      "PERCENT_COMPLETE": 0.543026140049609,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.511261261261261,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0317648787883476,
-      "REPORT_DATE": "2020-12-14"
+      "MISSING": 4881,
+      "NOT_MISSING": 5747,
+      "TOTAL": 10628,
+      "PERCENT_COMPLETE": 0.540741437711705,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.522443254271869,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0182981834398355,
+      "REPORT_DATE": "2020-12-15"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 12,
-      "NOT_MISSING": 623,
-      "TOTAL": 635,
-      "PERCENT_COMPLETE": 0.981102362204724,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.001002859717162,
-      "REPORT_DATE": "2020-12-14"
+      "NOT_MISSING": 659,
+      "TOTAL": 671,
+      "PERCENT_COMPLETE": 0.982116244411326,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.00143991590891,
+      "REPORT_DATE": "2020-12-15"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-14"
+      "REPORT_DATE": "2020-12-15"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 418,
-      "NOT_MISSING": 217,
-      "TOTAL": 635,
-      "PERCENT_COMPLETE": 0.341732283464567,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.086128413052846,
-      "REPORT_DATE": "2020-12-14"
+      "MISSING": 460,
+      "NOT_MISSING": 211,
+      "TOTAL": 671,
+      "PERCENT_COMPLETE": 0.314456035767511,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.149312080174518,
+      "REPORT_DATE": "2020-12-15"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-14"
+      "REPORT_DATE": "2020-12-15"
     }
   }
 }
