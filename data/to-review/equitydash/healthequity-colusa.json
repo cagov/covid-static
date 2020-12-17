@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Colusa",
-      "DATE": "2020-11-08",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.056666666666667,
-      "METRIC_VALUE_30_DAYS_AGO": 0.028169014084507,
-      "METRIC_VALUE_DIFF": 0.02849765258216
-    },
-    {
-      "COUNTY": "Colusa",
       "DATE": "2020-11-09",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.057627118644068,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.210420841683367,
       "METRIC_VALUE_30_DAYS_AGO": 0.055555555555556,
       "METRIC_VALUE_DIFF": 0.154865286127811
+    },
+    {
+      "COUNTY": "Colusa",
+      "DATE": "2020-12-08",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.176744186046512,
+      "METRIC_VALUE_30_DAYS_AGO": 0.056666666666667,
+      "METRIC_VALUE_DIFF": 0.120077519379845
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Colusa",
-      "DATE": "2020-11-08",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Colusa",
       "DATE": "2020-11-09",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Colusa",
       "DATE": "2020-12-07",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Colusa",
+      "DATE": "2020-12-08",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
