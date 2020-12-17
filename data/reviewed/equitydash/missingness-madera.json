@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Madera",
       "METRIC": "cases",
-      "MISSING": 1224,
-      "NOT_MISSING": 1137,
-      "TOTAL": 2361,
-      "PERCENT_COMPLETE": 0.481575603557814,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.696132596685083,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.214556993127268,
-      "REPORT_DATE": "2020-12-14"
+      "MISSING": 1288,
+      "NOT_MISSING": 1209,
+      "TOTAL": 2497,
+      "PERCENT_COMPLETE": 0.484181017220665,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.704960835509138,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.220779818288474,
+      "REPORT_DATE": "2020-12-16"
     },
     "deaths": {
       "COUNTY": "Madera",
@@ -18,31 +18,31 @@
       "NOT_MISSING": null,
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-14"
+      "REPORT_DATE": "2020-12-16"
     },
     "tests": {
       "COUNTY": "Madera",
       "METRIC": "tests",
-      "MISSING": 18384,
-      "NOT_MISSING": 7824,
-      "TOTAL": 26208,
-      "PERCENT_COMPLETE": 0.298534798534799,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.287720683625698,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0108141149091005,
-      "REPORT_DATE": "2020-12-14"
+      "MISSING": 18445,
+      "NOT_MISSING": 8124,
+      "TOTAL": 26569,
+      "PERCENT_COMPLETE": 0.305769882193534,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.29340354767184,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0123663345216934,
+      "REPORT_DATE": "2020-12-16"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 24,
-      "NOT_MISSING": 2524,
-      "TOTAL": 2548,
-      "PERCENT_COMPLETE": 0.990580847723705,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.006181471748666,
-      "REPORT_DATE": "2020-12-14"
+      "MISSING": 25,
+      "NOT_MISSING": 2674,
+      "TOTAL": 2699,
+      "PERCENT_COMPLETE": 0.990737310114857,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.005865903155704,
+      "REPORT_DATE": "2020-12-16"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-14"
+      "REPORT_DATE": "2020-12-16"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 2246,
-      "NOT_MISSING": 302,
-      "TOTAL": 2548,
-      "PERCENT_COMPLETE": 0.118524332810047,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.179447586066708,
-      "REPORT_DATE": "2020-12-14"
+      "MISSING": 2404,
+      "NOT_MISSING": 295,
+      "TOTAL": 2699,
+      "PERCENT_COMPLETE": 0.109299740644683,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.185707823651837,
+      "REPORT_DATE": "2020-12-16"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-14"
+      "REPORT_DATE": "2020-12-16"
     }
   }
 }
