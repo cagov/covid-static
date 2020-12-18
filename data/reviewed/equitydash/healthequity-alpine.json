@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Alpine",
-      "DATE": "2020-11-08",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.03960396039604,
-      "METRIC_VALUE_30_DAYS_AGO": 0,
-      "METRIC_VALUE_DIFF": 0.03960396039604
-    },
-    {
-      "COUNTY": "Alpine",
       "DATE": "2020-11-09",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.048543689320388,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.015873015873016,
       "METRIC_VALUE_30_DAYS_AGO": 0.03960396039604,
       "METRIC_VALUE_DIFF": -0.023730944523024
+    },
+    {
+      "COUNTY": "Alpine",
+      "DATE": "2020-12-08",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.016666666666667,
+      "METRIC_VALUE_30_DAYS_AGO": 0.03960396039604,
+      "METRIC_VALUE_DIFF": -0.022937293729373
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Alpine",
-      "DATE": "2020-11-08",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Alpine",
       "DATE": "2020-11-09",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Alpine",
       "DATE": "2020-12-07",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Alpine",
+      "DATE": "2020-12-08",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
