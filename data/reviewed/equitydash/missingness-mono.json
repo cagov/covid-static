@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Mono",
       "METRIC": "cases",
-      "MISSING": 55,
-      "NOT_MISSING": 174,
-      "TOTAL": 229,
-      "PERCENT_COMPLETE": 0.759825327510917,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.836120401337793,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0762950738268756,
-      "REPORT_DATE": "2020-12-17"
+      "MISSING": 73,
+      "NOT_MISSING": 215,
+      "TOTAL": 288,
+      "PERCENT_COMPLETE": 0.746527777777778,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.847972972972973,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.101445195195195,
+      "REPORT_DATE": "2020-12-20"
     },
     "deaths": {
       "COUNTY": "Mono",
@@ -20,58 +20,58 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-17"
+      "REPORT_DATE": "2020-12-20"
     },
     "tests": {
       "COUNTY": "Mono",
       "METRIC": "tests",
-      "MISSING": 814,
-      "NOT_MISSING": 1276,
-      "TOTAL": 2090,
-      "PERCENT_COMPLETE": 0.610526315789474,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.757016532103037,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.146490216313564,
-      "REPORT_DATE": "2020-12-17"
+      "MISSING": 852,
+      "NOT_MISSING": 1391,
+      "TOTAL": 2243,
+      "PERCENT_COMPLETE": 0.620151582701739,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.734042553191489,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.113890970489751,
+      "REPORT_DATE": "2020-12-20"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 9,
-      "NOT_MISSING": 234,
-      "TOTAL": 243,
-      "PERCENT_COMPLETE": 0.962962962962963,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.026547526547526,
-      "REPORT_DATE": "2020-12-17"
+      "MISSING": 8,
+      "NOT_MISSING": 291,
+      "TOTAL": 299,
+      "PERCENT_COMPLETE": 0.973244147157191,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.016481880240069,
+      "REPORT_DATE": "2020-12-20"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-17"
+      "REPORT_DATE": "2020-12-20"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 238,
-      "NOT_MISSING": 5,
-      "TOTAL": 243,
-      "PERCENT_COMPLETE": 0.020576131687243,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.020576131687243,
-      "REPORT_DATE": "2020-12-17"
+      "MISSING": 295,
+      "NOT_MISSING": 4,
+      "TOTAL": 299,
+      "PERCENT_COMPLETE": 0.013377926421405,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.013377926421405,
+      "REPORT_DATE": "2020-12-20"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-17"
+      "REPORT_DATE": "2020-12-20"
     }
   }
 }
