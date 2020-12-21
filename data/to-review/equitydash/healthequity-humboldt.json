@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Humboldt",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.020767335445266,
-      "METRIC_VALUE_30_DAYS_AGO": 0.010130246020261,
-      "METRIC_VALUE_DIFF": 0.010637089425005
-    },
-    {
-      "COUNTY": "Humboldt",
       "DATE": "2020-11-13",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.023223570190641,
@@ -220,36 +212,36 @@
       "COUNTY": "Humboldt",
       "DATE": "2020-12-09",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.052523407170587,
+      "METRIC_VALUE": 0.052859421280474,
       "METRIC_VALUE_30_DAYS_AGO": 0.019040365575019,
-      "METRIC_VALUE_DIFF": 0.033483041595568
+      "METRIC_VALUE_DIFF": 0.033819055705455
     },
     {
       "COUNTY": "Humboldt",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.05359565807327,
+      "METRIC_VALUE": 0.053925992779783,
       "METRIC_VALUE_30_DAYS_AGO": 0.020794652803565,
-      "METRIC_VALUE_DIFF": 0.032801005269705
+      "METRIC_VALUE_DIFF": 0.033131339976219
     },
     {
       "COUNTY": "Humboldt",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.050078598697507,
+      "METRIC_VALUE": 0.050391937290034,
       "METRIC_VALUE_30_DAYS_AGO": 0.023238095238095,
-      "METRIC_VALUE_DIFF": 0.026840503459412
+      "METRIC_VALUE_DIFF": 0.027153842051938
+    },
+    {
+      "COUNTY": "Humboldt",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.048611111111111,
+      "METRIC_VALUE_30_DAYS_AGO": 0.020767335445266,
+      "METRIC_VALUE_DIFF": 0.027843775665845
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Humboldt",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.014159292035398,
-      "METRIC_VALUE_30_DAYS_AGO": 0.004357298474946,
-      "METRIC_VALUE_DIFF": 0.009801993560453
-    },
     {
       "COUNTY": "Humboldt",
       "DATE": "2020-11-13",
@@ -462,25 +454,33 @@
       "COUNTY": "Humboldt",
       "DATE": "2020-12-09",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.033368091762252,
+      "METRIC_VALUE": 0.034303534303534,
       "METRIC_VALUE_30_DAYS_AGO": 0.009140767824497,
-      "METRIC_VALUE_DIFF": 0.024227323937755
+      "METRIC_VALUE_DIFF": 0.025162766479037
     },
     {
       "COUNTY": "Humboldt",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.040372670807453,
+      "METRIC_VALUE": 0.041279669762642,
       "METRIC_VALUE_30_DAYS_AGO": 0.014260249554367,
-      "METRIC_VALUE_DIFF": 0.026112421253086
+      "METRIC_VALUE_DIFF": 0.027019420208275
     },
     {
       "COUNTY": "Humboldt",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.032753326509724,
+      "METRIC_VALUE": 0.033639143730887,
       "METRIC_VALUE_30_DAYS_AGO": 0.014625228519196,
-      "METRIC_VALUE_DIFF": 0.018128097990528
+      "METRIC_VALUE_DIFF": 0.019013915211691
+    },
+    {
+      "COUNTY": "Humboldt",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.03469387755102,
+      "METRIC_VALUE_30_DAYS_AGO": 0.014159292035398,
+      "METRIC_VALUE_DIFF": 0.020534585515622
     }
   ]
 }
