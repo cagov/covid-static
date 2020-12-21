@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Shasta",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.089201021524991,
-      "METRIC_VALUE_30_DAYS_AGO": 0.048368953880765,
-      "METRIC_VALUE_DIFF": 0.040832067644226
-    },
-    {
-      "COUNTY": "Shasta",
       "DATE": "2020-11-13",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.092318659775441,
@@ -228,28 +220,28 @@
       "COUNTY": "Shasta",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.090182065679769,
+      "METRIC_VALUE": 0.090385917400135,
       "METRIC_VALUE_30_DAYS_AGO": 0.082808447573175,
-      "METRIC_VALUE_DIFF": 0.007373618106593
+      "METRIC_VALUE_DIFF": 0.00757746982696
     },
     {
       "COUNTY": "Shasta",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.086682977979727,
+      "METRIC_VALUE": 0.086850790342192,
       "METRIC_VALUE_30_DAYS_AGO": 0.091152815013405,
-      "METRIC_VALUE_DIFF": -0.004469837033677
+      "METRIC_VALUE_DIFF": -0.004302024671213
+    },
+    {
+      "COUNTY": "Shasta",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.08421052631579,
+      "METRIC_VALUE_30_DAYS_AGO": 0.089201021524991,
+      "METRIC_VALUE_DIFF": -0.004990495209201
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Shasta",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.075223880597015,
-      "METRIC_VALUE_30_DAYS_AGO": 0.039090909090909,
-      "METRIC_VALUE_DIFF": 0.036132971506106
-    },
     {
       "COUNTY": "Shasta",
       "DATE": "2020-11-13",
@@ -470,17 +462,25 @@
       "COUNTY": "Shasta",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.084548104956268,
+      "METRIC_VALUE": 0.083960625361899,
       "METRIC_VALUE_30_DAYS_AGO": 0.058429701765064,
-      "METRIC_VALUE_DIFF": 0.026118403191204
+      "METRIC_VALUE_DIFF": 0.025530923596835
     },
     {
       "COUNTY": "Shasta",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.076783555018138,
+      "METRIC_VALUE": 0.076139088729017,
       "METRIC_VALUE_30_DAYS_AGO": 0.071024512884978,
-      "METRIC_VALUE_DIFF": 0.00575904213316
+      "METRIC_VALUE_DIFF": 0.005114575844039
+    },
+    {
+      "COUNTY": "Shasta",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.074954296160878,
+      "METRIC_VALUE_30_DAYS_AGO": 0.075223880597015,
+      "METRIC_VALUE_DIFF": -0.000269584436137
     }
   ]
 }

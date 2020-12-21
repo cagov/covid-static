@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Mono",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.075129533678757,
-      "METRIC_VALUE_30_DAYS_AGO": 0.007905138339921,
-      "METRIC_VALUE_DIFF": 0.067224395338836
-    },
-    {
-      "COUNTY": "Mono",
       "DATE": "2020-11-13",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.087323943661972,
@@ -228,28 +220,28 @@
       "COUNTY": "Mono",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.167105263157895,
+      "METRIC_VALUE": 0.168199737187911,
       "METRIC_VALUE_30_DAYS_AGO": 0.077319587628866,
-      "METRIC_VALUE_DIFF": 0.089785675529029
+      "METRIC_VALUE_DIFF": 0.090880149559045
     },
     {
       "COUNTY": "Mono",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.142098273572377,
+      "METRIC_VALUE": 0.143236074270557,
       "METRIC_VALUE_30_DAYS_AGO": 0.077306733167082,
-      "METRIC_VALUE_DIFF": 0.064791540405295
+      "METRIC_VALUE_DIFF": 0.065929341103475
+    },
+    {
+      "COUNTY": "Mono",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.146596858638743,
+      "METRIC_VALUE_30_DAYS_AGO": 0.075129533678757,
+      "METRIC_VALUE_DIFF": 0.071467324959987
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Mono",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Mono",
       "DATE": "2020-11-13",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Mono",
       "DATE": "2020-12-11",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Mono",
+      "DATE": "2020-12-12",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,

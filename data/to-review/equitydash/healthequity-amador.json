@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Amador",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.03125,
-      "METRIC_VALUE_30_DAYS_AGO": 0.006772009029345,
-      "METRIC_VALUE_DIFF": 0.024477990970655
-    },
-    {
-      "COUNTY": "Amador",
       "DATE": "2020-11-13",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.035266457680251,
@@ -228,28 +220,28 @@
       "COUNTY": "Amador",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.099120234604106,
+      "METRIC_VALUE": 0.099062133645956,
       "METRIC_VALUE_30_DAYS_AGO": 0.031221303948577,
-      "METRIC_VALUE_DIFF": 0.067898930655529
+      "METRIC_VALUE_DIFF": 0.067840829697379
     },
     {
       "COUNTY": "Amador",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.096018735362998,
+      "METRIC_VALUE": 0.095962551199532,
       "METRIC_VALUE_30_DAYS_AGO": 0.028003613369467,
-      "METRIC_VALUE_DIFF": 0.068015121993531
+      "METRIC_VALUE_DIFF": 0.067958937830065
+    },
+    {
+      "COUNTY": "Amador",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.098525073746313,
+      "METRIC_VALUE_30_DAYS_AGO": 0.03125,
+      "METRIC_VALUE_DIFF": 0.067275073746313
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Amador",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Amador",
       "DATE": "2020-11-13",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Amador",
       "DATE": "2020-12-11",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Amador",
+      "DATE": "2020-12-12",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
