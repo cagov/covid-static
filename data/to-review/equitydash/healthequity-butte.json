@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Butte",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.036857781087118,
-      "METRIC_VALUE_30_DAYS_AGO": 0.014417395414796,
-      "METRIC_VALUE_DIFF": 0.022440385672323
-    },
-    {
-      "COUNTY": "Butte",
       "DATE": "2020-11-13",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.038589981447124,
@@ -228,28 +220,28 @@
       "COUNTY": "Butte",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.114317120087936,
+      "METRIC_VALUE": 0.114285714285714,
       "METRIC_VALUE_30_DAYS_AGO": 0.038174273858921,
-      "METRIC_VALUE_DIFF": 0.076142846229015
+      "METRIC_VALUE_DIFF": 0.076111440426793
     },
     {
       "COUNTY": "Butte",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.115880994430105,
+      "METRIC_VALUE": 0.115849517859568,
       "METRIC_VALUE_30_DAYS_AGO": 0.037912839554426,
-      "METRIC_VALUE_DIFF": 0.077968154875678
+      "METRIC_VALUE_DIFF": 0.077936678305142
+    },
+    {
+      "COUNTY": "Butte",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.113694395914528,
+      "METRIC_VALUE_30_DAYS_AGO": 0.036857781087118,
+      "METRIC_VALUE_DIFF": 0.076836614827409
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Butte",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.049598832968636,
-      "METRIC_VALUE_30_DAYS_AGO": 0.01593625498008,
-      "METRIC_VALUE_DIFF": 0.033662577988556
-    },
     {
       "COUNTY": "Butte",
       "DATE": "2020-11-13",
@@ -481,6 +473,14 @@
       "METRIC_VALUE": 0.133410672853828,
       "METRIC_VALUE_30_DAYS_AGO": 0.053516819571865,
       "METRIC_VALUE_DIFF": 0.079893853281963
+    },
+    {
+      "COUNTY": "Butte",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.128977272727273,
+      "METRIC_VALUE_30_DAYS_AGO": 0.049598832968636,
+      "METRIC_VALUE_DIFF": 0.079378439758637
     }
   ]
 }
