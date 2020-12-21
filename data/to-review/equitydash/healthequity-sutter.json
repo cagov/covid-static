@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Sutter",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.14841745081266,
-      "METRIC_VALUE_30_DAYS_AGO": 0.017241379310345,
-      "METRIC_VALUE_DIFF": 0.131176071502316
-    },
-    {
-      "COUNTY": "Sutter",
       "DATE": "2020-11-13",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.161048689138577,
@@ -228,28 +220,28 @@
       "COUNTY": "Sutter",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.228747203579418,
+      "METRIC_VALUE": 0.229549248747913,
       "METRIC_VALUE_30_DAYS_AGO": 0.114071996259935,
-      "METRIC_VALUE_DIFF": 0.114675207319484
+      "METRIC_VALUE_DIFF": 0.115477252487979
     },
     {
       "COUNTY": "Sutter",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.236122618061309,
+      "METRIC_VALUE": 0.236748146113705,
       "METRIC_VALUE_30_DAYS_AGO": 0.135968722849696,
-      "METRIC_VALUE_DIFF": 0.100153895211613
+      "METRIC_VALUE_DIFF": 0.100779423264009
+    },
+    {
+      "COUNTY": "Sutter",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.236618171836399,
+      "METRIC_VALUE_30_DAYS_AGO": 0.14841745081266,
+      "METRIC_VALUE_DIFF": 0.088200721023738
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Sutter",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Sutter",
       "DATE": "2020-11-13",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Sutter",
       "DATE": "2020-12-11",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Sutter",
+      "DATE": "2020-12-12",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
