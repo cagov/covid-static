@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Tehama",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.130016051364366,
-      "METRIC_VALUE_30_DAYS_AGO": 0.075229357798165,
-      "METRIC_VALUE_DIFF": 0.054786693566201
-    },
-    {
-      "COUNTY": "Tehama",
       "DATE": "2020-11-13",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.125818181818182,
@@ -228,28 +220,28 @@
       "COUNTY": "Tehama",
       "DATE": "2020-12-10",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.148109243697479,
+      "METRIC_VALUE": 0.148031496062992,
       "METRIC_VALUE_30_DAYS_AGO": 0.109190887666929,
-      "METRIC_VALUE_DIFF": 0.038918356030551
+      "METRIC_VALUE_DIFF": 0.038840608396064
     },
     {
       "COUNTY": "Tehama",
       "DATE": "2020-12-11",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.149946638207044,
+      "METRIC_VALUE": 0.149786780383795,
       "METRIC_VALUE_30_DAYS_AGO": 0.114457831325301,
-      "METRIC_VALUE_DIFF": 0.035488806881743
+      "METRIC_VALUE_DIFF": 0.035328949058494
+    },
+    {
+      "COUNTY": "Tehama",
+      "DATE": "2020-12-12",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.14394350896252,
+      "METRIC_VALUE_30_DAYS_AGO": 0.130016051364366,
+      "METRIC_VALUE_DIFF": 0.013927457598154
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Tehama",
-      "DATE": "2020-11-12",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Tehama",
       "DATE": "2020-11-13",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Tehama",
       "DATE": "2020-12-11",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Tehama",
+      "DATE": "2020-12-12",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
