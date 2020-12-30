@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "San Francisco",
       "METRIC": "cases",
-      "MISSING": 509,
-      "NOT_MISSING": 5508,
-      "TOTAL": 6017,
-      "PERCENT_COMPLETE": 0.915406348678744,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.918402777777778,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0029964290990343,
-      "REPORT_DATE": "2020-12-22"
+      "MISSING": 615,
+      "NOT_MISSING": 6063,
+      "TOTAL": 6678,
+      "PERCENT_COMPLETE": 0.907906558849955,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.922453703703704,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0145471448537486,
+      "REPORT_DATE": "2020-12-29"
     },
     "deaths": {
       "COUNTY": "San Francisco",
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-22"
+      "MISSING": 0,
+      "NOT_MISSING": 12,
+      "TOTAL": 12,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2020-12-29"
     },
     "tests": {
       "COUNTY": "San Francisco",
       "METRIC": "tests",
-      "MISSING": 66067,
-      "NOT_MISSING": 162445,
-      "TOTAL": 228512,
-      "PERCENT_COMPLETE": 0.710881704243103,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.686109562661531,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0247721415815718,
-      "REPORT_DATE": "2020-12-22"
+      "MISSING": 68961,
+      "NOT_MISSING": 171359,
+      "TOTAL": 240320,
+      "PERCENT_COMPLETE": 0.713045106524634,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.686174968851538,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0268701376730959,
+      "REPORT_DATE": "2020-12-29"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 31,
-      "NOT_MISSING": 6570,
-      "TOTAL": 6601,
-      "PERCENT_COMPLETE": 0.995303741857294,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.001349691071321,
-      "REPORT_DATE": "2020-12-22"
+      "MISSING": 40,
+      "NOT_MISSING": 7130,
+      "TOTAL": 7170,
+      "PERCENT_COMPLETE": 0.99442119944212,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.000892764944009,
+      "REPORT_DATE": "2020-12-29"
     },
     "deaths": {
       "METRIC": "deaths",
       "MISSING": 0,
-      "NOT_MISSING": 18,
-      "TOTAL": 18,
+      "NOT_MISSING": 17,
+      "TOTAL": 17,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2020-12-22"
+      "REPORT_DATE": "2020-12-29"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 3903,
-      "NOT_MISSING": 2698,
-      "TOTAL": 6601,
-      "PERCENT_COMPLETE": 0.408725950613543,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.24262431137759,
-      "REPORT_DATE": "2020-12-22"
+      "MISSING": 4126,
+      "NOT_MISSING": 3044,
+      "TOTAL": 7170,
+      "PERCENT_COMPLETE": 0.424546722454672,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.154959681794,
+      "REPORT_DATE": "2020-12-29"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 12,
-      "NOT_MISSING": 6,
-      "TOTAL": 18,
-      "PERCENT_COMPLETE": 0.333333333333333,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.133333333333333,
-      "REPORT_DATE": "2020-12-22"
+      "MISSING": 13,
+      "NOT_MISSING": 4,
+      "TOTAL": 17,
+      "PERCENT_COMPLETE": 0.235294117647059,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.128342245989305,
+      "REPORT_DATE": "2020-12-29"
     }
   }
 }
