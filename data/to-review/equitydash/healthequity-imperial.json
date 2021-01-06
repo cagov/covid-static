@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Imperial",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.20594262295082,
-      "METRIC_VALUE_30_DAYS_AGO": 0.111902050113895,
-      "METRIC_VALUE_DIFF": 0.094040572836925
-    },
-    {
-      "COUNTY": "Imperial",
       "DATE": "2020-11-29",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.162778904665314,
@@ -204,52 +196,52 @@
       "COUNTY": "Imperial",
       "DATE": "2020-12-23",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.148154042011458,
+      "METRIC_VALUE": 0.148289578361177,
       "METRIC_VALUE_30_DAYS_AGO": 0.15376075492645,
-      "METRIC_VALUE_DIFF": -0.005606712914993
+      "METRIC_VALUE_DIFF": -0.005471176565273
     },
     {
       "COUNTY": "Imperial",
       "DATE": "2020-12-24",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.150522648083624,
+      "METRIC_VALUE": 0.150670614875457,
       "METRIC_VALUE_30_DAYS_AGO": 0.18131030980193,
-      "METRIC_VALUE_DIFF": -0.030787661718306
+      "METRIC_VALUE_DIFF": -0.030639694926473
     },
     {
       "COUNTY": "Imperial",
       "DATE": "2020-12-25",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.147380999800836,
+      "METRIC_VALUE": 0.147550776583035,
       "METRIC_VALUE_30_DAYS_AGO": 0.19171502901741,
-      "METRIC_VALUE_DIFF": -0.044334029216574
+      "METRIC_VALUE_DIFF": -0.044164252434376
     },
     {
       "COUNTY": "Imperial",
       "DATE": "2020-12-26",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.148613604627967,
+      "METRIC_VALUE": 0.148783406461907,
       "METRIC_VALUE_30_DAYS_AGO": 0.20117867666756,
-      "METRIC_VALUE_DIFF": -0.052565072039592
+      "METRIC_VALUE_DIFF": -0.052395270205653
     },
     {
       "COUNTY": "Imperial",
       "DATE": "2020-12-27",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.147521160822249,
+      "METRIC_VALUE": 0.147692927664719,
       "METRIC_VALUE_30_DAYS_AGO": 0.201135983962579,
-      "METRIC_VALUE_DIFF": -0.05361482314033
+      "METRIC_VALUE_DIFF": -0.05344305629786
+    },
+    {
+      "COUNTY": "Imperial",
+      "DATE": "2020-12-28",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.161504884639368,
+      "METRIC_VALUE_30_DAYS_AGO": 0.20594262295082,
+      "METRIC_VALUE_DIFF": -0.044437738311452
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Imperial",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.198874296435272,
-      "METRIC_VALUE_30_DAYS_AGO": 0.130932896890344,
-      "METRIC_VALUE_DIFF": 0.067941399544928
-    },
     {
       "COUNTY": "Imperial",
       "DATE": "2020-11-29",
@@ -481,6 +473,14 @@
       "METRIC_VALUE": 0.209302325581395,
       "METRIC_VALUE_30_DAYS_AGO": 0.192857142857143,
       "METRIC_VALUE_DIFF": 0.016445182724253
+    },
+    {
+      "COUNTY": "Imperial",
+      "DATE": "2020-12-28",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.192364170337739,
+      "METRIC_VALUE_30_DAYS_AGO": 0.198874296435272,
+      "METRIC_VALUE_DIFF": -0.006510126097533
     }
   ]
 }

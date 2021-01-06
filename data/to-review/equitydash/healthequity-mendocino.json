@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Mendocino",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.07620320855615,
-      "METRIC_VALUE_30_DAYS_AGO": 0.025685931115003,
-      "METRIC_VALUE_DIFF": 0.050517277441147
-    },
-    {
-      "COUNTY": "Mendocino",
       "DATE": "2020-11-29",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.069209039548023,
@@ -236,20 +228,20 @@
       "COUNTY": "Mendocino",
       "DATE": "2020-12-27",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.065949820788531,
+      "METRIC_VALUE": 0.066260744985673,
       "METRIC_VALUE_30_DAYS_AGO": 0.072181670721817,
-      "METRIC_VALUE_DIFF": -0.006231849933286
+      "METRIC_VALUE_DIFF": -0.005920925736143
+    },
+    {
+      "COUNTY": "Mendocino",
+      "DATE": "2020-12-28",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.080336648814078,
+      "METRIC_VALUE_30_DAYS_AGO": 0.07620320855615,
+      "METRIC_VALUE_DIFF": 0.004133440257928
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Mendocino",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Mendocino",
       "DATE": "2020-11-29",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Mendocino",
       "DATE": "2020-12-27",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Mendocino",
+      "DATE": "2020-12-28",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
