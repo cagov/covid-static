@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "San Benito",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.0870062965083,
-      "METRIC_VALUE_30_DAYS_AGO": 0.032283464566929,
-      "METRIC_VALUE_DIFF": 0.054722831941371
-    },
-    {
-      "COUNTY": "San Benito",
       "DATE": "2020-11-29",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.104287369640788,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.159634317862166,
       "METRIC_VALUE_30_DAYS_AGO": 0.083138173302108,
       "METRIC_VALUE_DIFF": 0.076496144560058
+    },
+    {
+      "COUNTY": "San Benito",
+      "DATE": "2020-12-28",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.159404502541757,
+      "METRIC_VALUE_30_DAYS_AGO": 0.0870062965083,
+      "METRIC_VALUE_DIFF": 0.072398206033458
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "San Benito",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "San Benito",
       "DATE": "2020-11-29",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "San Benito",
       "DATE": "2020-12-27",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "San Benito",
+      "DATE": "2020-12-28",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
