@@ -2,14 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Nevada",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.09883236030025,
-      "METRIC_VALUE_30_DAYS_AGO": 0.016332982086407,
-      "METRIC_VALUE_DIFF": 0.082499378213844
-    },
-    {
-      "COUNTY": "Nevada",
       "DATE": "2020-11-29",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.098654708520179,
@@ -239,17 +231,17 @@
       "METRIC_VALUE": 0.075966850828729,
       "METRIC_VALUE_30_DAYS_AGO": 0.095947063688999,
       "METRIC_VALUE_DIFF": -0.01998021286027
+    },
+    {
+      "COUNTY": "Nevada",
+      "DATE": "2020-12-28",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.08667972575906,
+      "METRIC_VALUE_30_DAYS_AGO": 0.09883236030025,
+      "METRIC_VALUE_DIFF": -0.012152634541191
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Nevada",
-      "DATE": "2020-11-28",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": null,
-      "METRIC_VALUE_30_DAYS_AGO": null,
-      "METRIC_VALUE_DIFF": null
-    },
     {
       "COUNTY": "Nevada",
       "DATE": "2020-11-29",
@@ -477,6 +469,14 @@
     {
       "COUNTY": "Nevada",
       "DATE": "2020-12-27",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": null,
+      "METRIC_VALUE_30_DAYS_AGO": null,
+      "METRIC_VALUE_DIFF": null
+    },
+    {
+      "COUNTY": "Nevada",
+      "DATE": "2020-12-28",
       "METRIC": "county_positivity_low_hpi",
       "METRIC_VALUE": null,
       "METRIC_VALUE_30_DAYS_AGO": null,
