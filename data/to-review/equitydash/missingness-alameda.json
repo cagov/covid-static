@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Alameda",
+      "METRIC": "cases",
+      "MISSING": 4621,
+      "NOT_MISSING": 15738,
+      "TOTAL": 20359,
+      "PERCENT_COMPLETE": 0.773024215334741,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.873347508551354,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.100323293216613,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Alameda",
+      "METRIC": "deaths",
+      "MISSING": 6,
+      "NOT_MISSING": 105,
+      "TOTAL": 111,
+      "PERCENT_COMPLETE": 0.945945945945946,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.054054054054054,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Alameda",
+      "METRIC": "tests",
+      "MISSING": 117131,
+      "NOT_MISSING": 179019,
+      "TOTAL": 296150,
+      "PERCENT_COMPLETE": 0.604487590747932,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.575675267287543,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.028812323460389,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 1117,
+      "NOT_MISSING": 18756,
+      "TOTAL": 19873,
+      "PERCENT_COMPLETE": 0.943793086096714,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.046962296460153,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 4,
+      "NOT_MISSING": 117,
+      "TOTAL": 121,
+      "PERCENT_COMPLETE": 0.966942148760331,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.033057851239669,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 15583,
+      "NOT_MISSING": 4290,
+      "TOTAL": 19873,
+      "PERCENT_COMPLETE": 0.215870779449504,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.263511290858244,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 114,
+      "NOT_MISSING": 7,
+      "TOTAL": 121,
+      "PERCENT_COMPLETE": 0.057851239669422,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.051239669421488,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

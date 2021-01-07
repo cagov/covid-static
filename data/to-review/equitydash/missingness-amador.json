@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Amador",
+      "METRIC": "cases",
+      "MISSING": 1039,
+      "NOT_MISSING": 461,
+      "TOTAL": 1500,
+      "PERCENT_COMPLETE": 0.307333333333333,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.367959949937422,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0606266166040884,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Amador",
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Amador",
+      "METRIC": "tests",
+      "MISSING": 18399,
+      "NOT_MISSING": 3138,
+      "TOTAL": 21537,
+      "PERCENT_COMPLETE": 0.145702744114779,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.174825693517282,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0291229494025031,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 5,
+      "NOT_MISSING": 1638,
+      "TOTAL": 1643,
+      "PERCENT_COMPLETE": 0.996956786366403,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.00133963612082,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 1556,
+      "NOT_MISSING": 87,
+      "TOTAL": 1643,
+      "PERCENT_COMPLETE": 0.052951917224589,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.015473211943499,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

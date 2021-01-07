@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Ventura",
+      "METRIC": "cases",
+      "MISSING": 7850,
+      "NOT_MISSING": 13649,
+      "TOTAL": 21499,
+      "PERCENT_COMPLETE": 0.634866737987813,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.85929050400173,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.224423766013917,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Ventura",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 53,
+      "TOTAL": 53,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Ventura",
+      "METRIC": "tests",
+      "MISSING": 60529,
+      "NOT_MISSING": 112153,
+      "TOTAL": 172682,
+      "PERCENT_COMPLETE": 0.649477073464518,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.745646424002174,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0961693505376557,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 206,
+      "NOT_MISSING": 19308,
+      "TOTAL": 19514,
+      "PERCENT_COMPLETE": 0.989443476478426,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.005996560001282,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 63,
+      "TOTAL": 63,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 19260,
+      "NOT_MISSING": 254,
+      "TOTAL": 19514,
+      "PERCENT_COMPLETE": 0.013016295992621,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.043375252874988,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 62,
+      "NOT_MISSING": 1,
+      "TOTAL": 63,
+      "PERCENT_COMPLETE": 0.015873015873016,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.016385048643113,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

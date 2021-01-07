@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Orange",
+      "METRIC": "cases",
+      "MISSING": 38590,
+      "NOT_MISSING": 39954,
+      "TOTAL": 78544,
+      "PERCENT_COMPLETE": 0.508683031167244,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.621879881167499,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.113196850000255,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Orange",
+      "METRIC": "deaths",
+      "MISSING": 2,
+      "NOT_MISSING": 186,
+      "TOTAL": 188,
+      "PERCENT_COMPLETE": 0.98936170212766,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.994708994708995,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0053472925813351,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Orange",
+      "METRIC": "tests",
+      "MISSING": 316033,
+      "NOT_MISSING": 216964,
+      "TOTAL": 532997,
+      "PERCENT_COMPLETE": 0.407064204864192,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.411945020263514,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0048808153993213,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 1722,
+      "NOT_MISSING": 74085,
+      "TOTAL": 75807,
+      "PERCENT_COMPLETE": 0.977284419644624,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.013147728338154,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 189,
+      "TOTAL": 189,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.01025641025641,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 68484,
+      "NOT_MISSING": 7323,
+      "TOTAL": 75807,
+      "PERCENT_COMPLETE": 0.096600577783054,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.269250163725477,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 158,
+      "NOT_MISSING": 31,
+      "TOTAL": 189,
+      "PERCENT_COMPLETE": 0.164021164021164,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.005046805046805,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}
