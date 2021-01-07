@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "Humboldt",
       "METRIC": "cases",
-      "MISSING": 52,
-      "NOT_MISSING": 602,
-      "TOTAL": 654,
-      "PERCENT_COMPLETE": 0.920489296636086,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.904624277456647,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0158650191794382,
-      "REPORT_DATE": "2020-12-29"
+      "MISSING": 73,
+      "NOT_MISSING": 639,
+      "TOTAL": 712,
+      "PERCENT_COMPLETE": 0.89747191011236,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.925182481751825,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0277105716394652,
+      "REPORT_DATE": "2021-01-06"
     },
     "deaths": {
       "COUNTY": "Humboldt",
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
+      "MISSING": 1,
+      "NOT_MISSING": 12,
+      "TOTAL": 13,
+      "PERCENT_COMPLETE": 0.923076923076923,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-29"
+      "REPORT_DATE": "2021-01-06"
     },
     "tests": {
       "COUNTY": "Humboldt",
       "METRIC": "tests",
-      "MISSING": 6969,
-      "NOT_MISSING": 8866,
-      "TOTAL": 15835,
-      "PERCENT_COMPLETE": 0.559898958004421,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.49421550094518,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.065683457059241,
-      "REPORT_DATE": "2020-12-29"
+      "MISSING": 6913,
+      "NOT_MISSING": 9580,
+      "TOTAL": 16493,
+      "PERCENT_COMPLETE": 0.580852482871521,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.515833333333333,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0650191495381879,
+      "REPORT_DATE": "2021-01-06"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 8,
-      "NOT_MISSING": 717,
-      "TOTAL": 725,
-      "PERCENT_COMPLETE": 0.988965517241379,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.002433530709393,
-      "REPORT_DATE": "2020-12-29"
+      "MISSING": 9,
+      "NOT_MISSING": 738,
+      "TOTAL": 747,
+      "PERCENT_COMPLETE": 0.987951807228916,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.007109921166146,
+      "REPORT_DATE": "2021-01-06"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
+      "MISSING": 0,
+      "NOT_MISSING": 13,
+      "TOTAL": 13,
+      "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-29"
+      "REPORT_DATE": "2021-01-06"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 654,
-      "NOT_MISSING": 71,
-      "TOTAL": 725,
-      "PERCENT_COMPLETE": 0.097931034482759,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.091197027748752,
-      "REPORT_DATE": "2020-12-29"
+      "MISSING": 652,
+      "NOT_MISSING": 95,
+      "TOTAL": 747,
+      "PERCENT_COMPLETE": 0.127175368139224,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.067916108879965,
+      "REPORT_DATE": "2021-01-06"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
+      "MISSING": 13,
+      "NOT_MISSING": 0,
+      "TOTAL": 13,
+      "PERCENT_COMPLETE": 0,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2020-12-29"
+      "REPORT_DATE": "2021-01-06"
     }
   }
 }
