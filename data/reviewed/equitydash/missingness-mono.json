@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Mono",
+      "METRIC": "cases",
+      "MISSING": 76,
+      "NOT_MISSING": 202,
+      "TOTAL": 278,
+      "PERCENT_COMPLETE": 0.726618705035971,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.723529411764706,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0030892932712655,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Mono",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Mono",
+      "METRIC": "tests",
+      "MISSING": 900,
+      "NOT_MISSING": 1191,
+      "TOTAL": 2091,
+      "PERCENT_COMPLETE": 0.569583931133429,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.608812466415906,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0392285352824765,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 1,
+      "NOT_MISSING": 265,
+      "TOTAL": 266,
+      "PERCENT_COMPLETE": 0.996240601503759,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.018267033221821,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 265,
+      "NOT_MISSING": 1,
+      "TOTAL": 266,
+      "PERCENT_COMPLETE": 0.003759398496241,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.009456460534596,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "California",
+      "METRIC": "cases",
+      "MISSING": 293328,
+      "NOT_MISSING": 694902,
+      "TOTAL": 988230,
+      "PERCENT_COMPLETE": 0.703178409884339,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.753482362731104,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0503039528467653,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "California",
+      "METRIC": "deaths",
+      "MISSING": 270,
+      "NOT_MISSING": 5536,
+      "TOTAL": 5806,
+      "PERCENT_COMPLETE": 0.953496383052015,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.990424076607387,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0369276935553721,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "California",
+      "METRIC": "tests",
+      "MISSING": 3376179,
+      "NOT_MISSING": 4533581,
+      "TOTAL": 7909760,
+      "PERCENT_COMPLETE": 0.573162902540659,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.567952912008299,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0052099905323595,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 19740,
+      "NOT_MISSING": 926753,
+      "TOTAL": 946493,
+      "PERCENT_COMPLETE": 0.9791440612873,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.009165310672488,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 37,
+      "NOT_MISSING": 5812,
+      "TOTAL": 5849,
+      "PERCENT_COMPLETE": 0.993674132330313,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.004807072736338,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 871418,
+      "NOT_MISSING": 75075,
+      "TOTAL": 946493,
+      "PERCENT_COMPLETE": 0.079319128614792,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.113538400301001,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 5583,
+      "NOT_MISSING": 266,
+      "TOTAL": 5849,
+      "PERCENT_COMPLETE": 0.045477859463156,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.036054557039791,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

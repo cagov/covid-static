@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Sacramento",
+      "METRIC": "cases",
+      "MISSING": 4586,
+      "NOT_MISSING": 19694,
+      "TOTAL": 24280,
+      "PERCENT_COMPLETE": 0.811120263591433,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.803921568627451,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0071986949639823,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Sacramento",
+      "METRIC": "deaths",
+      "MISSING": 2,
+      "NOT_MISSING": 166,
+      "TOTAL": 168,
+      "PERCENT_COMPLETE": 0.988095238095238,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.99438202247191,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0062867843766721,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Sacramento",
+      "METRIC": "tests",
+      "MISSING": 85996,
+      "NOT_MISSING": 140524,
+      "TOTAL": 226520,
+      "PERCENT_COMPLETE": 0.620360233092001,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.574121487223951,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0462387458680502,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 336,
+      "NOT_MISSING": 23929,
+      "TOTAL": 24265,
+      "PERCENT_COMPLETE": 0.986152895116423,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.002415267215672,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 168,
+      "TOTAL": 168,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.005405405405405,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 21865,
+      "NOT_MISSING": 2400,
+      "TOTAL": 24265,
+      "PERCENT_COMPLETE": 0.098907892025551,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.090574817319976,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 163,
+      "NOT_MISSING": 5,
+      "TOTAL": 168,
+      "PERCENT_COMPLETE": 0.029761904761905,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.013481338481338,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

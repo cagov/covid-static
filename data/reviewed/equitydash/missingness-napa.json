@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Napa",
+      "METRIC": "cases",
+      "MISSING": 432,
+      "NOT_MISSING": 1786,
+      "TOTAL": 2218,
+      "PERCENT_COMPLETE": 0.805229936880072,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.843125378558449,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0378954416783772,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Napa",
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Napa",
+      "METRIC": "tests",
+      "MISSING": 19432,
+      "NOT_MISSING": 13969,
+      "TOTAL": 33401,
+      "PERCENT_COMPLETE": 0.418221011346966,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.373920552677029,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0443004586699363,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 19,
+      "NOT_MISSING": 2247,
+      "TOTAL": 2266,
+      "PERCENT_COMPLETE": 0.991615180935569,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.002969601049113,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 1808,
+      "NOT_MISSING": 458,
+      "TOTAL": 2266,
+      "PERCENT_COMPLETE": 0.202118270079435,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.08174223275917,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

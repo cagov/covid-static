@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Yolo",
+      "METRIC": "cases",
+      "MISSING": 784,
+      "NOT_MISSING": 2201,
+      "TOTAL": 2985,
+      "PERCENT_COMPLETE": 0.737353433835846,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.792213288192975,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0548598543571291,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Yolo",
+      "METRIC": "deaths",
+      "MISSING": 5,
+      "NOT_MISSING": 24,
+      "TOTAL": 29,
+      "PERCENT_COMPLETE": 0.827586206896552,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.933333333333333,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.105747126436782,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Yolo",
+      "METRIC": "tests",
+      "MISSING": 10109,
+      "NOT_MISSING": 17291,
+      "TOTAL": 27400,
+      "PERCENT_COMPLETE": 0.631058394160584,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.602845578314731,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0282128158458532,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 11,
+      "NOT_MISSING": 2996,
+      "TOTAL": 3007,
+      "PERCENT_COMPLETE": 0.996341868972398,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.007656524144812,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 1,
+      "NOT_MISSING": 31,
+      "TOTAL": 32,
+      "PERCENT_COMPLETE": 0.96875,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.03125,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 2565,
+      "NOT_MISSING": 442,
+      "TOTAL": 3007,
+      "PERCENT_COMPLETE": 0.146990355836382,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.20861309243948,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 29,
+      "NOT_MISSING": 3,
+      "TOTAL": 32,
+      "PERCENT_COMPLETE": 0.09375,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.084821428571429,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}
