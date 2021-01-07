@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Sutter",
+      "METRIC": "cases",
+      "MISSING": 402,
+      "NOT_MISSING": 1791,
+      "TOTAL": 2193,
+      "PERCENT_COMPLETE": 0.816689466484268,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.839392728725529,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0227032622412612,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Sutter",
+      "METRIC": "deaths",
+      "MISSING": 3,
+      "NOT_MISSING": 28,
+      "TOTAL": 31,
+      "PERCENT_COMPLETE": 0.903225806451613,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.8125,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0907258064516128,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Sutter",
+      "METRIC": "tests",
+      "MISSING": 4926,
+      "NOT_MISSING": 7492,
+      "TOTAL": 12418,
+      "PERCENT_COMPLETE": 0.603317764535352,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.591970192380807,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0113475721545444,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 32,
+      "NOT_MISSING": 2293,
+      "TOTAL": 2325,
+      "PERCENT_COMPLETE": 0.986236559139785,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.006524557716472,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 32,
+      "TOTAL": 32,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 1941,
+      "NOT_MISSING": 384,
+      "TOTAL": 2325,
+      "PERCENT_COMPLETE": 0.165161290322581,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.024600860659839,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 32,
+      "NOT_MISSING": 0,
+      "TOTAL": 32,
+      "PERCENT_COMPLETE": 0,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

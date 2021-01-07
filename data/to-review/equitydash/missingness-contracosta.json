@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Contra Costa",
+      "METRIC": "cases",
+      "MISSING": 1760,
+      "NOT_MISSING": 12949,
+      "TOTAL": 14709,
+      "PERCENT_COMPLETE": 0.880345366782242,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.919462274433814,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0391169076515716,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Contra Costa",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 56,
+      "TOTAL": 56,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Contra Costa",
+      "METRIC": "tests",
+      "MISSING": 60369,
+      "NOT_MISSING": 121308,
+      "TOTAL": 181677,
+      "PERCENT_COMPLETE": 0.667712478739741,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.627619792494104,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0400926862456377,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 349,
+      "NOT_MISSING": 13527,
+      "TOTAL": 13876,
+      "PERCENT_COMPLETE": 0.974848659556068,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.020436583253927,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 1,
+      "NOT_MISSING": 63,
+      "TOTAL": 64,
+      "PERCENT_COMPLETE": 0.984375,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.015625,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 12239,
+      "NOT_MISSING": 1637,
+      "TOTAL": 13876,
+      "PERCENT_COMPLETE": 0.117973479388873,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.14479565466739,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 62,
+      "NOT_MISSING": 2,
+      "TOTAL": 64,
+      "PERCENT_COMPLETE": 0.03125,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.125,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

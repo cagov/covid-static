@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Del Norte",
+      "METRIC": "cases",
+      "MISSING": 207,
+      "NOT_MISSING": 85,
+      "TOTAL": 292,
+      "PERCENT_COMPLETE": 0.291095890410959,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.516245487364621,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.225149596953662,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Del Norte",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Del Norte",
+      "METRIC": "tests",
+      "MISSING": 11080,
+      "NOT_MISSING": 1508,
+      "TOTAL": 12588,
+      "PERCENT_COMPLETE": 0.119796631712742,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.181318681318681,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.061522049605939,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 4,
+      "NOT_MISSING": 319,
+      "TOTAL": 323,
+      "PERCENT_COMPLETE": 0.987616099071207,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.027024966066281,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 304,
+      "NOT_MISSING": 19,
+      "TOTAL": 323,
+      "PERCENT_COMPLETE": 0.058823529411765,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.093885830194146,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

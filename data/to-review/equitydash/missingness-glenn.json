@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Glenn",
+      "METRIC": "cases",
+      "MISSING": 116,
+      "NOT_MISSING": 345,
+      "TOTAL": 461,
+      "PERCENT_COMPLETE": 0.748373101952278,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.785888077858881,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0375149759066031,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Glenn",
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Glenn",
+      "METRIC": "tests",
+      "MISSING": 1249,
+      "NOT_MISSING": 1717,
+      "TOTAL": 2966,
+      "PERCENT_COMPLETE": 0.578894133513149,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.545537897310514,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0333562362026355,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 33,
+      "NOT_MISSING": 432,
+      "TOTAL": 465,
+      "PERCENT_COMPLETE": 0.929032258064516,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.022038078326921,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 387,
+      "NOT_MISSING": 78,
+      "TOTAL": 465,
+      "PERCENT_COMPLETE": 0.167741935483871,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.321554700601756,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Lake",
+      "METRIC": "cases",
+      "MISSING": 205,
+      "NOT_MISSING": 592,
+      "TOTAL": 797,
+      "PERCENT_COMPLETE": 0.742785445420326,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.943310657596372,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.200525212176046,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "COUNTY": "Lake",
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "tests": {
+      "COUNTY": "Lake",
+      "METRIC": "tests",
+      "MISSING": 4748,
+      "NOT_MISSING": 3720,
+      "TOTAL": 8468,
+      "PERCENT_COMPLETE": 0.439300897496457,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.494437172774869,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0551362752784119,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 5,
+      "NOT_MISSING": 824,
+      "TOTAL": 829,
+      "PERCENT_COMPLETE": 0.993968636911942,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.018879668940412,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 667,
+      "NOT_MISSING": 162,
+      "TOTAL": 829,
+      "PERCENT_COMPLETE": 0.195416164053076,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.19960162954123,
+      "REPORT_DATE": "2021-01-06"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-01-06"
+    }
+  }
+}
