@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Mariposa",
       "METRIC": "cases",
-      "MISSING": 17,
-      "NOT_MISSING": 97,
-      "TOTAL": 114,
-      "PERCENT_COMPLETE": 0.850877192982456,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.472527472527472,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.378349720454984,
-      "REPORT_DATE": "2021-01-12"
+      "MISSING": 19,
+      "NOT_MISSING": 101,
+      "TOTAL": 120,
+      "PERCENT_COMPLETE": 0.841666666666667,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.536842105263158,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.304824561403509,
+      "REPORT_DATE": "2021-01-19"
     },
     "deaths": {
       "COUNTY": "Mariposa",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-12"
+      "REPORT_DATE": "2021-01-19"
     },
     "tests": {
       "COUNTY": "Mariposa",
       "METRIC": "tests",
-      "MISSING": 1581,
-      "NOT_MISSING": 950,
-      "TOTAL": 2531,
-      "PERCENT_COMPLETE": 0.375345713156855,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.308386234547277,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.066959478609578,
-      "REPORT_DATE": "2021-01-12"
+      "MISSING": 1711,
+      "NOT_MISSING": 928,
+      "TOTAL": 2639,
+      "PERCENT_COMPLETE": 0.351648351648352,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.33889816360601,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0127501880423416,
+      "REPORT_DATE": "2021-01-19"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 2,
-      "NOT_MISSING": 119,
-      "TOTAL": 121,
-      "PERCENT_COMPLETE": 0.983471074380165,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.016528925619835,
-      "REPORT_DATE": "2021-01-12"
+      "MISSING": 1,
+      "NOT_MISSING": 123,
+      "TOTAL": 124,
+      "PERCENT_COMPLETE": 0.991935483870968,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.003700189753321,
+      "REPORT_DATE": "2021-01-19"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-12"
+      "REPORT_DATE": "2021-01-19"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 77,
-      "NOT_MISSING": 44,
-      "TOTAL": 121,
-      "PERCENT_COMPLETE": 0.363636363636364,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.25064935064935,
-      "REPORT_DATE": "2021-01-12"
+      "MISSING": 88,
+      "NOT_MISSING": 36,
+      "TOTAL": 124,
+      "PERCENT_COMPLETE": 0.290322580645161,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.286148007590133,
+      "REPORT_DATE": "2021-01-19"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-12"
+      "REPORT_DATE": "2021-01-19"
     }
   }
 }
