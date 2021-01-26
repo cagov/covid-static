@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Inyo",
       "METRIC": "cases",
-      "MISSING": 55,
-      "NOT_MISSING": 298,
-      "TOTAL": 353,
-      "PERCENT_COMPLETE": 0.844192634560906,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.812765957446808,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.031426677114098,
-      "REPORT_DATE": "2021-01-19"
+      "MISSING": 74,
+      "NOT_MISSING": 290,
+      "TOTAL": 364,
+      "PERCENT_COMPLETE": 0.796703296703297,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.837209302325581,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0405060056222848,
+      "REPORT_DATE": "2021-01-26"
     },
     "deaths": {
       "COUNTY": "Inyo",
@@ -20,58 +20,18 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-19"
+      "REPORT_DATE": "2021-01-26"
     },
     "tests": {
       "COUNTY": "Inyo",
       "METRIC": "tests",
-      "MISSING": 1714,
-      "NOT_MISSING": 520,
-      "TOTAL": 2234,
-      "PERCENT_COMPLETE": 0.232766338406446,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.191525423728814,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0412409146776323,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "gender_identity": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 2,
-      "NOT_MISSING": 327,
-      "TOTAL": 329,
-      "PERCENT_COMPLETE": 0.993920972644377,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.006079027355623,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "deaths": {
-      "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "sexual_orientation": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 308,
-      "NOT_MISSING": 21,
-      "TOTAL": 329,
-      "PERCENT_COMPLETE": 0.063829787234043,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.112965792876454,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "deaths": {
-      "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-19"
+      "MISSING": 1854,
+      "NOT_MISSING": 560,
+      "TOTAL": 2414,
+      "PERCENT_COMPLETE": 0.231980115990058,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.191397000789266,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.040583115200792,
+      "REPORT_DATE": "2021-01-26"
     }
   }
 }
