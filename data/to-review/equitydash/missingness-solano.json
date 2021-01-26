@@ -3,75 +3,35 @@
     "cases": {
       "COUNTY": "Solano",
       "METRIC": "cases",
-      "MISSING": 2262,
-      "NOT_MISSING": 6322,
-      "TOTAL": 8584,
-      "PERCENT_COMPLETE": 0.736486486486486,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.783217793183131,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0467313066966446,
-      "REPORT_DATE": "2021-01-19"
+      "MISSING": 1962,
+      "NOT_MISSING": 6008,
+      "TOTAL": 7970,
+      "PERCENT_COMPLETE": 0.753826850690088,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.75509429186179,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0012674411717018,
+      "REPORT_DATE": "2021-01-26"
     },
     "deaths": {
       "COUNTY": "Solano",
-      "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "tests": {
-      "COUNTY": "Solano",
-      "METRIC": "tests",
-      "MISSING": 44349,
-      "NOT_MISSING": 43630,
-      "TOTAL": 87979,
-      "PERCENT_COMPLETE": 0.495913797610793,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.455758983319406,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0401548142913877,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "gender_identity": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 76,
-      "NOT_MISSING": 8418,
-      "TOTAL": 8494,
-      "PERCENT_COMPLETE": 0.991052507652461,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.002661478727843,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "deaths": {
       "METRIC": "deaths",
       "MISSING": 0,
       "NOT_MISSING": 11,
       "TOTAL": 11,
       "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "sexual_orientation": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 6792,
-      "NOT_MISSING": 1702,
-      "TOTAL": 8494,
-      "PERCENT_COMPLETE": 0.200376736519896,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.14029027936975,
-      "REPORT_DATE": "2021-01-19"
+      "REPORT_DATE": "2021-01-26"
     },
-    "deaths": {
-      "METRIC": "deaths",
-      "MISSING": 8,
-      "NOT_MISSING": 3,
-      "TOTAL": 11,
-      "PERCENT_COMPLETE": 0.272727272727273,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.06060606060606,
-      "REPORT_DATE": "2021-01-19"
+    "tests": {
+      "COUNTY": "Solano",
+      "METRIC": "tests",
+      "MISSING": 40990,
+      "NOT_MISSING": 44018,
+      "TOTAL": 85008,
+      "PERCENT_COMPLETE": 0.517810088462262,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.459199898907996,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0586101895542667,
+      "REPORT_DATE": "2021-01-26"
     }
   }
 }

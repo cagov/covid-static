@@ -3,75 +3,35 @@
     "cases": {
       "COUNTY": "El Dorado",
       "METRIC": "cases",
-      "MISSING": 661,
-      "NOT_MISSING": 1795,
-      "TOTAL": 2456,
-      "PERCENT_COMPLETE": 0.73086319218241,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.664191152728447,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0666720394539635,
-      "REPORT_DATE": "2021-01-19"
+      "MISSING": 609,
+      "NOT_MISSING": 1564,
+      "TOTAL": 2173,
+      "PERCENT_COMPLETE": 0.71974229176254,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.681847545219638,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.037894746542902,
+      "REPORT_DATE": "2021-01-26"
     },
     "deaths": {
       "COUNTY": "El Dorado",
       "METRIC": "deaths",
-      "MISSING": 2,
-      "NOT_MISSING": 20,
-      "TOTAL": 22,
-      "PERCENT_COMPLETE": 0.909090909090909,
+      "MISSING": 3,
+      "NOT_MISSING": 29,
+      "TOTAL": 32,
+      "PERCENT_COMPLETE": 0.90625,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0909090909090909,
-      "REPORT_DATE": "2021-01-19"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.09375,
+      "REPORT_DATE": "2021-01-26"
     },
     "tests": {
       "COUNTY": "El Dorado",
       "METRIC": "tests",
-      "MISSING": 7938,
-      "NOT_MISSING": 11935,
-      "TOTAL": 19873,
-      "PERCENT_COMPLETE": 0.600563578724903,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.563029597204931,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0375339815199717,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "gender_identity": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 206,
-      "NOT_MISSING": 2471,
-      "TOTAL": 2677,
-      "PERCENT_COMPLETE": 0.923048188270452,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.071722527739202,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "deaths": {
-      "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 23,
-      "TOTAL": 23,
-      "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "sexual_orientation": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 2572,
-      "NOT_MISSING": 105,
-      "TOTAL": 2677,
-      "PERCENT_COMPLETE": 0.039223010833022,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.026746417968265,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "deaths": {
-      "METRIC": "deaths",
-      "MISSING": 20,
-      "NOT_MISSING": 3,
-      "TOTAL": 23,
-      "PERCENT_COMPLETE": 0.130434782608696,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.107660455486542,
-      "REPORT_DATE": "2021-01-19"
+      "MISSING": 8015,
+      "NOT_MISSING": 11270,
+      "TOTAL": 19285,
+      "PERCENT_COMPLETE": 0.584392014519056,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.582073611567532,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0023184029515243,
+      "REPORT_DATE": "2021-01-26"
     }
   }
 }
