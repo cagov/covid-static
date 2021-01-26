@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Siskiyou",
       "METRIC": "cases",
-      "MISSING": 69,
-      "NOT_MISSING": 178,
-      "TOTAL": 247,
-      "PERCENT_COMPLETE": 0.720647773279352,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.669082125603865,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0515656476754876,
-      "REPORT_DATE": "2021-01-19"
+      "MISSING": 63,
+      "NOT_MISSING": 193,
+      "TOTAL": 256,
+      "PERCENT_COMPLETE": 0.75390625,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.730407523510972,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0234987264890282,
+      "REPORT_DATE": "2021-01-26"
     },
     "deaths": {
       "COUNTY": "Siskiyou",
@@ -20,58 +20,18 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-19"
+      "REPORT_DATE": "2021-01-26"
     },
     "tests": {
       "COUNTY": "Siskiyou",
       "METRIC": "tests",
-      "MISSING": 1305,
-      "NOT_MISSING": 952,
-      "TOTAL": 2257,
-      "PERCENT_COMPLETE": 0.421798848028356,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.374757281553398,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0470415664749582,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "gender_identity": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 1,
-      "NOT_MISSING": 237,
-      "TOTAL": 238,
-      "PERCENT_COMPLETE": 0.995798319327731,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.001848739495798,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "deaths": {
-      "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-19"
-    }
-  },
-  "sexual_orientation": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 208,
-      "NOT_MISSING": 30,
-      "TOTAL": 238,
-      "PERCENT_COMPLETE": 0.126050420168067,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.076638655462185,
-      "REPORT_DATE": "2021-01-19"
-    },
-    "deaths": {
-      "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-01-19"
+      "MISSING": 1457,
+      "NOT_MISSING": 1114,
+      "TOTAL": 2571,
+      "PERCENT_COMPLETE": 0.433294437961883,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.353641456582633,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0796529813792495,
+      "REPORT_DATE": "2021-01-26"
     }
   }
 }
