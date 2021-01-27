@@ -33,5 +33,45 @@
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0519226719446115,
       "REPORT_DATE": "2021-01-26"
     }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 28,
+      "NOT_MISSING": 9741,
+      "TOTAL": 9769,
+      "PERCENT_COMPLETE": 0.997133790561982,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.002377641917987,
+      "REPORT_DATE": "2021-01-26"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 57,
+      "TOTAL": 57,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-01-26"
+    }
+  },
+  "sexual_orientation": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 8549,
+      "NOT_MISSING": 1220,
+      "TOTAL": 9769,
+      "PERCENT_COMPLETE": 0.124884839799365,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.020415140657934,
+      "REPORT_DATE": "2021-01-26"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 56,
+      "NOT_MISSING": 1,
+      "TOTAL": 57,
+      "PERCENT_COMPLETE": 0.017543859649123,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.102456140350877,
+      "REPORT_DATE": "2021-01-26"
+    }
   }
 }
