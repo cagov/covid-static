@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "Solano",
       "METRIC": "cases",
-      "MISSING": 1962,
-      "NOT_MISSING": 6008,
-      "TOTAL": 7970,
-      "PERCENT_COMPLETE": 0.753826850690088,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.75509429186179,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0012674411717018,
-      "REPORT_DATE": "2021-01-26"
+      "MISSING": 1982,
+      "NOT_MISSING": 5939,
+      "TOTAL": 7921,
+      "PERCENT_COMPLETE": 0.749779068299457,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.755193432018908,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0054143637194507,
+      "REPORT_DATE": "2021-01-28"
     },
     "deaths": {
       "COUNTY": "Solano",
-      "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 11,
-      "TOTAL": 11,
-      "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-01-26"
-    },
-    "tests": {
-      "COUNTY": "Solano",
-      "METRIC": "tests",
-      "MISSING": 40990,
-      "NOT_MISSING": 44018,
-      "TOTAL": 85008,
-      "PERCENT_COMPLETE": 0.517810088462262,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.459199898907996,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0586101895542667,
-      "REPORT_DATE": "2021-01-26"
-    }
-  },
-  "gender_identity": {
-    "cases": {
-      "METRIC": "cases",
-      "MISSING": 66,
-      "NOT_MISSING": 7544,
-      "TOTAL": 7610,
-      "PERCENT_COMPLETE": 0.991327201051248,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.000820143323395,
-      "REPORT_DATE": "2021-01-26"
-    },
-    "deaths": {
       "METRIC": "deaths",
       "MISSING": 0,
       "NOT_MISSING": 13,
       "TOTAL": 13,
       "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-01-26"
+      "REPORT_DATE": "2021-01-28"
+    },
+    "tests": {
+      "COUNTY": "Solano",
+      "METRIC": "tests",
+      "MISSING": 41969,
+      "NOT_MISSING": 45026,
+      "TOTAL": 86995,
+      "PERCENT_COMPLETE": 0.517569975285936,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.454586619770221,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0629833555157145,
+      "REPORT_DATE": "2021-01-28"
+    }
+  },
+  "gender_identity": {
+    "cases": {
+      "METRIC": "cases",
+      "MISSING": 61,
+      "NOT_MISSING": 7382,
+      "TOTAL": 7443,
+      "PERCENT_COMPLETE": 0.991804379954319,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.000042302322373,
+      "REPORT_DATE": "2021-01-28"
+    },
+    "deaths": {
+      "METRIC": "deaths",
+      "MISSING": 0,
+      "NOT_MISSING": 14,
+      "TOTAL": 14,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-01-28"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 5818,
-      "NOT_MISSING": 1792,
-      "TOTAL": 7610,
-      "PERCENT_COMPLETE": 0.235479632063075,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.059494668336697,
-      "REPORT_DATE": "2021-01-26"
+      "MISSING": 5598,
+      "NOT_MISSING": 1845,
+      "TOTAL": 7443,
+      "PERCENT_COMPLETE": 0.247883917775091,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.038767855472605,
+      "REPORT_DATE": "2021-01-28"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 9,
-      "NOT_MISSING": 4,
-      "TOTAL": 13,
-      "PERCENT_COMPLETE": 0.307692307692308,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.067307692307692,
-      "REPORT_DATE": "2021-01-26"
+      "MISSING": 8,
+      "NOT_MISSING": 6,
+      "TOTAL": 14,
+      "PERCENT_COMPLETE": 0.428571428571429,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.095238095238096,
+      "REPORT_DATE": "2021-01-28"
     }
   }
 }
