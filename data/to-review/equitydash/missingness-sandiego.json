@@ -1,5 +1,27 @@
 {
   "race_ethnicity": {
+    "cases": {
+      "COUNTY": "San Diego",
+      "METRIC": "cases",
+      "MISSING": 9541,
+      "NOT_MISSING": 63978,
+      "TOTAL": 73519,
+      "PERCENT_COMPLETE": 0.870224023721759,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.838666171228823,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0315578524929356,
+      "REPORT_DATE": "2021-01-28"
+    },
+    "deaths": {
+      "COUNTY": "San Diego",
+      "METRIC": "deaths",
+      "MISSING": 50,
+      "NOT_MISSING": 850,
+      "TOTAL": 900,
+      "PERCENT_COMPLETE": 0.944444444444444,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.988805970149254,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0443615257048093,
+      "REPORT_DATE": "2021-01-28"
+    },
     "tests": {
       "COUNTY": "San Diego",
       "METRIC": "tests",

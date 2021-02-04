@@ -1,5 +1,27 @@
 {
   "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Santa Clara",
+      "METRIC": "cases",
+      "MISSING": 3151,
+      "NOT_MISSING": 26041,
+      "TOTAL": 29192,
+      "PERCENT_COMPLETE": 0.892059468347493,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.854635840919981,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0374236274275117,
+      "REPORT_DATE": "2021-01-28"
+    },
+    "deaths": {
+      "COUNTY": "Santa Clara",
+      "METRIC": "deaths",
+      "MISSING": 41,
+      "NOT_MISSING": 332,
+      "TOTAL": 373,
+      "PERCENT_COMPLETE": 0.890080428954424,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.968481375358166,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0784009464037426,
+      "REPORT_DATE": "2021-01-28"
+    },
     "tests": {
       "COUNTY": "Santa Clara",
       "METRIC": "tests",

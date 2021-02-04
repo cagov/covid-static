@@ -1,5 +1,27 @@
 {
   "race_ethnicity": {
+    "cases": {
+      "COUNTY": "Orange",
+      "METRIC": "cases",
+      "MISSING": 18607,
+      "NOT_MISSING": 50244,
+      "TOTAL": 68851,
+      "PERCENT_COMPLETE": 0.729749749458977,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.541392644815068,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.188357104643908,
+      "REPORT_DATE": "2021-01-28"
+    },
+    "deaths": {
+      "COUNTY": "Orange",
+      "METRIC": "deaths",
+      "MISSING": 44,
+      "NOT_MISSING": 492,
+      "TOTAL": 536,
+      "PERCENT_COMPLETE": 0.917910447761194,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.995319812792512,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0774093650313176,
+      "REPORT_DATE": "2021-01-28"
+    },
     "tests": {
       "COUNTY": "Orange",
       "METRIC": "tests",
