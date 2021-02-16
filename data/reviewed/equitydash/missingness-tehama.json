@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Tehama",
       "METRIC": "cases",
-      "MISSING": 168,
-      "NOT_MISSING": 617,
-      "TOTAL": 785,
-      "PERCENT_COMPLETE": 0.785987261146497,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.808426073131955,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0224388119854586,
-      "REPORT_DATE": "2021-02-09"
+      "MISSING": 125,
+      "NOT_MISSING": 440,
+      "TOTAL": 565,
+      "PERCENT_COMPLETE": 0.778761061946903,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.838414634146341,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0596535721994388,
+      "REPORT_DATE": "2021-02-16"
     },
     "deaths": {
       "COUNTY": "Tehama",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     },
     "tests": {
       "COUNTY": "Tehama",
       "METRIC": "tests",
-      "MISSING": 2774,
-      "NOT_MISSING": 2925,
-      "TOTAL": 5699,
-      "PERCENT_COMPLETE": 0.513247938234778,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.540633510104629,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0273855718698515,
-      "REPORT_DATE": "2021-02-09"
+      "MISSING": 2761,
+      "NOT_MISSING": 2699,
+      "TOTAL": 5460,
+      "PERCENT_COMPLETE": 0.494322344322344,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.549809551714035,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0554872073916902,
+      "REPORT_DATE": "2021-02-16"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 1,
-      "NOT_MISSING": 656,
-      "TOTAL": 657,
-      "PERCENT_COMPLETE": 0.998477929984779,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.003972435479284,
-      "REPORT_DATE": "2021-02-09"
+      "MISSING": 0,
+      "NOT_MISSING": 479,
+      "TOTAL": 479,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.004488330341113,
+      "REPORT_DATE": "2021-02-16"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 528,
-      "NOT_MISSING": 129,
-      "TOTAL": 657,
-      "PERCENT_COMPLETE": 0.19634703196347,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.037169451553014,
-      "REPORT_DATE": "2021-02-09"
+      "MISSING": 385,
+      "NOT_MISSING": 94,
+      "TOTAL": 479,
+      "PERCENT_COMPLETE": 0.196242171189979,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.082034309959034,
+      "REPORT_DATE": "2021-02-16"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     }
   }
 }

@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Trinity",
       "METRIC": "cases",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "MISSING": 9,
+      "NOT_MISSING": 3,
+      "TOTAL": 12,
+      "PERCENT_COMPLETE": 0.25,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.76,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.51,
+      "REPORT_DATE": "2021-02-16"
     },
     "deaths": {
       "COUNTY": "Trinity",
@@ -20,18 +20,18 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     },
     "tests": {
       "COUNTY": "Trinity",
       "METRIC": "tests",
-      "MISSING": 276,
-      "NOT_MISSING": 116,
-      "TOTAL": 392,
-      "PERCENT_COMPLETE": 0.295918367346939,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.218421052631579,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0774973147153598,
-      "REPORT_DATE": "2021-02-09"
+      "MISSING": 243,
+      "NOT_MISSING": 107,
+      "TOTAL": 350,
+      "PERCENT_COMPLETE": 0.305714285714286,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.218181818181818,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0875324675324676,
+      "REPORT_DATE": "2021-02-16"
     }
   },
   "gender_identity": {
@@ -42,7 +42,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,7 +51,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     }
   },
   "sexual_orientation": {
@@ -62,7 +62,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-09"
+      "REPORT_DATE": "2021-02-16"
     }
   }
 }
