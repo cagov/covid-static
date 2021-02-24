@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Amador",
       "METRIC": "cases",
-      "MISSING": 223,
-      "NOT_MISSING": 145,
-      "TOTAL": 368,
-      "PERCENT_COMPLETE": 0.394021739130435,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.408730158730159,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.014708419599724,
-      "REPORT_DATE": "2021-02-16"
+      "MISSING": 195,
+      "NOT_MISSING": 129,
+      "TOTAL": 324,
+      "PERCENT_COMPLETE": 0.398148148148148,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.421313506815366,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0231653586672174,
+      "REPORT_DATE": "2021-02-22"
     },
     "deaths": {
       "COUNTY": "Amador",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-16"
+      "REPORT_DATE": "2021-02-22"
     },
     "tests": {
       "COUNTY": "Amador",
       "METRIC": "tests",
-      "MISSING": 12975,
-      "NOT_MISSING": 2332,
-      "TOTAL": 15307,
-      "PERCENT_COMPLETE": 0.152348598680342,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.158884907251265,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0065363085709224,
-      "REPORT_DATE": "2021-02-16"
+      "MISSING": 12971,
+      "NOT_MISSING": 2236,
+      "TOTAL": 15207,
+      "PERCENT_COMPLETE": 0.147037548497402,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.161301409096116,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0142638605987139,
+      "REPORT_DATE": "2021-02-22"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 350,
-      "TOTAL": 350,
+      "NOT_MISSING": 290,
+      "TOTAL": 290,
       "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.00106269925611,
-      "REPORT_DATE": "2021-02-16"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.001256281407035,
+      "REPORT_DATE": "2021-02-22"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-16"
+      "REPORT_DATE": "2021-02-22"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 304,
-      "NOT_MISSING": 46,
-      "TOTAL": 350,
-      "PERCENT_COMPLETE": 0.131428571428571,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.049600728708061,
-      "REPORT_DATE": "2021-02-16"
+      "MISSING": 250,
+      "NOT_MISSING": 40,
+      "TOTAL": 290,
+      "PERCENT_COMPLETE": 0.137931034482759,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.049991335990297,
+      "REPORT_DATE": "2021-02-22"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-16"
+      "REPORT_DATE": "2021-02-22"
     }
   }
 }
