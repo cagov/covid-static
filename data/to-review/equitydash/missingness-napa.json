@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "Napa",
       "METRIC": "cases",
-      "MISSING": 99,
-      "NOT_MISSING": 681,
-      "TOTAL": 780,
-      "PERCENT_COMPLETE": 0.873076923076923,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.890369242481919,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0172923194049955,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 57,
+      "NOT_MISSING": 459,
+      "TOTAL": 516,
+      "PERCENT_COMPLETE": 0.88953488372093,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.893736501079914,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0042016173589835,
+      "REPORT_DATE": "2021-03-02"
     },
     "deaths": {
       "COUNTY": "Napa",
       "METRIC": "deaths",
-      "MISSING": 2,
-      "NOT_MISSING": 15,
-      "TOTAL": 17,
-      "PERCENT_COMPLETE": 0.882352941176471,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.117647058823529,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-03-02"
     },
     "tests": {
       "COUNTY": "Napa",
       "METRIC": "tests",
-      "MISSING": 14554,
-      "NOT_MISSING": 11833,
-      "TOTAL": 26387,
-      "PERCENT_COMPLETE": 0.448440519953007,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.468167020523708,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0197265005707013,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 13576,
+      "NOT_MISSING": 10890,
+      "TOTAL": 24466,
+      "PERCENT_COMPLETE": 0.44510749611706,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.471668960867489,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0265614647504285,
+      "REPORT_DATE": "2021-03-02"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 2,
-      "NOT_MISSING": 585,
-      "TOTAL": 587,
-      "PERCENT_COMPLETE": 0.996592844974446,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.001130050056116,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 1,
+      "NOT_MISSING": 398,
+      "TOTAL": 399,
+      "PERCENT_COMPLETE": 0.99749373433584,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.000707446173012,
+      "REPORT_DATE": "2021-03-02"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 18,
-      "TOTAL": 18,
-      "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-03-02"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 401,
-      "NOT_MISSING": 186,
-      "TOTAL": 587,
-      "PERCENT_COMPLETE": 0.316865417376491,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.043725671459976,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 267,
+      "NOT_MISSING": 132,
+      "TOTAL": 399,
+      "PERCENT_COMPLETE": 0.330827067669173,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.048020425998043,
+      "REPORT_DATE": "2021-03-02"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 18,
-      "NOT_MISSING": 0,
-      "TOTAL": 18,
-      "PERCENT_COMPLETE": 0,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.12,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-03-02"
     }
   }
 }

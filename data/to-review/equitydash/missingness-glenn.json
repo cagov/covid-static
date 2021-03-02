@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Glenn",
       "METRIC": "cases",
-      "MISSING": 47,
-      "NOT_MISSING": 114,
-      "TOTAL": 161,
-      "PERCENT_COMPLETE": 0.708074534161491,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.771959459459459,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0638849252979686,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 37,
+      "NOT_MISSING": 98,
+      "TOTAL": 135,
+      "PERCENT_COMPLETE": 0.725925925925926,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.775,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.049074074074074,
+      "REPORT_DATE": "2021-03-02"
     },
     "deaths": {
       "COUNTY": "Glenn",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-22"
+      "REPORT_DATE": "2021-03-02"
     },
     "tests": {
       "COUNTY": "Glenn",
       "METRIC": "tests",
-      "MISSING": 993,
-      "NOT_MISSING": 1040,
-      "TOTAL": 2033,
-      "PERCENT_COMPLETE": 0.511559272011805,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.575355756791721,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0637964847799154,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 834,
+      "NOT_MISSING": 1016,
+      "TOTAL": 1850,
+      "PERCENT_COMPLETE": 0.549189189189189,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.553076402974983,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0038872137857938,
+      "REPORT_DATE": "2021-03-02"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 4,
-      "NOT_MISSING": 121,
-      "TOTAL": 125,
-      "PERCENT_COMPLETE": 0.968,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.019878787878788,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 3,
+      "NOT_MISSING": 104,
+      "TOTAL": 107,
+      "PERCENT_COMPLETE": 0.97196261682243,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.020285445193074,
+      "REPORT_DATE": "2021-03-02"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-22"
+      "REPORT_DATE": "2021-03-02"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 111,
-      "NOT_MISSING": 14,
-      "TOTAL": 125,
-      "PERCENT_COMPLETE": 0.112,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.12840404040404,
-      "REPORT_DATE": "2021-02-22"
+      "MISSING": 96,
+      "NOT_MISSING": 11,
+      "TOTAL": 107,
+      "PERCENT_COMPLETE": 0.102803738317757,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.171098070467773,
+      "REPORT_DATE": "2021-03-02"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-02-22"
+      "REPORT_DATE": "2021-03-02"
     }
   }
 }
