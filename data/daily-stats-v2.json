@@ -56,6 +56,222 @@
       "DOSES_ADMINISTERED": 123456789,
       "CUMMULATIVE_DAILY_DOSES_ADMINISTERED": 10003942,
       "PCT_INCREASE_FROM_PRIOR_DAY": 123456789
+    },
+    "by_race_and_ethnicity": {
+      "cases": [
+        {
+          "CATEGORY": "American Indian or Alaska Native",
+          "METRIC_VALUE": 0.3
+        },
+        {
+          "CATEGORY": "Asian",
+          "METRIC_VALUE": 6.8
+        },
+        {
+          "CATEGORY": "Black",
+          "METRIC_VALUE": 4.1
+        },
+        {
+          "CATEGORY": "Latino",
+          "METRIC_VALUE": 55.3
+        },
+        {
+          "CATEGORY": "Multi-Race",
+          "METRIC_VALUE": 1.6
+        },
+        {
+          "CATEGORY": "Native Hawaiian and other Pacific Islander",
+          "METRIC_VALUE": 0.6
+        },
+        {
+          "CATEGORY": "Other",
+          "METRIC_VALUE": 11.2
+        },
+        {
+          "CATEGORY": "White",
+          "METRIC_VALUE": 20.1
+        }
+      ],
+      "deaths": [
+        {
+          "CATEGORY": "American Indian or Alaska Native",
+          "METRIC_VALUE": 0.3
+        },
+        {
+          "CATEGORY": "Asian",
+          "METRIC_VALUE": 11.6
+        },
+        {
+          "CATEGORY": "Black",
+          "METRIC_VALUE": 6.2
+        },
+        {
+          "CATEGORY": "Latino",
+          "METRIC_VALUE": 46.3
+        },
+        {
+          "CATEGORY": "Multi-Race",
+          "METRIC_VALUE": 1.3
+        },
+        {
+          "CATEGORY": "Native Hawaiian and other Pacific Islander",
+          "METRIC_VALUE": 0.6
+        },
+        {
+          "CATEGORY": "Other",
+          "METRIC_VALUE": 2.1
+        },
+        {
+          "CATEGORY": "White",
+          "METRIC_VALUE": 31.5
+        }
+      ],
+      "population": [
+        {
+          "CATEGORY": "American Indian or Alaska Native",
+          "METRIC_VALUE": 0.5
+        },
+        {
+          "CATEGORY": "Asian",
+          "METRIC_VALUE": 15.4
+        },
+        {
+          "CATEGORY": "Black",
+          "METRIC_VALUE": 6
+        },
+        {
+          "CATEGORY": "Latino",
+          "METRIC_VALUE": 38.9
+        },
+        {
+          "CATEGORY": "Multi-Race",
+          "METRIC_VALUE": 2.2
+        },
+        {
+          "CATEGORY": "Native Hawaiian and other Pacific Islander",
+          "METRIC_VALUE": 0.3
+        },
+        {
+          "CATEGORY": "Other",
+          "METRIC_VALUE": 0
+        },
+        {
+          "CATEGORY": "White",
+          "METRIC_VALUE": 36.6
+        }
+      ]
+    },
+    "by_gender": {
+      "cases": [
+        {
+          "CATEGORY": "Female",
+          "METRIC_VALUE": 50.8
+        },
+        {
+          "CATEGORY": "Male",
+          "METRIC_VALUE": 47.7
+        },
+        {
+          "CATEGORY": "Unknown",
+          "METRIC_VALUE": 1.5
+        }
+      ],
+      "deaths": [
+        {
+          "CATEGORY": "Female",
+          "METRIC_VALUE": 41.4
+        },
+        {
+          "CATEGORY": "Male",
+          "METRIC_VALUE": 58.2
+        },
+        {
+          "CATEGORY": "Unknown",
+          "METRIC_VALUE": 0.4
+        }
+      ],
+      "population": [
+        {
+          "CATEGORY": "Female",
+          "METRIC_VALUE": 50.3
+        },
+        {
+          "CATEGORY": "Male",
+          "METRIC_VALUE": 49.7
+        },
+        {
+          "CATEGORY": "Unknown",
+          "METRIC_VALUE": 0
+        }
+      ]
+    },
+    "by_age": {
+      "cases": [
+        {
+          "CATEGORY": "0-17",
+          "METRIC_VALUE": 12.9
+        },
+        {
+          "CATEGORY": "18-49",
+          "METRIC_VALUE": 57.3
+        },
+        {
+          "CATEGORY": "50-64",
+          "METRIC_VALUE": 19.1
+        },
+        {
+          "CATEGORY": "65+",
+          "METRIC_VALUE": 10.7
+        },
+        {
+          "CATEGORY": "Missing",
+          "METRIC_VALUE": 0.1
+        }
+      ],
+      "deaths": [
+        {
+          "CATEGORY": "0-17",
+          "METRIC_VALUE": 0
+        },
+        {
+          "CATEGORY": "18-49",
+          "METRIC_VALUE": 6.6
+        },
+        {
+          "CATEGORY": "50-64",
+          "METRIC_VALUE": 19.4
+        },
+        {
+          "CATEGORY": "65+",
+          "METRIC_VALUE": 74
+        },
+        {
+          "CATEGORY": "Missing",
+          "METRIC_VALUE": 0
+        }
+      ],
+      "population": [
+        {
+          "CATEGORY": "0-17",
+          "METRIC_VALUE": 22.5
+        },
+        {
+          "CATEGORY": "18-49",
+          "METRIC_VALUE": 43.5
+        },
+        {
+          "CATEGORY": "50-64",
+          "METRIC_VALUE": 18.4
+        },
+        {
+          "CATEGORY": "65+",
+          "METRIC_VALUE": 15.6
+        },
+        {
+          "CATEGORY": "Missing",
+          "METRIC_VALUE": 0
+        }
+      ]
     }
   }
 }
