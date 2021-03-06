@@ -1,7 +1,68 @@
 {
   "meta": {
-    "LATEST_ADMINISTERED_DATE": "2021-03-05",
-    "PUBLISHED_DATE": "2021-03-05"
+    "title": "Vaccines, Healthy Places Index (HPI)",
+    "published_date": "2021-03-05",
+    "administered_date": "2021-03-05",
+    "name": "vaccines-hpi",
+    "version": "v2.0.0",
+    "intent": "",
+    "description": "",
+    "tags": ["COVID-19"],
+    "groups": "",
+    "licenses": "",
+    "author": "",
+    "data_dictionary_type": "",
+    "data_dictionary": "",
+    "program_contact": "",
+    "public_access_level": "",
+    "topics": ["COVID-19"],
+    "language": "English",
+    "rights": "",
+    "homepage": "",
+    "data_standard": "",
+    "documentation_template": "",
+    "related_content": "",
+    "data_methodology": "",
+    "meta_updated": "2021-03-05T15:28:00.000Z",
+    "reference_files": "",
+    "edit_data_source_url": "",
+    "appears_on": ["https://staging.ca.gov/v2-state-dashboard"],
+    "contributors": "",
+    "metric": "",
+    "data_attributes": "",
+    "calculations": "",
+    "datasets": [
+      {
+        "name": "VaccineHPI",
+        "label": "Healthy Places Index (HPI) Vaccine data showing infections by group.",
+        "data_service": "Snowflake",
+        "data_pipeline": "Snowflake > Github > FaaS HttpTrigger > \nJSON file\n",
+        "spatial_coverage": "Statewide",
+        "temporal_coverage": "",
+        "data_warehouse": "VWH_CA_VACCINE",
+        "database": "CA_VACCINE",
+        "table": "CA_VACCINE.VW_TAB_INT_ALL",
+        "data_query": "https://github.com/cagov/Cron/tree/master/common/SQL/CDTCDPH_VACCINE/vaccine_hpi",
+        "data_location": "https://files.covid19.ca.gov/data/vaccine-hpi/vaccine-hpi.json.",
+        "review_data_location": "",
+        "version": "v2.0.0",
+        "metadata": "Infections by group",
+        "fields": {
+          "validation_schema": {
+          },
+          "labels": {
+            "HPIQUARTILE": "Quartile",
+            "AGE16_POPULATION": "Age 16",
+            "FIRST_DOSE": "First dose",
+            "COMPLETED_DOSE": "Completed dose",
+            "COMBINED_DOSES": "Combined doses",
+            "FIRST_DOSE_RATIO": "First dose ratio",
+            "COMPLETED_DOSE_RATIO": "Completed dose ratio",
+            "COMBINED_DOSES_RATIO": "Combined dose ratio",
+          }
+        }
+      }
+    ]
   },
   "data": [
     {
