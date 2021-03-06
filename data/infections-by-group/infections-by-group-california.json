@@ -1,10 +1,85 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-04",
-    "METRIC_VALUE_VALID_RANGE" : {
-      "MINIMUM":0, 
-      "MAXIMUM":100  
-    }
+    "title": "Infections by group",
+    "published_date": "2021-03-04",
+    "administered_date": "",
+    "name": "california-infections-by-group",
+    "version": "v2.0.0",
+    "intent": "",
+    "description": "",
+    "tags": ["COVID-19"],
+    "groups": "",
+    "licenses": "",
+    "author": "",
+    "data_dictionary_type": "",
+    "data_dictionary": "",
+    "program_contact": "",
+    "public_access_level": "",
+    "topics": ["COVID-19"],
+    "language": "English",
+    "rights": "",
+    "homepage": "",
+    "data_standard": "",
+    "documentation_template": "",
+    "related_content": "",
+    "data_methodology": "",
+    "meta_updated": "2021-03-05T15:28:00.000Z",
+    "reference_files": "",
+    "edit_data_source_url": "",
+    "appears_on": ["https://staging.ca.gov/v2-state-dashboard"],
+    "contributors": "",
+    "metric": "",
+    "data_attributes": "",
+    "calculations": "",
+    "datasets": [
+      {
+        "name": "infections-by-group-california",
+        "data_service": "Snowflake",
+        "data_pipeline": "Snowflake > Github > FaaS HttpTrigger > \nJSON file\n",
+        "spatial_coverage": "Statewide",
+        "temporal_coverage": "",
+        "data_warehouse": "",
+        "database": "",
+        "table": "",
+        "data_query": "",
+        "data_location": "",
+        "review_data_location": "",
+        "version": "v2.0.0",
+        "metadata": "california-infections-by-group",
+        "fields": {
+          "validation_schema": {
+            "METRIC_VALUE": {
+              "minimum": 0,
+              "maximum": 100
+            }
+          },
+          "labels": {
+            "age": {
+              "0-17": "0-17",
+              "18-49": "18-49",
+              "50-64": "50-64",
+              "65+": "65+",
+              "Missing": "Missing"
+            },
+            "gender": {
+              "Female": "Female",
+              "Male": "Male",
+              "Unknown": "Unknown"
+            },
+            "race_and_ethnicity": {
+              "American Indian or Alaska Native": "American Indian or Alaska Native",
+              "Asian": "Asian",
+              "Black": "Black",
+              "Latino": "Latino",
+              "Multi-race": "Multi-race",
+              "Native Hawaiian and other Pacific Islander": "Native Hawaiian and other Pacific Islander",
+              "Other": "Other",
+              "White": "White"
+            }
+          }
+        }
+      }
+    ]
   },
   "data": {
     "by_race_and_ethnicity": {
