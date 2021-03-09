@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "Yolo",
       "METRIC": "cases",
-      "MISSING": 108,
-      "NOT_MISSING": 601,
-      "TOTAL": 709,
-      "PERCENT_COMPLETE": 0.847672778561354,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.804634695848085,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.043038082713269,
-      "REPORT_DATE": "2021-03-02"
+      "MISSING": 83,
+      "NOT_MISSING": 521,
+      "TOTAL": 604,
+      "PERCENT_COMPLETE": 0.862582781456954,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.830465799412505,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0321169820444486,
+      "REPORT_DATE": "2021-03-09"
     },
     "deaths": {
       "COUNTY": "Yolo",
       "METRIC": "deaths",
-      "MISSING": 2,
-      "NOT_MISSING": 9,
-      "TOTAL": 11,
-      "PERCENT_COMPLETE": 0.818181818181818,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.888888888888889,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0707070707070706,
-      "REPORT_DATE": "2021-03-02"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-03-09"
     },
     "tests": {
       "COUNTY": "Yolo",
       "METRIC": "tests",
-      "MISSING": 16065,
-      "NOT_MISSING": 36787,
-      "TOTAL": 52852,
-      "PERCENT_COMPLETE": 0.696037992885794,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.697185722026551,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0011477291407569,
-      "REPORT_DATE": "2021-03-02"
+      "MISSING": 17233,
+      "NOT_MISSING": 42689,
+      "TOTAL": 59922,
+      "PERCENT_COMPLETE": 0.712409465638664,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.695603727714749,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0168057379239148,
+      "REPORT_DATE": "2021-03-09"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 6,
-      "NOT_MISSING": 573,
-      "TOTAL": 579,
-      "PERCENT_COMPLETE": 0.989637305699482,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.009930428585615,
-      "REPORT_DATE": "2021-03-02"
+      "NOT_MISSING": 495,
+      "TOTAL": 501,
+      "PERCENT_COMPLETE": 0.988023952095808,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.009985136978341,
+      "REPORT_DATE": "2021-03-09"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 13,
-      "TOTAL": 13,
-      "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-03-02"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-03-09"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 446,
-      "NOT_MISSING": 133,
-      "TOTAL": 579,
-      "PERCENT_COMPLETE": 0.229706390328152,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.002912925718447,
-      "REPORT_DATE": "2021-03-02"
+      "MISSING": 394,
+      "NOT_MISSING": 107,
+      "TOTAL": 501,
+      "PERCENT_COMPLETE": 0.213572854291417,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.050472089528808,
+      "REPORT_DATE": "2021-03-09"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 12,
-      "NOT_MISSING": 1,
-      "TOTAL": 13,
-      "PERCENT_COMPLETE": 0.076923076923077,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.039355992844365,
-      "REPORT_DATE": "2021-03-02"
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
+      "PERCENT_COMPLETE": null,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
+      "REPORT_DATE": "2021-03-09"
     }
   }
 }
