@@ -31,6 +31,20 @@ If you name a file like that when the site is built (which happens anytime conte
 
 So if you have a file named: ```myfile--en.pdf``` and you upload it in the pdf directory with another file named ```myfile--ar.pdf``` when the Arabic page containing that url is built the Arabic url will be used.
 
-## Builds
+## Deploys
 
-git action builds deploy on any file change, you can rerun an existing manually and it will checkout latest code or you can modify a file to trigger a build
+git action builds deploy on any file change, the list of files changed in the last commit are deployed. This is different than other git actions where we do a full checkout and deploy everything. We don't do that here because these are big files and it takes longer to check them all out and move them all each time.
+
+### Disabling
+
+You can disable deploys temporarily by turning off the git action by selecting it in the actions page of the github web interface and choosing disable workflow from the kebab menu on the right.
+
+If you have disabled it and commits are occuring you will need to rerun those commits to get those file changes deployed after you re-enable the workflow
+
+A good way to do that in a foolproof manner is to first revert any change that occurred during disabled deploys, then revert the revert. You can cancel the git action workflow triggerred during the initial revert if you want without negative effects but it is unnecessary to do that because deploys from this repo do not delete files in the Azure blob storage target
+
+## File persistence
+
+Deleting a file in this repo will not remove it from the Azure blob storage. That needs to be done manually in Azure if you want to totally remove a file from production url
+
+There is a 1 minute cache on the CDN in front of files.covid19.ca.gov
