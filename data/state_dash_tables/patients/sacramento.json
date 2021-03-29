@@ -6,18 +6,24 @@
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 96,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 0.032258
+        "TOTAL": 102,
+        "CHANGE": 6,
+        "CHANGE_FACTOR": 0.0625,
+        "POPULATION": 1567975
       },
       "ICU_PATIENTS": {
-        "TOTAL": 21,
-        "CHANGE": 4,
-        "CHANGE_FACTOR": 0.235294
+        "TOTAL": 23,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.095238,
+        "POPULATION": 1567975
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 102
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 96
@@ -1477,6 +1483,10 @@
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 103.071
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 105.285
         },
@@ -2935,6 +2945,10 @@
       ],
       "ICU_PATIENTS": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 23
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 21
         },
@@ -4392,6 +4406,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 20.5
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 20.5
