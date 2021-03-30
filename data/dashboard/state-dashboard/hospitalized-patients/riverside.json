@@ -6,14 +6,18 @@
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 145,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 0.021127,
+        "TOTAL": 137,
+        "CHANGE": -8,
+        "CHANGE_FACTOR": -0.055172,
         "POPULATION": 2468145
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 137
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 145
@@ -1476,6 +1480,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 168.357
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 174.428
