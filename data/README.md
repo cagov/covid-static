@@ -29,6 +29,7 @@ This folder includes the majority of our static JSON data files for [https://cov
 ## Upcoming file structure
 
 | File path | Hosted file |
+| -- | -- |
 |`data/dashboard/hospitalized-patients` | |
 |`data/dashboard/icu-beds` | |
 |`data/dashboard/icu-patients` | |
