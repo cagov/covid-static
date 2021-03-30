@@ -27,17 +27,17 @@ This folder includes the majority of our static JSON data files for [https://cov
 * **Pattern** — `data/{type}/{chart}/{version}/{coverage area}`
 
 ## Upcoming file structure
-`data/dashboard/hospitalized-patients`
-`data/dashboard/icu-beds`
-`data/dashboard/icu-patients`
-`data/dashboard/confirmed-cases-episode-date`
-`data/dashboard/confirmed-cases-reported-date`
-`data/dashboard/confirmed-deaths-death-date`
-`data/dashboard/confirmed-deaths-reported-date`
-`data/dashboard/positivity-rate`
-`data/dashboard/total-tests-reported-date`
-`data/dashboard/total-tests-testing-date`
-`data/dashboard/infections-by-group`
+|`data/dashboard/hospitalized-patients` | |
+|`data/dashboard/icu-beds` | |
+|`data/dashboard/icu-patients` | |
+|`data/dashboard/confirmed-cases-episode-date` | |
+|`data/dashboard/confirmed-cases-reported-date` | |
+|`data/dashboard/confirmed-deaths-death-date` | |
+|`data/dashboard/confirmed-deaths-reported-date` | |
+|`data/dashboard/positivity-rate` | |
+|`data/dashboard/total-tests-reported-date` | |
+|`data/dashboard/total-tests-testing-date` | |
+|`data/dashboard/infections-by-group` | |
 
 ## Migrating data structures
 
