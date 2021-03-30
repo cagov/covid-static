@@ -1,23 +1,29 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-29",
+    "PUBLISHED_DATE": "2021-03-30",
     "coverage": "Marin"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
         "TOTAL": 11,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.083333
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
+        "POPULATION": 260800
       },
       "ICU_PATIENTS": {
-        "TOTAL": 3,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.25
+        "TOTAL": 4,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.333333,
+        "POPULATION": 260800
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 11
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 11
@@ -1477,6 +1483,10 @@
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 14.785
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 15.285
         },
@@ -2935,6 +2945,10 @@
       ],
       "ICU_PATIENTS": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 4
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 3
         },
@@ -4392,6 +4406,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 4.785
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 5

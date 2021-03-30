@@ -1,23 +1,29 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-29",
+    "PUBLISHED_DATE": "2021-03-30",
     "coverage": "Santa Clara"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 110,
-        "CHANGE": -9,
-        "CHANGE_FACTOR": -0.07563
+        "TOTAL": 122,
+        "CHANGE": 12,
+        "CHANGE_FACTOR": 0.109091,
+        "POPULATION": 1967585
       },
       "ICU_PATIENTS": {
-        "TOTAL": 30,
-        "CHANGE": -3,
-        "CHANGE_FACTOR": -0.090909
+        "TOTAL": 33,
+        "CHANGE": 3,
+        "CHANGE_FACTOR": 0.1,
+        "POPULATION": 1967585
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 122
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 110
@@ -1477,6 +1483,10 @@
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 128.785
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 131.357
         },
@@ -2935,6 +2945,10 @@
       ],
       "ICU_PATIENTS": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 33
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 30
         },
@@ -4392,6 +4406,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 36.285
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 37.142

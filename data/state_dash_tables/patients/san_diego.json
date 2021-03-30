@@ -1,23 +1,29 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-29",
+    "PUBLISHED_DATE": "2021-03-30",
     "coverage": "San Diego"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 214,
-        "CHANGE": 6,
-        "CHANGE_FACTOR": 0.028846
+        "TOTAL": 195,
+        "CHANGE": -19,
+        "CHANGE_FACTOR": -0.088785,
+        "POPULATION": 3370418
       },
       "ICU_PATIENTS": {
-        "TOTAL": 69,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.014706
+        "TOTAL": 72,
+        "CHANGE": 3,
+        "CHANGE_FACTOR": 0.043478,
+        "POPULATION": 3370418
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 195
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 214
@@ -1477,6 +1483,10 @@
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 245.071
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 253
         },
@@ -2935,6 +2945,10 @@
       ],
       "ICU_PATIENTS": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 72
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 69
         },
@@ -4392,6 +4406,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 83.428
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 85.214

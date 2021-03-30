@@ -1,23 +1,29 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-29",
+    "PUBLISHED_DATE": "2021-03-30",
     "coverage": "Solano"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 34,
-        "CHANGE": -2,
-        "CHANGE_FACTOR": -0.055556
+        "TOTAL": 36,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.058824,
+        "POPULATION": 444255
       },
       "ICU_PATIENTS": {
-        "TOTAL": 5,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.166667
+        "TOTAL": 6,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.2,
+        "POPULATION": 444255
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 36
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 34
@@ -1477,6 +1483,10 @@
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 34.428
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 34.428
         },
@@ -2935,6 +2945,10 @@
       ],
       "ICU_PATIENTS": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 6
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 5
         },
@@ -4392,6 +4406,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 6.928
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 6.857

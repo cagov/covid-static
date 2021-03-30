@@ -1,23 +1,29 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-29",
+    "PUBLISHED_DATE": "2021-03-30",
     "coverage": "Fresno"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 144,
-        "CHANGE": 10,
-        "CHANGE_FACTOR": 0.074627
+        "TOTAL": 143,
+        "CHANGE": -1,
+        "CHANGE_FACTOR": -0.006944,
+        "POPULATION": 1032227
       },
       "ICU_PATIENTS": {
-        "TOTAL": 31,
-        "CHANGE": 5,
-        "CHANGE_FACTOR": 0.192308
+        "TOTAL": 27,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.129032,
+        "POPULATION": 1032227
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 143
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 144
@@ -1477,6 +1483,10 @@
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 144.071
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 144.142
         },
@@ -2935,6 +2945,10 @@
       ],
       "ICU_PATIENTS": [
         {
+          "DATE": "2021-03-29",
+          "VALUE": 27
+        },
+        {
           "DATE": "2021-03-28",
           "VALUE": 31
         },
@@ -4392,6 +4406,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 29.071
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 29.428
