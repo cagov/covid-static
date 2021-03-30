@@ -1,18 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-29",
+    "PUBLISHED_DATE": "2021-03-30",
     "coverage": "Yolo"
   },
   "data": {
     "latest": {
       "ICU_AVAILABLE_BEDS": {
-        "TOTAL": 1,
+        "TOTAL": 2,
         "CHANGE": 1,
-        "CHANGE_FACTOR": 0
+        "CHANGE_FACTOR": 1,
+        "POPULATION": 223612
       }
     },
     "time_series": {
       "ICU_AVAILABLE_BEDS": [
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-03-28",
           "VALUE": 1
