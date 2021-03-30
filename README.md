@@ -33,8 +33,7 @@ So if you have a file named: ```myfile--en.pdf``` and you upload it in the pdf d
 
 ### Data
 
-Our data sources power our covid19.ca.gov charts and tracker boxes.
-[Data](./data/README.md)
+Our data sources power our covid19.ca.gov charts and tracker boxes. [Data sources](./data/README.md).
 
 ## Deploys
 
