@@ -48,9 +48,9 @@ This folder includes the majority of our static JSON data files for [https://cov
 |`data/infections-by-group/infections-by-group-california.json` | `data/dashboard/infections-by-group/v1/california.json` | Unscheduled | Unscheduled | |
 |`data/reviewed/equity-dash/*` | `data/equity-dash/v2/reviewed/*` | Unscheduled | Unscheduled | Not changing file structure |
 |`data/to-review/equity-dash/*` | `data/equity-dash/v2/reviewed/*` | Unscheduled | Unscheduled |
-|`data/vaccine-equity/age/vaccines_by_age_{county|state}.json` | `data/dashboard/vaccine-equity/v2/age/{county|state}.json` | Unscheduled | Unscheduled | |
-|`data/vaccine-equity/gender/vaccines_by_gender_{county|state}.json` | `data/dashboard/vaccine-equity/v2/gender/{county|state}.json` | Unscheduled | Unscheduled | |
-|`data/vaccine-equity/race-ethnicity/vaccines_by_race_ethnicity_{county|state}.json` | `data/dashboard/vaccine-equity/race-ethnicity/v2/{county|state}.json`| Unscheduled | Unscheduled | |
+|`data/vaccine-equity/age/vaccines_by_age_{county\|state}.json` | `data/dashboard/vaccine-equity/v2/age/{county\|state}.json` | Unscheduled | Unscheduled | |
+|`data/vaccine-equity/gender/vaccines_by_gender_{county\|state}.json` | `data/dashboard/vaccine-equity/v2/gender/{county\|state}.json` | Unscheduled | Unscheduled | |
+|`data/vaccine-equity/race-ethnicity/vaccines_by_race_ethnicity_{county\|state}.json` | `data/dashboard/vaccine-equity/race-ethnicity/v2/{county\|state}.json`| Unscheduled | Unscheduled | |
 |`data/vaccine-hpi/vaccine-hpi.json` |  | Unscheduled | Unscheduled | Will remove v1 after scheduled announcement. |
 |`data/vaccine-hpi/v2/vaccine-hpi.json` | `data/dashboard/vaccine-hpi/v2/california.json` | Unscheduled | Unscheduled | |
 |`data/daily-stats-v2.json` | `data/stats/v2/covid19-daily-stats.json` | Unscheduled | Unscheduled | @TODO Confirm |
