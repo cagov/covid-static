@@ -6,14 +6,18 @@
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 25,
-        "CHANGE": 4,
-        "CHANGE_FACTOR": 0.190476,
+        "TOTAL": 24,
+        "CHANGE": -1,
+        "CHANGE_FACTOR": -0.04,
         "POPULATION": 562303
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 24
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 25
@@ -1476,6 +1480,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 26.071
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 26.5
