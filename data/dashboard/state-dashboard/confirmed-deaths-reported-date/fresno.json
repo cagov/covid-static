@@ -6,15 +6,19 @@
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 1606,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.05531729,
+        "total_confirmed_deaths": 1609,
+        "new_deaths": 3,
+        "new_deaths_delta_1_day": 0.001868,
+        "deaths_per_100k_7_days": 0.041463748,
         "POPULATION": 1032227
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 3
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0
@@ -1589,6 +1593,10 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 0.470536035
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0.691902072

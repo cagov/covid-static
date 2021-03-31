@@ -6,16 +6,20 @@
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 34,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-08",
+        "total_confirmed_deaths": 35,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.029412,
+        "deaths_per_100k_7_days": 0.105892705,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-09",
         "POPULATION": 134098
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0
@@ -118,7 +122,7 @@
         },
         {
           "DATE": "2021-03-04",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-03",
@@ -1591,6 +1595,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-30",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-29",
           "VALUE": 0
         },
@@ -1668,31 +1676,31 @@
         },
         {
           "DATE": "2021-03-10",
-          "VALUE": 0
+          "VALUE": 0.105892705
         },
         {
           "DATE": "2021-03-09",
-          "VALUE": 0
+          "VALUE": 0.105892705
         },
         {
           "DATE": "2021-03-08",
-          "VALUE": 0
+          "VALUE": 0.105892705
         },
         {
           "DATE": "2021-03-07",
-          "VALUE": 0
+          "VALUE": 0.105892705
         },
         {
           "DATE": "2021-03-06",
-          "VALUE": 0
+          "VALUE": 0.105892705
         },
         {
           "DATE": "2021-03-05",
-          "VALUE": 0
+          "VALUE": 0.105892705
         },
         {
           "DATE": "2021-03-04",
-          "VALUE": 0
+          "VALUE": 0.105892705
         },
         {
           "DATE": "2021-03-03",

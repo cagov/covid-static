@@ -6,15 +6,19 @@
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 27442,
-        "new_cases": 16,
-        "new_cases_delta_1_day": 0.000583,
-        "cases_per_100k_7_days": 6.48477164,
+        "total_confirmed_cases": 27471,
+        "new_cases": 29,
+        "new_cases_delta_1_day": 0.001057,
+        "cases_per_100k_7_days": 5.291966042,
         "POPULATION": 191649
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 29
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 16
@@ -1589,6 +1593,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 11.255472244
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 10.435744512
