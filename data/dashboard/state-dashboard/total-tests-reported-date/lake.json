@@ -1,5870 +1,2668 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Lake"
   },
   "data": {
     "latest": {
-      "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 2,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
-        "POPULATION": 64871
-      },
-      "ICU_PATIENTS": {
-        "TOTAL": 1,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+      "TOTAL_TESTS_REPORTED_DATE": {
+        "total_tests_performed": 61283,
+        "new_tests_reported": 119,
+        "new_tests_reported_delta_1_day": 0.001945588909,
         "POPULATION": 64871
       }
     },
     "time_series": {
-      "HOSPITALIZED_PATIENTS": [
+      "REPORTED_TESTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 119
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 70
+        },
         {
           "DATE": "2021-03-29",
-          "VALUE": 2
+          "VALUE": 96
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 2
+          "VALUE": 101
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 1
+          "VALUE": 118
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 1
+          "VALUE": 97
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 2
+          "VALUE": 130
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 2
+          "VALUE": 123
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 1
+          "VALUE": 79
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 1
+          "VALUE": 93
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 1
+          "VALUE": 131
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 2
+          "VALUE": 111
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 2
+          "VALUE": 160
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 1
+          "VALUE": 112
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 2
+          "VALUE": 157
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 3
+          "VALUE": 40
         },
         {
           "DATE": "2021-03-15",
-          "VALUE": 2
+          "VALUE": 91
         },
         {
           "DATE": "2021-03-14",
-          "VALUE": 2
+          "VALUE": 117
         },
         {
           "DATE": "2021-03-13",
-          "VALUE": 2
+          "VALUE": 120
         },
         {
           "DATE": "2021-03-12",
-          "VALUE": 1
+          "VALUE": 136
         },
         {
           "DATE": "2021-03-11",
-          "VALUE": 1
+          "VALUE": 140
         },
         {
           "DATE": "2021-03-10",
-          "VALUE": 2
+          "VALUE": 150
         },
         {
           "DATE": "2021-03-09",
-          "VALUE": 0
+          "VALUE": 60
         },
         {
           "DATE": "2021-03-08",
-          "VALUE": 1
+          "VALUE": 111
         },
         {
           "DATE": "2021-03-07",
-          "VALUE": 0
+          "VALUE": 135
         },
         {
           "DATE": "2021-03-06",
-          "VALUE": 0
+          "VALUE": 124
         },
         {
           "DATE": "2021-03-05",
-          "VALUE": 0
+          "VALUE": 126
         },
         {
           "DATE": "2021-03-04",
-          "VALUE": 0
+          "VALUE": 140
         },
         {
           "DATE": "2021-03-03",
-          "VALUE": 0
+          "VALUE": 189
         },
         {
           "DATE": "2021-03-02",
-          "VALUE": 0
+          "VALUE": 80
         },
         {
           "DATE": "2021-03-01",
-          "VALUE": 0
+          "VALUE": 134
         },
         {
           "DATE": "2021-02-28",
-          "VALUE": 1
+          "VALUE": 128
         },
         {
           "DATE": "2021-02-27",
-          "VALUE": 1
+          "VALUE": 152
         },
         {
           "DATE": "2021-02-26",
-          "VALUE": 3
+          "VALUE": 153
         },
         {
           "DATE": "2021-02-25",
-          "VALUE": 5
+          "VALUE": 211
         },
         {
           "DATE": "2021-02-24",
-          "VALUE": 3
+          "VALUE": 158
         },
         {
           "DATE": "2021-02-23",
-          "VALUE": 4
+          "VALUE": 85
         },
         {
           "DATE": "2021-02-22",
-          "VALUE": 4
+          "VALUE": 105
         },
         {
           "DATE": "2021-02-21",
-          "VALUE": 1
+          "VALUE": 187
         },
         {
           "DATE": "2021-02-20",
-          "VALUE": 1
+          "VALUE": 111
         },
         {
           "DATE": "2021-02-19",
-          "VALUE": 1
+          "VALUE": 132
         },
         {
           "DATE": "2021-02-18",
-          "VALUE": 2
+          "VALUE": 155
         },
         {
           "DATE": "2021-02-17",
-          "VALUE": 2
+          "VALUE": 153
         },
         {
           "DATE": "2021-02-16",
-          "VALUE": 1
+          "VALUE": 96
         },
         {
           "DATE": "2021-02-15",
-          "VALUE": 3
+          "VALUE": 133
         },
         {
           "DATE": "2021-02-14",
-          "VALUE": 4
+          "VALUE": 160
         },
         {
           "DATE": "2021-02-13",
-          "VALUE": 7
+          "VALUE": 228
         },
         {
           "DATE": "2021-02-12",
-          "VALUE": 6
+          "VALUE": 206
         },
         {
           "DATE": "2021-02-11",
-          "VALUE": 7
+          "VALUE": 251
         },
         {
           "DATE": "2021-02-10",
-          "VALUE": 7
+          "VALUE": 163
         },
         {
           "DATE": "2021-02-09",
-          "VALUE": 5
+          "VALUE": 77
         },
         {
           "DATE": "2021-02-08",
-          "VALUE": 3
+          "VALUE": 123
         },
         {
           "DATE": "2021-02-07",
-          "VALUE": 2
+          "VALUE": 230
         },
         {
           "DATE": "2021-02-06",
-          "VALUE": 2
+          "VALUE": 133
         },
         {
           "DATE": "2021-02-05",
-          "VALUE": 2
+          "VALUE": 122
         },
         {
           "DATE": "2021-02-04",
-          "VALUE": 2
+          "VALUE": 135
         },
         {
           "DATE": "2021-02-03",
-          "VALUE": 3
+          "VALUE": 152
         },
         {
           "DATE": "2021-02-02",
-          "VALUE": 4
+          "VALUE": 89
         },
         {
           "DATE": "2021-02-01",
-          "VALUE": 5
+          "VALUE": 129
         },
         {
           "DATE": "2021-01-31",
-          "VALUE": 7
+          "VALUE": 179
         },
         {
           "DATE": "2021-01-30",
-          "VALUE": 7
+          "VALUE": 166
         },
         {
           "DATE": "2021-01-29",
-          "VALUE": 8
+          "VALUE": 146
         },
         {
           "DATE": "2021-01-28",
-          "VALUE": 8
+          "VALUE": 145
         },
         {
           "DATE": "2021-01-27",
-          "VALUE": 10
+          "VALUE": 193
         },
         {
           "DATE": "2021-01-26",
-          "VALUE": 9
+          "VALUE": 94
         },
         {
           "DATE": "2021-01-25",
-          "VALUE": 9
+          "VALUE": 131
         },
         {
           "DATE": "2021-01-24",
-          "VALUE": 9
+          "VALUE": 225
         },
         {
           "DATE": "2021-01-23",
-          "VALUE": 9
+          "VALUE": 199
         },
         {
           "DATE": "2021-01-22",
-          "VALUE": 9
+          "VALUE": 229
         },
         {
           "DATE": "2021-01-21",
-          "VALUE": 11
+          "VALUE": 196
         },
         {
           "DATE": "2021-01-20",
-          "VALUE": 17
+          "VALUE": 282
         },
         {
           "DATE": "2021-01-19",
-          "VALUE": 17
+          "VALUE": 193
         },
         {
           "DATE": "2021-01-18",
-          "VALUE": 16
+          "VALUE": 280
         },
         {
           "DATE": "2021-01-17",
-          "VALUE": 16
+          "VALUE": 383
         },
         {
           "DATE": "2021-01-16",
-          "VALUE": 16
+          "VALUE": 322
         },
         {
           "DATE": "2021-01-15",
-          "VALUE": 13
+          "VALUE": 333
         },
         {
           "DATE": "2021-01-14",
-          "VALUE": 12
+          "VALUE": 286
         },
         {
           "DATE": "2021-01-13",
-          "VALUE": 9
+          "VALUE": 281
         },
         {
           "DATE": "2021-01-12",
-          "VALUE": 8
+          "VALUE": 151
         },
         {
           "DATE": "2021-01-11",
-          "VALUE": 9
+          "VALUE": 170
         },
         {
           "DATE": "2021-01-10",
-          "VALUE": 10
+          "VALUE": 252
         },
         {
           "DATE": "2021-01-09",
-          "VALUE": 10
+          "VALUE": 405
         },
         {
           "DATE": "2021-01-08",
-          "VALUE": 12
+          "VALUE": 270
         },
         {
           "DATE": "2021-01-07",
-          "VALUE": 11
+          "VALUE": 249
         },
         {
           "DATE": "2021-01-06",
-          "VALUE": 11
+          "VALUE": 247
         },
         {
           "DATE": "2021-01-05",
-          "VALUE": 12
+          "VALUE": 193
         },
         {
           "DATE": "2021-01-04",
-          "VALUE": 9
+          "VALUE": 184
         },
         {
           "DATE": "2021-01-03",
-          "VALUE": 8
+          "VALUE": 296
         },
         {
           "DATE": "2021-01-02",
-          "VALUE": 9
+          "VALUE": 323
         },
         {
           "DATE": "2021-01-01",
-          "VALUE": 9
+          "VALUE": 318
         },
         {
           "DATE": "2020-12-31",
-          "VALUE": 11
+          "VALUE": 182
         },
         {
           "DATE": "2020-12-30",
-          "VALUE": 8
+          "VALUE": 210
         },
         {
           "DATE": "2020-12-29",
-          "VALUE": 7
+          "VALUE": 272
         },
         {
           "DATE": "2020-12-28",
-          "VALUE": 8
+          "VALUE": 366
         },
         {
           "DATE": "2020-12-27",
-          "VALUE": 8
+          "VALUE": 330
         },
         {
           "DATE": "2020-12-26",
-          "VALUE": 9
+          "VALUE": 385
         },
         {
           "DATE": "2020-12-25",
-          "VALUE": 5
+          "VALUE": 306
         },
         {
           "DATE": "2020-12-24",
-          "VALUE": 6
+          "VALUE": 216
         },
         {
           "DATE": "2020-12-23",
-          "VALUE": 6
+          "VALUE": 246
         },
         {
           "DATE": "2020-12-22",
-          "VALUE": 6
+          "VALUE": 345
         },
         {
           "DATE": "2020-12-21",
-          "VALUE": 7
+          "VALUE": 280
         },
         {
           "DATE": "2020-12-20",
-          "VALUE": 8
+          "VALUE": 387
         },
         {
           "DATE": "2020-12-19",
-          "VALUE": 10
+          "VALUE": 319
         },
         {
           "DATE": "2020-12-18",
-          "VALUE": 8
+          "VALUE": 310
         },
         {
           "DATE": "2020-12-17",
-          "VALUE": 6
+          "VALUE": 269
         },
         {
           "DATE": "2020-12-16",
-          "VALUE": 4
+          "VALUE": 349
         },
         {
           "DATE": "2020-12-15",
-          "VALUE": 7
+          "VALUE": 310
         },
         {
           "DATE": "2020-12-14",
-          "VALUE": 5
+          "VALUE": 268
         },
         {
           "DATE": "2020-12-13",
-          "VALUE": 4
+          "VALUE": 251
         },
         {
           "DATE": "2020-12-12",
-          "VALUE": 4
+          "VALUE": 278
         },
         {
           "DATE": "2020-12-11",
-          "VALUE": 5
+          "VALUE": 250
         },
         {
           "DATE": "2020-12-10",
-          "VALUE": 4
+          "VALUE": 331
         },
         {
           "DATE": "2020-12-09",
-          "VALUE": 4
+          "VALUE": 307
         },
         {
           "DATE": "2020-12-08",
-          "VALUE": 4
+          "VALUE": 317
         },
         {
           "DATE": "2020-12-07",
-          "VALUE": 2
+          "VALUE": 229
         },
         {
           "DATE": "2020-12-06",
-          "VALUE": 3
+          "VALUE": 394
         },
         {
           "DATE": "2020-12-05",
-          "VALUE": 3
+          "VALUE": 221
         },
         {
           "DATE": "2020-12-04",
-          "VALUE": 2
+          "VALUE": 221
         },
         {
           "DATE": "2020-12-03",
-          "VALUE": 2
+          "VALUE": 175
         },
         {
           "DATE": "2020-12-02",
-          "VALUE": 0
+          "VALUE": 141
         },
         {
           "DATE": "2020-12-01",
-          "VALUE": 2
+          "VALUE": 150
         },
         {
           "DATE": "2020-11-30",
-          "VALUE": 2
+          "VALUE": 134
         },
         {
           "DATE": "2020-11-29",
-          "VALUE": 2
+          "VALUE": 205
         },
         {
           "DATE": "2020-11-28",
-          "VALUE": 2
+          "VALUE": 135
         },
         {
           "DATE": "2020-11-27",
-          "VALUE": 2
+          "VALUE": 197
         },
         {
           "DATE": "2020-11-26",
-          "VALUE": 3
+          "VALUE": 159
         },
         {
           "DATE": "2020-11-25",
-          "VALUE": 2
+          "VALUE": 189
         },
         {
           "DATE": "2020-11-24",
-          "VALUE": 2
+          "VALUE": 132
         },
         {
           "DATE": "2020-11-23",
-          "VALUE": 1
+          "VALUE": 189
         },
         {
           "DATE": "2020-11-22",
-          "VALUE": 1
+          "VALUE": 189
         },
         {
           "DATE": "2020-11-21",
-          "VALUE": 1
+          "VALUE": 189
         },
         {
           "DATE": "2020-11-20",
-          "VALUE": 2
+          "VALUE": 190
         },
         {
           "DATE": "2020-11-19",
-          "VALUE": 2
+          "VALUE": 190
         },
         {
           "DATE": "2020-11-18",
-          "VALUE": 2
+          "VALUE": 128
         },
         {
           "DATE": "2020-11-17",
-          "VALUE": 1
+          "VALUE": 90
         },
         {
           "DATE": "2020-11-16",
-          "VALUE": 1
+          "VALUE": 106
         },
         {
           "DATE": "2020-11-15",
-          "VALUE": 2
+          "VALUE": 175
         },
         {
           "DATE": "2020-11-14",
-          "VALUE": 3
+          "VALUE": 169
         },
         {
           "DATE": "2020-11-13",
-          "VALUE": 3
+          "VALUE": 113
         },
         {
           "DATE": "2020-11-12",
-          "VALUE": 2
+          "VALUE": 106
         },
         {
           "DATE": "2020-11-11",
-          "VALUE": 2
+          "VALUE": 105
         },
         {
           "DATE": "2020-11-10",
-          "VALUE": 2
+          "VALUE": 82
         },
         {
           "DATE": "2020-11-09",
-          "VALUE": 1
+          "VALUE": 101
         },
         {
           "DATE": "2020-11-08",
-          "VALUE": 1
+          "VALUE": 131
         },
         {
           "DATE": "2020-11-07",
-          "VALUE": 1
+          "VALUE": 127
         },
         {
           "DATE": "2020-11-06",
-          "VALUE": 1
+          "VALUE": 130
         },
         {
           "DATE": "2020-11-05",
-          "VALUE": 1
+          "VALUE": 104
         },
         {
           "DATE": "2020-11-04",
-          "VALUE": 2
+          "VALUE": 107
         },
         {
           "DATE": "2020-11-03",
-          "VALUE": 2
+          "VALUE": 127
         },
         {
           "DATE": "2020-11-02",
-          "VALUE": 3
+          "VALUE": 147
         },
         {
           "DATE": "2020-11-01",
-          "VALUE": 4
+          "VALUE": 158
         },
         {
           "DATE": "2020-10-31",
-          "VALUE": 4
+          "VALUE": 126
         },
         {
           "DATE": "2020-10-30",
-          "VALUE": 4
+          "VALUE": 120
         },
         {
           "DATE": "2020-10-29",
-          "VALUE": 5
+          "VALUE": 106
         },
         {
           "DATE": "2020-10-28",
-          "VALUE": 2
+          "VALUE": 120
         },
         {
           "DATE": "2020-10-27",
-          "VALUE": 2
+          "VALUE": 98
         },
         {
           "DATE": "2020-10-26",
-          "VALUE": 2
+          "VALUE": 113
         },
         {
           "DATE": "2020-10-25",
-          "VALUE": 6
+          "VALUE": 139
         },
         {
           "DATE": "2020-10-24",
-          "VALUE": 5
+          "VALUE": 185
         },
         {
           "DATE": "2020-10-23",
-          "VALUE": 3
+          "VALUE": 151
         },
         {
           "DATE": "2020-10-22",
-          "VALUE": 2
+          "VALUE": 132
         },
         {
           "DATE": "2020-10-21",
-          "VALUE": 2
+          "VALUE": 116
         },
         {
           "DATE": "2020-10-20",
-          "VALUE": 2
+          "VALUE": 121
         },
         {
           "DATE": "2020-10-19",
-          "VALUE": 3
+          "VALUE": 134
         },
         {
           "DATE": "2020-10-18",
-          "VALUE": 2
+          "VALUE": 150
         },
         {
           "DATE": "2020-10-17",
-          "VALUE": 1
+          "VALUE": 122
         },
         {
           "DATE": "2020-10-16",
-          "VALUE": 1
+          "VALUE": 129
         },
         {
           "DATE": "2020-10-15",
-          "VALUE": 5
+          "VALUE": 112
         },
         {
           "DATE": "2020-10-14",
-          "VALUE": 1
+          "VALUE": 109
         },
         {
           "DATE": "2020-10-13",
-          "VALUE": 3
+          "VALUE": 74
         },
         {
           "DATE": "2020-10-12",
-          "VALUE": 2
+          "VALUE": 108
         },
         {
           "DATE": "2020-10-11",
-          "VALUE": 1
+          "VALUE": 153
         },
         {
           "DATE": "2020-10-10",
-          "VALUE": 1
+          "VALUE": 247
         },
         {
           "DATE": "2020-10-09",
-          "VALUE": 0
+          "VALUE": 118
         },
         {
           "DATE": "2020-10-08",
-          "VALUE": 1
+          "VALUE": 100
         },
         {
           "DATE": "2020-10-07",
-          "VALUE": 1
+          "VALUE": 93
         },
         {
           "DATE": "2020-10-06",
-          "VALUE": 3
+          "VALUE": 98
         },
         {
           "DATE": "2020-10-05",
-          "VALUE": 3
+          "VALUE": 121
         },
         {
           "DATE": "2020-10-04",
-          "VALUE": 0
+          "VALUE": 142
         },
         {
           "DATE": "2020-10-03",
-          "VALUE": 3
+          "VALUE": 187
         },
         {
           "DATE": "2020-10-02",
-          "VALUE": 1
+          "VALUE": 193
         },
         {
           "DATE": "2020-10-01",
-          "VALUE": 1
+          "VALUE": 192
         },
         {
           "DATE": "2020-09-30",
-          "VALUE": 3
+          "VALUE": 191
         },
         {
           "DATE": "2020-09-29",
-          "VALUE": 2
+          "VALUE": 205
         },
         {
           "DATE": "2020-09-28",
-          "VALUE": 2
+          "VALUE": 245
         },
         {
           "DATE": "2020-09-27",
-          "VALUE": 1
+          "VALUE": 287
         },
         {
           "DATE": "2020-09-26",
-          "VALUE": 1
+          "VALUE": 250
         },
         {
           "DATE": "2020-09-25",
-          "VALUE": 2
+          "VALUE": 226
         },
         {
           "DATE": "2020-09-24",
-          "VALUE": 0
+          "VALUE": 191
         },
         {
           "DATE": "2020-09-23",
-          "VALUE": 1
+          "VALUE": 167
         },
         {
           "DATE": "2020-09-22",
-          "VALUE": 1
+          "VALUE": 188
         },
         {
           "DATE": "2020-09-21",
-          "VALUE": 1
+          "VALUE": 220
         },
         {
           "DATE": "2020-09-20",
-          "VALUE": 2
+          "VALUE": 220
         },
         {
           "DATE": "2020-09-19",
-          "VALUE": 2
+          "VALUE": 186
         },
         {
           "DATE": "2020-09-18",
-          "VALUE": 1
+          "VALUE": 152
         },
         {
           "DATE": "2020-09-17",
-          "VALUE": 2
+          "VALUE": 128
         },
         {
           "DATE": "2020-09-16",
-          "VALUE": 0
+          "VALUE": 112
         },
         {
           "DATE": "2020-09-15",
-          "VALUE": 0
+          "VALUE": 132
         },
         {
           "DATE": "2020-09-14",
-          "VALUE": 1
+          "VALUE": 172
         },
         {
           "DATE": "2020-09-13",
-          "VALUE": 1
+          "VALUE": 157
         },
         {
           "DATE": "2020-09-12",
-          "VALUE": 1
+          "VALUE": 150
         },
         {
           "DATE": "2020-09-11",
-          "VALUE": 1
+          "VALUE": 85
         },
         {
           "DATE": "2020-09-10",
-          "VALUE": 2
+          "VALUE": 72
         },
         {
           "DATE": "2020-09-09",
-          "VALUE": 1
+          "VALUE": 62
         },
         {
           "DATE": "2020-09-08",
-          "VALUE": 2
+          "VALUE": 77
         },
         {
           "DATE": "2020-09-07",
-          "VALUE": 0
+          "VALUE": 132
         },
         {
           "DATE": "2020-09-06",
-          "VALUE": 1
+          "VALUE": 127
         },
         {
           "DATE": "2020-09-05",
-          "VALUE": 1
+          "VALUE": 146
         },
         {
           "DATE": "2020-09-04",
-          "VALUE": 1
+          "VALUE": 119
         },
         {
           "DATE": "2020-09-03",
-          "VALUE": 0
+          "VALUE": 116
         },
         {
           "DATE": "2020-09-02",
-          "VALUE": 0
+          "VALUE": 95
         },
         {
           "DATE": "2020-09-01",
-          "VALUE": 1
+          "VALUE": 114
         },
         {
           "DATE": "2020-08-31",
-          "VALUE": 0
+          "VALUE": 101
         },
         {
           "DATE": "2020-08-30",
-          "VALUE": 0
+          "VALUE": 153
         },
         {
           "DATE": "2020-08-29",
-          "VALUE": 1
+          "VALUE": 144
         },
         {
           "DATE": "2020-08-28",
-          "VALUE": 3
+          "VALUE": 106
         },
         {
           "DATE": "2020-08-27",
-          "VALUE": 2
+          "VALUE": 102
         },
         {
           "DATE": "2020-08-26",
-          "VALUE": 2
+          "VALUE": 112
         },
         {
           "DATE": "2020-08-25",
-          "VALUE": 2
+          "VALUE": 79
         },
         {
           "DATE": "2020-08-24",
-          "VALUE": 0
+          "VALUE": 112
         },
         {
           "DATE": "2020-08-23",
-          "VALUE": 1
+          "VALUE": 131
         },
         {
           "DATE": "2020-08-22",
-          "VALUE": 0
+          "VALUE": 110
         },
         {
           "DATE": "2020-08-21",
-          "VALUE": 2
+          "VALUE": 95
         },
         {
           "DATE": "2020-08-20",
-          "VALUE": 0
+          "VALUE": 112
         },
         {
           "DATE": "2020-08-19",
-          "VALUE": 1
+          "VALUE": 153
         },
         {
           "DATE": "2020-08-18",
-          "VALUE": 2
+          "VALUE": 161
         },
         {
           "DATE": "2020-08-17",
-          "VALUE": 1
+          "VALUE": 167
         },
         {
           "DATE": "2020-08-16",
-          "VALUE": 1
+          "VALUE": 193
         },
         {
           "DATE": "2020-08-15",
-          "VALUE": 1
+          "VALUE": 162
         },
         {
           "DATE": "2020-08-14",
-          "VALUE": 0
+          "VALUE": 154
         },
         {
           "DATE": "2020-08-13",
-          "VALUE": 0
+          "VALUE": 150
         },
         {
           "DATE": "2020-08-12",
-          "VALUE": 1
+          "VALUE": 188
         },
         {
           "DATE": "2020-08-11",
-          "VALUE": 2
+          "VALUE": 131
         },
         {
           "DATE": "2020-08-10",
-          "VALUE": 2
+          "VALUE": 146
         },
         {
           "DATE": "2020-08-09",
-          "VALUE": 2
+          "VALUE": 110
         },
         {
           "DATE": "2020-08-08",
-          "VALUE": 1
+          "VALUE": 129
         },
         {
           "DATE": "2020-08-07",
-          "VALUE": 4
+          "VALUE": 89
         },
         {
           "DATE": "2020-08-06",
-          "VALUE": 2
+          "VALUE": 94
         },
         {
           "DATE": "2020-08-05",
-          "VALUE": 2
+          "VALUE": 101
         },
         {
           "DATE": "2020-08-04",
-          "VALUE": 1
+          "VALUE": 124
         },
         {
           "DATE": "2020-08-03",
-          "VALUE": 0
+          "VALUE": 123
         },
         {
           "DATE": "2020-08-02",
-          "VALUE": 2
+          "VALUE": 148
         },
         {
           "DATE": "2020-08-01",
-          "VALUE": 1
+          "VALUE": 166
         },
         {
           "DATE": "2020-07-31",
-          "VALUE": 2
+          "VALUE": 122
         },
         {
           "DATE": "2020-07-30",
-          "VALUE": 0
+          "VALUE": 187
         },
         {
           "DATE": "2020-07-29",
-          "VALUE": 0
+          "VALUE": 147
         },
         {
           "DATE": "2020-07-28",
-          "VALUE": 1
+          "VALUE": 135
         },
         {
           "DATE": "2020-07-27",
-          "VALUE": 2
+          "VALUE": 161
         },
         {
           "DATE": "2020-07-26",
-          "VALUE": 0
+          "VALUE": 228
         },
         {
           "DATE": "2020-07-25",
-          "VALUE": 1
+          "VALUE": 161
         },
         {
           "DATE": "2020-07-24",
-          "VALUE": 1
+          "VALUE": 164
         },
         {
           "DATE": "2020-07-23",
-          "VALUE": 2
+          "VALUE": 159
         },
         {
           "DATE": "2020-07-22",
-          "VALUE": 2
+          "VALUE": 139
         },
         {
           "DATE": "2020-07-21",
-          "VALUE": 0
+          "VALUE": 143
         },
         {
           "DATE": "2020-07-20",
-          "VALUE": 0
+          "VALUE": 120
         },
         {
           "DATE": "2020-07-19",
-          "VALUE": 2
+          "VALUE": 128
         },
         {
           "DATE": "2020-07-18",
-          "VALUE": 3
+          "VALUE": 121
         },
         {
           "DATE": "2020-07-17",
-          "VALUE": 4
+          "VALUE": 114
         },
         {
           "DATE": "2020-07-16",
-          "VALUE": 4
+          "VALUE": 103
         },
         {
           "DATE": "2020-07-15",
-          "VALUE": 1
+          "VALUE": 140
         },
         {
           "DATE": "2020-07-14",
-          "VALUE": 2
+          "VALUE": 92
         },
         {
           "DATE": "2020-07-13",
-          "VALUE": 6
+          "VALUE": 106
         },
         {
           "DATE": "2020-07-12",
-          "VALUE": 4
+          "VALUE": 122
         },
         {
           "DATE": "2020-07-11",
-          "VALUE": 4
+          "VALUE": 104
         },
         {
           "DATE": "2020-07-10",
-          "VALUE": 3
+          "VALUE": 98
         },
         {
           "DATE": "2020-07-09",
-          "VALUE": 2
+          "VALUE": 122
         },
         {
           "DATE": "2020-07-08",
-          "VALUE": 3
+          "VALUE": 134
         },
         {
           "DATE": "2020-07-07",
-          "VALUE": 1
+          "VALUE": 170
         },
         {
           "DATE": "2020-07-06",
-          "VALUE": 6
+          "VALUE": 184
         },
         {
           "DATE": "2020-07-05",
-          "VALUE": 4
+          "VALUE": 192
         },
         {
           "DATE": "2020-07-04",
-          "VALUE": 4
+          "VALUE": 183
         },
         {
           "DATE": "2020-07-03",
-          "VALUE": 3
+          "VALUE": 240
         },
         {
           "DATE": "2020-07-02",
-          "VALUE": 4
+          "VALUE": 272
         },
         {
           "DATE": "2020-07-01",
-          "VALUE": 3
+          "VALUE": 95
         },
         {
           "DATE": "2020-06-30",
-          "VALUE": 5
+          "VALUE": 71
         },
         {
           "DATE": "2020-06-29",
-          "VALUE": 2
+          "VALUE": 85
         },
         {
           "DATE": "2020-06-28",
-          "VALUE": 2
+          "VALUE": 88
         },
         {
           "DATE": "2020-06-27",
-          "VALUE": 3
+          "VALUE": 88
         },
         {
           "DATE": "2020-06-26",
-          "VALUE": 1
+          "VALUE": 93
         },
         {
           "DATE": "2020-06-25",
-          "VALUE": 2
+          "VALUE": 89
         },
         {
           "DATE": "2020-06-24",
-          "VALUE": 1
+          "VALUE": 126
         },
         {
           "DATE": "2020-06-23",
-          "VALUE": 1
+          "VALUE": 108
         },
         {
           "DATE": "2020-06-22",
-          "VALUE": 0
+          "VALUE": 122
         },
         {
           "DATE": "2020-06-21",
-          "VALUE": 1
+          "VALUE": 127
         },
         {
           "DATE": "2020-06-20",
-          "VALUE": 0
+          "VALUE": 116
         },
         {
           "DATE": "2020-06-19",
-          "VALUE": 0
+          "VALUE": 117
         },
         {
           "DATE": "2020-06-18",
-          "VALUE": 2
+          "VALUE": 124
         },
         {
           "DATE": "2020-06-17",
-          "VALUE": 1
+          "VALUE": 92
         },
         {
           "DATE": "2020-06-16",
-          "VALUE": 2
+          "VALUE": 84
         },
         {
           "DATE": "2020-06-15",
-          "VALUE": 0
+          "VALUE": 109
         },
         {
           "DATE": "2020-06-14",
-          "VALUE": 1
+          "VALUE": 112
         },
         {
           "DATE": "2020-06-13",
-          "VALUE": 1
+          "VALUE": 175
         },
         {
           "DATE": "2020-06-12",
-          "VALUE": 2
+          "VALUE": 109
         },
         {
           "DATE": "2020-06-11",
-          "VALUE": 0
+          "VALUE": 141
         },
         {
           "DATE": "2020-06-10",
-          "VALUE": 2
+          "VALUE": 121
         },
         {
           "DATE": "2020-06-09",
-          "VALUE": 1
+          "VALUE": 89
         },
         {
           "DATE": "2020-06-08",
-          "VALUE": 0
+          "VALUE": 68
         },
         {
           "DATE": "2020-06-07",
-          "VALUE": 0
+          "VALUE": 116
         },
         {
           "DATE": "2020-06-06",
-          "VALUE": 2
+          "VALUE": 100
         },
         {
           "DATE": "2020-06-05",
-          "VALUE": 1
+          "VALUE": 87
         },
         {
           "DATE": "2020-06-04",
-          "VALUE": 4
+          "VALUE": 80
         },
         {
           "DATE": "2020-06-03",
-          "VALUE": 1
+          "VALUE": 102
         },
         {
           "DATE": "2020-06-02",
-          "VALUE": 2
+          "VALUE": 102
         },
         {
           "DATE": "2020-06-01",
-          "VALUE": 2
+          "VALUE": 77
         },
         {
           "DATE": "2020-05-31",
-          "VALUE": 1
+          "VALUE": 91
         },
         {
           "DATE": "2020-05-30",
-          "VALUE": 0
+          "VALUE": 99
         },
         {
           "DATE": "2020-05-29",
-          "VALUE": 1
+          "VALUE": 101
         },
         {
           "DATE": "2020-05-28",
-          "VALUE": 1
+          "VALUE": 63
         },
         {
           "DATE": "2020-05-27",
-          "VALUE": 0
+          "VALUE": 90
         },
         {
           "DATE": "2020-05-26",
-          "VALUE": 1
+          "VALUE": 81
         },
         {
           "DATE": "2020-05-25",
-          "VALUE": 1
+          "VALUE": 82
         },
         {
           "DATE": "2020-05-24",
-          "VALUE": 4
+          "VALUE": 78
         },
         {
           "DATE": "2020-05-23",
-          "VALUE": 1
+          "VALUE": 95
         },
         {
           "DATE": "2020-05-22",
-          "VALUE": 2
+          "VALUE": 52
         },
         {
           "DATE": "2020-05-21",
-          "VALUE": 0
+          "VALUE": 53
         },
         {
           "DATE": "2020-05-20",
-          "VALUE": 2
+          "VALUE": 71
         },
         {
           "DATE": "2020-05-19",
-          "VALUE": 1
+          "VALUE": 31
         },
         {
           "DATE": "2020-05-18",
-          "VALUE": 2
+          "VALUE": 52
         },
         {
           "DATE": "2020-05-17",
-          "VALUE": 0
+          "VALUE": 79
         },
         {
           "DATE": "2020-05-16",
-          "VALUE": 0
+          "VALUE": 71
         },
         {
           "DATE": "2020-05-15",
-          "VALUE": 0
+          "VALUE": 59
         },
         {
           "DATE": "2020-05-14",
-          "VALUE": 0
+          "VALUE": 46
         },
         {
           "DATE": "2020-05-13",
-          "VALUE": 0
+          "VALUE": 33
         },
         {
           "DATE": "2020-05-12",
-          "VALUE": 1
+          "VALUE": 34
         },
         {
           "DATE": "2020-05-11",
-          "VALUE": 0
+          "VALUE": 24
         },
         {
           "DATE": "2020-05-10",
-          "VALUE": 1
+          "VALUE": 42
         },
         {
           "DATE": "2020-05-09",
-          "VALUE": 0
+          "VALUE": 25
         },
         {
           "DATE": "2020-05-08",
-          "VALUE": 1
+          "VALUE": 28
         },
         {
           "DATE": "2020-05-07",
-          "VALUE": 0
+          "VALUE": 19
         },
         {
           "DATE": "2020-05-06",
-          "VALUE": 3
+          "VALUE": 19
         },
         {
           "DATE": "2020-05-05",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-05-04",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2020-05-03",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-05-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-01",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-30",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-29",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-28",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-27",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-26",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-25",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-24",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-23",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-22",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-04-21",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-20",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-19",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-18",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-17",
-          "VALUE": 6
-        },
-        {
-          "DATE": "2020-04-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-15",
-          "VALUE": 6
-        },
-        {
-          "DATE": "2020-04-14",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-04-13",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-12",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-11",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-10",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-09",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-08",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-06",
-          "VALUE": 8
-        },
-        {
-          "DATE": "2020-04-05",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2020-04-04",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2020-04-03",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-02",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-01",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-03-31",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2020-03-30",
-          "VALUE": 1
+          "VALUE": 14
         }
       ],
-      "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+      "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 160.978821705
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 161.859690771
+        },
         {
           "DATE": "2021-03-29",
-          "VALUE": 1.642
+          "VALUE": 163.841646168
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 1.642
+          "VALUE": 163.180994369
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 1.642
+          "VALUE": 169.78751236
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 1.714
+          "VALUE": 168.245991495
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 1.714
+          "VALUE": 182.119679276
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 1.642
+          "VALUE": 178.155768481
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 1.642
+          "VALUE": 185.643155537
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 1.571
+          "VALUE": 177.054682149
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 1.571
+          "VALUE": 176.614247617
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 1.5
+          "VALUE": 173.531205888
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 1.357
+          "VALUE": 175.513161285
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 1.214
+          "VALUE": 170.227946892
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 1.142
+          "VALUE": 176.39403035
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 1
+          "VALUE": 174.852509486
         },
         {
           "DATE": "2021-03-15",
-          "VALUE": 0.785
+          "VALUE": 179.256854813
         },
         {
           "DATE": "2021-03-14",
-          "VALUE": 0.642
+          "VALUE": 183.66120014
         },
         {
           "DATE": "2021-03-13",
-          "VALUE": 0.571
+          "VALUE": 187.625110934
         },
         {
           "DATE": "2021-03-12",
-          "VALUE": 0.5
+          "VALUE": 188.50598
         },
         {
           "DATE": "2021-03-11",
-          "VALUE": 0.642
+          "VALUE": 186.303807336
         },
         {
           "DATE": "2021-03-10",
-          "VALUE": 0.928
+          "VALUE": 186.303807336
         },
         {
           "DATE": "2021-03-09",
-          "VALUE": 1
+          "VALUE": 194.892280724
         },
         {
           "DATE": "2021-03-08",
-          "VALUE": 1.285
+          "VALUE": 199.296626051
         },
         {
           "DATE": "2021-03-07",
-          "VALUE": 1.5
+          "VALUE": 204.361623177
         },
         {
           "DATE": "2021-03-06",
-          "VALUE": 1.571
+          "VALUE": 202.820102313
         },
         {
           "DATE": "2021-03-05",
-          "VALUE": 1.642
+          "VALUE": 208.986185771
         },
         {
           "DATE": "2021-03-04",
-          "VALUE": 1.714
+          "VALUE": 214.932051962
         },
         {
           "DATE": "2021-03-03",
-          "VALUE": 1.857
+          "VALUE": 230.567477874
         },
         {
           "DATE": "2021-03-02",
-          "VALUE": 2
+          "VALUE": 223.740742617
         },
         {
           "DATE": "2021-03-01",
-          "VALUE": 2.071
+          "VALUE": 224.841828948
         },
         {
           "DATE": "2021-02-28",
-          "VALUE": 2.285
+          "VALUE": 218.455528224
         },
         {
           "DATE": "2021-02-27",
-          "VALUE": 2.5
+          "VALUE": 231.448346939
         },
         {
           "DATE": "2021-02-26",
-          "VALUE": 2.928
+          "VALUE": 222.419439019
         },
         {
           "DATE": "2021-02-25",
-          "VALUE": 3.142
+          "VALUE": 217.794876425
         },
         {
           "DATE": "2021-02-24",
-          "VALUE": 3.285
+          "VALUE": 205.462709509
         },
         {
           "DATE": "2021-02-23",
-          "VALUE": 3.571
+          "VALUE": 204.361623177
         },
         {
           "DATE": "2021-02-22",
-          "VALUE": 3.642
+          "VALUE": 206.784013107
         },
         {
           "DATE": "2021-02-21",
-          "VALUE": 3.571
+          "VALUE": 212.950096565
         },
         {
           "DATE": "2021-02-20",
-          "VALUE": 3.642
+          "VALUE": 207.004230374
         },
         {
           "DATE": "2021-02-19",
-          "VALUE": 3.714
+          "VALUE": 232.769650537
         },
         {
           "DATE": "2021-02-18",
-          "VALUE": 3.785
+          "VALUE": 249.065728247
         },
         {
           "DATE": "2021-02-17",
-          "VALUE": 3.785
+          "VALUE": 270.206585818
         },
         {
           "DATE": "2021-02-16",
-          "VALUE": 3.857
+          "VALUE": 272.408758481
         },
         {
           "DATE": "2021-02-15",
-          "VALUE": 4.071
+          "VALUE": 268.22463042
         },
         {
           "DATE": "2021-02-14",
-          "VALUE": 4.214
+          "VALUE": 266.022457757
         },
         {
           "DATE": "2021-02-13",
-          "VALUE": 4.428
+          "VALUE": 281.437666402
         },
         {
           "DATE": "2021-02-12",
-          "VALUE": 4.428
+          "VALUE": 260.517026098
         },
         {
           "DATE": "2021-02-11",
-          "VALUE": 4.571
+          "VALUE": 242.018775724
         },
         {
           "DATE": "2021-02-10",
-          "VALUE": 4.642
+          "VALUE": 216.473572827
         },
         {
           "DATE": "2021-02-09",
-          "VALUE": 4.857
+          "VALUE": 214.051182897
         },
         {
           "DATE": "2021-02-08",
-          "VALUE": 5.142
+          "VALUE": 216.693790093
         },
         {
           "DATE": "2021-02-07",
-          "VALUE": 5.571
+          "VALUE": 218.015093691
         },
         {
           "DATE": "2021-02-06",
-          "VALUE": 6.071
+          "VALUE": 206.784013107
         },
         {
           "DATE": "2021-02-05",
-          "VALUE": 6.571
+          "VALUE": 214.051182897
         },
         {
           "DATE": "2021-02-04",
-          "VALUE": 7.071
+          "VALUE": 219.33639729
         },
         {
           "DATE": "2021-02-03",
-          "VALUE": 7.714
+          "VALUE": 221.538569953
         },
         {
           "DATE": "2021-02-02",
-          "VALUE": 8.714
+          "VALUE": 230.567477874
         },
         {
           "DATE": "2021-02-01",
-          "VALUE": 9.642
+          "VALUE": 231.668564205
         },
         {
           "DATE": "2021-01-31",
-          "VALUE": 10.428
+          "VALUE": 232.108998738
         },
         {
           "DATE": "2021-01-30",
-          "VALUE": 11.071
+          "VALUE": 242.23899299
         },
         {
           "DATE": "2021-01-29",
-          "VALUE": 11.714
+          "VALUE": 249.50616278
         },
         {
           "DATE": "2021-01-28",
-          "VALUE": 12.071
+          "VALUE": 267.784195888
         },
         {
           "DATE": "2021-01-27",
-          "VALUE": 12.357
+          "VALUE": 279.015276472
         },
         {
           "DATE": "2021-01-26",
-          "VALUE": 12.285
+          "VALUE": 298.614613177
         },
         {
           "DATE": "2021-01-25",
-          "VALUE": 12.214
+          "VALUE": 320.416122547
         },
         {
           "DATE": "2021-01-24",
-          "VALUE": 12.214
+          "VALUE": 353.228495233
         },
         {
           "DATE": "2021-01-23",
-          "VALUE": 12.285
+          "VALUE": 388.022823317
         },
         {
           "DATE": "2021-01-22",
-          "VALUE": 12.357
+          "VALUE": 415.109547079
         },
         {
           "DATE": "2021-01-21",
-          "VALUE": 12.571
+          "VALUE": 438.01214278
         },
         {
           "DATE": "2021-01-20",
-          "VALUE": 12.571
+          "VALUE": 457.831696752
         },
         {
           "DATE": "2021-01-19",
-          "VALUE": 12.142
+          "VALUE": 457.611479486
         },
         {
           "DATE": "2021-01-18",
-          "VALUE": 11.785
+          "VALUE": 448.362354299
         },
         {
           "DATE": "2021-01-17",
-          "VALUE": 11.285
+          "VALUE": 424.138455
         },
         {
           "DATE": "2021-01-16",
-          "VALUE": 10.714
+          "VALUE": 395.289993107
         },
         {
           "DATE": "2021-01-15",
-          "VALUE": 10.214
+          "VALUE": 413.568026215
         },
         {
           "DATE": "2021-01-14",
-          "VALUE": 9.928
+          "VALUE": 399.694338434
         },
         {
           "DATE": "2021-01-13",
-          "VALUE": 9.857
+          "VALUE": 391.546299579
         },
         {
           "DATE": "2021-01-12",
-          "VALUE": 9.785
+          "VALUE": 384.058912523
         },
         {
           "DATE": "2021-01-11",
-          "VALUE": 9.714
+          "VALUE": 393.30803771
         },
         {
           "DATE": "2021-01-10",
-          "VALUE": 9.642
+          "VALUE": 396.391079439
         },
         {
           "DATE": "2021-01-09",
-          "VALUE": 9.5
+          "VALUE": 406.080639159
         },
         {
           "DATE": "2021-01-08",
-          "VALUE": 9.428
+          "VALUE": 388.022823317
         },
         {
           "DATE": "2021-01-07",
-          "VALUE": 8.928
+          "VALUE": 398.593252103
         },
         {
           "DATE": "2021-01-06",
-          "VALUE": 8.571
+          "VALUE": 383.838695257
         },
         {
           "DATE": "2021-01-05",
-          "VALUE": 8.214
+          "VALUE": 375.690656402
         },
         {
           "DATE": "2021-01-04",
-          "VALUE": 7.785
+          "VALUE": 393.087820444
         },
         {
           "DATE": "2021-01-03",
-          "VALUE": 7.642
+          "VALUE": 433.16736292
         },
         {
           "DATE": "2021-01-02",
-          "VALUE": 7.642
+          "VALUE": 440.654749976
         },
         {
           "DATE": "2021-01-01",
-          "VALUE": 7.714
+          "VALUE": 454.30822049
         },
         {
           "DATE": "2020-12-31",
-          "VALUE": 7.642
+          "VALUE": 451.665613294
         },
         {
           "DATE": "2020-12-30",
-          "VALUE": 7.285
+          "VALUE": 459.15300035
         },
         {
           "DATE": "2020-12-29",
-          "VALUE": 7
+          "VALUE": 467.080821939
         },
         {
           "DATE": "2020-12-28",
-          "VALUE": 7
+          "VALUE": 483.156682383
         },
         {
           "DATE": "2020-12-27",
-          "VALUE": 6.785
+          "VALUE": 464.217997476
         },
         {
           "DATE": "2020-12-26",
-          "VALUE": 6.5
+          "VALUE": 476.770381659
         },
         {
           "DATE": "2020-12-25",
-          "VALUE": 6.142
+          "VALUE": 462.236042079
         },
         {
           "DATE": "2020-12-24",
-          "VALUE": 6.142
+          "VALUE": 463.116911145
         },
         {
           "DATE": "2020-12-23",
-          "VALUE": 6
+          "VALUE": 474.788426261
         },
         {
           "DATE": "2020-12-22",
-          "VALUE": 5.857
+          "VALUE": 497.470804696
         },
         {
           "DATE": "2020-12-21",
-          "VALUE": 5.714
+          "VALUE": 489.763200373
         },
         {
           "DATE": "2020-12-20",
-          "VALUE": 5.357
+          "VALUE": 487.120593177
         },
         {
           "DATE": "2020-12-19",
-          "VALUE": 5
+          "VALUE": 457.171044953
         },
         {
           "DATE": "2020-12-18",
-          "VALUE": 4.5
+          "VALUE": 448.142137032
         },
         {
           "DATE": "2020-12-17",
-          "VALUE": 4.071
+          "VALUE": 434.929101051
         },
         {
           "DATE": "2020-12-16",
-          "VALUE": 3.785
+          "VALUE": 448.582571565
         },
         {
           "DATE": "2020-12-15",
-          "VALUE": 3.5
+          "VALUE": 439.333446378
         },
         {
           "DATE": "2020-12-14",
-          "VALUE": 3.142
+          "VALUE": 440.874967243
         },
         {
           "DATE": "2020-12-13",
-          "VALUE": 2.928
+          "VALUE": 432.286493855
         },
         {
           "DATE": "2020-12-12",
-          "VALUE": 2.785
+          "VALUE": 463.777562944
         },
         {
           "DATE": "2020-12-11",
-          "VALUE": 2.642
+          "VALUE": 451.225178761
         },
         {
           "DATE": "2020-12-10",
-          "VALUE": 2.428
+          "VALUE": 444.838878037
         },
         {
           "DATE": "2020-12-09",
-          "VALUE": 2.357
+          "VALUE": 410.484984486
         },
         {
           "DATE": "2020-12-08",
-          "VALUE": 2.214
+          "VALUE": 373.928918271
         },
         {
           "DATE": "2020-12-07",
-          "VALUE": 2.071
+          "VALUE": 337.152634789
         },
         {
           "DATE": "2020-12-06",
-          "VALUE": 2
+          "VALUE": 316.231994486
         },
         {
           "DATE": "2020-12-05",
-          "VALUE": 1.857
+          "VALUE": 274.610931145
         },
         {
           "DATE": "2020-12-04",
-          "VALUE": 1.714
+          "VALUE": 255.672246238
         },
         {
           "DATE": "2020-12-03",
-          "VALUE": 1.714
+          "VALUE": 250.387031846
         },
         {
           "DATE": "2020-12-02",
-          "VALUE": 1.714
+          "VALUE": 246.863555584
         },
         {
           "DATE": "2020-12-01",
-          "VALUE": 1.857
+          "VALUE": 257.433984369
         },
         {
           "DATE": "2020-11-30",
-          "VALUE": 1.785
+          "VALUE": 253.470073575
         },
         {
           "DATE": "2020-11-29",
-          "VALUE": 1.714
+          "VALUE": 265.582023224
         },
         {
           "DATE": "2020-11-28",
-          "VALUE": 1.714
+          "VALUE": 262.058546962
         },
         {
           "DATE": "2020-11-27",
-          "VALUE": 1.785
+          "VALUE": 273.950279346
         },
         {
           "DATE": "2020-11-26",
-          "VALUE": 1.857
+          "VALUE": 272.408758481
         },
         {
           "DATE": "2020-11-25",
-          "VALUE": 1.785
+          "VALUE": 279.235493738
         },
         {
           "DATE": "2020-11-24",
-          "VALUE": 1.785
+          "VALUE": 265.80224049
         },
         {
           "DATE": "2020-11-23",
-          "VALUE": 1.785
+          "VALUE": 256.553115304
         },
         {
           "DATE": "2020-11-22",
-          "VALUE": 1.785
+          "VALUE": 238.275082196
         },
         {
           "DATE": "2020-11-21",
-          "VALUE": 1.785
+          "VALUE": 235.192040467
         },
         {
           "DATE": "2020-11-20",
-          "VALUE": 1.785
+          "VALUE": 230.78769514
         },
         {
           "DATE": "2020-11-19",
-          "VALUE": 1.714
+          "VALUE": 213.830965631
         },
         {
           "DATE": "2020-11-18",
-          "VALUE": 1.642
+          "VALUE": 195.332715257
         },
         {
           "DATE": "2020-11-17",
-          "VALUE": 1.642
+          "VALUE": 190.267718131
         },
         {
           "DATE": "2020-11-16",
-          "VALUE": 1.714
+          "VALUE": 188.50598
         },
         {
           "DATE": "2020-11-15",
-          "VALUE": 1.857
+          "VALUE": 187.404893668
         },
         {
           "DATE": "2020-11-14",
-          "VALUE": 2
+          "VALUE": 177.715333948
         },
         {
           "DATE": "2020-11-13",
-          "VALUE": 2.071
+          "VALUE": 168.466208762
         },
         {
           "DATE": "2020-11-12",
-          "VALUE": 2.142
+          "VALUE": 172.20990229
         },
         {
           "DATE": "2020-11-11",
-          "VALUE": 2.357
+          "VALUE": 171.769467757
         },
         {
           "DATE": "2020-11-10",
-          "VALUE": 2.357
+          "VALUE": 172.20990229
         },
         {
           "DATE": "2020-11-09",
-          "VALUE": 2.357
+          "VALUE": 182.119679276
         },
         {
           "DATE": "2020-11-08",
-          "VALUE": 2.428
+          "VALUE": 192.249673528
         },
         {
           "DATE": "2020-11-07",
-          "VALUE": 2.785
+          "VALUE": 198.195539719
         },
         {
           "DATE": "2020-11-06",
-          "VALUE": 3.071
+          "VALUE": 197.975322453
         },
         {
           "DATE": "2020-11-05",
-          "VALUE": 3.214
+          "VALUE": 195.77314979
         },
         {
           "DATE": "2020-11-04",
-          "VALUE": 3.285
+          "VALUE": 196.213584322
         },
         {
           "DATE": "2020-11-03",
-          "VALUE": 3.285
+          "VALUE": 199.076408785
         },
         {
           "DATE": "2020-11-02",
-          "VALUE": 3.285
+          "VALUE": 192.690108061
         },
         {
           "DATE": "2020-11-01",
-          "VALUE": 3.285
+          "VALUE": 185.202721005
         },
         {
           "DATE": "2020-10-31",
-          "VALUE": 3.142
+          "VALUE": 181.018592944
         },
         {
           "DATE": "2020-10-30",
-          "VALUE": 2.928
+          "VALUE": 194.011411659
         },
         {
           "DATE": "2020-10-29",
-          "VALUE": 2.714
+          "VALUE": 200.838146916
         },
         {
           "DATE": "2020-10-28",
-          "VALUE": 2.714
+          "VALUE": 206.563795841
         },
         {
           "DATE": "2020-10-27",
-          "VALUE": 2.642
+          "VALUE": 205.682926776
         },
         {
           "DATE": "2020-10-26",
-          "VALUE": 2.714
+          "VALUE": 210.747923902
         },
         {
           "DATE": "2020-10-25",
-          "VALUE": 2.714
+          "VALUE": 215.372486495
         },
         {
           "DATE": "2020-10-24",
-          "VALUE": 2.357
+          "VALUE": 217.794876425
         },
         {
           "DATE": "2020-10-23",
-          "VALUE": 2.071
+          "VALUE": 203.921188645
         },
         {
           "DATE": "2020-10-22",
-          "VALUE": 1.857
+          "VALUE": 199.076408785
         },
         {
           "DATE": "2020-10-21",
-          "VALUE": 1.785
+          "VALUE": 194.672063458
         },
         {
           "DATE": "2020-10-20",
-          "VALUE": 1.714
+          "VALUE": 193.130542593
         },
         {
           "DATE": "2020-10-19",
-          "VALUE": 1.785
+          "VALUE": 182.780331075
         },
         {
           "DATE": "2020-10-18",
-          "VALUE": 1.785
+          "VALUE": 177.054682149
         },
         {
           "DATE": "2020-10-17",
-          "VALUE": 1.642
+          "VALUE": 177.715333948
         },
         {
           "DATE": "2020-10-16",
-          "VALUE": 1.785
+          "VALUE": 205.242492243
         },
         {
           "DATE": "2020-10-15",
-          "VALUE": 1.785
+          "VALUE": 202.820102313
         },
         {
           "DATE": "2020-10-14",
-          "VALUE": 1.5
+          "VALUE": 200.177495117
         },
         {
           "DATE": "2020-10-13",
-          "VALUE": 1.642
+          "VALUE": 196.654018855
         },
         {
           "DATE": "2020-10-12",
-          "VALUE": 1.571
+          "VALUE": 201.939233248
         },
         {
           "DATE": "2020-10-11",
-          "VALUE": 1.571
+          "VALUE": 204.80205771
         },
         {
           "DATE": "2020-10-10",
-          "VALUE": 1.571
+          "VALUE": 202.37966778
         },
         {
           "DATE": "2020-10-09",
-          "VALUE": 1.571
+          "VALUE": 189.166631799
         },
         {
           "DATE": "2020-10-08",
-          "VALUE": 1.714
+          "VALUE": 205.682926776
         },
         {
           "DATE": "2020-10-07",
-          "VALUE": 1.642
+          "VALUE": 225.94291528
         },
         {
           "DATE": "2020-10-06",
-          "VALUE": 1.642
+          "VALUE": 247.524207383
         },
         {
           "DATE": "2020-10-05",
-          "VALUE": 1.5
+          "VALUE": 271.087454883
         },
         {
           "DATE": "2020-10-04",
-          "VALUE": 1.357
+          "VALUE": 298.394395911
         },
         {
           "DATE": "2020-10-03",
-          "VALUE": 1.5
+          "VALUE": 330.325899532
         },
         {
           "DATE": "2020-10-02",
-          "VALUE": 1.428
+          "VALUE": 344.199587313
         },
         {
           "DATE": "2020-10-01",
-          "VALUE": 1.428
+          "VALUE": 351.466757103
         },
         {
           "DATE": "2020-09-30",
-          "VALUE": 1.5
+          "VALUE": 351.246539836
         },
         {
           "DATE": "2020-09-29",
-          "VALUE": 1.285
+          "VALUE": 345.961325444
         },
         {
           "DATE": "2020-09-28",
-          "VALUE": 1.142
+          "VALUE": 342.217631916
         },
         {
           "DATE": "2020-09-27",
-          "VALUE": 1.071
+          "VALUE": 336.712200257
         },
         {
           "DATE": "2020-09-26",
-          "VALUE": 1.071
+          "VALUE": 321.957643411
         },
         {
           "DATE": "2020-09-25",
-          "VALUE": 1.071
+          "VALUE": 307.863738364
         },
         {
           "DATE": "2020-09-24",
-          "VALUE": 1
+          "VALUE": 291.567660654
         },
         {
           "DATE": "2020-09-23",
-          "VALUE": 1.142
+          "VALUE": 277.693972874
         },
         {
           "DATE": "2020-09-22",
-          "VALUE": 1.142
+          "VALUE": 265.582023224
         },
         {
           "DATE": "2020-09-21",
-          "VALUE": 1.214
+          "VALUE": 253.249856308
         },
         {
           "DATE": "2020-09-20",
-          "VALUE": 1.142
+          "VALUE": 242.679427523
         },
         {
           "DATE": "2020-09-19",
-          "VALUE": 1.071
+          "VALUE": 228.805739743
         },
         {
           "DATE": "2020-09-18",
-          "VALUE": 1
+          "VALUE": 220.877918154
         },
         {
           "DATE": "2020-09-17",
-          "VALUE": 1
+          "VALUE": 206.123361308
         },
         {
           "DATE": "2020-09-16",
-          "VALUE": 0.857
+          "VALUE": 193.791194392
         },
         {
           "DATE": "2020-09-15",
-          "VALUE": 0.857
+          "VALUE": 182.780331075
         },
         {
           "DATE": "2020-09-14",
-          "VALUE": 0.928
+          "VALUE": 170.668381425
         },
         {
           "DATE": "2020-09-13",
-          "VALUE": 0.857
+          "VALUE": 161.859690771
         },
         {
           "DATE": "2020-09-12",
-          "VALUE": 0.785
+          "VALUE": 155.25317278
         },
         {
           "DATE": "2020-09-11",
-          "VALUE": 0.785
+          "VALUE": 154.372303715
         },
         {
           "DATE": "2020-09-10",
-          "VALUE": 0.928
+          "VALUE": 161.859690771
         },
         {
           "DATE": "2020-09-09",
-          "VALUE": 0.928
+          "VALUE": 171.549250491
         },
         {
           "DATE": "2020-09-08",
-          "VALUE": 1
+          "VALUE": 178.81642028
         },
         {
           "DATE": "2020-09-07",
-          "VALUE": 1
+          "VALUE": 186.964459135
         },
         {
           "DATE": "2020-09-06",
-          "VALUE": 1
+          "VALUE": 180.137723878
         },
         {
           "DATE": "2020-09-05",
-          "VALUE": 1
+          "VALUE": 185.863372804
         },
         {
           "DATE": "2020-09-04",
-          "VALUE": 0.928
+          "VALUE": 185.422938271
         },
         {
           "DATE": "2020-09-03",
-          "VALUE": 1
+          "VALUE": 182.560113808
         },
         {
           "DATE": "2020-09-02",
-          "VALUE": 1
+          "VALUE": 179.477072079
         },
         {
           "DATE": "2020-09-01",
-          "VALUE": 1.071
+          "VALUE": 183.220765607
         },
         {
           "DATE": "2020-08-31",
-          "VALUE": 1.142
+          "VALUE": 175.513161285
         },
         {
           "DATE": "2020-08-30",
-          "VALUE": 1.214
+          "VALUE": 177.935551215
         },
         {
           "DATE": "2020-08-29",
-          "VALUE": 1.285
+          "VALUE": 173.090771355
         },
         {
           "DATE": "2020-08-28",
-          "VALUE": 1.285
+          "VALUE": 165.603384299
         },
         {
           "DATE": "2020-08-27",
-          "VALUE": 1.071
+          "VALUE": 163.180994369
         },
         {
           "DATE": "2020-08-26",
-          "VALUE": 0.928
+          "VALUE": 165.383167033
         },
         {
           "DATE": "2020-08-25",
-          "VALUE": 0.857
+          "VALUE": 174.412074953
         },
         {
           "DATE": "2020-08-24",
-          "VALUE": 0.857
+          "VALUE": 192.469890794
         },
         {
           "DATE": "2020-08-23",
-          "VALUE": 1
+          "VALUE": 204.581840444
         },
         {
           "DATE": "2020-08-22",
-          "VALUE": 1.071
+          "VALUE": 218.235310958
         },
         {
           "DATE": "2020-08-21",
-          "VALUE": 1.142
+          "VALUE": 229.686608808
         },
         {
           "DATE": "2020-08-20",
-          "VALUE": 1.285
+          "VALUE": 242.679427523
         },
         {
           "DATE": "2020-08-19",
-          "VALUE": 1.428
+          "VALUE": 251.047683645
         },
         {
           "DATE": "2020-08-18",
-          "VALUE": 1.5
+          "VALUE": 258.755287967
         },
         {
           "DATE": "2020-08-17",
-          "VALUE": 1.428
+          "VALUE": 252.148769976
         },
         {
           "DATE": "2020-08-16",
-          "VALUE": 1.357
+          "VALUE": 247.524207383
         },
         {
           "DATE": "2020-08-15",
-          "VALUE": 1.428
+          "VALUE": 229.246174276
         },
         {
           "DATE": "2020-08-14",
-          "VALUE": 1.428
+          "VALUE": 221.979004486
         },
         {
           "DATE": "2020-08-13",
-          "VALUE": 1.571
+          "VALUE": 207.664882173
         },
         {
           "DATE": "2020-08-12",
-          "VALUE": 1.571
+          "VALUE": 195.332715257
         },
         {
           "DATE": "2020-08-11",
-          "VALUE": 1.5
+          "VALUE": 176.173813084
         },
         {
           "DATE": "2020-08-10",
-          "VALUE": 1.428
+          "VALUE": 174.63229222
         },
         {
           "DATE": "2020-08-09",
-          "VALUE": 1.428
+          "VALUE": 169.567295093
         },
         {
           "DATE": "2020-08-08",
-          "VALUE": 1.285
+          "VALUE": 177.935551215
         },
         {
           "DATE": "2020-08-07",
-          "VALUE": 1.285
+          "VALUE": 186.08359007
         },
         {
           "DATE": "2020-08-06",
-          "VALUE": 1.071
+          "VALUE": 193.35075986
         },
         {
           "DATE": "2020-08-05",
-          "VALUE": 1.071
+          "VALUE": 213.830965631
         },
         {
           "DATE": "2020-08-04",
-          "VALUE": 1.071
+          "VALUE": 223.960959883
         },
         {
           "DATE": "2020-08-03",
-          "VALUE": 1
+          "VALUE": 226.383349813
         },
         {
           "DATE": "2020-08-02",
-          "VALUE": 1
+          "VALUE": 234.751605934
         },
         {
           "DATE": "2020-08-01",
-          "VALUE": 1
+          "VALUE": 252.368987243
         },
         {
           "DATE": "2020-07-31",
-          "VALUE": 1.142
+          "VALUE": 251.267900911
         },
         {
           "DATE": "2020-07-30",
-          "VALUE": 1.285
+          "VALUE": 260.517026098
         },
         {
           "DATE": "2020-07-29",
-          "VALUE": 1.571
+          "VALUE": 254.35094264
         },
         {
           "DATE": "2020-07-28",
-          "VALUE": 1.642
+          "VALUE": 252.589204509
         },
         {
           "DATE": "2020-07-27",
-          "VALUE": 1.714
+          "VALUE": 254.35094264
         },
         {
           "DATE": "2020-07-26",
-          "VALUE": 2
+          "VALUE": 245.322034719
         },
         {
           "DATE": "2020-07-25",
-          "VALUE": 2.285
+          "VALUE": 223.300308084
         },
         {
           "DATE": "2020-07-24",
-          "VALUE": 2.5
+          "VALUE": 214.49161743
         },
         {
           "DATE": "2020-07-23",
-          "VALUE": 2.642
+          "VALUE": 203.480754112
         },
         {
           "DATE": "2020-07-22",
-          "VALUE": 2.642
+          "VALUE": 191.148587196
         },
         {
           "DATE": "2020-07-21",
-          "VALUE": 2.714
+          "VALUE": 191.368804462
         },
         {
           "DATE": "2020-07-20",
-          "VALUE": 2.785
+          "VALUE": 180.137723878
         },
         {
           "DATE": "2020-07-19",
-          "VALUE": 3.214
+          "VALUE": 177.054682149
         },
         {
           "DATE": "2020-07-18",
-          "VALUE": 3.357
+          "VALUE": 175.733378551
         },
         {
           "DATE": "2020-07-17",
-          "VALUE": 3.428
+          "VALUE": 171.989685023
         },
         {
           "DATE": "2020-07-16",
-          "VALUE": 3.357
+          "VALUE": 168.466208762
         },
         {
           "DATE": "2020-07-15",
-          "VALUE": 3.357
+          "VALUE": 172.650336822
         },
         {
           "DATE": "2020-07-14",
-          "VALUE": 3.5
+          "VALUE": 171.329033224
         },
         {
           "DATE": "2020-07-13",
-          "VALUE": 3.714
+          "VALUE": 188.50598
         },
         {
           "DATE": "2020-07-12",
-          "VALUE": 3.428
+          "VALUE": 205.682926776
         },
         {
           "DATE": "2020-07-11",
-          "VALUE": 3.285
+          "VALUE": 221.09813542
         },
         {
           "DATE": "2020-07-10",
-          "VALUE": 3.214
+          "VALUE": 238.495299462
         },
         {
           "DATE": "2020-07-09",
-          "VALUE": 3.071
+          "VALUE": 269.766151285
         },
         {
           "DATE": "2020-07-08",
-          "VALUE": 3.071
+          "VALUE": 302.798741238
         },
         {
           "DATE": "2020-07-07",
-          "VALUE": 2.928
+          "VALUE": 294.21026785
         },
         {
           "DATE": "2020-07-06",
-          "VALUE": 2.928
+          "VALUE": 272.408758481
         },
         {
           "DATE": "2020-07-05",
-          "VALUE": 2.5
+          "VALUE": 250.607249112
         },
         {
           "DATE": "2020-07-04",
-          "VALUE": 2.285
+          "VALUE": 227.704653411
         },
         {
           "DATE": "2020-07-03",
-          "VALUE": 2
+          "VALUE": 206.784013107
         },
         {
           "DATE": "2020-07-02",
-          "VALUE": 1.785
+          "VALUE": 174.412074953
         },
         {
           "DATE": "2020-07-01",
-          "VALUE": 1.642
+          "VALUE": 134.11231521
         },
         {
           "DATE": "2020-06-30",
-          "VALUE": 1.5
+          "VALUE": 140.939050467
         },
         {
           "DATE": "2020-06-29",
-          "VALUE": 1.285
+          "VALUE": 149.087089322
         },
         {
           "DATE": "2020-06-28",
-          "VALUE": 1.142
+          "VALUE": 157.235128177
         },
         {
           "DATE": "2020-06-27",
-          "VALUE": 1.071
+          "VALUE": 165.823601565
         },
         {
           "DATE": "2020-06-26",
-          "VALUE": 0.928
+          "VALUE": 171.989685023
         },
         {
           "DATE": "2020-06-25",
-          "VALUE": 1
+          "VALUE": 177.274899416
         },
         {
           "DATE": "2020-06-24",
-          "VALUE": 0.857
+          "VALUE": 184.982503738
         },
         {
           "DATE": "2020-06-23",
-          "VALUE": 0.928
+          "VALUE": 177.495116682
         },
         {
           "DATE": "2020-06-22",
-          "VALUE": 0.928
+          "VALUE": 172.20990229
         },
         {
           "DATE": "2020-06-21",
-          "VALUE": 0.928
+          "VALUE": 169.347077827
         },
         {
           "DATE": "2020-06-20",
-          "VALUE": 0.857
+          "VALUE": 166.043818832
         },
         {
           "DATE": "2020-06-19",
-          "VALUE": 1
+          "VALUE": 179.036637547
         },
         {
           "DATE": "2020-06-18",
-          "VALUE": 1.071
+          "VALUE": 177.274899416
         },
         {
           "DATE": "2020-06-17",
-          "VALUE": 1.214
+          "VALUE": 181.018592944
         },
         {
           "DATE": "2020-06-16",
-          "VALUE": 1.214
+          "VALUE": 187.404893668
         },
         {
           "DATE": "2020-06-15",
-          "VALUE": 1.214
+          "VALUE": 188.50598
         },
         {
           "DATE": "2020-06-14",
-          "VALUE": 1.357
+          "VALUE": 179.477072079
         },
         {
           "DATE": "2020-06-13",
-          "VALUE": 1.357
+          "VALUE": 180.357941145
         },
         {
           "DATE": "2020-06-12",
-          "VALUE": 1.285
+          "VALUE": 163.841646168
         },
         {
           "DATE": "2020-06-11",
-          "VALUE": 1.214
+          "VALUE": 158.996866308
         },
         {
           "DATE": "2020-06-10",
-          "VALUE": 1.285
+          "VALUE": 145.563613061
         },
         {
           "DATE": "2020-06-09",
-          "VALUE": 1.142
+          "VALUE": 141.379485
         },
         {
           "DATE": "2020-06-08",
-          "VALUE": 1.142
+          "VALUE": 144.242309463
         },
         {
           "DATE": "2020-06-07",
-          "VALUE": 1.214
+          "VALUE": 146.22426486
         },
         {
           "DATE": "2020-06-06",
-          "VALUE": 1.5
+          "VALUE": 140.718833201
         },
         {
           "DATE": "2020-06-05",
-          "VALUE": 1.428
+          "VALUE": 140.498615934
         },
         {
           "DATE": "2020-06-04",
-          "VALUE": 1.5
+          "VALUE": 143.581657663
         },
         {
           "DATE": "2020-06-03",
-          "VALUE": 1.214
+          "VALUE": 139.837964135
         },
         {
           "DATE": "2020-06-02",
-          "VALUE": 1.285
+          "VALUE": 137.195356939
         },
         {
           "DATE": "2020-06-01",
-          "VALUE": 1.214
+          "VALUE": 132.570794346
         },
         {
           "DATE": "2020-05-31",
-          "VALUE": 1.214
+          "VALUE": 133.671880677
         },
         {
           "DATE": "2020-05-30",
-          "VALUE": 1.142
+          "VALUE": 130.809056215
         },
         {
           "DATE": "2020-05-29",
-          "VALUE": 1.142
+          "VALUE": 129.928187149
         },
         {
           "DATE": "2020-05-28",
-          "VALUE": 1.071
+          "VALUE": 119.137541098
         },
         {
           "DATE": "2020-05-27",
-          "VALUE": 1
+          "VALUE": 116.935368434
         },
         {
           "DATE": "2020-05-26",
-          "VALUE": 1
+          "VALUE": 112.751240374
         },
         {
           "DATE": "2020-05-25",
-          "VALUE": 1
+          "VALUE": 101.740377056
         },
         {
           "DATE": "2020-05-24",
-          "VALUE": 0.928
+          "VALUE": 95.133859065
         },
         {
           "DATE": "2020-05-23",
-          "VALUE": 0.714
+          "VALUE": 95.354076332
         },
         {
           "DATE": "2020-05-22",
-          "VALUE": 0.642
+          "VALUE": 90.068861939
         },
         {
           "DATE": "2020-05-21",
-          "VALUE": 0.571
+          "VALUE": 91.610382804
         },
         {
           "DATE": "2020-05-20",
-          "VALUE": 0.571
+          "VALUE": 90.068861939
         },
         {
           "DATE": "2020-05-19",
-          "VALUE": 0.642
+          "VALUE": 81.700605818
         },
         {
           "DATE": "2020-05-18",
-          "VALUE": 0.714
+          "VALUE": 82.361257617
         },
         {
           "DATE": "2020-05-17",
-          "VALUE": 0.857
+          "VALUE": 76.195174159
         },
         {
           "DATE": "2020-05-16",
-          "VALUE": 1.071
+          "VALUE": 68.047135304
         },
         {
           "DATE": "2020-05-15",
-          "VALUE": 1.071
+          "VALUE": 57.917141051
         },
         {
           "DATE": "2020-05-14",
-          "VALUE": 1.214
+          "VALUE": 51.090405794
         },
         {
           "DATE": "2020-05-13",
-          "VALUE": 1.357
+          "VALUE": 45.144539603
         },
         {
           "DATE": "2020-05-12",
-          "VALUE": 1.5
+          "VALUE": 42.061497874
         },
         {
           "DATE": "2020-05-11",
-          "VALUE": 1.571
+          "VALUE": 37.657152547
         },
         {
           "DATE": "2020-05-10",
-          "VALUE": 1.642
+          "VALUE": 37.76726118
         },
         {
           "DATE": "2020-05-09",
-          "VALUE": 1.642
+          "VALUE": 32.371938154
         },
         {
           "DATE": "2020-05-08",
-          "VALUE": 1.785
+          "VALUE": 30.83041729
         },
         {
           "DATE": "2020-05-07",
-          "VALUE": 1.785
+          "VALUE": 26.719694984
         },
         {
           "DATE": "2020-05-06",
-          "VALUE": 1.857
+          "VALUE": 25.435094264
         },
         {
           "DATE": "2020-05-05",
-          "VALUE": 1.857
-        },
-        {
-          "DATE": "2020-05-04",
-          "VALUE": 1.857
-        },
-        {
-          "DATE": "2020-05-03",
-          "VALUE": 1.714
-        },
-        {
-          "DATE": "2020-05-02",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-05-01",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-04-30",
-          "VALUE": 1.928
-        },
-        {
-          "DATE": "2020-04-29",
-          "VALUE": 1.857
-        },
-        {
-          "DATE": "2020-04-28",
-          "VALUE": 2.142
-        },
-        {
-          "DATE": "2020-04-27",
-          "VALUE": 2.214
-        },
-        {
-          "DATE": "2020-04-26",
-          "VALUE": 2.285
-        },
-        {
-          "DATE": "2020-04-25",
-          "VALUE": 2.214
-        },
-        {
-          "DATE": "2020-04-24",
-          "VALUE": 2.071
-        },
-        {
-          "DATE": "2020-04-23",
-          "VALUE": 2.071
-        },
-        {
-          "DATE": "2020-04-22",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-21",
-          "VALUE": 1.785
-        },
-        {
-          "DATE": "2020-04-20",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-04-19",
-          "VALUE": 2.071
-        },
-        {
-          "DATE": "2020-04-18",
-          "VALUE": 2.214
-        },
-        {
-          "DATE": "2020-04-17",
-          "VALUE": 2.5
-        },
-        {
-          "DATE": "2020-04-16",
-          "VALUE": 2.214
-        },
-        {
-          "DATE": "2020-04-15",
-          "VALUE": 2.214
-        },
-        {
-          "DATE": "2020-04-14",
-          "VALUE": 1.928
-        },
-        {
-          "DATE": "2020-04-13",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-12",
-          "VALUE": 1.928
-        },
-        {
-          "DATE": "2020-04-11",
-          "VALUE": 2.076
-        },
-        {
-          "DATE": "2020-04-10",
-          "VALUE": 2.25
-        },
-        {
-          "DATE": "2020-04-09",
-          "VALUE": 2.363
-        },
-        {
-          "DATE": "2020-04-08",
-          "VALUE": 2.6
-        },
-        {
-          "DATE": "2020-04-07",
-          "VALUE": 2.888
-        },
-        {
-          "DATE": "2020-04-06",
-          "VALUE": 3.25
-        },
-        {
-          "DATE": "2020-04-05",
-          "VALUE": 2.571
-        },
-        {
-          "DATE": "2020-04-04",
-          "VALUE": 2.333
-        },
-        {
-          "DATE": "2020-04-03",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-02",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-01",
-          "VALUE": 2.333
-        },
-        {
-          "DATE": "2020-03-31",
-          "VALUE": 2.5
-        },
-        {
-          "DATE": "2020-03-30",
-          "VALUE": 1
-        }
-      ],
-      "ICU_PATIENTS": [
-        {
-          "DATE": "2021-03-29",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-28",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-27",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-26",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-25",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-24",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-23",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-22",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-21",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-20",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-19",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-18",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-17",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-15",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-14",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-13",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-12",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-11",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-10",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-09",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-08",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-03-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-06",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-05",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-04",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-03",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-01",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-28",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-27",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-26",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-25",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-24",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-23",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-22",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-21",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-20",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-19",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-18",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-17",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-16",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-15",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-14",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-13",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-12",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-11",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-10",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2021-02-09",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-08",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-06",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-05",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-04",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-03",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-01",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-31",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2021-01-30",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-29",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-28",
-          "VALUE": 5
-        },
-        {
-          "DATE": "2021-01-27",
-          "VALUE": 6
-        },
-        {
-          "DATE": "2021-01-26",
-          "VALUE": 5
-        },
-        {
-          "DATE": "2021-01-25",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2021-01-24",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-23",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-22",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-21",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-20",
-          "VALUE": 5
-        },
-        {
-          "DATE": "2021-01-19",
-          "VALUE": 5
-        },
-        {
-          "DATE": "2021-01-18",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2021-01-17",
-          "VALUE": 5
-        },
-        {
-          "DATE": "2021-01-16",
-          "VALUE": 6
-        },
-        {
-          "DATE": "2021-01-15",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-14",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2021-01-13",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-12",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-11",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-10",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-09",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2021-01-08",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-07",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-06",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2021-01-05",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2021-01-04",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2021-01-03",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2021-01-02",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2021-01-01",
-          "VALUE": 5
-        },
-        {
-          "DATE": "2020-12-31",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2020-12-30",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-29",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-28",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-27",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-26",
-          "VALUE": 5
-        },
-        {
-          "DATE": "2020-12-25",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-24",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-23",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-22",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-21",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-20",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-19",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-18",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-17",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-12-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-12-15",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-14",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-13",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-12",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-11",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-10",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-09",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-08",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-07",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-06",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-05",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-12-04",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-12-03",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-12-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-12-01",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-11-30",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-11-29",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-11-28",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-11-27",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-11-26",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-11-25",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-11-24",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-23",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-22",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-21",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-20",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-19",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-18",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-17",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-15",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-14",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-13",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-12",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-11",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-10",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-09",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-08",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-07",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-06",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-05",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-04",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-03",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-02",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-11-01",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-31",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-30",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-29",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-28",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-27",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-26",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-25",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-24",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-10-23",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-10-22",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-21",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-20",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-19",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-18",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-17",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-15",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-14",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-13",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-12",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-11",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-10-10",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-09",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-10-08",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-10-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-10-06",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-05",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-04",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-10-03",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-10-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-10-01",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-30",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-29",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-09-28",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-09-27",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-26",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-25",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-09-24",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-23",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-22",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-21",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-20",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-09-19",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-18",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-09-17",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-16",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-15",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-14",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-13",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-12",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-11",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-09-10",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-09",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-08",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-06",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-09-05",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-04",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-03",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-09-01",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-31",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-30",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-29",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-28",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-27",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-26",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-25",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-24",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-23",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-22",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-21",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-20",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-19",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-18",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-17",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-15",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-14",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-13",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-12",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-11",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-10",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-09",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-08",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-07",
-          "VALUE": 4
-        },
-        {
-          "DATE": "2020-08-06",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-05",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-08-04",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-03",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-08-01",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-31",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-30",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-29",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-28",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-27",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-26",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-25",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-24",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-23",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-22",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-21",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-20",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-19",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-18",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-07-17",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-07-16",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-07-15",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-14",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-13",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-07-12",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-11",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-10",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-09",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-08",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-06",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-05",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-07-04",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-03",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-02",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-01",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-30",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-06-29",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-06-28",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-06-27",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-06-26",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-25",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-06-24",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-23",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-22",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-21",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-20",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-19",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-18",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-17",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-15",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-14",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-13",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-12",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-06-11",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-10",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-09",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-08",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-06",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-05",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-04",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-03",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-06-01",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-31",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-30",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-29",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-28",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-27",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-26",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-25",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-24",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-05-23",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-22",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-21",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-20",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-19",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-18",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-17",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-16",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-15",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-14",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-13",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-12",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-11",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-10",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-09",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-08",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-06",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-05",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-04",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-03",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-05-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-05-01",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-30",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-29",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-28",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-27",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-26",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-25",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-24",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-23",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-22",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-21",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-20",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-19",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-18",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-17",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-16",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-15",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-14",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-13",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-12",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-11",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-10",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-09",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-08",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-07",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-06",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-05",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-04-04",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-03",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-04-01",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2020-03-31",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-03-30",
-          "VALUE": 1
-        }
-      ],
-      "ICU_PATIENTS_14_DAY_AVG": [
-        {
-          "DATE": "2021-03-29",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-03-28",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-03-27",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-03-26",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-03-25",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2021-03-24",
-          "VALUE": 0.714
-        },
-        {
-          "DATE": "2021-03-23",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2021-03-22",
-          "VALUE": 0.714
-        },
-        {
-          "DATE": "2021-03-21",
-          "VALUE": 0.714
-        },
-        {
-          "DATE": "2021-03-20",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2021-03-19",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-03-18",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-03-17",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-03-16",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-03-15",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-03-14",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-03-13",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-03-12",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-03-11",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-03-10",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-03-09",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2021-03-08",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2021-03-07",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2021-03-06",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2021-03-05",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2021-03-04",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2021-03-03",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-03-02",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-03-01",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-02-28",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-27",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-26",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-25",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-24",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-02-23",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-22",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-21",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-20",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-19",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-18",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-02-17",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2021-02-16",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2021-02-15",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2021-02-14",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2021-02-13",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2021-02-12",
-          "VALUE": 0.714
-        },
-        {
-          "DATE": "2021-02-11",
-          "VALUE": 0.857
-        },
-        {
-          "DATE": "2021-02-10",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2021-02-09",
-          "VALUE": 1.571
-        },
-        {
-          "DATE": "2021-02-08",
-          "VALUE": 1.928
-        },
-        {
-          "DATE": "2021-02-07",
-          "VALUE": 2.071
-        },
-        {
-          "DATE": "2021-02-06",
-          "VALUE": 2.285
-        },
-        {
-          "DATE": "2021-02-05",
-          "VALUE": 2.5
-        },
-        {
-          "DATE": "2021-02-04",
-          "VALUE": 2.714
-        },
-        {
-          "DATE": "2021-02-03",
-          "VALUE": 2.928
-        },
-        {
-          "DATE": "2021-02-02",
-          "VALUE": 3.285
-        },
-        {
-          "DATE": "2021-02-01",
-          "VALUE": 3.642
-        },
-        {
-          "DATE": "2021-01-31",
-          "VALUE": 3.714
-        },
-        {
-          "DATE": "2021-01-30",
-          "VALUE": 3.928
-        },
-        {
-          "DATE": "2021-01-29",
-          "VALUE": 4.142
-        },
-        {
-          "DATE": "2021-01-28",
-          "VALUE": 4.142
-        },
-        {
-          "DATE": "2021-01-27",
-          "VALUE": 4.071
-        },
-        {
-          "DATE": "2021-01-26",
-          "VALUE": 3.857
-        },
-        {
-          "DATE": "2021-01-25",
-          "VALUE": 3.714
-        },
-        {
-          "DATE": "2021-01-24",
-          "VALUE": 3.785
-        },
-        {
-          "DATE": "2021-01-23",
-          "VALUE": 3.785
-        },
-        {
-          "DATE": "2021-01-22",
-          "VALUE": 3.857
-        },
-        {
-          "DATE": "2021-01-21",
-          "VALUE": 3.857
-        },
-        {
-          "DATE": "2021-01-20",
-          "VALUE": 3.857
-        },
-        {
-          "DATE": "2021-01-19",
-          "VALUE": 3.785
-        },
-        {
-          "DATE": "2021-01-18",
-          "VALUE": 3.714
-        },
-        {
-          "DATE": "2021-01-17",
-          "VALUE": 3.714
-        },
-        {
-          "DATE": "2021-01-16",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-15",
-          "VALUE": 3.428
-        },
-        {
-          "DATE": "2021-01-14",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-13",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-12",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-11",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-10",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-09",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-08",
-          "VALUE": 3.642
-        },
-        {
-          "DATE": "2021-01-07",
-          "VALUE": 3.642
-        },
-        {
-          "DATE": "2021-01-06",
-          "VALUE": 3.642
-        },
-        {
-          "DATE": "2021-01-05",
-          "VALUE": 3.571
-        },
-        {
-          "DATE": "2021-01-04",
-          "VALUE": 3.428
-        },
-        {
-          "DATE": "2021-01-03",
-          "VALUE": 3.285
-        },
-        {
-          "DATE": "2021-01-02",
-          "VALUE": 3.214
-        },
-        {
-          "DATE": "2021-01-01",
-          "VALUE": 3.142
-        },
-        {
-          "DATE": "2020-12-31",
-          "VALUE": 3
-        },
-        {
-          "DATE": "2020-12-30",
-          "VALUE": 2.785
-        },
-        {
-          "DATE": "2020-12-29",
-          "VALUE": 2.642
-        },
-        {
-          "DATE": "2020-12-28",
-          "VALUE": 2.571
-        },
-        {
-          "DATE": "2020-12-27",
-          "VALUE": 2.5
-        },
-        {
-          "DATE": "2020-12-26",
-          "VALUE": 2.428
-        },
-        {
-          "DATE": "2020-12-25",
-          "VALUE": 2.214
-        },
-        {
-          "DATE": "2020-12-24",
-          "VALUE": 2.142
-        },
-        {
-          "DATE": "2020-12-23",
-          "VALUE": 2.071
-        },
-        {
-          "DATE": "2020-12-22",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-21",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-20",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-19",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-12-18",
-          "VALUE": 1.857
-        },
-        {
-          "DATE": "2020-12-17",
-          "VALUE": 1.714
-        },
-        {
-          "DATE": "2020-12-16",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-12-15",
-          "VALUE": 1.571
-        },
-        {
-          "DATE": "2020-12-14",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-12-13",
-          "VALUE": 1.285
-        },
-        {
-          "DATE": "2020-12-12",
-          "VALUE": 1.142
-        },
-        {
-          "DATE": "2020-12-11",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-12-10",
-          "VALUE": 0.857
-        },
-        {
-          "DATE": "2020-12-09",
-          "VALUE": 0.714
-        },
-        {
-          "DATE": "2020-12-08",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-12-07",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-12-06",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-12-05",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-12-04",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-12-03",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-12-02",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-12-01",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-11-30",
-          "VALUE": 0.857
-        },
-        {
-          "DATE": "2020-11-29",
-          "VALUE": 0.928
-        },
-        {
-          "DATE": "2020-11-28",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-11-27",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2020-11-26",
-          "VALUE": 1.357
-        },
-        {
-          "DATE": "2020-11-25",
-          "VALUE": 1.5
-        },
-        {
-          "DATE": "2020-11-24",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-11-23",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-11-22",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-11-21",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-11-20",
-          "VALUE": 1.642
-        },
-        {
-          "DATE": "2020-11-19",
-          "VALUE": 1.571
-        },
-        {
-          "DATE": "2020-11-18",
-          "VALUE": 1.5
-        },
-        {
-          "DATE": "2020-11-17",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-16",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-15",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-14",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-13",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-12",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-11",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-10",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-09",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-11-08",
-          "VALUE": 1.5
-        },
-        {
-          "DATE": "2020-11-07",
-          "VALUE": 1.571
-        },
-        {
-          "DATE": "2020-11-06",
-          "VALUE": 1.714
-        },
-        {
-          "DATE": "2020-11-05",
-          "VALUE": 1.857
-        },
-        {
-          "DATE": "2020-11-04",
-          "VALUE": 1.928
-        },
-        {
-          "DATE": "2020-11-03",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-11-02",
-          "VALUE": 2.071
-        },
-        {
-          "DATE": "2020-11-01",
-          "VALUE": 2.142
-        },
-        {
-          "DATE": "2020-10-31",
-          "VALUE": 2.071
-        },
-        {
-          "DATE": "2020-10-30",
-          "VALUE": 2
-        },
-        {
-          "DATE": "2020-10-29",
-          "VALUE": 1.928
-        },
-        {
-          "DATE": "2020-10-28",
-          "VALUE": 1.928
-        },
-        {
-          "DATE": "2020-10-27",
-          "VALUE": 1.857
-        },
-        {
-          "DATE": "2020-10-26",
-          "VALUE": 1.785
-        },
-        {
-          "DATE": "2020-10-25",
-          "VALUE": 1.714
-        },
-        {
-          "DATE": "2020-10-24",
-          "VALUE": 1.571
-        },
-        {
-          "DATE": "2020-10-23",
-          "VALUE": 1.428
-        },
-        {
-          "DATE": "2020-10-22",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2020-10-21",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-10-20",
-          "VALUE": 0.928
-        },
-        {
-          "DATE": "2020-10-19",
-          "VALUE": 0.928
-        },
-        {
-          "DATE": "2020-10-18",
-          "VALUE": 0.928
-        },
-        {
-          "DATE": "2020-10-17",
-          "VALUE": 0.857
-        },
-        {
-          "DATE": "2020-10-16",
-          "VALUE": 0.857
-        },
-        {
-          "DATE": "2020-10-15",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-10-14",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-10-13",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-10-12",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-10-11",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-10-10",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-10-09",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-10-08",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-10-07",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-10-06",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-10-05",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-10-04",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-10-03",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-10-02",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-10-01",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-09-30",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-09-29",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-09-28",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-09-27",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-26",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-25",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-24",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-23",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-22",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-21",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-20",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-19",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-18",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-17",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-09-16",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-09-15",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-09-14",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-13",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-12",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-11",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-10",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-09",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-08",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-09-07",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-09-06",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-09-05",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-04",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-03",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-02",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-09-01",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-31",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-08-30",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-08-29",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-28",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-27",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-08-26",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-08-25",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-08-24",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-08-23",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-08-22",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-08-21",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-20",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-08-19",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-18",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-17",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-16",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-15",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-08-14",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-08-13",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-12",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-11",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-10",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-09",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-08-08",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-08-07",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-08-06",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-08-05",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-04",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-03",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-02",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-08-01",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-07-31",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-07-30",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-07-29",
-          "VALUE": 0.714
-        },
-        {
-          "DATE": "2020-07-28",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-07-27",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-07-26",
-          "VALUE": 0.928
-        },
-        {
-          "DATE": "2020-07-25",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-24",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-23",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-22",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-07-21",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-07-20",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-07-19",
-          "VALUE": 1.142
-        },
-        {
-          "DATE": "2020-07-18",
-          "VALUE": 1.142
-        },
-        {
-          "DATE": "2020-07-17",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-07-16",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-07-15",
-          "VALUE": 0.857
-        },
-        {
-          "DATE": "2020-07-14",
-          "VALUE": 0.857
-        },
-        {
-          "DATE": "2020-07-13",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-07-12",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-07-11",
-          "VALUE": 1.142
-        },
-        {
-          "DATE": "2020-07-10",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2020-07-09",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2020-07-08",
-          "VALUE": 1.285
-        },
-        {
-          "DATE": "2020-07-07",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2020-07-06",
-          "VALUE": 1.285
-        },
-        {
-          "DATE": "2020-07-05",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2020-07-04",
-          "VALUE": 1.214
-        },
-        {
-          "DATE": "2020-07-03",
-          "VALUE": 1.142
-        },
-        {
-          "DATE": "2020-07-02",
-          "VALUE": 1.071
-        },
-        {
-          "DATE": "2020-07-01",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-06-30",
-          "VALUE": 0.928
-        },
-        {
-          "DATE": "2020-06-29",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-06-28",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-06-27",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-06-26",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-06-25",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-06-24",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-23",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-22",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-21",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-20",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-19",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-18",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-17",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-06-16",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-06-15",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-14",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-06-13",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-06-12",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-06-11",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-06-10",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-06-09",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-06-08",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-06-07",
-          "VALUE": 0.142
-        },
-        {
-          "DATE": "2020-06-06",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-06-05",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-06-04",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-06-03",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-06-02",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-06-01",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-05-31",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-30",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-29",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-28",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-27",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-26",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-05-25",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-05-24",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-05-23",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-22",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-05-21",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-05-20",
-          "VALUE": 0.214
-        },
-        {
-          "DATE": "2020-05-19",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-18",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-17",
-          "VALUE": 0.285
-        },
-        {
-          "DATE": "2020-05-16",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-05-15",
-          "VALUE": 0.357
-        },
-        {
-          "DATE": "2020-05-14",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-05-13",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-05-12",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-05-11",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-05-10",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-05-09",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-05-08",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-05-07",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-05-06",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-05-05",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-05-04",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-05-03",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-05-02",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-05-01",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-30",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-29",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-28",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-04-27",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-26",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-25",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-24",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-23",
-          "VALUE": 0.428
-        },
-        {
-          "DATE": "2020-04-22",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-21",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-20",
-          "VALUE": 0.5
-        },
-        {
-          "DATE": "2020-04-19",
-          "VALUE": 0.571
-        },
-        {
-          "DATE": "2020-04-18",
-          "VALUE": 0.714
-        },
-        {
-          "DATE": "2020-04-17",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-04-16",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-04-15",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-04-14",
-          "VALUE": 0.642
-        },
-        {
-          "DATE": "2020-04-13",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-04-12",
-          "VALUE": 0.785
-        },
-        {
-          "DATE": "2020-04-11",
-          "VALUE": 0.846
-        },
-        {
-          "DATE": "2020-04-10",
-          "VALUE": 0.916
-        },
-        {
-          "DATE": "2020-04-09",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-08",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-07",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-06",
-          "VALUE": 1.125
-        },
-        {
-          "DATE": "2020-04-05",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-04-04",
-          "VALUE": 0.833
-        },
-        {
-          "DATE": "2020-04-03",
-          "VALUE": 0.8
-        },
-        {
-          "DATE": "2020-04-02",
-          "VALUE": 0.75
-        },
-        {
-          "DATE": "2020-04-01",
-          "VALUE": 1
-        },
-        {
-          "DATE": "2020-03-31",
-          "VALUE": 1.5
-        },
-        {
-          "DATE": "2020-03-30",
-          "VALUE": 1
+          "VALUE": 21.581292103
         }
       ]
     }
