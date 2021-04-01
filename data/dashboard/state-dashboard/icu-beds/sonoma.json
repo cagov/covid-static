@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 18,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 12,
+        "CHANGE": -6,
+        "CHANGE_FACTOR": -0.333333,
         "POPULATION": 496668
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 12
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 18

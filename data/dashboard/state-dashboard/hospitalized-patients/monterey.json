@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 23,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 0.15,
+        "TOTAL": 20,
+        "CHANGE": -3,
+        "CHANGE_FACTOR": -0.130435,
         "POPULATION": 448732
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 20
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 23
@@ -1480,6 +1484,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 25
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 25.357

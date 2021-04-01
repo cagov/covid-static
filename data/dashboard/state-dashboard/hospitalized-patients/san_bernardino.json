@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 140,
-        "CHANGE": 10,
-        "CHANGE_FACTOR": 0.076923,
+        "TOTAL": 136,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.028571,
         "POPULATION": 2217398
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 136
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 140
@@ -1480,6 +1484,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 164.357
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 169.285

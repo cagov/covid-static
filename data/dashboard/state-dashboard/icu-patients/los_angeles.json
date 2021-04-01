@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Los Angeles"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 185,
-        "CHANGE": 12,
-        "CHANGE_FACTOR": 0.069364,
+        "TOTAL": 178,
+        "CHANGE": -7,
+        "CHANGE_FACTOR": -0.037838,
         "POPULATION": 10257557
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 178
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 185
@@ -1480,6 +1484,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 204.785
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 211.285

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Orange"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 267,
-        "CHANGE": 9,
-        "CHANGE_FACTOR": 0.034884,
+        "TOTAL": 254,
+        "CHANGE": -13,
+        "CHANGE_FACTOR": -0.048689,
         "POPULATION": 3228519
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 254
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 267

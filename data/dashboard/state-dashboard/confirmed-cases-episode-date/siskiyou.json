@@ -1,28 +1,36 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 1497,
-        "new_cases": 0,
-        "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 2.598052598,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-22",
+        "total_confirmed_cases": 1505,
+        "new_cases": 4,
+        "new_cases_delta_1_day": 0.002665,
+        "cases_per_100k_7_days": 3.899353899,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 43956
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-03-29",
+          "DATE": "2021-03-31",
           "VALUE": 0
         },
         {
-          "DATE": "2021-03-28",
+          "DATE": "2021-03-30",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-03-28",
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-27",
@@ -30,7 +38,7 @@
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 0
+          "VALUE": 2
         },
         {
           "DATE": "2021-03-25",
@@ -38,7 +46,7 @@
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 4
+          "VALUE": 7
         },
         {
           "DATE": "2021-03-23",
@@ -322,7 +330,7 @@
         },
         {
           "DATE": "2021-01-12",
-          "VALUE": 10
+          "VALUE": 11
         },
         {
           "DATE": "2021-01-11",
@@ -1591,28 +1599,36 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 1.299026299
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 3.574028574
+        },
+        {
           "DATE": "2021-03-29",
-          "VALUE": 1.624351624
+          "VALUE": 3.899353899
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 1.94967695
+          "VALUE": 3.899353899
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 1.94967695
+          "VALUE": 3.574028574
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 1.94967695
+          "VALUE": 3.574028574
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 2.923377923
+          "VALUE": 3.899353899
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 2.923377923
+          "VALUE": 3.899353899
         },
         {
           "DATE": "2021-03-23",
@@ -1872,31 +1888,31 @@
         },
         {
           "DATE": "2021-01-18",
-          "VALUE": 17.224042224
+          "VALUE": 17.549367549
         },
         {
           "DATE": "2021-01-17",
-          "VALUE": 16.248066248
+          "VALUE": 16.573391573
         },
         {
           "DATE": "2021-01-16",
-          "VALUE": 15.925015925
+          "VALUE": 16.248066248
         },
         {
           "DATE": "2021-01-15",
-          "VALUE": 15.5996906
-        },
-        {
-          "DATE": "2021-01-14",
-          "VALUE": 13.973063973
-        },
-        {
-          "DATE": "2021-01-13",
           "VALUE": 15.925015925
         },
         {
+          "DATE": "2021-01-14",
+          "VALUE": 14.298389298
+        },
+        {
+          "DATE": "2021-01-13",
+          "VALUE": 16.248066248
+        },
+        {
           "DATE": "2021-01-12",
-          "VALUE": 17.224042224
+          "VALUE": 17.549367549
         },
         {
           "DATE": "2021-01-11",

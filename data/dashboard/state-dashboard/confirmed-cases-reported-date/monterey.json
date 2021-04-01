@@ -1,20 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 42305,
-        "new_cases": 11,
-        "new_cases_delta_1_day": 0.00026,
-        "cases_per_100k_7_days": 4.55238316,
+        "total_confirmed_cases": 42309,
+        "new_cases": 1,
+        "new_cases_delta_1_day": 0.000024,
+        "cases_per_100k_7_days": 2.73771427,
         "POPULATION": 448732
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 3
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 11
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 3.438132337
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 4.074815257
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 4.584250733

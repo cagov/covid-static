@@ -1,20 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Orange"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 4713,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0,
+        "total_confirmed_deaths": 4731,
+        "new_deaths": 4,
+        "new_deaths_delta_1_day": 0.000846,
+        "deaths_per_100k_7_days": 0.008827577,
         "POPULATION": 3228519
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 4
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 14
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 0.411488983
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 0.446892213
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0.504410846

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Sacramento"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 105,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 0.029412,
+        "TOTAL": 101,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.038095,
         "POPULATION": 1567975
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 101
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 105
@@ -1480,6 +1484,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 100.071
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 101.285

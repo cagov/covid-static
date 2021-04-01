@@ -1,12 +1,12 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Butte"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 191,
+        "total_confirmed_deaths": 193,
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0.06520671,
@@ -15,6 +15,14 @@
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 0.39353627
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 0.39353627
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0.39353627

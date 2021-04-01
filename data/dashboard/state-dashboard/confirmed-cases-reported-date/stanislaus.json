@@ -1,20 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 52614,
-        "new_cases": 47,
-        "new_cases_delta_1_day": 0.000894,
-        "cases_per_100k_7_days": 9.933612305,
+        "total_confirmed_cases": 52782,
+        "new_cases": 92,
+        "new_cases_delta_1_day": 0.001746,
+        "cases_per_100k_7_days": 9.450776539,
         "POPULATION": 562303
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 92
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 76
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 47
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 13.287142341
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 13.769800268
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 13.490413531

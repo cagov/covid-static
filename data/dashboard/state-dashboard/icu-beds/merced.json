@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 9,
-        "CHANGE": -4,
-        "CHANGE_FACTOR": -0.307692,
+        "TOTAL": 7,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.222222,
         "POPULATION": 287420
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 7
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 9

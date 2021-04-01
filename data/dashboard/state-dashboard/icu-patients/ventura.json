@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Ventura"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 11,
-        "CHANGE": -2,
-        "CHANGE_FACTOR": -0.153846,
+        "TOTAL": 10,
+        "CHANGE": -1,
+        "CHANGE_FACTOR": -0.090909,
         "POPULATION": 852747
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 10
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 11
@@ -1480,6 +1484,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 14.714
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 15.5

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Butte"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 7,
+        "TOTAL": 10,
         "CHANGE": 3,
-        "CHANGE_FACTOR": 0.75,
+        "CHANGE_FACTOR": 0.428571,
         "POPULATION": 217769
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 10
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 7
@@ -1480,6 +1484,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 8
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 8.071

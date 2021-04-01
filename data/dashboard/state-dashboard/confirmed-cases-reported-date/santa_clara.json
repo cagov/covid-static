@@ -1,20 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Santa Clara"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 114335,
-        "new_cases": 103,
-        "new_cases_delta_1_day": 0.000902,
-        "cases_per_100k_7_days": 4.770162407,
+        "total_confirmed_cases": 114499,
+        "new_cases": 86,
+        "new_cases_delta_1_day": 0.000752,
+        "cases_per_100k_7_days": 4.741091236,
         "POPULATION": 1967585
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 86
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 78
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 103
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 5.387314906
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 5.576074223
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 5.517982705
