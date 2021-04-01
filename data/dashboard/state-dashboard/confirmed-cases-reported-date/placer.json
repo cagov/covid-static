@@ -1,20 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Placer"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 20827,
-        "new_cases": 31,
-        "new_cases_delta_1_day": 0.001491,
-        "cases_per_100k_7_days": 5.600922999,
+        "total_confirmed_cases": 20885,
+        "new_cases": 19,
+        "new_cases_delta_1_day": 0.000911,
+        "cases_per_100k_7_days": 6.314398877,
         "POPULATION": 400434
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 19
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 39
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 31
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 9.953450506
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 10.666926385
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 10.131757044

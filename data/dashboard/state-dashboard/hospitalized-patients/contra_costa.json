@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 46,
+        "TOTAL": 40,
         "CHANGE": -6,
-        "CHANGE_FACTOR": -0.115385,
+        "CHANGE_FACTOR": -0.130435,
         "POPULATION": 1160099
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 40
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 46
@@ -1480,6 +1484,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 46.285
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 47.428

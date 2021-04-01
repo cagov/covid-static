@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "San Diego"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 64,
-        "CHANGE": -8,
-        "CHANGE_FACTOR": -0.111111,
+        "TOTAL": 66,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.03125,
         "POPULATION": 3370418
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 66
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 64
@@ -1480,6 +1484,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 79.785
+        },
         {
           "DATE": "2021-03-30",
           "VALUE": 81.428

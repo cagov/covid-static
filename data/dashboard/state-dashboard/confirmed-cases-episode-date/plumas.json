@@ -1,28 +1,36 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Plumas"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 660,
-        "new_cases": 3,
-        "new_cases_delta_1_day": 0.004566,
-        "cases_per_100k_7_days": 5.263989051,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-22",
+        "total_confirmed_cases": 663,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.003026,
+        "cases_per_100k_7_days": 4.511238617,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 18997
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-03-29",
+          "DATE": "2021-03-31",
           "VALUE": 0
         },
         {
-          "DATE": "2021-03-28",
+          "DATE": "2021-03-30",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-03-29",
+          "VALUE": 2
+        },
+        {
+          "DATE": "2021-03-28",
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-27",
@@ -1591,12 +1599,20 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 3.758488182
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 3.758488182
+        },
+        {
           "DATE": "2021-03-29",
-          "VALUE": 1.50023688
+          "VALUE": 3.758488182
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 1.50023688
+          "VALUE": 2.252987314
         },
         {
           "DATE": "2021-03-27",

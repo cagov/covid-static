@@ -1,20 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "California"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 3566464,
-        "new_cases": 1996,
-        "new_cases_delta_1_day": 0.00056,
-        "cases_per_100k_7_days": 4.55742657,
+        "total_confirmed_cases": 3570660,
+        "new_cases": 2234,
+        "new_cases_delta_1_day": 0.000626,
+        "cases_per_100k_7_days": 4.63360808,
         "POPULATION": 40129160
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 2234
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 1962
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 1996
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 6.177552682
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 6.183603145
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 6.181111192

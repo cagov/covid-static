@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Alpine"
   },
   "data": {
@@ -9,12 +9,20 @@
         "total_confirmed_cases": 85,
         "new_cases": 0,
         "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 12.712623098,
+        "cases_per_100k_7_days": 25.51477171,
         "POPULATION": 1117
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 12.712623098
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 12.712623098
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 25.51477171

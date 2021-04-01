@@ -1,20 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "San Diego"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 269771,
-        "new_cases": 295,
-        "new_cases_delta_1_day": 0.001095,
-        "cases_per_100k_7_days": 4.768369977,
+        "total_confirmed_cases": 270288,
+        "new_cases": 290,
+        "new_cases_delta_1_day": 0.001074,
+        "cases_per_100k_7_days": 4.853136911,
         "POPULATION": 3370418
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 290
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 227
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 295
@@ -1589,6 +1597,14 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 7.947293184
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 7.807399557
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 7.875224972

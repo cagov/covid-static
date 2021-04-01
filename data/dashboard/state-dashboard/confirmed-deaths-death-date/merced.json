@@ -1,21 +1,29 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-03-30",
+    "PUBLISHED_DATE": "2021-04-01",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 422,
+        "total_confirmed_deaths": 423,
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.099158027,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-08",
+        "deaths_per_100k_7_days": 0.148911001,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
         "POPULATION": 287420
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-29",
           "VALUE": 0
@@ -74,7 +82,7 @@
         },
         {
           "DATE": "2021-03-15",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-14",
@@ -1591,6 +1599,14 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-03-30",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-29",
           "VALUE": 0
         },
@@ -1624,31 +1640,31 @@
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 0.049405052
+          "VALUE": 0.099158027
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 0.049405052
+          "VALUE": 0.099158027
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 0.049405052
+          "VALUE": 0.099158027
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 0.099158027
+          "VALUE": 0.148911001
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 0.099158027
+          "VALUE": 0.148911001
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 0.049405052
+          "VALUE": 0.099158027
         },
         {
           "DATE": "2021-03-15",
-          "VALUE": 0.099158027
+          "VALUE": 0.148911001
         },
         {
           "DATE": "2021-03-14",
