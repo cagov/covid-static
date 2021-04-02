@@ -6,14 +6,18 @@
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 6,
-        "CHANGE": 2,
-        "CHANGE_FACTOR": 0.5,
+        "TOTAL": 2,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.666667,
         "POPULATION": 193098
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 6
