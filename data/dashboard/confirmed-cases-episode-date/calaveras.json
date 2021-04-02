@@ -1,24 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Calaveras"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 2005,
-        "new_cases": 8,
-        "new_cases_delta_1_day": 0.004006,
-        "cases_per_100k_7_days": 6.773690984,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-24",
+        "total_confirmed_cases": 2006,
+        "new_cases": 1,
+        "new_cases_delta_1_day": 0.000499,
+        "cases_per_100k_7_days": 6.450811714,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 44289
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-03-31",
+          "DATE": "2021-04-01",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-30",
@@ -1603,8 +1607,12 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 3.870035449
+        },
+        {
           "DATE": "2021-03-31",
-          "VALUE": 4.515793989
+          "VALUE": 4.836415363
         },
         {
           "DATE": "2021-03-30",

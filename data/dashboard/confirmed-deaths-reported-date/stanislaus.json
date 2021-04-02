@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "total_confirmed_deaths": 687,
-        "new_deaths": 10,
-        "new_deaths_delta_1_day": 0.014771,
-        "deaths_per_100k_7_days": 0.025253289,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
+        "deaths_per_100k_7_days": 0.050684417,
         "POPULATION": 562303
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 10
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0.228524479
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0.253955608

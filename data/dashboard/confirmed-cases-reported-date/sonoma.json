@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 29216,
-        "new_cases": 18,
-        "new_cases_delta_1_day": 0.000616,
-        "cases_per_100k_7_days": 4.228176569,
+        "total_confirmed_cases": 29241,
+        "new_cases": 25,
+        "new_cases_delta_1_day": 0.000856,
+        "cases_per_100k_7_days": 4.170592831,
         "POPULATION": 496668
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 25
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 18
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 5.206093406
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 5.234885275

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Alpine"
   },
   "data": {
@@ -15,6 +15,10 @@
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 12.712623098
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 12.712623098

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
         "TOTAL": 20,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.047619,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 177925
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 20
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 20

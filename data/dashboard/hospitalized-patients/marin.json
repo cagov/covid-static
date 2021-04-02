@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Marin"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 12,
-        "CHANGE": 2,
-        "CHANGE_FACTOR": 0.2,
+        "TOTAL": 13,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.083333,
         "POPULATION": 260800
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 13
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 12
@@ -1484,6 +1488,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 12.714
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 13.428

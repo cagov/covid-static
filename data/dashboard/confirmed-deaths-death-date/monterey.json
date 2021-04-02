@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 338,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.031644723,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "total_confirmed_deaths": 339,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.002959,
+        "deaths_per_100k_7_days": 0.063512297,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 448732
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -154,7 +158,7 @@
         },
         {
           "DATE": "2021-02-25",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-02-24",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1716,31 +1724,31 @@
         },
         {
           "DATE": "2021-03-03",
-          "VALUE": 0.063512297
+          "VALUE": 0.09537987
         },
         {
           "DATE": "2021-03-02",
-          "VALUE": 0.063512297
+          "VALUE": 0.09537987
         },
         {
           "DATE": "2021-03-01",
-          "VALUE": 0.031644723
+          "VALUE": 0.063512297
         },
         {
           "DATE": "2021-02-28",
-          "VALUE": 0.031644723
+          "VALUE": 0.063512297
         },
         {
           "DATE": "2021-02-27",
-          "VALUE": 0
+          "VALUE": 0.031644723
         },
         {
           "DATE": "2021-02-26",
-          "VALUE": 0
+          "VALUE": 0.031644723
         },
         {
           "DATE": "2021-02-25",
-          "VALUE": 0
+          "VALUE": 0.031644723
         },
         {
           "DATE": "2021-02-24",

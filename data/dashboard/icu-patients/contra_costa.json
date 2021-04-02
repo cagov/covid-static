@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 16,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.066667,
+        "TOTAL": 13,
+        "CHANGE": -3,
+        "CHANGE_FACTOR": -0.1875,
         "POPULATION": 1160099
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 13
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 16
@@ -1484,6 +1488,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 14.642
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 14.571

@@ -1,34 +1,38 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "San Benito"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.030369,
-        "test_positivity_7_days_delta_7_days": 0.0124,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-23",
+        "test_positivity_7_days": 0.022532,
+        "test_positivity_7_days_delta_7_days": 0.001092,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 64022
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 0.022532
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 0.030369
+          "VALUE": 0.026205
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.025147
+          "VALUE": 0.024484
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 0.024653
+          "VALUE": 0.024502
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 0.023112
+          "VALUE": 0.023041
         },
         {
           "DATE": "2021-03-26",
@@ -40,35 +44,35 @@
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 0.021456
+          "VALUE": 0.02144
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 0.017969
+          "VALUE": 0.017941
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 0.018838
+          "VALUE": 0.018809
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 0.021386
+          "VALUE": 0.021355
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 0.021914
+          "VALUE": 0.021882
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 0.02193
+          "VALUE": 0.021898
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 0.024123
+          "VALUE": 0.024088
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 0.028777
+          "VALUE": 0.028756
         },
         {
           "DATE": "2021-03-16",
@@ -1597,20 +1601,24 @@
       ],
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-03-30",
+          "DATE": "2021-03-31",
           "VALUE": 26
         },
         {
+          "DATE": "2021-03-30",
+          "VALUE": 173
+        },
+        {
           "DATE": "2021-03-29",
-          "VALUE": 162
+          "VALUE": 268
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 62
+          "VALUE": 66
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 50
+          "VALUE": 54
         },
         {
           "DATE": "2021-03-26",
@@ -1646,11 +1654,11 @@
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 169
+          "VALUE": 170
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 252
+          "VALUE": 253
         },
         {
           "DATE": "2021-03-16",

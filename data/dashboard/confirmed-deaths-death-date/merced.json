@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 423,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 425,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.004728,
         "deaths_per_100k_7_days": 0.148911001,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 287420
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -246,7 +250,7 @@
         },
         {
           "DATE": "2021-02-02",
-          "VALUE": 2
+          "VALUE": 3
         },
         {
           "DATE": "2021-02-01",
@@ -446,7 +450,7 @@
         },
         {
           "DATE": "2020-12-14",
-          "VALUE": 4
+          "VALUE": 5
         },
         {
           "DATE": "2020-12-13",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1808,31 +1816,31 @@
         },
         {
           "DATE": "2021-02-08",
-          "VALUE": 0.447080927
+          "VALUE": 0.496833902
         },
         {
           "DATE": "2021-02-07",
-          "VALUE": 0.596339851
+          "VALUE": 0.646092826
         },
         {
           "DATE": "2021-02-06",
-          "VALUE": 0.596339851
+          "VALUE": 0.646092826
         },
         {
           "DATE": "2021-02-05",
-          "VALUE": 0.596339851
+          "VALUE": 0.646092826
         },
         {
           "DATE": "2021-02-04",
-          "VALUE": 0.596339851
+          "VALUE": 0.646092826
         },
         {
           "DATE": "2021-02-03",
-          "VALUE": 0.397327952
+          "VALUE": 0.447080927
         },
         {
           "DATE": "2021-02-02",
-          "VALUE": 0.447080927
+          "VALUE": 0.496833902
         },
         {
           "DATE": "2021-02-01",
@@ -2008,31 +2016,31 @@
         },
         {
           "DATE": "2020-12-20",
-          "VALUE": 1.142926727
+          "VALUE": 1.192679702
         },
         {
           "DATE": "2020-12-19",
-          "VALUE": 1.292185652
+          "VALUE": 1.341938626
         },
         {
           "DATE": "2020-12-18",
-          "VALUE": 1.292185652
+          "VALUE": 1.341938626
         },
         {
           "DATE": "2020-12-17",
-          "VALUE": 1.242432677
+          "VALUE": 1.292185652
         },
         {
           "DATE": "2020-12-16",
-          "VALUE": 1.043768701
+          "VALUE": 1.093173753
         },
         {
           "DATE": "2020-12-15",
-          "VALUE": 0.944262751
+          "VALUE": 0.994015726
         },
         {
           "DATE": "2020-12-14",
-          "VALUE": 0.795003827
+          "VALUE": 0.844756802
         },
         {
           "DATE": "2020-12-13",

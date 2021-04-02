@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Nevada"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 4283,
-        "new_cases": 17,
-        "new_cases_delta_1_day": 0.003985,
-        "cases_per_100k_7_days": 8.972748455,
+        "total_confirmed_cases": 4288,
+        "new_cases": 5,
+        "new_cases_delta_1_day": 0.001167,
+        "cases_per_100k_7_days": 9.261473002,
         "POPULATION": 98710
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 5
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 17
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 12.445547564
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 13.313747341

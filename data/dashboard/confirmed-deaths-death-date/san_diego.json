@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "San Diego"
   },
   "data": {
@@ -10,12 +10,16 @@
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0.021184316,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 3370418
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -1602,6 +1606,10 @@
         }
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0

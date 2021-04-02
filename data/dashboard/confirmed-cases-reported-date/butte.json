@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Butte"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 11321,
-        "new_cases": 25,
-        "new_cases_delta_1_day": 0.002213,
-        "cases_per_100k_7_days": 4.526355909,
+        "total_confirmed_cases": 11328,
+        "new_cases": 7,
+        "new_cases_delta_1_day": 0.000618,
+        "cases_per_100k_7_days": 4.788560355,
         "POPULATION": 217769
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 7
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 25
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 3.804490079
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 4.526355909

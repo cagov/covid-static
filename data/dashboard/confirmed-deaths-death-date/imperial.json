@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Imperial"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "total_confirmed_deaths": 710,
-        "new_deaths": 4,
-        "new_deaths_delta_1_day": 0.005666,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 191649
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -1602,6 +1606,10 @@
         }
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0

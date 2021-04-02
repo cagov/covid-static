@@ -1,27 +1,31 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Trinity"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 7350,
-        "new_tests_reported": 11,
-        "new_tests_reported_delta_1_day": 0.001498841804,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-23",
+        "total_tests_performed": 7364,
+        "new_tests_reported": 14,
+        "new_tests_reported_delta_1_day": 0.001904761905,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 13354
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-03-30",
+          "DATE": "2021-03-31",
           "VALUE": 0
         },
         {
+          "DATE": "2021-03-30",
+          "VALUE": 6
+        },
+        {
           "DATE": "2021-03-29",
-          "VALUE": 5
+          "VALUE": 9
         },
         {
           "DATE": "2021-03-28",
@@ -29,11 +33,11 @@
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 12
+          "VALUE": 15
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 4
+          "VALUE": 5
         },
         {
           "DATE": "2021-03-25",
@@ -1598,24 +1602,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 50.277070541
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 51.347910738
+          "VALUE": 66.32469672
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 65.253856522
+          "VALUE": 73.813089711
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 77.018121911
+          "VALUE": 81.301482702
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 74.883929909
+          "VALUE": 79.159802306
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 72.742249513
+          "VALUE": 73.813089711
         },
         {
           "DATE": "2021-03-25",

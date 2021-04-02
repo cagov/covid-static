@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 179,
-        "new_deaths": -5,
-        "new_deaths_delta_1_day": -0.027174,
+        "total_confirmed_deaths": 181,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.011173,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 177925
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -74,7 +78,7 @@
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-16",
@@ -726,7 +730,7 @@
         },
         {
           "DATE": "2020-10-05",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2020-10-04",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1636,31 +1644,31 @@
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 0
+          "VALUE": 0.079808908
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 0
+          "VALUE": 0.079808908
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 0
+          "VALUE": 0.079808908
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 0
+          "VALUE": 0.079808908
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 0
+          "VALUE": 0.079808908
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 0
+          "VALUE": 0.079808908
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 0
+          "VALUE": 0.079808908
         },
         {
           "DATE": "2021-03-16",
@@ -2288,31 +2296,31 @@
         },
         {
           "DATE": "2020-10-11",
-          "VALUE": 0.320921737
+          "VALUE": 0.401292679
         },
         {
           "DATE": "2020-10-10",
-          "VALUE": 0.320921737
+          "VALUE": 0.401292679
         },
         {
           "DATE": "2020-10-09",
-          "VALUE": 0.320921737
+          "VALUE": 0.401292679
         },
         {
           "DATE": "2020-10-08",
-          "VALUE": 0.240550794
+          "VALUE": 0.320921737
         },
         {
           "DATE": "2020-10-07",
-          "VALUE": 0.160179851
+          "VALUE": 0.240550794
         },
         {
           "DATE": "2020-10-06",
-          "VALUE": 0.079808908
+          "VALUE": 0.160179851
         },
         {
           "DATE": "2020-10-05",
-          "VALUE": 0.079808908
+          "VALUE": 0.160179851
         },
         {
           "DATE": "2020-10-04",

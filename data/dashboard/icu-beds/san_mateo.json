@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "San Mateo"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 28,
-        "CHANGE": -3,
-        "CHANGE_FACTOR": -0.096774,
+        "TOTAL": 23,
+        "CHANGE": -5,
+        "CHANGE_FACTOR": -0.178571,
         "POPULATION": 778001
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 23
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 28

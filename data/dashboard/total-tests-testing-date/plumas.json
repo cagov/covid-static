@@ -1,35 +1,39 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Plumas"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 18409,
-        "new_tests_reported": 20,
-        "new_tests_reported_delta_1_day": 0.001087606721,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-23",
+        "total_tests_performed": 18468,
+        "new_tests_reported": 59,
+        "new_tests_reported_delta_1_day": 0.003204954099,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 18997
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 25
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 38
+          "VALUE": 53
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 101
+          "VALUE": 110
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 12
+          "VALUE": 16
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 14
+          "VALUE": 20
         },
         {
           "DATE": "2021-03-26",
@@ -1598,20 +1602,24 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 294.030636416
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 345.917776491
+          "VALUE": 371.484971311
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 391.788177081
+          "VALUE": 406.074643365
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 407.580144233
+          "VALUE": 415.102384587
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 406.827393799
+          "VALUE": 411.338632416
         },
         {
           "DATE": "2021-03-26",

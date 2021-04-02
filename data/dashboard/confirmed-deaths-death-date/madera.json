@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Madera"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 229,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 230,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.004367,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 160089
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -346,7 +350,7 @@
         },
         {
           "DATE": "2021-01-08",
-          "VALUE": 2
+          "VALUE": 3
         },
         {
           "DATE": "2021-01-07",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1908,31 +1916,31 @@
         },
         {
           "DATE": "2021-01-14",
-          "VALUE": 0.981329136
+          "VALUE": 1.070654448
         },
         {
           "DATE": "2021-01-13",
-          "VALUE": 0.892003823
+          "VALUE": 0.981329136
         },
         {
           "DATE": "2021-01-12",
-          "VALUE": 0.80267851
+          "VALUE": 0.892003823
         },
         {
           "DATE": "2021-01-11",
-          "VALUE": 0.80267851
+          "VALUE": 0.892003823
         },
         {
           "DATE": "2021-01-10",
-          "VALUE": 0.892003823
+          "VALUE": 0.981329136
         },
         {
           "DATE": "2021-01-09",
-          "VALUE": 0.892003823
+          "VALUE": 0.981329136
         },
         {
           "DATE": "2021-01-08",
-          "VALUE": 0.981329136
+          "VALUE": 1.070654448
         },
         {
           "DATE": "2021-01-07",
