@@ -6,22 +6,26 @@
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 1862,
+        "total_tests_performed": 1865,
         "new_tests_reported": 0,
         "new_tests_reported_delta_1_day": 0,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 1117
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-03-31",
+          "DATE": "2021-04-01",
           "VALUE": 0
         },
         {
+          "DATE": "2021-03-31",
+          "VALUE": 1
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 0
+          "VALUE": 2
         },
         {
           "DATE": "2021-03-29",
@@ -1602,12 +1606,16 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
-          "DATE": "2021-03-31",
+          "DATE": "2021-04-01",
           "VALUE": 63.921217547
         },
         {
+          "DATE": "2021-03-31",
+          "VALUE": 102.238137869
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 115.040286482
+          "VALUE": 140.644583706
         },
         {
           "DATE": "2021-03-29",
