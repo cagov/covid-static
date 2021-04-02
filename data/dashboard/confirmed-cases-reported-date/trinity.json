@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Trinity"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
         "total_confirmed_cases": 319,
-        "new_cases": 3,
-        "new_cases_delta_1_day": 0.009494,
-        "cases_per_100k_7_days": 1.063351805,
+        "new_cases": 0,
+        "new_cases_delta_1_day": 0,
+        "cases_per_100k_7_days": 2.134192002,
         "POPULATION": 13354
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 3
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 9.622584993
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 9.622584993

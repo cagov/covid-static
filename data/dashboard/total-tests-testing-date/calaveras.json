@@ -1,35 +1,39 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Calaveras"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 36704,
-        "new_tests_reported": 60,
-        "new_tests_reported_delta_1_day": 0.001637375832,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-23",
+        "total_tests_performed": 36801,
+        "new_tests_reported": 97,
+        "new_tests_reported_delta_1_day": 0.002642763731,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 44289
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 15
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 21
+          "VALUE": 44
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 118
+          "VALUE": 167
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 24
+          "VALUE": 25
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 22
+          "VALUE": 23
         },
         {
           "DATE": "2021-03-26",
@@ -41,7 +45,7 @@
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 106
+          "VALUE": 107
         },
         {
           "DATE": "2021-03-23",
@@ -65,11 +69,11 @@
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 125
+          "VALUE": 128
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 153
+          "VALUE": 156
         },
         {
           "DATE": "2021-03-16",
@@ -1598,60 +1602,64 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 162.568583621
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 168.050757524
+          "VALUE": 192.241865926
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 217.724491409
+          "VALUE": 234.498408183
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 240.949219897
+          "VALUE": 241.91559981
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 247.07715234
+          "VALUE": 247.722910881
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 250.303687146
+          "VALUE": 250.626566416
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 242.561358351
+          "VALUE": 242.884237621
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 242.561358351
+          "VALUE": 243.852875432
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 257.720878774
+          "VALUE": 259.658154395
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 254.173722595
+          "VALUE": 256.108740319
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 243.852875432
+          "VALUE": 245.787893156
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 243.852875432
+          "VALUE": 245.787893156
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 244.819255346
+          "VALUE": 246.75427307
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 257.07737813
+          "VALUE": 259.012395855
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 254.496601865
+          "VALUE": 255.462981779
         },
         {
           "DATE": "2021-03-16",

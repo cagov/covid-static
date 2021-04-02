@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "total_confirmed_deaths": 687,
-        "new_deaths": 10,
-        "new_deaths_delta_1_day": 0.014771,
-        "deaths_per_100k_7_days": 0.025253289,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
+        "deaths_per_100k_7_days": 0.050684417,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 562303
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -398,7 +402,7 @@
         },
         {
           "DATE": "2020-12-26",
-          "VALUE": 7
+          "VALUE": 6
         },
         {
           "DATE": "2020-12-25",
@@ -410,7 +414,7 @@
         },
         {
           "DATE": "2020-12-23",
-          "VALUE": 7
+          "VALUE": 8
         },
         {
           "DATE": "2020-12-22",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1960,15 +1968,15 @@
         },
         {
           "DATE": "2021-01-01",
-          "VALUE": 1.143155914
-        },
-        {
-          "DATE": "2020-12-31",
           "VALUE": 1.117724785
         },
         {
+          "DATE": "2020-12-31",
+          "VALUE": 1.092293657
+        },
+        {
           "DATE": "2020-12-30",
-          "VALUE": 1.168587043
+          "VALUE": 1.143155914
         },
         {
           "DATE": "2020-12-29",
@@ -1988,15 +1996,15 @@
         },
         {
           "DATE": "2020-12-25",
-          "VALUE": 1.194018172
+          "VALUE": 1.2194493
         },
         {
           "DATE": "2020-12-24",
-          "VALUE": 1.143155914
+          "VALUE": 1.168587043
         },
         {
           "DATE": "2020-12-23",
-          "VALUE": 1.143155914
+          "VALUE": 1.168587043
         },
         {
           "DATE": "2020-12-22",

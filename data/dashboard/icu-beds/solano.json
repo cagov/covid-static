@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Solano"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 17,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.0625,
+        "TOTAL": 12,
+        "CHANGE": -5,
+        "CHANGE_FACTOR": -0.294118,
         "POPULATION": 444255
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 12
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 17

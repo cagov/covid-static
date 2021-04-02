@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Yuba"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 7,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 0.75,
+        "TOTAL": 9,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.285714,
         "POPULATION": 79290
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 9
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 7
@@ -1484,6 +1488,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 5.285
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 5.357

@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 29780,
-        "new_cases": 49,
-        "new_cases_delta_1_day": 0.001648,
-        "cases_per_100k_7_days": 7.455291907,
+        "total_confirmed_cases": 29820,
+        "new_cases": 40,
+        "new_cases_delta_1_day": 0.001343,
+        "cases_per_100k_7_days": 8.250643657,
         "POPULATION": 287420
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 40
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 49
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 12.127548535
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 12.674135412

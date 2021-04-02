@@ -1,51 +1,55 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Amador"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 101893,
-        "new_tests_reported": 56,
-        "new_tests_reported_delta_1_day": 0.000549898367,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-23",
+        "total_tests_performed": 102243,
+        "new_tests_reported": 350,
+        "new_tests_reported_delta_1_day": 0.003434975906,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 38531
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 18
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 15
+          "VALUE": 43
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 210
+          "VALUE": 279
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 25
+          "VALUE": 31
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 71
+          "VALUE": 74
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 98
+          "VALUE": 103
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 127
+          "VALUE": 138
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 150
+          "VALUE": 152
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 297
+          "VALUE": 298
         },
         {
           "DATE": "2021-03-22",
@@ -65,15 +69,15 @@
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 216
+          "VALUE": 348
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 357
+          "VALUE": 415
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 647
+          "VALUE": 664
         },
         {
           "DATE": "2021-03-15",
@@ -1598,64 +1602,68 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 254.340660767
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 258.046767538
+          "VALUE": 304.020139628
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 362.601541616
+          "VALUE": 398.564791986
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 424.517920635
+          "VALUE": 434.899172095
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 446.393812774
+          "VALUE": 454.548285796
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 439.347538346
+          "VALUE": 446.393812774
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 435.270301835
+          "VALUE": 440.460927565
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 468.2671096
+          "VALUE": 518.320313514
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 545.015701643
+          "VALUE": 615.828813163
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 674.781344891
+          "VALUE": 751.527341621
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 769.694531676
+          "VALUE": 846.440528406
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 764.132776206
+          "VALUE": 840.881368249
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 774.885157406
+          "VALUE": 851.631154136
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 926.89522722
+          "VALUE": 1003.643819262
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 981.028262957
+          "VALUE": 1008.834444992
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 992.149178583
+          "VALUE": 998.453193532
         },
         {
           "DATE": "2021-03-15",

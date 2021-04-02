@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Riverside"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 31,
-        "CHANGE": -3,
-        "CHANGE_FACTOR": -0.088235,
+        "TOTAL": 27,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.129032,
         "POPULATION": 2468145
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 27
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 31
@@ -1484,6 +1488,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 34.857
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 35.714

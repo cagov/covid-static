@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 1505,
-        "new_cases": 4,
-        "new_cases_delta_1_day": 0.002665,
+        "total_confirmed_cases": 1507,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.001329,
         "cases_per_100k_7_days": 3.899353899,
         "POPULATION": 43956
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 4
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 5.198380198
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 4.873054873

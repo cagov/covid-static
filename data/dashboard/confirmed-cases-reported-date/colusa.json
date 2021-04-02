@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Colusa"
   },
   "data": {
@@ -9,12 +9,16 @@
         "total_confirmed_cases": 1890,
         "new_cases": 0,
         "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 2.527331474,
+        "cases_per_100k_7_days": 1.894392068,
         "POPULATION": 22593
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 1.261452662
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 2.527331474

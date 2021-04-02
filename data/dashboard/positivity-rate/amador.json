@@ -1,78 +1,82 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Amador"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.038793,
-        "test_positivity_7_days_delta_7_days": 0.025188,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-23",
+        "test_positivity_7_days": 0.043732,
+        "test_positivity_7_days_delta_7_days": 0.033002,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 38531
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 0.043732
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 0.038793
+          "VALUE": 0.034146
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.027607
+          "VALUE": 0.025116
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 0.026201
+          "VALUE": 0.025575
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 0.024917
+          "VALUE": 0.02447
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 0.018565
+          "VALUE": 0.018272
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 0.017888
+          "VALUE": 0.017677
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 0.011876
+          "VALUE": 0.01073
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 0.013605
+          "VALUE": 0.012041
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 0.011538
+          "VALUE": 0.01036
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 0.009152
+          "VALUE": 0.008322
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 0.008248
+          "VALUE": 0.007496
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 0.010526
+          "VALUE": 0.009578
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 0.008
+          "VALUE": 0.007388
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 0.007937
+          "VALUE": 0.007718
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 0.005979
+          "VALUE": 0.005941
         },
         {
           "DATE": "2021-03-15",
@@ -1597,36 +1601,40 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 18
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 15
+          "VALUE": 43
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 210
+          "VALUE": 279
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 25
+          "VALUE": 31
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 71
+          "VALUE": 74
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 98
+          "VALUE": 103
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 127
+          "VALUE": 138
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 150
+          "VALUE": 152
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 297
+          "VALUE": 298
         },
         {
           "DATE": "2021-03-22",
@@ -1646,15 +1654,15 @@
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 216
+          "VALUE": 348
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 357
+          "VALUE": 415
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 647
+          "VALUE": 664
         },
         {
           "DATE": "2021-03-15",

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Yuba"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
         "TOTAL": 3,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.5,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 79290
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 3
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 3
@@ -1484,6 +1488,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 1.428
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 1.428

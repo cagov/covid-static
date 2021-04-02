@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Yuba"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 5686,
-        "new_cases": 7,
-        "new_cases_delta_1_day": 0.001233,
-        "cases_per_100k_7_days": 5.044772355,
+        "total_confirmed_cases": 5694,
+        "new_cases": 8,
+        "new_cases_delta_1_day": 0.001407,
+        "cases_per_100k_7_days": 5.764913608,
         "POPULATION": 79290
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 8
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 7
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 8.467650397
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 9.368142263

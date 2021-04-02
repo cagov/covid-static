@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Solano"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 36,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.027027,
+        "TOTAL": 34,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.055556,
         "POPULATION": 444255
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 34
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 36
@@ -1484,6 +1488,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 34.142
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 34.5

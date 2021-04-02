@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 769,
+        "total_confirmed_deaths": 771,
         "new_deaths": 2,
-        "new_deaths_delta_1_day": 0.002608,
+        "new_deaths_delta_1_day": 0.002601,
         "deaths_per_100k_7_days": 0.024566869,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 1160099
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -290,7 +294,7 @@
         },
         {
           "DATE": "2021-01-22",
-          "VALUE": 2
+          "VALUE": 3
         },
         {
           "DATE": "2021-01-21",
@@ -394,7 +398,7 @@
         },
         {
           "DATE": "2020-12-27",
-          "VALUE": 5
+          "VALUE": 6
         },
         {
           "DATE": "2020-12-26",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1852,31 +1860,31 @@
         },
         {
           "DATE": "2021-01-28",
-          "VALUE": 0.332471625
-        },
-        {
-          "DATE": "2021-01-27",
           "VALUE": 0.344798159
         },
         {
-          "DATE": "2021-01-26",
+          "DATE": "2021-01-27",
           "VALUE": 0.357038494
         },
         {
+          "DATE": "2021-01-26",
+          "VALUE": 0.369365028
+        },
+        {
           "DATE": "2021-01-25",
-          "VALUE": 0.270838954
+          "VALUE": 0.283165488
         },
         {
           "DATE": "2021-01-24",
-          "VALUE": 0.320145091
+          "VALUE": 0.332471625
         },
         {
           "DATE": "2021-01-23",
-          "VALUE": 0.295492023
+          "VALUE": 0.307818557
         },
         {
           "DATE": "2021-01-22",
-          "VALUE": 0.332471625
+          "VALUE": 0.344798159
         },
         {
           "DATE": "2021-01-21",
@@ -1956,31 +1964,31 @@
         },
         {
           "DATE": "2021-01-02",
-          "VALUE": 0.603396779
-        },
-        {
-          "DATE": "2021-01-01",
           "VALUE": 0.615637114
         },
         {
+          "DATE": "2021-01-01",
+          "VALUE": 0.627963648
+        },
+        {
           "DATE": "2020-12-31",
-          "VALUE": 0.603396779
+          "VALUE": 0.615637114
         },
         {
           "DATE": "2020-12-30",
-          "VALUE": 0.689596319
-        },
-        {
-          "DATE": "2020-12-29",
           "VALUE": 0.701836654
         },
         {
+          "DATE": "2020-12-29",
+          "VALUE": 0.714163188
+        },
+        {
           "DATE": "2020-12-28",
-          "VALUE": 0.800362728
+          "VALUE": 0.812689262
         },
         {
           "DATE": "2020-12-27",
-          "VALUE": 0.812689262
+          "VALUE": 0.825015796
         },
         {
           "DATE": "2020-12-26",

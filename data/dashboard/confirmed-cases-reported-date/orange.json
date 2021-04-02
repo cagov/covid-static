@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Orange"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 249518,
-        "new_cases": 106,
-        "new_cases_delta_1_day": 0.000425,
-        "cases_per_100k_7_days": 2.924808558,
+        "total_confirmed_cases": 249617,
+        "new_cases": 99,
+        "new_cases_delta_1_day": 0.000397,
+        "cases_per_100k_7_days": 2.902693154,
         "POPULATION": 3228519
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 99
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 106
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 3.300925285
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 3.287637459

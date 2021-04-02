@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 0,
-        "CHANGE": 0,
+        "TOTAL": 1,
+        "CHANGE": 1,
         "CHANGE_FACTOR": 0,
         "POPULATION": 88439
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 1
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -1484,6 +1488,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0.428
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0.357

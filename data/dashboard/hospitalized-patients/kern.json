@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Kern"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 57,
-        "CHANGE": -5,
-        "CHANGE_FACTOR": -0.080645,
+        "TOTAL": 63,
+        "CHANGE": 6,
+        "CHANGE_FACTOR": 0.105263,
         "POPULATION": 927251
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 63
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 57
@@ -1484,6 +1488,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 78.857
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 81.857

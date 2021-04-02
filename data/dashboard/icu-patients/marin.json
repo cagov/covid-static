@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Marin"
   },
   "data": {
@@ -14,6 +14,10 @@
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 4
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 4
@@ -1484,6 +1488,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 4.214
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 4.5

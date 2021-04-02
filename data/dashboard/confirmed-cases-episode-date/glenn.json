@@ -1,28 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Glenn"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 2318,
-        "new_cases": 8,
-        "new_cases_delta_1_day": 0.003463,
-        "cases_per_100k_7_days": 11.193267003,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-24",
+        "total_confirmed_cases": 2322,
+        "new_cases": 4,
+        "new_cases_delta_1_day": 0.001726,
+        "cases_per_100k_7_days": 8.273136159,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 29348
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0
+          "VALUE": 3
         },
         {
           "DATE": "2021-03-29",
@@ -70,7 +74,7 @@
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 6
+          "VALUE": 7
         },
         {
           "DATE": "2021-03-17",
@@ -1603,12 +1607,16 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 3.407387215
+        },
+        {
           "DATE": "2021-03-31",
-          "VALUE": 1.9456181
+          "VALUE": 3.407387215
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 4.378492572
+          "VALUE": 5.840261687
         },
         {
           "DATE": "2021-03-29",
@@ -1632,31 +1640,31 @@
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 11.193267003
+          "VALUE": 11.680523375
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 13.629548862
+          "VALUE": 14.113397847
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 12.655036118
-        },
-        {
-          "DATE": "2021-03-21",
-          "VALUE": 12.167779746
-        },
-        {
-          "DATE": "2021-03-20",
-          "VALUE": 12.167779746
-        },
-        {
-          "DATE": "2021-03-19",
           "VALUE": 13.14229249
         },
         {
+          "DATE": "2021-03-21",
+          "VALUE": 12.655036118
+        },
+        {
+          "DATE": "2021-03-20",
+          "VALUE": 12.655036118
+        },
+        {
+          "DATE": "2021-03-19",
+          "VALUE": 13.629548862
+        },
+        {
           "DATE": "2021-03-18",
-          "VALUE": 14.113397847
+          "VALUE": 14.600654218
         },
         {
           "DATE": "2021-03-17",

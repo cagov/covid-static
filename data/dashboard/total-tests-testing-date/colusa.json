@@ -1,39 +1,43 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Colusa"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 15710,
-        "new_tests_reported": 22,
-        "new_tests_reported_delta_1_day": 0.001402345742,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-23",
+        "total_tests_performed": 15749,
+        "new_tests_reported": 39,
+        "new_tests_reported_delta_1_day": 0.002482495226,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 22593
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 4
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 6
+          "VALUE": 21
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 22
+          "VALUE": 32
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 12
+          "VALUE": 13
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 14
+          "VALUE": 18
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 21
+          "VALUE": 23
         },
         {
           "DATE": "2021-03-25",
@@ -65,15 +69,15 @@
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 21
+          "VALUE": 22
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 169
+          "VALUE": 170
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 33
+          "VALUE": 34
         },
         {
           "DATE": "2021-03-15",
@@ -1598,24 +1602,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-03-31",
+          "VALUE": 83.463904749
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 167.560748905
+          "VALUE": 187.792679148
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 187.159739742
+          "VALUE": 197.910857345
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 201.704067632
+          "VALUE": 206.130217324
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 202.337007038
+          "VALUE": 206.130217324
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 199.176736157
+          "VALUE": 200.43818882
         },
         {
           "DATE": "2021-03-25",
@@ -1623,39 +1631,39 @@
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 195.379099721
+          "VALUE": 196.012039127
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 195.379099721
+          "VALUE": 196.644978533
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 192.851768247
+          "VALUE": 194.750586465
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 202.337007038
+          "VALUE": 204.231399106
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 202.337007038
+          "VALUE": 204.231399106
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 206.130217324
+          "VALUE": 208.029035542
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 221.307484619
+          "VALUE": 223.201876687
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 225.100694906
+          "VALUE": 226.362147568
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 228.260965786
+          "VALUE": 228.893905192
         },
         {
           "DATE": "2021-03-15",

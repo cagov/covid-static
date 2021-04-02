@@ -1,32 +1,36 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 1129,
-        "new_cases": 11,
-        "new_cases_delta_1_day": 0.009839,
-        "cases_per_100k_7_days": 12.439219102,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-24",
+        "total_confirmed_cases": 1138,
+        "new_cases": 9,
+        "new_cases_delta_1_day": 0.007972,
+        "cases_per_100k_7_days": 14.514841425,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 27558
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-03-31",
+          "DATE": "2021-04-01",
           "VALUE": 0
         },
         {
+          "DATE": "2021-03-31",
+          "VALUE": 1
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 5
+          "VALUE": 6
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 4
+          "VALUE": 6
         },
         {
           "DATE": "2021-03-28",
@@ -42,11 +46,11 @@
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 3
+          "VALUE": 5
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 4
+          "VALUE": 5
         },
         {
           "DATE": "2021-03-23",
@@ -74,11 +78,11 @@
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 4
+          "VALUE": 5
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 3
+          "VALUE": 4
         },
         {
           "DATE": "2021-03-15",
@@ -1603,68 +1607,72 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 11.920313521
+        },
+        {
           "DATE": "2021-03-31",
-          "VALUE": 11.40140794
+          "VALUE": 14.514841425
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 13.477030263
+          "VALUE": 16.586835039
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 13.477030263
+          "VALUE": 16.067929458
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 14.514841425
+          "VALUE": 16.067929458
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 14.514841425
+          "VALUE": 16.067929458
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 11.40140794
-        },
-        {
-          "DATE": "2021-03-25",
           "VALUE": 12.958124682
         },
         {
+          "DATE": "2021-03-25",
+          "VALUE": 14.514841425
+        },
+        {
           "DATE": "2021-03-24",
-          "VALUE": 12.439219102
+          "VALUE": 12.958124682
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 12.439219102
+          "VALUE": 12.958124682
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 11.40140794
+          "VALUE": 12.439219102
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 13.477030263
+          "VALUE": 14.514841425
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 15.030118296
+          "VALUE": 16.067929458
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 18.143551782
+          "VALUE": 19.177734233
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 17.624646201
+          "VALUE": 18.658828652
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 17.624646201
+          "VALUE": 18.658828652
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 19.696639814
+          "VALUE": 20.215545395
         },
         {
           "DATE": "2021-03-15",

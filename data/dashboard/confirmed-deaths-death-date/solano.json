@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Solano"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 235,
-        "new_deaths": 3,
-        "new_deaths_delta_1_day": 0.012931,
-        "deaths_per_100k_7_days": 0.031963624,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "total_confirmed_deaths": 237,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.008511,
+        "deaths_per_100k_7_days": 0,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 444255
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -538,7 +542,7 @@
         },
         {
           "DATE": "2020-11-21",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2020-11-20",
@@ -710,7 +714,7 @@
         },
         {
           "DATE": "2020-10-09",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2020-10-08",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -2100,31 +2108,31 @@
         },
         {
           "DATE": "2020-11-27",
-          "VALUE": 0.128529786
+          "VALUE": 0.160718506
         },
         {
           "DATE": "2020-11-26",
-          "VALUE": 0.128529786
+          "VALUE": 0.160718506
         },
         {
           "DATE": "2020-11-25",
-          "VALUE": 0.096341065
-        },
-        {
-          "DATE": "2020-11-24",
           "VALUE": 0.128529786
         },
         {
+          "DATE": "2020-11-24",
+          "VALUE": 0.160718506
+        },
+        {
           "DATE": "2020-11-23",
-          "VALUE": 0.225095947
+          "VALUE": 0.257059572
         },
         {
           "DATE": "2020-11-22",
-          "VALUE": 0.192907227
+          "VALUE": 0.225095947
         },
         {
           "DATE": "2020-11-21",
-          "VALUE": 0.192907227
+          "VALUE": 0.225095947
         },
         {
           "DATE": "2020-11-20",
@@ -2272,31 +2280,31 @@
         },
         {
           "DATE": "2020-10-15",
-          "VALUE": 0.031963624
+          "VALUE": 0.064152345
         },
         {
           "DATE": "2020-10-14",
-          "VALUE": 0.031963624
+          "VALUE": 0.064152345
         },
         {
           "DATE": "2020-10-13",
-          "VALUE": 0.031963624
+          "VALUE": 0.064152345
         },
         {
           "DATE": "2020-10-12",
-          "VALUE": 0.031963624
+          "VALUE": 0.064152345
         },
         {
           "DATE": "2020-10-11",
-          "VALUE": 0.031963624
+          "VALUE": 0.064152345
         },
         {
           "DATE": "2020-10-10",
-          "VALUE": 0.031963624
+          "VALUE": 0.064152345
         },
         {
           "DATE": "2020-10-09",
-          "VALUE": 0
+          "VALUE": 0.031963624
         },
         {
           "DATE": "2020-10-08",

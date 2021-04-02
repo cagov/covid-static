@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Santa Cruz"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 201,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "total_confirmed_deaths": 202,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.004975,
+        "deaths_per_100k_7_days": 0.051825007,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 273999
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -290,7 +294,7 @@
         },
         {
           "DATE": "2021-01-22",
-          "VALUE": 1
+          "VALUE": 2
         },
         {
           "DATE": "2021-01-21",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1852,31 +1860,31 @@
         },
         {
           "DATE": "2021-01-28",
-          "VALUE": 0.260584893
+          "VALUE": 0.312774864
         },
         {
           "DATE": "2021-01-27",
-          "VALUE": 0.208394921
+          "VALUE": 0.260584893
         },
         {
           "DATE": "2021-01-26",
-          "VALUE": 0.260584893
+          "VALUE": 0.312774864
         },
         {
           "DATE": "2021-01-25",
-          "VALUE": 0.260584893
+          "VALUE": 0.312774864
         },
         {
           "DATE": "2021-01-24",
-          "VALUE": 0.260584893
+          "VALUE": 0.312774864
         },
         {
           "DATE": "2021-01-23",
-          "VALUE": 0.260584893
+          "VALUE": 0.312774864
         },
         {
           "DATE": "2021-01-22",
-          "VALUE": 0.312774864
+          "VALUE": 0.364964836
         },
         {
           "DATE": "2021-01-21",

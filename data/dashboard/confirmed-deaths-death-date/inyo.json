@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Inyo"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 35,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 36,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.028571,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 18453
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -282,7 +286,7 @@
         },
         {
           "DATE": "2021-01-24",
-          "VALUE": 1
+          "VALUE": 2
         },
         {
           "DATE": "2021-01-23",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1844,31 +1852,31 @@
         },
         {
           "DATE": "2021-01-30",
-          "VALUE": 1.544464315
+          "VALUE": 2.319406059
         },
         {
           "DATE": "2021-01-29",
-          "VALUE": 1.544464315
+          "VALUE": 2.319406059
         },
         {
           "DATE": "2021-01-28",
-          "VALUE": 2.319406059
+          "VALUE": 3.094347803
         },
         {
           "DATE": "2021-01-27",
-          "VALUE": 2.319406059
+          "VALUE": 3.094347803
         },
         {
           "DATE": "2021-01-26",
-          "VALUE": 3.094347803
+          "VALUE": 3.869289546
         },
         {
           "DATE": "2021-01-25",
-          "VALUE": 3.094347803
+          "VALUE": 3.869289546
         },
         {
           "DATE": "2021-01-24",
-          "VALUE": 3.094347803
+          "VALUE": 3.869289546
         },
         {
           "DATE": "2021-01-23",

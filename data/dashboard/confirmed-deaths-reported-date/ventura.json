@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "Ventura"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 969,
-        "new_deaths": 11,
-        "new_deaths_delta_1_day": 0.011482,
-        "deaths_per_100k_7_days": 0.016652067,
+        "total_confirmed_deaths": 977,
+        "new_deaths": 8,
+        "new_deaths_delta_1_day": 0.008256,
+        "deaths_per_100k_7_days": 0.050190737,
         "POPULATION": 852747
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 8
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 11
@@ -1601,6 +1605,10 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0.418764299
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0.418764299

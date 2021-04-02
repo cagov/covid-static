@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-01",
+    "PUBLISHED_DATE": "2021-04-02",
     "coverage": "San Luis Obispo"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 251,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 252,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.003984,
         "deaths_per_100k_7_days": 0.050921244,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-10",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-11",
         "POPULATION": 278862
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-03-31",
           "VALUE": 0
@@ -166,7 +170,7 @@
         },
         {
           "DATE": "2021-02-22",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-02-21",
@@ -1603,6 +1607,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-03-31",
           "VALUE": 0
         },
@@ -1728,31 +1736,31 @@
         },
         {
           "DATE": "2021-02-28",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-27",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-02-26",
           "VALUE": 0.050921244
         },
         {
-          "DATE": "2021-02-25",
+          "DATE": "2021-02-27",
+          "VALUE": 0.050921244
+        },
+        {
+          "DATE": "2021-02-26",
           "VALUE": 0.102201089
+        },
+        {
+          "DATE": "2021-02-25",
+          "VALUE": 0.153480933
         },
         {
           "DATE": "2021-02-24",
-          "VALUE": 0.102201089
+          "VALUE": 0.153480933
         },
         {
           "DATE": "2021-02-23",
-          "VALUE": 0.102201089
+          "VALUE": 0.153480933
         },
         {
           "DATE": "2021-02-22",
-          "VALUE": 0.153480933
+          "VALUE": 0.204760778
         },
         {
           "DATE": "2021-02-21",
