@@ -7,13 +7,17 @@
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
         "total_tests_performed": 17619421,
-        "new_tests_reported": 90303,
-        "new_tests_reported_delta_1_day": 0.005151599755,
+        "new_tests_reported": 64826,
+        "new_tests_reported_delta_1_day": 0.003692822307,
         "POPULATION": 10257557
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 64826
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 90303
@@ -1344,6 +1348,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 521.646068914
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 520.090421419
