@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Mateo"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 40454,
-        "new_cases": 31,
-        "new_cases_delta_1_day": 0.000767,
-        "cases_per_100k_7_days": 5.049479371,
+        "total_confirmed_cases": 40587,
+        "new_cases": 27,
+        "new_cases_delta_1_day": 0.000666,
+        "cases_per_100k_7_days": 4.663875753,
         "POPULATION": 778001
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 27
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 46
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 60
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 31
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 5.17801391
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 5.435082988
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 5.784054262
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 5.637139284

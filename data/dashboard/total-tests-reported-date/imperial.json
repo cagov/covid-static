@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Imperial"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 268735,
-        "new_tests_reported": 3380,
-        "new_tests_reported_delta_1_day": 0.01273765333,
+        "total_tests_performed": 270439,
+        "new_tests_reported": 1038,
+        "new_tests_reported_delta_1_day": 0.003852992379,
         "POPULATION": 191649
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 1038
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 666
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 3380
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 589.992270095
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 559.579528945
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 603.633278993

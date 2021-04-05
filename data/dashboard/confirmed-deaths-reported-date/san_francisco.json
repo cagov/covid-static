@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Francisco"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "total_confirmed_deaths": 488,
-        "new_deaths": 14,
-        "new_deaths_delta_1_day": 0.029536,
-        "deaths_per_100k_7_days": 0.015914287,
+        "new_deaths": -1,
+        "new_deaths_delta_1_day": -0.002045,
+        "deaths_per_100k_7_days": 0.063993365,
         "POPULATION": 892280
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": -1
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 14
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.224144887
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.240059174
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.256085534
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0.320190971

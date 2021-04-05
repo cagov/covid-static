@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Yolo"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 335126,
-        "new_tests_reported": 6902,
-        "new_tests_reported_delta_1_day": 0.02102832212,
+        "total_tests_performed": 339389,
+        "new_tests_reported": 2170,
+        "new_tests_reported_delta_1_day": 0.006434987352,
         "POPULATION": 223612
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 2170
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 2093
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 6902
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 1319.824389695
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 1256.70485356
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 1348.062076914

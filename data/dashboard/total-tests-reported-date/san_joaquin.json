@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Joaquin"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 844968,
-        "new_tests_reported": 8672,
-        "new_tests_reported_delta_1_day": 0.01036953423,
+        "total_tests_performed": 851604,
+        "new_tests_reported": 3326,
+        "new_tests_reported_delta_1_day": 0.003920884427,
         "POPULATION": 782545
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 3326
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 3310
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 8672
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 489.8851093
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 479.36996777
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 479.2786905

@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Alameda"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 2265212,
-        "new_tests_reported": 14984,
-        "new_tests_reported_delta_1_day": 0.006658880789,
+        "total_tests_performed": 2279598,
+        "new_tests_reported": 7357,
+        "new_tests_reported_delta_1_day": 0.003237772754,
         "POPULATION": 1685886
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 7357
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 7029
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 14984
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 560.536121659
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 557.536427222
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 586.08436666

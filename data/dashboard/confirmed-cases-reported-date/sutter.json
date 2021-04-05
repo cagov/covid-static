@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Sutter"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 9105,
-        "new_cases": -6,
-        "new_cases_delta_1_day": -0.000659,
+        "total_confirmed_cases": 9164,
+        "new_cases": 6,
+        "new_cases_delta_1_day": 0.000655,
         "cases_per_100k_7_days": 8.780390933,
         "POPULATION": 105747
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 6
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 27
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 26
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": -6
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 9.456533046
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 8.780390933
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 6.619573132
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 4.862549292

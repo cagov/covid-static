@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Alameda"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 113,
-        "CHANGE": -4,
-        "CHANGE_FACTOR": -0.034188,
+        "TOTAL": 117,
+        "CHANGE": 12,
+        "CHANGE_FACTOR": 0.114286,
         "POPULATION": 1685886
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 117
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 105
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 113
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 112.642
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 112.357
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 113.642

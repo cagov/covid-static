@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Colusa"
   },
   "data": {
@@ -14,6 +14,14 @@
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 0
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.5
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.714
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 0.928

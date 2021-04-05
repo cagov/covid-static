@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Kings"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 22560,
-        "new_cases": 20,
-        "new_cases_delta_1_day": 0.000887,
-        "cases_per_100k_7_days": 7.122037279,
+        "total_confirmed_cases": 22580,
+        "new_cases": 0,
+        "new_cases_delta_1_day": 0,
+        "cases_per_100k_7_days": 6.665643936,
         "POPULATION": 156444
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 9
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 11
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 20
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 6.026437575
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 7.122037279
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 7.122037279
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 8.035463169

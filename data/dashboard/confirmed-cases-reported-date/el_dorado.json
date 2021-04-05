@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "El Dorado"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 9393,
-        "new_cases": 3,
-        "new_cases_delta_1_day": 0.000319,
-        "cases_per_100k_7_days": 4.586790127,
+        "total_confirmed_cases": 9455,
+        "new_cases": 7,
+        "new_cases_delta_1_day": 0.000741,
+        "cases_per_100k_7_days": 4.364623145,
         "POPULATION": 193098
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 7
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 11
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 44
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 3
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 6.214461051
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 5.992294068
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 6.214461051
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 4.586790127

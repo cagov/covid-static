@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Kings"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 325910,
-        "new_tests_reported": 3351,
-        "new_tests_reported_delta_1_day": 0.01038879709,
+        "total_tests_performed": 327215,
+        "new_tests_reported": 538,
+        "new_tests_reported_delta_1_day": 0.00164688668,
         "POPULATION": 156444
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 538
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 767
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 3351
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 691.986543793
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 703.766203881
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 721.116090833

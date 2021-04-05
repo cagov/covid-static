@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Kern"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 43,
+        "TOTAL": 52,
         "CHANGE": 1,
-        "CHANGE_FACTOR": 0.02381,
+        "CHANGE_FACTOR": 0.019608,
         "POPULATION": 927251
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 52
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 51
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 43

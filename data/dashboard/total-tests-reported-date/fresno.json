@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Fresno"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 1092618,
-        "new_tests_reported": 7982,
-        "new_tests_reported_delta_1_day": 0.007359150904,
+        "total_tests_performed": 1098759,
+        "new_tests_reported": 2564,
+        "new_tests_reported_delta_1_day": 0.002338999904,
         "POPULATION": 1032227
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 2564
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 3577
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 7982
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 349.438640919
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 356.150896487
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 362.088128732

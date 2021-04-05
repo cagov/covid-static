@@ -1,21 +1,33 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Trinity"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 319,
+        "total_confirmed_cases": 321,
         "new_cases": 0,
         "new_cases_delta_1_day": 0,
         "cases_per_100k_7_days": 2.134192002,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-25",
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 13354
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0
@@ -26,7 +38,7 @@
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-29",
@@ -62,7 +74,7 @@
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-20",
@@ -1607,16 +1619,28 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 2.134192002
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 2.134192002
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 2.134192002
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 1.063351805
+          "VALUE": 2.134192002
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 2.134192002
+          "VALUE": 3.2050322
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 2.134192002
+          "VALUE": 3.2050322
         },
         {
           "DATE": "2021-03-29",
@@ -1628,31 +1652,31 @@
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 2.134192002
+          "VALUE": 3.2050322
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 2.134192002
+          "VALUE": 3.2050322
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 2.134192002
+          "VALUE": 3.2050322
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 1.063351805
+          "VALUE": 2.134192002
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 1.063351805
+          "VALUE": 2.134192002
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 1.063351805
+          "VALUE": 2.134192002
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 1.063351805
+          "VALUE": 2.134192002
         },
         {
           "DATE": "2021-03-20",

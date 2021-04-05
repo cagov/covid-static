@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 27,
-        "CHANGE": -2,
-        "CHANGE_FACTOR": -0.068966,
+        "TOTAL": 35,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 2217398
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 35
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 35
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 27
@@ -1492,6 +1500,14 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 33.357
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 33.785
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 34.5

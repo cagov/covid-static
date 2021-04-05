@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Diego"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 196,
-        "CHANGE": -18,
-        "CHANGE_FACTOR": -0.084112,
+        "TOTAL": 200,
+        "CHANGE": -8,
+        "CHANGE_FACTOR": -0.038462,
         "POPULATION": 3370418
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 200
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 208
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 196
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 213
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 216.571
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 220.928

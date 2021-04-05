@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Humboldt"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 3464,
-        "new_cases": 4,
-        "new_cases_delta_1_day": 0.001156,
-        "cases_per_100k_7_days": 4.047785948,
+        "total_confirmed_cases": 3472,
+        "new_cases": 5,
+        "new_cases_delta_1_day": 0.001442,
+        "cases_per_100k_7_days": 3.621977956,
         "POPULATION": 134098
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 5
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 2
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 1
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 4
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 2.130531402
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 2.662977822
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 3.621977956
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 4.367701233

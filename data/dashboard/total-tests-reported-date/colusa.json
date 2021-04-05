@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Colusa"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 15837,
-        "new_tests_reported": 88,
-        "new_tests_reported_delta_1_day": 0.005587656359,
+        "total_tests_performed": 16036,
+        "new_tests_reported": 29,
+        "new_tests_reported_delta_1_day": 0.001811707378,
         "POPULATION": 22593
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 29
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 170
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 88
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 249.76130407
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 247.232075675
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 139.73986886

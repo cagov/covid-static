@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 4404,
-        "new_deaths": 48,
-        "new_deaths_delta_1_day": 0.011019,
-        "deaths_per_100k_7_days": 0.019301903,
+        "total_confirmed_deaths": 4423,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.000226,
+        "deaths_per_100k_7_days": 0.103048708,
         "POPULATION": 2217398
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 5
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 13
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 48
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.586272739
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.624921642
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.831064157
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 1.172545479

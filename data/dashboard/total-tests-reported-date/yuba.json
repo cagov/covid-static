@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Yuba"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 62246,
-        "new_tests_reported": 513,
-        "new_tests_reported_delta_1_day": 0.008309980075,
+        "total_tests_performed": 62564,
+        "new_tests_reported": 164,
+        "new_tests_reported_delta_1_day": 0.002628205128,
         "POPULATION": 79290
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 164
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 154
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 513
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 267.553105238
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 265.571230384
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 258.904924058

@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Luis Obispo"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 23,
-        "CHANGE": -2,
-        "CHANGE_FACTOR": -0.08,
+        "TOTAL": 24,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.090909,
         "POPULATION": 278862
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 24
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 22
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 23

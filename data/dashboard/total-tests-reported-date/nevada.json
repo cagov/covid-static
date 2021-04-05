@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Nevada"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 91761,
-        "new_tests_reported": 789,
-        "new_tests_reported_delta_1_day": 0.008672998285,
+        "total_tests_performed": 92208,
+        "new_tests_reported": 293,
+        "new_tests_reported_delta_1_day": 0.003187727792,
         "POPULATION": 98710
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 293
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 154
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 789
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 336.338770135
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 327.655325123
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 357.323762247

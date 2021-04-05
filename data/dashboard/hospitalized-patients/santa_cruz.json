@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Santa Cruz"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 5,
-        "CHANGE": 2,
-        "CHANGE_FACTOR": 0.666667,
+        "TOTAL": 7,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.166667,
         "POPULATION": 273999
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 7
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 6
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 5
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 3.571
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 3.428
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 3.571

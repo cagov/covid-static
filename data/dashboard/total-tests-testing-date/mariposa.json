@@ -1,39 +1,47 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Mariposa"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 19808,
-        "new_tests_reported": 72,
-        "new_tests_reported_delta_1_day": 0.003648155655,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-25",
+        "total_tests_performed": 19917,
+        "new_tests_reported": 55,
+        "new_tests_reported_delta_1_day": 0.002769106837,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
         "POPULATION": 17795
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-03",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 51
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 3
+          "VALUE": 38
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 40
+          "VALUE": 57
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 106
+          "VALUE": 108
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 46
+          "VALUE": 48
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 11
+          "VALUE": 12
         },
         {
           "DATE": "2021-03-27",
@@ -1606,24 +1614,32 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-03",
+          "VALUE": 252.880022478
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 272.143860635
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 247.260466423
+          "VALUE": 293.014891824
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 300.24164091
+          "VALUE": 317.903905591
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 319.511098623
+          "VALUE": 323.523461647
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 324.327058162
+          "VALUE": 326.732228154
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 329.946614217
+          "VALUE": 330.750210733
         },
         {
           "DATE": "2021-03-27",
@@ -3171,11 +3187,11 @@
         },
         {
           "DATE": "2020-03-06",
-          "VALUE": 4.012363023
+          "VALUE": 4.681090194
         },
         {
           "DATE": "2020-03-05",
-          "VALUE": 1.601573476
+          "VALUE": 2.247822422
         },
         {
           "DATE": "2020-03-04",

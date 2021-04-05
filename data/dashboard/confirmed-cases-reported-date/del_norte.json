@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 1138,
-        "new_cases": 9,
-        "new_cases_delta_1_day": 0.007972,
-        "cases_per_100k_7_days": 14.514841425,
+        "total_confirmed_cases": 1186,
+        "new_cases": 3,
+        "new_cases_delta_1_day": 0.002536,
+        "cases_per_100k_7_days": 23.325350171,
         "POPULATION": 27558
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 3
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 9
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 36
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 9
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 40.949996371
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 40.949996371
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 37.840191596
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 22.287539009

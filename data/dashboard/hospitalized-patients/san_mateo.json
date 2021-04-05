@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Mateo"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 39,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 31,
+        "CHANGE": -6,
+        "CHANGE_FACTOR": -0.162162,
         "POPULATION": 778001
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 31
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 37
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 39
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 32.214
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 32.214
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 31.642

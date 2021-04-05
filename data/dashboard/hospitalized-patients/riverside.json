@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Riverside"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 139,
-        "CHANGE": 9,
-        "CHANGE_FACTOR": 0.069231,
+        "TOTAL": 127,
+        "CHANGE": -3,
+        "CHANGE_FACTOR": -0.023077,
         "POPULATION": 2468145
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 127
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 130
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 139
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 148.5
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 151.142
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 155
