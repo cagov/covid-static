@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Placer"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 13,
-        "CHANGE": -2,
-        "CHANGE_FACTOR": -0.133333,
+        "TOTAL": 21,
+        "CHANGE": 3,
+        "CHANGE_FACTOR": 0.166667,
         "POPULATION": 400434
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 21
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 18
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 13

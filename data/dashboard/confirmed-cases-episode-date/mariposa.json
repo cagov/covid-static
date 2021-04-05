@@ -1,21 +1,33 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Mariposa"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 389,
+        "total_confirmed_cases": 390,
         "new_cases": 0,
         "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 5.619556055,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-25",
+        "cases_per_100k_7_days": 4.012363023,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 17795
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0
@@ -26,7 +38,7 @@
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-29",
@@ -1607,16 +1619,28 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.79797696
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.79797696
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.79797696
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 0
+          "VALUE": 0.79797696
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0
+          "VALUE": 0.79797696
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 1.601573476
+          "VALUE": 2.405169992
         },
         {
           "DATE": "2021-03-29",

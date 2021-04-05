@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 286086,
-        "new_cases": 170,
-        "new_cases_delta_1_day": 0.000595,
-        "cases_per_100k_7_days": 3.124608212,
+        "total_confirmed_cases": 286561,
+        "new_cases": 88,
+        "new_cases_delta_1_day": 0.000307,
+        "cases_per_100k_7_days": 3.234151018,
         "POPULATION": 2217398
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 88
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 165
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 222
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 170
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 6.384555231
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 6.397453231
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 6.410306134
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 6.133314813

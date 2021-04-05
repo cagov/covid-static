@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Madera"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 15,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 12,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.142857,
         "POPULATION": 160089
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 12
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 14
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 15
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 13.285
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 13.857
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 14.357

@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Yuba"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 6,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 1,
+        "TOTAL": 2,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.5,
         "POPULATION": 79290
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 2
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 4
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 6

@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 28996,
-        "new_tests_reported": 231,
-        "new_tests_reported_delta_1_day": 0.008030592734,
+        "total_tests_performed": 29121,
+        "new_tests_reported": 48,
+        "new_tests_reported_delta_1_day": 0.001651016407,
         "POPULATION": 43956
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 48
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 77
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 231
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 182.975182975
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 188.5001885
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 205.725205725

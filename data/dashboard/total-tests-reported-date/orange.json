@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Orange"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 3383675,
-        "new_tests_reported": 17737,
-        "new_tests_reported_delta_1_day": 0.005269556361,
+        "total_tests_performed": 3403748,
+        "new_tests_reported": 8295,
+        "new_tests_reported_delta_1_day": 0.002442972999,
         "POPULATION": 3228519
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 8295
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 11778
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 17737
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 327.120356335
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 332.085038726
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 326.965486563

@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Los Angeles"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 23220,
-        "new_deaths": 49,
-        "new_deaths_delta_1_day": 0.002115,
-        "deaths_per_100k_7_days": 0.036207452,
+        "total_confirmed_deaths": 23301,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
+        "deaths_per_100k_7_days": 0.267393103,
         "POPULATION": 10257557
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 37
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 44
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 49
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.278536108
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.275747919
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.256250099
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0.235358185

@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 181,
-        "new_deaths": 2,
-        "new_deaths_delta_1_day": 0.011173,
-        "deaths_per_100k_7_days": 0,
+        "total_confirmed_deaths": 184,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
+        "deaths_per_100k_7_days": 0.160179851,
         "POPULATION": 177925
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 3
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 2
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.079808908
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.079808908
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": -0.079808908
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0

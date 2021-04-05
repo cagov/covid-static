@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Santa Barbara"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 15,
-        "CHANGE": -11,
-        "CHANGE_FACTOR": -0.423077,
+        "TOTAL": 30,
+        "CHANGE": 14,
+        "CHANGE_FACTOR": 0.875,
         "POPULATION": 456373
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 30
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 16
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 15
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 31.357
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 32.285
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 34.071

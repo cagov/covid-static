@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 1360817,
-        "new_tests_reported": 8321,
-        "new_tests_reported_delta_1_day": 0.006152328731,
+        "total_tests_performed": 1368637,
+        "new_tests_reported": 3735,
+        "new_tests_reported_delta_1_day": 0.0027364602,
         "POPULATION": 1160099
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 3735
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 4085
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 8321
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 430.381988335
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 436.600669426
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 463.063928165

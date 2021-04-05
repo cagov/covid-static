@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 1,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.5,
+        "TOTAL": 0,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 448732
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 1
@@ -1492,6 +1500,14 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 2.928
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 3.214
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 3.5

@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Placer"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 274,
-        "new_deaths": 3,
-        "new_deaths_delta_1_day": 0.01107,
-        "deaths_per_100k_7_days": 0,
+        "total_confirmed_deaths": 276,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
+        "deaths_per_100k_7_days": 0.035461524,
         "POPULATION": 400434
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 1
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 3
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.320901822
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.320901822
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.570630866
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0.784648656

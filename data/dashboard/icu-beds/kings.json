@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Kings"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
         "TOTAL": 3,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.5,
+        "CHANGE": -1,
+        "CHANGE_FACTOR": -0.25,
         "POPULATION": 156444
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 3
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 4
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 3

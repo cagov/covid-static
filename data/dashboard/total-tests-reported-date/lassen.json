@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Lassen"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 123407,
-        "new_tests_reported": 4323,
-        "new_tests_reported_delta_1_day": 0.03630210608,
+        "total_tests_performed": 125181,
+        "new_tests_reported": 1502,
+        "new_tests_reported_delta_1_day": 0.0121443414,
         "POPULATION": 30065
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 1502
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 272
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 4323
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 3599.344277874
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 3014.42113516
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 3066.688840845

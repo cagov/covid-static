@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Luis Obispo"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 461297,
-        "new_tests_reported": 3811,
-        "new_tests_reported_delta_1_day": 0.008330309561,
+        "total_tests_performed": 463975,
+        "new_tests_reported": 1473,
+        "new_tests_reported_delta_1_day": 0.003184851093,
         "POPULATION": 278862
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 1473
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 1205
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 3811
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 593.893344071
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 596.762146561
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 627.704230562

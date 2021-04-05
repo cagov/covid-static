@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Francisco"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 7,
+        "TOTAL": 5,
         "CHANGE": 1,
-        "CHANGE_FACTOR": 0.166667,
+        "CHANGE_FACTOR": 0.25,
         "POPULATION": 892280
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 5
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 4
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 7
@@ -1492,6 +1500,14 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 7.071
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 7.571
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 8.357

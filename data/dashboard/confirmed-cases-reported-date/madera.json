@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Madera"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 16023,
-        "new_cases": 8,
-        "new_cases_delta_1_day": 0.0005,
-        "cases_per_100k_7_days": 5.175246269,
+        "total_confirmed_cases": 16052,
+        "new_cases": 1,
+        "new_cases_delta_1_day": 0.000062,
+        "cases_per_100k_7_days": 6.781852594,
         "POPULATION": 160089
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 15
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 13
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 8
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 7.04920388
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 7.406505132
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 7.495830444
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 7.673856417

@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 339,
-        "new_deaths": 1,
-        "new_deaths_delta_1_day": 0.002959,
-        "deaths_per_100k_7_days": 0.063512297,
+        "total_confirmed_deaths": 341,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
+        "deaths_per_100k_7_days": 0.031644723,
         "POPULATION": 448732
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 1
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.127247444
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.127247444
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.09537987
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0.09537987

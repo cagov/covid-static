@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "California"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 58269,
-        "new_deaths": 179,
-        "new_deaths_delta_1_day": 0.003081,
-        "deaths_per_100k_7_days": 0.027765346,
+        "total_confirmed_deaths": 58534,
+        "new_deaths": 21,
+        "new_deaths_delta_1_day": 0.000359,
+        "deaths_per_100k_7_days": 0.158772324,
         "POPULATION": 40129160
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 21
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 109
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 135
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 179
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.269130976
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.273045835
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.303661975
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0.33214002

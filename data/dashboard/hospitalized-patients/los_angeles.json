@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Los Angeles"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 723,
-        "CHANGE": 7,
-        "CHANGE_FACTOR": 0.009777,
+        "TOTAL": 671,
+        "CHANGE": -32,
+        "CHANGE_FACTOR": -0.045519,
         "POPULATION": 10257557
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 671
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 703
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 723
@@ -1492,6 +1500,14 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 765.142
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 777.285
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 789.5

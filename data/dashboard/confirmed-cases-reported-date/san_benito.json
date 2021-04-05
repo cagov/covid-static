@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "San Benito"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 5878,
-        "new_cases": 3,
-        "new_cases_delta_1_day": 0.000511,
-        "cases_per_100k_7_days": 4.907687982,
+        "total_confirmed_cases": 5901,
+        "new_cases": 8,
+        "new_cases_delta_1_day": 0.001358,
+        "cases_per_100k_7_days": 4.462528506,
         "POPULATION": 64022
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 8
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 5
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 10
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 3
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 8.701696292
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 6.916372497
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 7.363093936
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 6.247852301

@@ -1,20 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 425,
-        "new_deaths": 2,
-        "new_deaths_delta_1_day": 0.004728,
-        "deaths_per_100k_7_days": 0.148911001,
+        "total_confirmed_deaths": 427,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
+        "deaths_per_100k_7_days": 0.447080927,
         "POPULATION": 287420
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 1
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 1
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 2
@@ -1605,6 +1617,18 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 0.248416951
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 0.248416951
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.3479229
+        },
         {
           "DATE": "2021-04-01",
           "VALUE": 0.447080927

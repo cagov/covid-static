@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 503968,
-        "new_tests_reported": 1567,
-        "new_tests_reported_delta_1_day": 0.003119022454,
+        "total_tests_performed": 506564,
+        "new_tests_reported": 1116,
+        "new_tests_reported_delta_1_day": 0.002207942261,
         "POPULATION": 484423
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 1116
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 1480
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 1567
@@ -1348,6 +1356,14 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 282.102920087
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 279.478295386
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 286.084092386

@@ -1,19 +1,27 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "California"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 576,
-        "CHANGE": -29,
-        "CHANGE_FACTOR": -0.047934,
+        "TOTAL": 560,
+        "CHANGE": -8,
+        "CHANGE_FACTOR": -0.014085,
         "POPULATION": 40124928
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 560
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 568
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 576
@@ -1492,6 +1500,14 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 632.571
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 645
+        },
         {
           "DATE": "2021-04-02",
           "VALUE": 659.857

@@ -1,62 +1,70 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-02",
+    "PUBLISHED_DATE": "2021-04-05",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.028976,
-        "test_positivity_7_days_delta_7_days": 0.006623,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-25",
+        "test_positivity_7_days": 0.021818,
+        "test_positivity_7_days_delta_7_days": -0.001755,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
         "POPULATION": 27558
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-03",
+          "VALUE": 0.021818
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.025311
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 0.028976
+          "VALUE": 0.026638
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.02311
+          "VALUE": 0.02542
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.022566
+          "VALUE": 0.023978
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.021488
+          "VALUE": 0.02334
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 0.020929
+          "VALUE": 0.02173
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 0.022774
+          "VALUE": 0.023573
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 0.020151
+          "VALUE": 0.020964
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 0.022353
+          "VALUE": 0.023168
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 0.022544
+          "VALUE": 0.022534
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 0.020675
+          "VALUE": 0.020666
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 0.021545
+          "VALUE": 0.021536
         },
         {
           "DATE": "2021-03-21",
@@ -1605,24 +1613,32 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-03",
+          "VALUE": 13
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 114
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 31
+          "VALUE": 408
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 54
+          "VALUE": 132
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 583
+          "VALUE": 802
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 617
+          "VALUE": 679
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 51
+          "VALUE": 52
         },
         {
           "DATE": "2021-03-27",
@@ -1634,7 +1650,7 @@
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 555
+          "VALUE": 557
         },
         {
           "DATE": "2021-03-24",
@@ -1646,7 +1662,7 @@
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 586
+          "VALUE": 587
         },
         {
           "DATE": "2021-03-21",
