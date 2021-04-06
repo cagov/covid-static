@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Sacramento"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 1531,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 1533,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.001306,
         "deaths_per_100k_7_days": 0.118433011,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-14",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-15",
         "POPULATION": 1567975
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -438,7 +442,7 @@
         },
         {
           "DATE": "2020-12-20",
-          "VALUE": 15
+          "VALUE": 16
         },
         {
           "DATE": "2020-12-19",
@@ -1619,6 +1623,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0.009056267
+        },
+        {
           "DATE": "2021-04-04",
           "VALUE": 0.01817631
         },
@@ -2016,31 +2024,31 @@
         },
         {
           "DATE": "2020-12-26",
-          "VALUE": 0.874631292
+          "VALUE": 0.883751335
         },
         {
           "DATE": "2020-12-25",
-          "VALUE": 0.838151118
+          "VALUE": 0.847271162
         },
         {
           "DATE": "2020-12-24",
-          "VALUE": 0.810854765
+          "VALUE": 0.819974808
         },
         {
           "DATE": "2020-12-23",
-          "VALUE": 0.801734722
+          "VALUE": 0.810854765
         },
         {
           "DATE": "2020-12-22",
-          "VALUE": 0.783494635
+          "VALUE": 0.792614678
         },
         {
           "DATE": "2020-12-21",
-          "VALUE": 0.737958194
+          "VALUE": 0.747078238
         },
         {
           "DATE": "2020-12-20",
-          "VALUE": 0.719718108
+          "VALUE": 0.728838151
         },
         {
           "DATE": "2020-12-19",

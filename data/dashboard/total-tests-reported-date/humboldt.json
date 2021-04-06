@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Humboldt"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 123348,
-        "new_tests_reported": 606,
-        "new_tests_reported_delta_1_day": 0.004937185316,
+        "total_tests_performed": 123475,
+        "new_tests_reported": 127,
+        "new_tests_reported_delta_1_day": 0.00102960729,
         "POPULATION": 134098
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 127
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 606
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 296.371736662
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 307.13145823

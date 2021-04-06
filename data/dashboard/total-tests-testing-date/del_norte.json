@@ -1,39 +1,43 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 76822,
-        "new_tests_reported": 572,
-        "new_tests_reported_delta_1_day": 0.007501639344,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 77023,
+        "new_tests_reported": 201,
+        "new_tests_reported_delta_1_day": 0.002616438,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 27558
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 15
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 13
+          "VALUE": 30
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 114
+          "VALUE": 122
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 408
+          "VALUE": 564
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 132
+          "VALUE": 133
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 802
+          "VALUE": 806
         },
         {
           "DATE": "2021-03-29",
@@ -1614,24 +1618,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 1217.689962987
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 1140.449234342
+          "VALUE": 1236.871325931
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 1167.406923579
+          "VALUE": 1255.014877712
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 1187.103563394
+          "VALUE": 1270.563901589
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 1264.344292039
+          "VALUE": 1266.935191233
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 1318.774947384
+          "VALUE": 1320.850569708
         },
         {
           "DATE": "2021-03-29",

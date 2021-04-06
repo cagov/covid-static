@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 76822,
-        "new_tests_reported": 572,
-        "new_tests_reported_delta_1_day": 0.007501639344,
+        "total_tests_performed": 77023,
+        "new_tests_reported": 201,
+        "new_tests_reported_delta_1_day": 0.002616438,
         "POPULATION": 27558
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 201
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 572
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 2385.099478502
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 2478.40917338

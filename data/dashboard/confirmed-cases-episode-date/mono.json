@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Mono"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 1245,
-        "new_cases": 0,
-        "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 13.301339446,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_confirmed_cases": 1246,
+        "new_cases": 1,
+        "new_cases_delta_1_day": 0.000803,
+        "cases_per_100k_7_days": 12.277057517,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 13961
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -34,7 +38,7 @@
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-30",
@@ -1619,24 +1623,28 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 2.041401046
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 3.065682974
+          "VALUE": 4.089964902
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 3.065682974
+          "VALUE": 4.089964902
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 3.065682974
+          "VALUE": 4.089964902
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 3.065682974
+          "VALUE": 4.089964902
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 5.11424683
+          "VALUE": 6.138528759
         },
         {
           "DATE": "2021-03-30",

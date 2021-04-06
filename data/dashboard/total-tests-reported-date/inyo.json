@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Inyo"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 17668,
-        "new_tests_reported": 39,
-        "new_tests_reported_delta_1_day": 0.002212263883,
+        "total_tests_performed": 17684,
+        "new_tests_reported": 16,
+        "new_tests_reported_delta_1_day": 0.0009055920308,
         "POPULATION": 18453
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 16
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 39
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 226.056932284
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 227.605267436

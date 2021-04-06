@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Sutter"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 89135,
-        "new_tests_reported": 174,
-        "new_tests_reported_delta_1_day": 0.001955913265,
+        "total_tests_performed": 89291,
+        "new_tests_reported": 156,
+        "new_tests_reported_delta_1_day": 0.00175015426,
         "POPULATION": 105747
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 156
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 174
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 258.973912127
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 255.596578897

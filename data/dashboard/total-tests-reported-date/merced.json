@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 326770,
-        "new_tests_reported": 780,
-        "new_tests_reported_delta_1_day": 0.002392711433,
+        "total_tests_performed": 327302,
+        "new_tests_reported": 532,
+        "new_tests_reported_delta_1_day": 0.001628056431,
         "POPULATION": 287420
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 532
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 780
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 420.241160273
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 417.159557442

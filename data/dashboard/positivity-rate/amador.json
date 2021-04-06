@@ -1,38 +1,42 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Amador"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.013293,
-        "test_positivity_7_days_delta_7_days": 0.001681,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "test_positivity_7_days": 0.013971,
+        "test_positivity_7_days_delta_7_days": 0.002833,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 38531
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.013971
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.013293
+          "VALUE": 0.014681
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.016646
+          "VALUE": 0.016495
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.016123
+          "VALUE": 0.01606
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.016276
+          "VALUE": 0.015842
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.013925
+          "VALUE": 0.013554
         },
         {
           "DATE": "2021-03-29",
@@ -1613,24 +1617,28 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 12
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 11
+          "VALUE": 41
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 306
+          "VALUE": 318
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 434
+          "VALUE": 438
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 308
+          "VALUE": 315
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 562
+          "VALUE": 561
         },
         {
           "DATE": "2021-03-29",

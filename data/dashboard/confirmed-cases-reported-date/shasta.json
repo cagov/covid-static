@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 11433,
-        "new_cases": 15,
-        "new_cases_delta_1_day": 0.001314,
-        "cases_per_100k_7_days": 7.306449347,
+        "total_confirmed_cases": 11435,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.000175,
+        "cases_per_100k_7_days": 8.028663763,
         "POPULATION": 177925
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 15
@@ -1617,6 +1621,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 9.795138401
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 10.036251229

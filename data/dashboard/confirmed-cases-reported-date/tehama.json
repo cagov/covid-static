@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Tehama"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 4792,
-        "new_cases": 4,
-        "new_cases_delta_1_day": 0.000835,
-        "cases_per_100k_7_days": 7.154891098,
+        "total_confirmed_cases": 4794,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.000417,
+        "cases_per_100k_7_days": 9.322304015,
         "POPULATION": 65885
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 4
@@ -1617,6 +1621,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 11.274189876
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 11.274189876

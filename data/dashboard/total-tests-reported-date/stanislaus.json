@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 567178,
-        "new_tests_reported": 1797,
-        "new_tests_reported_delta_1_day": 0.003178387671,
+        "total_tests_performed": 568199,
+        "new_tests_reported": 1021,
+        "new_tests_reported_delta_1_day": 0.001800140344,
         "POPULATION": 562303
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 1021
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 1797
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 411.344061831
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 414.723022996

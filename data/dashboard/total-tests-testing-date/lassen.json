@@ -1,31 +1,35 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Lassen"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 125181,
-        "new_tests_reported": 1502,
-        "new_tests_reported_delta_1_day": 0.0121443414,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 125516,
+        "new_tests_reported": 335,
+        "new_tests_reported_delta_1_day": 0.002676124971,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 30065
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 2
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 1
+          "VALUE": 23
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 360
+          "VALUE": 643
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 363
+          "VALUE": 367
         },
         {
           "DATE": "2021-03-31",
@@ -33,7 +37,7 @@
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 1761
+          "VALUE": 1785
         },
         {
           "DATE": "2021-03-29",
@@ -1614,24 +1618,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 1735.762514552
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 1609.369698986
+          "VALUE": 1767.596873441
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 1643.106602362
+          "VALUE": 1790.879760519
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 1741.463495759
+          "VALUE": 1754.768002661
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 1711.52835523
+          "VALUE": 1722.933643772
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 1801.809412939
+          "VALUE": 1813.211375353
         },
         {
           "DATE": "2021-03-29",

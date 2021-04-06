@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Placer"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 352161,
-        "new_tests_reported": 1021,
-        "new_tests_reported_delta_1_day": 0.002907672154,
+        "total_tests_performed": 352845,
+        "new_tests_reported": 684,
+        "new_tests_reported_delta_1_day": 0.00194229344,
         "POPULATION": 400434
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 684
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 1021
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 302.957005934
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 317.940748574

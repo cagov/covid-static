@@ -1,27 +1,31 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Glenn"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 22557,
-        "new_tests_reported": 27,
-        "new_tests_reported_delta_1_day": 0.00119840213,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 22585,
+        "new_tests_reported": 28,
+        "new_tests_reported_delta_1_day": 0.001241299818,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 29348
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 2
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 4
+          "VALUE": 13
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 19
+          "VALUE": 35
         },
         {
           "DATE": "2021-04-01",
@@ -29,7 +33,7 @@
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 65
+          "VALUE": 66
         },
         {
           "DATE": "2021-03-30",
@@ -1614,20 +1618,24 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 207.850620144
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 198.599563854
+          "VALUE": 211.25800736
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 210.283494616
+          "VALUE": 218.556630776
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 219.043887147
+          "VALUE": 219.531143519
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 228.294943437
+          "VALUE": 228.778792422
         },
         {
           "DATE": "2021-03-30",

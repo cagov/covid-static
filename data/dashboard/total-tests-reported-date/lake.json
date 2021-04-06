@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Lake"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 62231,
-        "new_tests_reported": 196,
-        "new_tests_reported_delta_1_day": 0.00315950673,
+        "total_tests_performed": 62286,
+        "new_tests_reported": 55,
+        "new_tests_reported_delta_1_day": 0.000883803892,
         "POPULATION": 64871
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 55
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 196
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 272.408758481
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 287.383532593

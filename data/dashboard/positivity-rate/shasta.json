@@ -1,42 +1,46 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.02374,
-        "test_positivity_7_days_delta_7_days": -0.003019,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "test_positivity_7_days": 0.023639,
+        "test_positivity_7_days_delta_7_days": -0.002802,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 177925
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.023639
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.02374
+          "VALUE": 0.023435
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.024701
+          "VALUE": 0.024664
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.025284
+          "VALUE": 0.025491
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.026286
+          "VALUE": 0.026262
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.026838
+          "VALUE": 0.026815
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.028223
+          "VALUE": 0.028198
         },
         {
           "DATE": "2021-03-28",
@@ -1613,16 +1617,20 @@
       ],
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-04-03",
+          "DATE": "2021-04-04",
           "VALUE": 12
         },
         {
+          "DATE": "2021-04-03",
+          "VALUE": 59
+        },
+        {
           "DATE": "2021-04-02",
-          "VALUE": 191
+          "VALUE": 234
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 444
+          "VALUE": 484
         },
         {
           "DATE": "2021-03-31",
@@ -1634,7 +1642,7 @@
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 1509
+          "VALUE": 1513
         },
         {
           "DATE": "2021-03-28",

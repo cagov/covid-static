@@ -1,31 +1,35 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Modoc"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 5439,
-        "new_tests_reported": 9,
-        "new_tests_reported_delta_1_day": 0.001657458564,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 5442,
+        "new_tests_reported": 3,
+        "new_tests_reported_delta_1_day": 0.0005515719801,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 9475
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 1
+          "VALUE": 2
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 1
+          "VALUE": 2
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 5
+          "VALUE": 6
         },
         {
           "DATE": "2021-03-31",
@@ -1614,16 +1618,20 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 48.242744063
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 43.715039578
+          "VALUE": 48.242744063
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 49.751978892
+          "VALUE": 52.770448549
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 52.770448549
+          "VALUE": 54.269129288
         },
         {
           "DATE": "2021-03-31",

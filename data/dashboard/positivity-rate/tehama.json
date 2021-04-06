@@ -1,38 +1,42 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Tehama"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.048045,
-        "test_positivity_7_days_delta_7_days": 0.005592,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "test_positivity_7_days": 0.049669,
+        "test_positivity_7_days_delta_7_days": 0.011207,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 65885
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.049669
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.048045
+          "VALUE": 0.048421
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.046958
+          "VALUE": 0.045361
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.04049
+          "VALUE": 0.039778
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.039558
+          "VALUE": 0.039091
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.039729
+          "VALUE": 0.039614
         },
         {
           "DATE": "2021-03-29",
@@ -1613,24 +1617,28 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 4
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 2
+          "VALUE": 24
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 64
+          "VALUE": 78
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 192
+          "VALUE": 198
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 184
+          "VALUE": 194
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 177
+          "VALUE": 180
         },
         {
           "DATE": "2021-03-29",

@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Glenn"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
         "total_confirmed_cases": 2335,
-        "new_cases": 1,
-        "new_cases_delta_1_day": 0.000428,
-        "cases_per_100k_7_days": 9.247648903,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-28",
+        "new_cases": 0,
+        "new_cases_delta_1_day": 0,
+        "cases_per_100k_7_days": 7.785879787,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 29348
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -1618,6 +1622,10 @@
         }
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 4.865748944
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 5.840261687

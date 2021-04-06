@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 3684,
-        "new_cases": 0,
-        "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 2.261445742,
+        "total_confirmed_cases": 3687,
+        "new_cases": 3,
+        "new_cases_delta_1_day": 0.000814,
+        "cases_per_100k_7_days": 2.099752372,
         "POPULATION": 88439
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 3
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -1617,6 +1621,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 3.230475243
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 2.907088502

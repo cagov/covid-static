@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "El Dorado"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 157155,
-        "new_tests_reported": 434,
-        "new_tests_reported_delta_1_day": 0.002769252366,
+        "total_tests_performed": 157488,
+        "new_tests_reported": 333,
+        "new_tests_reported_delta_1_day": 0.002118927174,
         "POPULATION": 193098
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 333
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 434
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 286.974933527
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 292.893467862

@@ -1,38 +1,42 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.021818,
-        "test_positivity_7_days_delta_7_days": -0.001755,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "test_positivity_7_days": 0.022563,
+        "test_positivity_7_days_delta_7_days": 0.000833,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 27558
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.022563
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.021818
+          "VALUE": 0.022213
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.025311
+          "VALUE": 0.024783
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.026638
+          "VALUE": 0.026112
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.02542
+          "VALUE": 0.025368
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.023978
+          "VALUE": 0.02394
         },
         {
           "DATE": "2021-03-29",
@@ -1613,24 +1617,28 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 15
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 13
+          "VALUE": 30
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 114
+          "VALUE": 122
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 408
+          "VALUE": 564
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 132
+          "VALUE": 133
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 802
+          "VALUE": 806
         },
         {
           "DATE": "2021-03-29",
