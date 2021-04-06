@@ -1,30 +1,34 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Lake"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.021459,
-        "test_positivity_7_days_delta_7_days": -0.009137,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "test_positivity_7_days": 0.025451,
+        "test_positivity_7_days_delta_7_days": -0.003699,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 64871
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.025451
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.021459
+          "VALUE": 0.023445
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.022245
+          "VALUE": 0.02266
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.021926
+          "VALUE": 0.021822
         },
         {
           "DATE": "2021-03-31",
@@ -1613,16 +1617,20 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 6
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 12
+          "VALUE": 35
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 100
+          "VALUE": 121
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 119
+          "VALUE": 124
         },
         {
           "DATE": "2021-03-31",

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Los Angeles"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 17746258,
-        "new_tests_reported": 71401,
-        "new_tests_reported_delta_1_day": 0.004039693221,
+        "total_tests_performed": 17784764,
+        "new_tests_reported": 38506,
+        "new_tests_reported_delta_1_day": 0.002169809545,
         "POPULATION": 10257557
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 38506
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 71401
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 520.561154502
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 526.294906282

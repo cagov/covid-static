@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Marin"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 460512,
-        "new_tests_reported": 1724,
-        "new_tests_reported_delta_1_day": 0.00375772688,
+        "total_tests_performed": 461414,
+        "new_tests_reported": 902,
+        "new_tests_reported_delta_1_day": 0.001958689459,
         "POPULATION": 260800
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 902
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 1724
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 664.603418054
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 669.478527607

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 22,
-        "CHANGE": -4,
-        "CHANGE_FACTOR": -0.153846,
+        "TOTAL": 20,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.090909,
         "POPULATION": 484423
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 20
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 22
@@ -1500,6 +1504,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 33.214
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 35.428

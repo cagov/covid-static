@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Santa Barbara"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 36,
-        "CHANGE": 13,
-        "CHANGE_FACTOR": 0.565217,
+        "TOTAL": 30,
+        "CHANGE": -6,
+        "CHANGE_FACTOR": -0.166667,
         "POPULATION": 456373
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 30
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 36

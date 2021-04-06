@@ -1,35 +1,39 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 91779,
-        "new_tests_reported": 165,
-        "new_tests_reported_delta_1_day": 0.001801034776,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 91930,
+        "new_tests_reported": 151,
+        "new_tests_reported_delta_1_day": 0.00164525654,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 88439
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 21
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 14
+          "VALUE": 91
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 99
+          "VALUE": 113
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 216
+          "VALUE": 244
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 181
+          "VALUE": 192
         },
         {
           "DATE": "2021-03-30",
@@ -1614,20 +1618,24 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 201.75262045
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 192.061194722
+          "VALUE": 213.059849162
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 212.898155791
+          "VALUE": 221.459989371
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 222.912968261
+          "VALUE": 229.213356099
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 235.674306584
+          "VALUE": 237.451802938
         },
         {
           "DATE": "2021-03-30",

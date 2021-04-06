@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Napa"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 240726,
-        "new_tests_reported": 422,
-        "new_tests_reported_delta_1_day": 0.001756108929,
+        "total_tests_performed": 241050,
+        "new_tests_reported": 324,
+        "new_tests_reported_delta_1_day": 0.001345928566,
         "POPULATION": 139652
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 324
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 422
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 497.665625985
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 540.527269826

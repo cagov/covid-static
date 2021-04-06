@@ -1,42 +1,46 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.039766,
-        "test_positivity_7_days_delta_7_days": -0.007259,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "test_positivity_7_days": 0.040115,
+        "test_positivity_7_days_delta_7_days": -0.006848,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 562303
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.040115
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.039766
+          "VALUE": 0.0412
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.041341
+          "VALUE": 0.042068
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.042906
+          "VALUE": 0.043472
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.044322
+          "VALUE": 0.044508
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.045024
+          "VALUE": 0.045151
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.045873
+          "VALUE": 0.045915
         },
         {
           "DATE": "2021-03-28",
@@ -1613,28 +1617,32 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 133
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 145
+          "VALUE": 340
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 694
+          "VALUE": 1167
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 1554
+          "VALUE": 1741
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 1992
+          "VALUE": 1998
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 2405
+          "VALUE": 2423
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 3706
+          "VALUE": 3715
         },
         {
           "DATE": "2021-03-28",

@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 48343,
-        "new_cases": 16,
-        "new_cases_delta_1_day": 0.000331,
-        "cases_per_100k_7_days": 3.007908378,
+        "total_confirmed_cases": 48356,
+        "new_cases": 13,
+        "new_cases_delta_1_day": 0.000269,
+        "cases_per_100k_7_days": 2.890036187,
         "POPULATION": 484423
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 13
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 16
@@ -1617,6 +1621,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 3.833633003
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 3.686241157

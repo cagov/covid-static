@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 4423,
-        "new_deaths": 1,
-        "new_deaths_delta_1_day": 0.000226,
-        "deaths_per_100k_7_days": 0.103048708,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-14",
+        "total_confirmed_deaths": 4425,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.000452,
+        "deaths_per_100k_7_days": 0.077297806,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-15",
         "POPULATION": 2217398
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -606,7 +610,7 @@
         },
         {
           "DATE": "2020-11-08",
-          "VALUE": 9
+          "VALUE": 10
         },
         {
           "DATE": "2020-11-07",
@@ -1619,6 +1623,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-04",
           "VALUE": 0
         },
@@ -2184,31 +2192,31 @@
         },
         {
           "DATE": "2020-11-14",
-          "VALUE": 0.289889321
+          "VALUE": 0.296338321
         },
         {
           "DATE": "2020-11-13",
-          "VALUE": 0.27699132
+          "VALUE": 0.283440321
         },
         {
           "DATE": "2020-11-12",
-          "VALUE": 0.251240418
+          "VALUE": 0.257689418
         },
         {
           "DATE": "2020-11-11",
-          "VALUE": 0.264138418
-        },
-        {
-          "DATE": "2020-11-10",
           "VALUE": 0.270587418
         },
         {
+          "DATE": "2020-11-10",
+          "VALUE": 0.27699132
+        },
+        {
           "DATE": "2020-11-09",
-          "VALUE": 0.251240418
+          "VALUE": 0.257689418
         },
         {
           "DATE": "2020-11-08",
-          "VALUE": 0.264138418
+          "VALUE": 0.270587418
         },
         {
           "DATE": "2020-11-07",

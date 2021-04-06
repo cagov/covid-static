@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "San Joaquin"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 69147,
-        "new_cases": 47,
-        "new_cases_delta_1_day": 0.00068,
-        "cases_per_100k_7_days": 10.149959427,
+        "total_confirmed_cases": 69214,
+        "new_cases": 67,
+        "new_cases_delta_1_day": 0.000969,
+        "cases_per_100k_7_days": 9.821416021,
         "POPULATION": 782545
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 67
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 47
@@ -1617,6 +1621,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 12.358905878
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 12.559661106

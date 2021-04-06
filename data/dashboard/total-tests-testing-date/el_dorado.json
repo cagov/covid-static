@@ -1,39 +1,43 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "El Dorado"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 157155,
-        "new_tests_reported": 434,
-        "new_tests_reported_delta_1_day": 0.002769252366,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 157488,
+        "new_tests_reported": 333,
+        "new_tests_reported_delta_1_day": 0.002118927174,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 193098
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-04-03",
+          "DATE": "2021-04-04",
           "VALUE": 21
         },
         {
+          "DATE": "2021-04-03",
+          "VALUE": 96
+        },
+        {
           "DATE": "2021-04-02",
-          "VALUE": 210
+          "VALUE": 386
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 477
+          "VALUE": 527
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 398
+          "VALUE": 407
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 660
+          "VALUE": 662
         },
         {
           "DATE": "2021-03-29",
@@ -1614,24 +1618,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 203.597137205
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 191.982309501
+          "VALUE": 215.064371459
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 209.367782162
+          "VALUE": 226.901366146
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 230.526468425
+          "VALUE": 235.039720764
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 233.633698951
+          "VALUE": 234.447793348
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 249.096313789
+          "VALUE": 249.243907239
         },
         {
           "DATE": "2021-03-29",

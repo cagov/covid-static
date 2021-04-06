@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 91779,
-        "new_tests_reported": 165,
-        "new_tests_reported_delta_1_day": 0.001801034776,
+        "total_tests_performed": 91930,
+        "new_tests_reported": 151,
+        "new_tests_reported_delta_1_day": 0.00164525654,
         "POPULATION": 88439
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 151
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 165
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 271.696552749
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 278.319358137

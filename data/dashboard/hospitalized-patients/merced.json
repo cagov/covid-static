@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 18,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 21,
+        "CHANGE": 3,
+        "CHANGE_FACTOR": 0.166667,
         "POPULATION": 287420
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 21
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 18
@@ -1500,6 +1504,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 20.071
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 20.071

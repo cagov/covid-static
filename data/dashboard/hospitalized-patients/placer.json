@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Placer"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 44,
-        "CHANGE": -8,
-        "CHANGE_FACTOR": -0.153846,
+        "TOTAL": 37,
+        "CHANGE": -7,
+        "CHANGE_FACTOR": -0.159091,
         "POPULATION": 400434
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 37
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 44
@@ -1500,6 +1504,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 42
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 43

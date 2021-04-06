@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Santa Clara"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 97,
-        "CHANGE": 9,
-        "CHANGE_FACTOR": 0.102273,
+        "TOTAL": 105,
+        "CHANGE": 8,
+        "CHANGE_FACTOR": 0.082474,
         "POPULATION": 1967585
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 105
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 97
@@ -1500,6 +1504,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 114.071
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 115.857

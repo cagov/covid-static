@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "San Mateo"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 1364152,
-        "new_tests_reported": 5667,
-        "new_tests_reported_delta_1_day": 0.004171558758,
+        "total_tests_performed": 1366577,
+        "new_tests_reported": 2425,
+        "new_tests_reported_delta_1_day": 0.00177766114,
         "POPULATION": 778001
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 2425
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 5667
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 736.429461071
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 792.25017522

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Humboldt"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 2,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.333333,
+        "TOTAL": 5,
+        "CHANGE": 3,
+        "CHANGE_FACTOR": 1.5,
         "POPULATION": 134098
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 5
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 2
@@ -1500,6 +1504,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 3.214
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 3.142

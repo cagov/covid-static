@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 11433,
-        "new_cases": 15,
-        "new_cases_delta_1_day": 0.001314,
-        "cases_per_100k_7_days": 7.306449347,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_confirmed_cases": 11435,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.000175,
+        "cases_per_100k_7_days": 8.028663763,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 177925
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -30,7 +34,7 @@
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 16
+          "VALUE": 18
         },
         {
           "DATE": "2021-03-31",
@@ -1619,20 +1623,24 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 3.934241956
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 5.941267388
+          "VALUE": 6.102009274
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 6.262189125
+          "VALUE": 6.42293101
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 6.904594633
+          "VALUE": 7.065336518
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 7.707742026
+          "VALUE": 7.868483912
         },
         {
           "DATE": "2021-03-31",

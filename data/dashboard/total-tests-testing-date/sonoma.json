@@ -1,39 +1,43 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 623483,
-        "new_tests_reported": 1897,
-        "new_tests_reported_delta_1_day": 0.003051870538,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 625111,
+        "new_tests_reported": 1628,
+        "new_tests_reported_delta_1_day": 0.002611137754,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 496668
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 57
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 85
+          "VALUE": 314
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 534
+          "VALUE": 1392
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 1804
+          "VALUE": 2249
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 2276
+          "VALUE": 2312
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 2395
+          "VALUE": 2398
         },
         {
           "DATE": "2021-03-29",
@@ -1614,24 +1618,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 324.447719603
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 294.965651099
+          "VALUE": 340.15237543
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 313.31634009
+          "VALUE": 351.916572036
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 346.739069157
+          "VALUE": 360.66044118
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 342.223376582
+          "VALUE": 343.345051423
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 340.468884647
+          "VALUE": 340.555058913
         },
         {
           "DATE": "2021-03-29",

@@ -1,31 +1,35 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "San Benito"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 73608,
-        "new_tests_reported": 168,
-        "new_tests_reported_delta_1_day": 0.002287581699,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 73688,
+        "new_tests_reported": 80,
+        "new_tests_reported_delta_1_day": 0.001086838387,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 64022
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 18
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 10
+          "VALUE": 27
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 94
+          "VALUE": 120
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 174
+          "VALUE": 191
         },
         {
           "DATE": "2021-03-31",
@@ -33,7 +37,7 @@
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 265
+          "VALUE": 266
         },
         {
           "DATE": "2021-03-29",
@@ -53,7 +57,7 @@
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 209
+          "VALUE": 210
         },
         {
           "DATE": "2021-03-24",
@@ -1614,44 +1618,48 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 265.310362063
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 263.078316829
+          "VALUE": 276.689263066
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 273.343538159
+          "VALUE": 283.160476086
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 285.83924276
+          "VALUE": 289.855049827
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 293.649058136
+          "VALUE": 294.094217613
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 297.888225922
+          "VALUE": 298.334947362
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 306.589922214
+          "VALUE": 306.813282934
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 301.012152073
-        },
-        {
-          "DATE": "2021-03-27",
-          "VALUE": 300.342069913
-        },
-        {
-          "DATE": "2021-03-26",
           "VALUE": 301.235512792
         },
         {
+          "DATE": "2021-03-27",
+          "VALUE": 300.565430633
+        },
+        {
+          "DATE": "2021-03-26",
+          "VALUE": 301.458873512
+        },
+        {
           "DATE": "2021-03-25",
-          "VALUE": 307.260004373
+          "VALUE": 307.483365093
         },
         {
           "DATE": "2021-03-24",

@@ -1,31 +1,35 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Mariposa"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 19917,
-        "new_tests_reported": 55,
-        "new_tests_reported_delta_1_day": 0.002769106837,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 19947,
+        "new_tests_reported": 30,
+        "new_tests_reported_delta_1_day": 0.001506250941,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 17795
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 1
+          "VALUE": 20
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 51
+          "VALUE": 59
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 38
+          "VALUE": 41
         },
         {
           "DATE": "2021-03-31",
@@ -1614,16 +1618,20 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 267.327901096
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 252.880022478
+          "VALUE": 276.959820174
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 272.143860635
+          "VALUE": 280.977802754
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 293.014891824
+          "VALUE": 295.425681371
         },
         {
           "DATE": "2021-03-31",

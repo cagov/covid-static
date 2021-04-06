@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 21,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 20,
+        "CHANGE": -1,
+        "CHANGE_FACTOR": -0.047619,
         "POPULATION": 562303
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 20
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 21
@@ -1500,6 +1504,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 23.5
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 23.857

@@ -1,35 +1,39 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 29121,
-        "new_tests_reported": 48,
-        "new_tests_reported_delta_1_day": 0.001651016407,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 29146,
+        "new_tests_reported": 25,
+        "new_tests_reported_delta_1_day": 0.0008584870025,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 43956
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 4
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 2
+          "VALUE": 9
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 21
+          "VALUE": 30
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 80
+          "VALUE": 84
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 143
+          "VALUE": 144
         },
         {
           "DATE": "2021-03-30",
@@ -1614,20 +1618,24 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
-          "DATE": "2021-04-03",
-          "VALUE": 128.373828374
+          "DATE": "2021-04-04",
+          "VALUE": 131.299481299
         },
         {
-          "DATE": "2021-04-02",
+          "DATE": "2021-04-03",
           "VALUE": 135.198835199
         },
         {
+          "DATE": "2021-04-02",
+          "VALUE": 139.748839749
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 144.298844299
+          "VALUE": 145.923195923
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 153.398853399
+          "VALUE": 153.724178724
         },
         {
           "DATE": "2021-03-30",

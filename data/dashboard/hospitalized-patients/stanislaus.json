@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 122,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 120,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.016393,
         "POPULATION": 562303
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 120
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 122
@@ -1500,6 +1504,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 131.642
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 132.357

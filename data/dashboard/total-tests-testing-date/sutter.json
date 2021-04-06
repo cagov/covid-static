@@ -1,31 +1,35 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Sutter"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 89135,
-        "new_tests_reported": 174,
-        "new_tests_reported_delta_1_day": 0.001955913265,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "total_tests_performed": 89291,
+        "new_tests_reported": 156,
+        "new_tests_reported_delta_1_day": 0.00175015426,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 105747
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 22
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 39
+          "VALUE": 76
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 142
+          "VALUE": 179
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 160
+          "VALUE": 177
         },
         {
           "DATE": "2021-03-31",
@@ -33,7 +37,7 @@
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 380
+          "VALUE": 423
         },
         {
           "DATE": "2021-03-29",
@@ -1614,24 +1618,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 201.693665069
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 193.453242172
+          "VALUE": 211.555883382
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 200.883240186
+          "VALUE": 213.987158028
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 207.232356473
+          "VALUE": 215.3384966
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 214.932811333
+          "VALUE": 220.741959583
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 221.417156042
+          "VALUE": 227.226304292
         },
         {
           "DATE": "2021-03-29",

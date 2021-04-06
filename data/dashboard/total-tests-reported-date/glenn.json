@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Glenn"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 22557,
-        "new_tests_reported": 27,
-        "new_tests_reported_delta_1_day": 0.00119840213,
+        "total_tests_performed": 22585,
+        "new_tests_reported": 28,
+        "new_tests_reported_delta_1_day": 0.001241299818,
         "POPULATION": 29348
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 28
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 27
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 263.829124399
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 267.236511614

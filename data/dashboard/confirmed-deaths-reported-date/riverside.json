@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Riverside"
   },
   "data": {
@@ -9,12 +9,16 @@
         "total_confirmed_deaths": 4237,
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.173612166,
+        "deaths_per_100k_7_days": 0.144683558,
         "POPULATION": 2468145
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -1617,6 +1621,10 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0.601950048
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0.607743872

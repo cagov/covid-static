@@ -1,50 +1,54 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Riverside"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.018038,
-        "test_positivity_7_days_delta_7_days": -0.001697,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-27",
+        "test_positivity_7_days": 0.018177,
+        "test_positivity_7_days_delta_7_days": -0.001242,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 2468145
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.018177
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.018038
+          "VALUE": 0.018551
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.018822
+          "VALUE": 0.01847
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.018321
+          "VALUE": 0.018195
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.018723
+          "VALUE": 0.018767
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.017799
+          "VALUE": 0.017785
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.018218
+          "VALUE": 0.018215
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 0.019421
+          "VALUE": 0.019419
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 0.019735
+          "VALUE": 0.019733
         },
         {
           "DATE": "2021-03-26",
@@ -1613,36 +1617,40 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-04",
+          "VALUE": 256
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 302
+          "VALUE": 1427
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 3908
+          "VALUE": 5479
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 6204
+          "VALUE": 6683
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 6452
+          "VALUE": 6520
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 9160
+          "VALUE": 9190
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 9997
+          "VALUE": 10000
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 3339
+          "VALUE": 3340
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 3018
+          "VALUE": 3022
         },
         {
           "DATE": "2021-03-26",

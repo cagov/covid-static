@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Riverside"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 2661653,
-        "new_tests_reported": 6425,
-        "new_tests_reported_delta_1_day": 0.002419754537,
+        "total_tests_performed": 2665190,
+        "new_tests_reported": 3537,
+        "new_tests_reported_delta_1_day": 0.001328873448,
         "POPULATION": 2468145
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 3537
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 6425
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 296.254879677
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 299.200990449

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Santa Clara"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 3433924,
-        "new_tests_reported": 14610,
-        "new_tests_reported_delta_1_day": 0.004272786881,
+        "total_tests_performed": 3441652,
+        "new_tests_reported": 7728,
+        "new_tests_reported_delta_1_day": 0.002250486615,
         "POPULATION": 1967585
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 7728
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 14610
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 746.259283044
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 759.967167873

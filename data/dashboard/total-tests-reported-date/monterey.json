@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-05",
+    "PUBLISHED_DATE": "2021-04-06",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 544069,
-        "new_tests_reported": 1433,
-        "new_tests_reported_delta_1_day": 0.002640812626,
+        "total_tests_performed": 544883,
+        "new_tests_reported": 814,
+        "new_tests_reported_delta_1_day": 0.001496133762,
         "POPULATION": 448732
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 814
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 1433
@@ -1356,6 +1360,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 432.074633157
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 434.366806277
