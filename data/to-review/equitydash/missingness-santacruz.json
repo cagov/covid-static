@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Santa Cruz",
       "METRIC": "cases",
-      "MISSING": 40,
-      "NOT_MISSING": 314,
-      "TOTAL": 354,
-      "PERCENT_COMPLETE": 0.887005649717514,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.914757103574702,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0277514538571879,
-      "REPORT_DATE": "2021-03-30"
+      "MISSING": 29,
+      "NOT_MISSING": 304,
+      "TOTAL": 333,
+      "PERCENT_COMPLETE": 0.912912912912913,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.897959183673469,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0149537292394434,
+      "REPORT_DATE": "2021-04-05"
     },
     "deaths": {
       "COUNTY": "Santa Cruz",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-03-30"
+      "REPORT_DATE": "2021-04-05"
     },
     "tests": {
       "COUNTY": "Santa Cruz",
       "METRIC": "tests",
-      "MISSING": 15915,
-      "NOT_MISSING": 24269,
-      "TOTAL": 40184,
-      "PERCENT_COMPLETE": 0.60394684451523,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.592390816967088,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0115560275481418,
-      "REPORT_DATE": "2021-03-30"
+      "MISSING": 16295,
+      "NOT_MISSING": 24701,
+      "TOTAL": 40996,
+      "PERCENT_COMPLETE": 0.60252219728754,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.585332356711225,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0171898405763152,
+      "REPORT_DATE": "2021-04-05"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 1,
-      "NOT_MISSING": 280,
-      "TOTAL": 281,
-      "PERCENT_COMPLETE": 0.99644128113879,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.002372479240807,
-      "REPORT_DATE": "2021-03-30"
+      "MISSING": 2,
+      "NOT_MISSING": 252,
+      "TOTAL": 254,
+      "PERCENT_COMPLETE": 0.992125984251969,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.006212886179925,
+      "REPORT_DATE": "2021-04-05"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-03-30"
+      "REPORT_DATE": "2021-04-05"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 215,
-      "NOT_MISSING": 66,
-      "TOTAL": 281,
-      "PERCENT_COMPLETE": 0.234875444839858,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.112692763938315,
-      "REPORT_DATE": "2021-03-30"
+      "MISSING": 193,
+      "NOT_MISSING": 61,
+      "TOTAL": 254,
+      "PERCENT_COMPLETE": 0.240157480314961,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.085423915033876,
+      "REPORT_DATE": "2021-04-05"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-03-30"
+      "REPORT_DATE": "2021-04-05"
     }
   }
 }
