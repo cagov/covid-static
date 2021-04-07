@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "San Francisco"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 35538,
-        "new_cases": 13,
-        "new_cases_delta_1_day": 0.000366,
-        "cases_per_100k_7_days": 3.922535527,
+        "total_confirmed_cases": 35572,
+        "new_cases": 34,
+        "new_cases_delta_1_day": 0.000957,
+        "cases_per_100k_7_days": 3.730331286,
         "POPULATION": 892280
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 34
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 13
@@ -1621,6 +1625,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 3.954476173
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 3.954476173

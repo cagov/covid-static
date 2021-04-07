@@ -1,42 +1,46 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Modoc"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0,
-        "test_positivity_7_days_delta_7_days": -0.039216,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "test_positivity_7_days": 0.035714,
+        "test_positivity_7_days_delta_7_days": -0.006839,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 9475
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0.035714
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 0
+          "VALUE": 0.028571
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0
+          "VALUE": 0.028571
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-04-01",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-03-31",
           "VALUE": 0.027027
         },
         {
+          "DATE": "2021-04-01",
+          "VALUE": 0.026316
+        },
+        {
+          "DATE": "2021-03-31",
+          "VALUE": 0.051282
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 0.020833
+          "VALUE": 0.020408
         },
         {
           "DATE": "2021-03-29",
@@ -1617,12 +1621,16 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 3
+        },
+        {
           "DATE": "2021-04-04",
           "VALUE": 0
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 2
+          "VALUE": 3
         },
         {
           "DATE": "2021-04-02",
@@ -1634,11 +1642,11 @@
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 4
+          "VALUE": 5
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 8
+          "VALUE": 9
         },
         {
           "DATE": "2021-03-29",

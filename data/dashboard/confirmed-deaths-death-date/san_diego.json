@@ -1,28 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "San Diego"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 3583,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 3585,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.000558,
         "deaths_per_100k_7_days": 0.127135566,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-15",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-16",
         "POPULATION": 3370418
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-05",
           "VALUE": 0
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-04-03",
@@ -30,7 +34,7 @@
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-04-01",
@@ -1623,20 +1627,24 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
-          "DATE": "2021-04-05",
-          "VALUE": 0.025427113
+          "DATE": "2021-04-06",
+          "VALUE": 0.021184316
         },
         {
-          "DATE": "2021-04-04",
+          "DATE": "2021-04-05",
           "VALUE": 0.033883038
         },
         {
+          "DATE": "2021-04-04",
+          "VALUE": 0.042368632
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 0.038125835
+          "VALUE": 0.042368632
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.046611429
+          "VALUE": 0.050854226
         },
         {
           "DATE": "2021-04-01",

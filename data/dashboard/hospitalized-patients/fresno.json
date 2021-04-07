@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Fresno"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 128,
-        "CHANGE": -6,
-        "CHANGE_FACTOR": -0.044776,
+        "TOTAL": 119,
+        "CHANGE": -9,
+        "CHANGE_FACTOR": -0.070313,
         "POPULATION": 1032227
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 119
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 128
@@ -1504,6 +1508,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 130.714
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 132.214

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Alameda"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 29,
-        "CHANGE": -5,
-        "CHANGE_FACTOR": -0.147059,
+        "TOTAL": 27,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.068966,
         "POPULATION": 1685886
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 27
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 29
@@ -1504,6 +1508,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 31.285
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 31.142

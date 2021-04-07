@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 2,
+        "TOTAL": 3,
         "CHANGE": 1,
-        "CHANGE_FACTOR": 1,
+        "CHANGE_FACTOR": 0.5,
         "POPULATION": 88439
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 3
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 2
@@ -1504,6 +1508,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0.785
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0.642

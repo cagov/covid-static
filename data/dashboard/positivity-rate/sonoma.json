@@ -1,58 +1,62 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.015957,
-        "test_positivity_7_days_delta_7_days": -0.000666,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "test_positivity_7_days": 0.016638,
+        "test_positivity_7_days_delta_7_days": -0.000938,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 496668
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0.016638
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 0.015957
+          "VALUE": 0.016353
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0.016066
+          "VALUE": 0.016454
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.01602
+          "VALUE": 0.016393
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.016269
+          "VALUE": 0.016302
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.01642
+          "VALUE": 0.016571
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.016639
+          "VALUE": 0.016754
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.017432
+          "VALUE": 0.017576
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 0.016623
+          "VALUE": 0.016702
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 0.01723
+          "VALUE": 0.01731
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 0.017167
+          "VALUE": 0.017244
         },
         {
           "DATE": "2021-03-25",
@@ -1617,32 +1621,36 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 197
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 57
+          "VALUE": 253
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 314
+          "VALUE": 676
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 1392
+          "VALUE": 1627
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 2249
+          "VALUE": 2397
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 2312
+          "VALUE": 2346
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 2398
+          "VALUE": 2421
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 2558
+          "VALUE": 2571
         },
         {
           "DATE": "2021-03-28",
@@ -1654,7 +1662,7 @@
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 1696
+          "VALUE": 1698
         },
         {
           "DATE": "2021-03-25",

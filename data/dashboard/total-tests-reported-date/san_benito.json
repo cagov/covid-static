@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "San Benito"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 73688,
-        "new_tests_reported": 80,
-        "new_tests_reported_delta_1_day": 0.001086838387,
+        "total_tests_performed": 73808,
+        "new_tests_reported": 120,
+        "new_tests_reported_delta_1_day": 0.001628487678,
         "POPULATION": 64022
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 120
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 80
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 313.508302949
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 301.682011094

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Santa Barbara"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 556970,
-        "new_tests_reported": 552,
-        "new_tests_reported_delta_1_day": 0.0009920599262,
+        "total_tests_performed": 558067,
+        "new_tests_reported": 1097,
+        "new_tests_reported_delta_1_day": 0.001969585435,
         "POPULATION": 456373
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 1097
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 552
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 466.817399677
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 466.848702393

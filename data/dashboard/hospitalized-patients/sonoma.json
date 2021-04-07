@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 18,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.058824,
+        "TOTAL": 13,
+        "CHANGE": -5,
+        "CHANGE_FACTOR": -0.277778,
         "POPULATION": 496668
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 13
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 18
@@ -1504,6 +1508,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 17.071
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 17.428

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Tuolumne"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 90780,
-        "new_tests_reported": 114,
-        "new_tests_reported_delta_1_day": 0.001257362186,
+        "total_tests_performed": 90822,
+        "new_tests_reported": 42,
+        "new_tests_reported_delta_1_day": 0.0004626569729,
         "POPULATION": 52351
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 42
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 114
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 1317.753515419
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 1355.411412526

@@ -1,36 +1,40 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Nevada"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 4346,
-        "new_cases": 9,
-        "new_cases_delta_1_day": 0.002075,
-        "cases_per_100k_7_days": 12.735285179,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 4356,
+        "new_cases": 10,
+        "new_cases_delta_1_day": 0.002301,
+        "cases_per_100k_7_days": 12.300678756,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 98710
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-04-05",
+          "DATE": "2021-04-06",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 2
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 0
-        },
-        {
-          "DATE": "2021-04-03",
           "VALUE": 1
         },
         {
+          "DATE": "2021-04-03",
+          "VALUE": 2
+        },
+        {
           "DATE": "2021-04-02",
-          "VALUE": 6
+          "VALUE": 9
         },
         {
           "DATE": "2021-04-01",
@@ -38,7 +42,7 @@
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 9
+          "VALUE": 8
         },
         {
           "DATE": "2021-03-30",
@@ -50,15 +54,15 @@
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 7
+          "VALUE": 8
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 17
+          "VALUE": 18
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 14
+          "VALUE": 16
         },
         {
           "DATE": "2021-03-25",
@@ -1623,48 +1627,52 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 4.340998886
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 3.907405531
+          "VALUE": 4.775605308
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 5.209198663
+          "VALUE": 5.788673893
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 6.222267247
+          "VALUE": 6.801742478
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 8.538142032
+          "VALUE": 9.117617263
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 9.696079425
+          "VALUE": 10.130685847
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 10.419410394
+          "VALUE": 10.854016817
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 11.722216594
+          "VALUE": 12.300678756
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 12.735285179
+          "VALUE": 13.313747341
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 13.169891602
+          "VALUE": 13.748353764
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 13.603484956
+          "VALUE": 14.038091379
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 12.590416371
+          "VALUE": 12.880153986
         },
         {
           "DATE": "2021-03-25",

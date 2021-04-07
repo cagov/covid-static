@@ -1,39 +1,43 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Colusa"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 16054,
-        "new_tests_reported": 18,
-        "new_tests_reported_delta_1_day": 0.001122474433,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_tests_performed": 16081,
+        "new_tests_reported": 27,
+        "new_tests_reported_delta_1_day": 0.001681823845,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 22593
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 8
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 3
+          "VALUE": 10
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 14
+          "VALUE": 17
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 37
+          "VALUE": 42
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 22
+          "VALUE": 23
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 158
+          "VALUE": 160
         },
         {
           "DATE": "2021-03-30",
@@ -53,7 +57,7 @@
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 26
+          "VALUE": 27
         },
         {
           "DATE": "2021-03-25",
@@ -1618,44 +1622,48 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 192.218828841
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 200.43818882
+          "VALUE": 211.822245828
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 207.396096136
+          "VALUE": 214.349577303
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 209.92342761
+          "VALUE": 214.982516709
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 202.969946444
+          "VALUE": 205.497277918
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 204.231399106
+          "VALUE": 206.130217324
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 212.455185234
+          "VALUE": 213.083698491
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 208.657548798
+          "VALUE": 209.290488204
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 216.248395521
+          "VALUE": 216.881334927
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 215.615456115
+          "VALUE": 216.248395521
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 209.92342761
+          "VALUE": 210.556367016
         },
         {
           "DATE": "2021-03-25",

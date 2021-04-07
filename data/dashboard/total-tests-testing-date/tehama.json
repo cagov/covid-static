@@ -1,43 +1,47 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Tehama"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 53869,
-        "new_tests_reported": 59,
-        "new_tests_reported_delta_1_day": 0.001096450474,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_tests_performed": 53924,
+        "new_tests_reported": 55,
+        "new_tests_reported_delta_1_day": 0.001020995378,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 65885
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-04-04",
+          "DATE": "2021-04-05",
           "VALUE": 4
         },
         {
+          "DATE": "2021-04-04",
+          "VALUE": 25
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 24
+          "VALUE": 26
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 78
+          "VALUE": 93
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 198
+          "VALUE": 201
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 194
+          "VALUE": 202
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 180
+          "VALUE": 182
         },
         {
           "DATE": "2021-03-29",
@@ -1618,28 +1622,32 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 158.934507096
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 196.445321393
+          "VALUE": 207.503984215
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 205.986188055
+          "VALUE": 212.491462397
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 210.322531684
+          "VALUE": 216.393716324
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 234.390225393
+          "VALUE": 237.208772862
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 238.509524171
+          "VALUE": 240.678454884
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 224.416786826
+          "VALUE": 224.849358731
         },
         {
           "DATE": "2021-03-29",

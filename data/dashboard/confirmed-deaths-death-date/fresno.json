@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Fresno"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 1622,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.124488121,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-15",
+        "total_confirmed_deaths": 1626,
+        "new_deaths": 4,
+        "new_deaths_delta_1_day": 0.002466,
+        "deaths_per_100k_7_days": 0.110634579,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-16",
         "POPULATION": 1032227
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0
@@ -42,7 +46,7 @@
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-29",
@@ -54,7 +58,7 @@
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-26",
@@ -66,11 +70,11 @@
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 2
+          "VALUE": 3
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-22",
@@ -1623,60 +1627,64 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
-          "DATE": "2021-04-05",
+          "DATE": "2021-04-06",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0.013756664
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 0
+          "VALUE": 0.013756664
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0
+          "VALUE": 0.013756664
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0
+          "VALUE": 0.027610206
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.013756664
+          "VALUE": 0.041463748
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0.013756664
+          "VALUE": 0.041463748
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0.041463748
-        },
-        {
-          "DATE": "2021-03-29",
-          "VALUE": 0.041463748
-        },
-        {
-          "DATE": "2021-03-28",
-          "VALUE": 0.05531729
-        },
-        {
-          "DATE": "2021-03-27",
           "VALUE": 0.083024374
         },
         {
-          "DATE": "2021-03-26",
+          "DATE": "2021-03-29",
+          "VALUE": 0.083024374
+        },
+        {
+          "DATE": "2021-03-28",
           "VALUE": 0.096877915
         },
         {
-          "DATE": "2021-03-25",
+          "DATE": "2021-03-27",
           "VALUE": 0.124488121
+        },
+        {
+          "DATE": "2021-03-26",
+          "VALUE": 0.124488121
+        },
+        {
+          "DATE": "2021-03-25",
+          "VALUE": 0.152195205
         },
         {
           "DATE": "2021-03-24",
-          "VALUE": 0.124488121
+          "VALUE": 0.152195205
         },
         {
           "DATE": "2021-03-23",
-          "VALUE": 0.138341663
+          "VALUE": 0.152195205
         },
         {
           "DATE": "2021-03-22",

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "San Francisco"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 27,
-        "CHANGE": -6,
-        "CHANGE_FACTOR": -0.181818,
+        "TOTAL": 28,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.037037,
         "POPULATION": 892280
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 28
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 27
@@ -1504,6 +1508,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 34.214
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 35.285

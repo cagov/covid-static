@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Plumas"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 18829,
-        "new_tests_reported": 19,
-        "new_tests_reported_delta_1_day": 0.00101010101,
+        "total_tests_performed": 18842,
+        "new_tests_reported": 13,
+        "new_tests_reported_delta_1_day": 0.0006904243454,
         "POPULATION": 18997
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 13
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 19
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 403.071161612
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 474.511013017

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "California"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 2373,
-        "CHANGE": -13,
-        "CHANGE_FACTOR": -0.005448,
+        "TOTAL": 2366,
+        "CHANGE": -7,
+        "CHANGE_FACTOR": -0.00295,
         "POPULATION": 40124928
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 2366
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 2373
@@ -1504,6 +1508,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 2561
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 2605.357

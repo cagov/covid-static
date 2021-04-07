@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Alpine"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 1880,
-        "new_tests_reported": 5,
-        "new_tests_reported_delta_1_day": 0.002666666667,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_tests_performed": 1881,
+        "new_tests_reported": 1,
+        "new_tests_reported_delta_1_day": 0.0005319148936,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 1117
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-04",
           "VALUE": 0
@@ -25,7 +29,7 @@
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 5
+          "VALUE": 6
         },
         {
           "DATE": "2021-04-01",
@@ -1618,16 +1622,20 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
-          "DATE": "2021-04-04",
-          "VALUE": 230.170098478
-        },
-        {
-          "DATE": "2021-04-03",
+          "DATE": "2021-04-05",
           "VALUE": 242.97224709
         },
         {
+          "DATE": "2021-04-04",
+          "VALUE": 242.97224709
+        },
+        {
+          "DATE": "2021-04-03",
+          "VALUE": 255.774395703
+        },
+        {
           "DATE": "2021-04-02",
-          "VALUE": 204.565801253
+          "VALUE": 217.367949866
         },
         {
           "DATE": "2021-04-01",
