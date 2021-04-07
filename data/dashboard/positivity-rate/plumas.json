@@ -1,34 +1,38 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Plumas"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.009524,
-        "test_positivity_7_days_delta_7_days": -0.002865,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "test_positivity_7_days": 0.010152,
+        "test_positivity_7_days_delta_7_days": -0.003523,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 18997
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0.010152
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 0.009524
+          "VALUE": 0.009434
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0.011091
+          "VALUE": 0.011029
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.016364
+          "VALUE": 0.016275
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.017825
+          "VALUE": 0.017794
         },
         {
           "DATE": "2021-03-31",
@@ -1617,8 +1621,12 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 8
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 2
+          "VALUE": 4
         },
         {
           "DATE": "2021-04-03",
@@ -1626,11 +1634,11 @@
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 76
+          "VALUE": 78
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 75
+          "VALUE": 76
         },
         {
           "DATE": "2021-03-31",

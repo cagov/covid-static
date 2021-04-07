@@ -1,38 +1,42 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Glenn"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.035129,
-        "test_positivity_7_days_delta_7_days": -0.009226,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "test_positivity_7_days": 0.038462,
+        "test_positivity_7_days_delta_7_days": -0.000156,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 29348
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0.038462
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 0.035129
-        },
-        {
-          "DATE": "2021-04-03",
-          "VALUE": 0.036866
-        },
-        {
-          "DATE": "2021-04-02",
-          "VALUE": 0.03118
-        },
-        {
-          "DATE": "2021-04-01",
           "VALUE": 0.033259
         },
         {
+          "DATE": "2021-04-03",
+          "VALUE": 0.035088
+        },
+        {
+          "DATE": "2021-04-02",
+          "VALUE": 0.030108
+        },
+        {
+          "DATE": "2021-04-01",
+          "VALUE": 0.032967
+        },
+        {
           "DATE": "2021-03-31",
-          "VALUE": 0.025532
+          "VALUE": 0.025424
         },
         {
           "DATE": "2021-03-30",
@@ -1617,24 +1621,28 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 5
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 2
+          "VALUE": 4
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 13
+          "VALUE": 19
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 35
+          "VALUE": 47
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 36
+          "VALUE": 38
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 66
+          "VALUE": 68
         },
         {
           "DATE": "2021-03-30",

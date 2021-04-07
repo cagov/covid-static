@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Mono"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
         "total_confirmed_cases": 1246,
-        "new_cases": 1,
-        "new_cases_delta_1_day": 0.000803,
-        "cases_per_100k_7_days": 12.277057517,
+        "new_cases": 0,
+        "new_cases_delta_1_day": 0,
+        "cases_per_100k_7_days": 8.179929804,
         "POPULATION": 13961
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 1
@@ -1621,6 +1625,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 1.017119118
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 3.065682974

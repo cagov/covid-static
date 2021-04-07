@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Plumas"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 666,
-        "new_cases": 0,
-        "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 4.511238617,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 665,
+        "new_cases": -1,
+        "new_cases_delta_1_day": -0.001502,
+        "cases_per_100k_7_days": 5.263989051,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 18997
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0
@@ -150,7 +154,7 @@
         },
         {
           "DATE": "2021-03-03",
-          "VALUE": 3
+          "VALUE": 2
         },
         {
           "DATE": "2021-03-02",
@@ -1623,6 +1627,10 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0.747486445
+        },
+        {
           "DATE": "2021-04-05",
           "VALUE": 1.50023688
         },
@@ -1732,31 +1740,31 @@
         },
         {
           "DATE": "2021-03-09",
-          "VALUE": 4.511238617
+          "VALUE": 3.758488182
         },
         {
           "DATE": "2021-03-08",
-          "VALUE": 3.758488182
+          "VALUE": 3.005737748
         },
         {
           "DATE": "2021-03-07",
-          "VALUE": 3.005737748
+          "VALUE": 2.252987314
         },
         {
           "DATE": "2021-03-06",
-          "VALUE": 3.005737748
+          "VALUE": 2.252987314
         },
         {
           "DATE": "2021-03-05",
-          "VALUE": 3.005737748
+          "VALUE": 2.252987314
         },
         {
           "DATE": "2021-03-04",
-          "VALUE": 3.005737748
+          "VALUE": 2.252987314
         },
         {
           "DATE": "2021-03-03",
-          "VALUE": 3.758488182
+          "VALUE": 3.005737748
         },
         {
           "DATE": "2021-03-02",

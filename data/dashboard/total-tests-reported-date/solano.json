@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Solano"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 592475,
-        "new_tests_reported": 1285,
-        "new_tests_reported_delta_1_day": 0.002173582097,
+        "total_tests_performed": 593772,
+        "new_tests_reported": 1297,
+        "new_tests_reported_delta_1_day": 0.002189121904,
         "POPULATION": 444255
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 1297
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 1285
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 508.427431478
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 503.764729716

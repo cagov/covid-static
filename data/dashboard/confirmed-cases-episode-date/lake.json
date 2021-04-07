@@ -1,28 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Lake"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 3359,
-        "new_cases": 4,
-        "new_cases_delta_1_day": 0.001192,
-        "cases_per_100k_7_days": 3.301937692,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 3358,
+        "new_cases": -1,
+        "new_cases_delta_1_day": -0.000298,
+        "cases_per_100k_7_days": 3.083041729,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 64871
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-05",
           "VALUE": 0
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 1
+          "VALUE": 0
         },
         {
           "DATE": "2021-04-03",
@@ -1623,12 +1627,16 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 3.083041729
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 3.742812659
+          "VALUE": 3.522375175
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 4.183687626
+          "VALUE": 3.963250143
         },
         {
           "DATE": "2021-04-03",

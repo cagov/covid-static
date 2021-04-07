@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 818,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.176911501,
+        "total_confirmed_deaths": 819,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.001222,
+        "deaths_per_100k_7_days": 0.147391846,
         "POPULATION": 484423
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 1
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0
@@ -1621,6 +1625,10 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0.11787219
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0.088352535

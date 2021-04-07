@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Sacramento"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 1644953,
-        "new_tests_reported": 3049,
-        "new_tests_reported_delta_1_day": 0.001856990421,
+        "total_tests_performed": 1649345,
+        "new_tests_reported": 4392,
+        "new_tests_reported_delta_1_day": 0.0026699851,
         "POPULATION": 1567975
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 4392
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 3049
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 462.944698918
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 451.410258454

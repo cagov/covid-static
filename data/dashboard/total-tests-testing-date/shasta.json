@@ -1,51 +1,55 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 171474,
-        "new_tests_reported": 146,
-        "new_tests_reported_delta_1_day": 0.0008521666044,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_tests_performed": 171739,
+        "new_tests_reported": 265,
+        "new_tests_reported_delta_1_day": 0.001545423796,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 177925
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 32
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 12
+          "VALUE": 49
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 59
+          "VALUE": 76
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 234
+          "VALUE": 344
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 484
+          "VALUE": 506
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 502
+          "VALUE": 525
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 834
+          "VALUE": 853
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 1513
+          "VALUE": 1517
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 257
+          "VALUE": 258
         },
         {
           "DATE": "2021-03-27",
@@ -1618,36 +1622,40 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 191.493044822
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 292.09723198
+          "VALUE": 310.724743572
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 311.768441759
+          "VALUE": 327.505409583
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 322.286356611
+          "VALUE": 336.65870451
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 343.322748349
+          "VALUE": 348.862723057
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 354.643810594
+          "VALUE": 358.417310665
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 368.292820008
+          "VALUE": 370.220036532
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 355.928059576
+          "VALUE": 356.32991429
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 355.285654068
+          "VALUE": 355.366025011
         },
         {
           "DATE": "2021-03-27",

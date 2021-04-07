@@ -1,35 +1,39 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Humboldt"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 123475,
-        "new_tests_reported": 127,
-        "new_tests_reported_delta_1_day": 0.00102960729,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_tests_performed": 123623,
+        "new_tests_reported": 148,
+        "new_tests_reported_delta_1_day": 0.001198623203,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 134098
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 100
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 31
+          "VALUE": 51
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 93
+          "VALUE": 113
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 366
+          "VALUE": 373
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 437
+          "VALUE": 438
         },
         {
           "DATE": "2021-03-31",
@@ -1618,20 +1622,24 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 202.51681606
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 253.545914182
+          "VALUE": 258.659338693
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 272.294888813
+          "VALUE": 275.277781921
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 278.793867172
+          "VALUE": 279.646228877
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 283.268206834
+          "VALUE": 283.374845262
         },
         {
           "DATE": "2021-03-31",

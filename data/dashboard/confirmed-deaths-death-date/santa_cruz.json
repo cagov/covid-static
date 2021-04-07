@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Santa Cruz"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 201,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 203,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.00995,
         "deaths_per_100k_7_days": 0.15620495,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-15",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-16",
         "POPULATION": 273999
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0
@@ -50,7 +54,7 @@
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-27",
@@ -102,7 +106,7 @@
         },
         {
           "DATE": "2021-03-15",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-14",
@@ -1623,6 +1627,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-05",
           "VALUE": 0
         },
@@ -1632,31 +1640,31 @@
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-27",
@@ -1684,31 +1692,31 @@
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 0
+          "VALUE": 0.051825007
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 0.051825007
-        },
-        {
-          "DATE": "2021-03-17",
-          "VALUE": 0.051825007
-        },
-        {
-          "DATE": "2021-03-16",
           "VALUE": 0.104014978
         },
         {
-          "DATE": "2021-03-15",
+          "DATE": "2021-03-17",
+          "VALUE": 0.104014978
+        },
+        {
+          "DATE": "2021-03-16",
           "VALUE": 0.15620495
+        },
+        {
+          "DATE": "2021-03-15",
+          "VALUE": 0.208394921
         },
         {
           "DATE": "2021-03-14",

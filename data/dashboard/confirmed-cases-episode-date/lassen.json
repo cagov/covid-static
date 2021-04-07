@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Lassen"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 5138,
-        "new_cases": 0,
-        "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 3.79843672,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 5137,
+        "new_cases": -1,
+        "new_cases_delta_1_day": -0.000195,
+        "cases_per_100k_7_days": 1.89921836,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 30065
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0
@@ -46,7 +50,7 @@
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 2
+          "VALUE": 1
         },
         {
           "DATE": "2021-03-28",
@@ -1623,36 +1627,40 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 1.423582238
+        },
+        {
           "DATE": "2021-04-05",
           "VALUE": 1.423582238
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 2.374854482
+          "VALUE": 1.89921836
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 2.374854482
+          "VALUE": 1.89921836
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 2.850490604
+          "VALUE": 2.374854482
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 2.374854482
+          "VALUE": 1.89921836
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 2.374854482
+          "VALUE": 1.89921836
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 2.374854482
+          "VALUE": 1.89921836
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 3.79843672
+          "VALUE": 3.326126725
         },
         {
           "DATE": "2021-03-28",

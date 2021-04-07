@@ -1,32 +1,36 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 48356,
-        "new_cases": 13,
-        "new_cases_delta_1_day": 0.000269,
-        "cases_per_100k_7_days": 2.890036187,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 48372,
+        "new_cases": 16,
+        "new_cases_delta_1_day": 0.000331,
+        "cases_per_100k_7_days": 3.125780568,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 484423
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-04-05",
+          "DATE": "2021-04-06",
           "VALUE": 0
         },
         {
+          "DATE": "2021-04-05",
+          "VALUE": 2
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 1
+          "VALUE": 3
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 1
+          "VALUE": 5
         },
         {
           "DATE": "2021-04-02",
@@ -38,15 +42,15 @@
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 18
+          "VALUE": 21
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 18
+          "VALUE": 21
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 13
+          "VALUE": 15
         },
         {
           "DATE": "2021-03-28",
@@ -1623,36 +1627,40 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 2.093624787
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 2.300055943
+          "VALUE": 2.712918255
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 2.683605031
+          "VALUE": 3.096467344
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 2.919349412
+          "VALUE": 3.273378845
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 3.243859189
+          "VALUE": 3.479810001
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 3.214339534
+          "VALUE": 3.450290345
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 2.860516532
+          "VALUE": 3.096467344
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 2.978388722
+          "VALUE": 3.125780568
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 2.890036187
+          "VALUE": 2.948869067
         },
         {
           "DATE": "2021-03-28",

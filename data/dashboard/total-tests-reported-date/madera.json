@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Madera"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 226646,
-        "new_tests_reported": 364,
-        "new_tests_reported_delta_1_day": 0.001608612263,
+        "total_tests_performed": 227256,
+        "new_tests_reported": 610,
+        "new_tests_reported_delta_1_day": 0.002691421865,
         "POPULATION": 160089
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 610
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 364
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 639.019545378
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 612.248722362

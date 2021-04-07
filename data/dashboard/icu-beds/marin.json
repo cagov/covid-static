@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Marin"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 14,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.076923,
+        "TOTAL": 16,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.142857,
         "POPULATION": 260800
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 16
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 14

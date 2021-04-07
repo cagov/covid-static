@@ -1,40 +1,44 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Butte"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 11384,
-        "new_cases": 9,
-        "new_cases_delta_1_day": 0.000791,
-        "cases_per_100k_7_days": 4.657228531,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 11396,
+        "new_cases": 12,
+        "new_cases_delta_1_day": 0.001054,
+        "cases_per_100k_7_days": 4.592021821,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 217769
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-04-05",
+          "DATE": "2021-04-06",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 1
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 7
+          "VALUE": 10
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 20
+          "VALUE": 25
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 6
+          "VALUE": 7
         },
         {
           "DATE": "2021-03-31",
@@ -450,7 +454,7 @@
         },
         {
           "DATE": "2020-12-18",
-          "VALUE": 122
+          "VALUE": 123
         },
         {
           "DATE": "2020-12-17",
@@ -1623,24 +1627,28 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 3.476619721
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 3.345287897
+          "VALUE": 4.067153727
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 4.592021821
+          "VALUE": 5.247762537
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 4.919892179
+          "VALUE": 5.510426186
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 4.854226267
+          "VALUE": 5.247762537
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 4.132819639
+          "VALUE": 4.198026349
         },
         {
           "DATE": "2021-03-31",
@@ -2032,31 +2040,31 @@
         },
         {
           "DATE": "2020-12-24",
-          "VALUE": 53.988859755
+          "VALUE": 54.054525667
         },
         {
           "DATE": "2020-12-23",
-          "VALUE": 60.089819947
+          "VALUE": 60.155485859
         },
         {
           "DATE": "2020-12-22",
-          "VALUE": 59.499285941
+          "VALUE": 59.564951853
         },
         {
           "DATE": "2020-12-21",
-          "VALUE": 59.105749671
+          "VALUE": 59.171415583
         },
         {
           "DATE": "2020-12-20",
-          "VALUE": 59.958488123
+          "VALUE": 60.024154035
         },
         {
           "DATE": "2020-12-19",
-          "VALUE": 58.253011218
+          "VALUE": 58.31867713
         },
         {
           "DATE": "2020-12-18",
-          "VALUE": 55.957000308
+          "VALUE": 56.02266622
         },
         {
           "DATE": "2020-12-17",

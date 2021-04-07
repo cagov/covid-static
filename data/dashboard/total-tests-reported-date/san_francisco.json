@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "San Francisco"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 1826815,
-        "new_tests_reported": 2442,
-        "new_tests_reported_delta_1_day": 0.001338542063,
+        "total_tests_performed": 1830435,
+        "new_tests_reported": 3620,
+        "new_tests_reported_delta_1_day": 0.001981590911,
         "POPULATION": 892280
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 3620
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 2442
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 647.55457928
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 651.140897476

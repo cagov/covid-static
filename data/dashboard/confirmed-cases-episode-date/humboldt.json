@@ -1,24 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Humboldt"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 3475,
-        "new_cases": 3,
-        "new_cases_delta_1_day": 0.000864,
-        "cases_per_100k_7_days": 3.302062671,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 3477,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.000576,
+        "cases_per_100k_7_days": 3.088785813,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 134098
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-04-05",
+          "DATE": "2021-04-06",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 1
         },
         {
           "DATE": "2021-04-04",
@@ -1026,7 +1030,7 @@
         },
         {
           "DATE": "2020-07-27",
-          "VALUE": 7
+          "VALUE": 8
         },
         {
           "DATE": "2020-07-26",
@@ -1623,8 +1627,12 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 1.278169697
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 1.491446554
+          "VALUE": 1.597339259
         },
         {
           "DATE": "2021-04-04",
@@ -2608,31 +2616,31 @@
         },
         {
           "DATE": "2020-08-02",
-          "VALUE": 2.982893108
-        },
-        {
-          "DATE": "2020-08-01",
           "VALUE": 3.088785813
         },
         {
+          "DATE": "2020-08-01",
+          "VALUE": 3.195424242
+        },
+        {
           "DATE": "2020-07-31",
-          "VALUE": 2.662977822
-        },
-        {
-          "DATE": "2020-07-30",
-          "VALUE": 2.449700965
-        },
-        {
-          "DATE": "2020-07-29",
-          "VALUE": 2.449700965
-        },
-        {
-          "DATE": "2020-07-28",
           "VALUE": 2.769616251
         },
         {
+          "DATE": "2020-07-30",
+          "VALUE": 2.556339394
+        },
+        {
+          "DATE": "2020-07-29",
+          "VALUE": 2.556339394
+        },
+        {
+          "DATE": "2020-07-28",
+          "VALUE": 2.876254679
+        },
+        {
           "DATE": "2020-07-27",
-          "VALUE": 2.237169831
+          "VALUE": 2.343062536
         },
         {
           "DATE": "2020-07-26",

@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Fresno"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 99755,
-        "new_cases": 53,
-        "new_cases_delta_1_day": 0.000532,
-        "cases_per_100k_7_days": 7.736379692,
+        "total_confirmed_cases": 99814,
+        "new_cases": 59,
+        "new_cases_delta_1_day": 0.000591,
+        "cases_per_100k_7_days": 7.653355318,
         "POPULATION": 1032227
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 59
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 53
@@ -1621,6 +1625,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 9.106524049
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 9.272572796

@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Imperial"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 27604,
-        "new_cases": 16,
-        "new_cases_delta_1_day": 0.00058,
-        "cases_per_100k_7_days": 7.081174439,
+        "total_confirmed_cases": 27661,
+        "new_cases": 57,
+        "new_cases_delta_1_day": 0.002065,
+        "cases_per_100k_7_days": 6.857327719,
         "POPULATION": 191649
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 57
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 16
@@ -1621,6 +1625,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 14.162348877
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 12.075199975

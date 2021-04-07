@@ -1,35 +1,39 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 77023,
-        "new_tests_reported": 201,
-        "new_tests_reported_delta_1_day": 0.002616438,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "total_tests_performed": 77079,
+        "new_tests_reported": 56,
+        "new_tests_reported_delta_1_day": 0.0007270555548,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 27558
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 23
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 15
+          "VALUE": 21
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 30
+          "VALUE": 39
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 122
+          "VALUE": 134
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 564
+          "VALUE": 569
         },
         {
           "DATE": "2021-03-31",
@@ -49,7 +53,7 @@
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 65
+          "VALUE": 66
         },
         {
           "DATE": "2021-03-26",
@@ -1618,40 +1622,44 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 894.215835692
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 1217.689962987
+          "VALUE": 1234.276798026
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 1236.871325931
+          "VALUE": 1250.348356194
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 1255.014877712
+          "VALUE": 1264.344292039
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 1270.563901589
+          "VALUE": 1273.677335075
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 1266.935191233
+          "VALUE": 1267.454096814
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 1320.850569708
+          "VALUE": 1321.365846578
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 1288.1921765
+          "VALUE": 1288.707453371
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 1240.500036287
+          "VALUE": 1241.018941868
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 1253.45816097
+          "VALUE": 1253.977066551
         },
         {
           "DATE": "2021-03-26",

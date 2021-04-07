@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 159,
-        "CHANGE": -9,
-        "CHANGE_FACTOR": -0.053571,
+        "TOTAL": 157,
+        "CHANGE": -2,
+        "CHANGE_FACTOR": -0.012579,
         "POPULATION": 2217398
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 157
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 159

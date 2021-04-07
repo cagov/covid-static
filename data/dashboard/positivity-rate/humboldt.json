@@ -1,34 +1,38 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Humboldt"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.010504,
-        "test_positivity_7_days_delta_7_days": -0.008772,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "test_positivity_7_days": 0.009469,
+        "test_positivity_7_days_delta_7_days": -0.01036,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 134098
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0.009469
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 0.010504
+          "VALUE": 0.010297
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0.010172
+          "VALUE": 0.010062
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.011846
+          "VALUE": 0.01181
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.012411
+          "VALUE": 0.012406
         },
         {
           "DATE": "2021-03-31",
@@ -1617,20 +1621,24 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 100
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 31
+          "VALUE": 51
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 93
+          "VALUE": 113
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 366
+          "VALUE": 373
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 437
+          "VALUE": 438
         },
         {
           "DATE": "2021-03-31",

@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Santa Cruz"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 359040,
-        "new_tests_reported": 552,
-        "new_tests_reported_delta_1_day": 0.001539800495,
+        "total_tests_performed": 359946,
+        "new_tests_reported": 906,
+        "new_tests_reported_delta_1_day": 0.002523395722,
         "POPULATION": 273999
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 906
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 552
@@ -1360,6 +1364,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 561.889433382
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 549.637042471

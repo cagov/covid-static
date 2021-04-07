@@ -1,32 +1,36 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Yuba"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 5728,
-        "new_cases": 6,
-        "new_cases_delta_1_day": 0.001049,
-        "cases_per_100k_7_days": 7.38680792,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_confirmed_cases": 5733,
+        "new_cases": 5,
+        "new_cases_delta_1_day": 0.000873,
+        "cases_per_100k_7_days": 7.206457309,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 79290
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-05",
           "VALUE": 0
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 1
+          "VALUE": 3
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 5
+          "VALUE": 6
         },
         {
           "DATE": "2021-04-02",
@@ -38,11 +42,11 @@
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 9
+          "VALUE": 10
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 7
+          "VALUE": 8
         },
         {
           "DATE": "2021-03-29",
@@ -1623,32 +1627,36 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 4.864421743
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 5.404212385
+          "VALUE": 6.305965443
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 6.125614832
+          "VALUE": 7.026106697
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 5.94526422
-        },
-        {
-          "DATE": "2021-04-02",
           "VALUE": 6.485054862
         },
         {
+          "DATE": "2021-04-02",
+          "VALUE": 6.845756085
+        },
+        {
           "DATE": "2021-04-01",
-          "VALUE": 7.206457309
+          "VALUE": 7.567158532
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 7.746247951
+          "VALUE": 8.106949174
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 7.026106697
+          "VALUE": 7.206457309
         },
         {
           "DATE": "2021-03-29",

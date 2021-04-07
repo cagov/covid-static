@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Napa"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 9492,
-        "new_cases": 6,
-        "new_cases_delta_1_day": 0.000633,
-        "cases_per_100k_7_days": 9.206456048,
+        "total_confirmed_cases": 9509,
+        "new_cases": 17,
+        "new_cases_delta_1_day": 0.001791,
+        "cases_per_100k_7_days": 9.10405866,
         "POPULATION": 139652
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 17
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 6
@@ -1621,6 +1625,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 12.070718643
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 11.558731705

@@ -1,46 +1,50 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-06",
+    "PUBLISHED_DATE": "2021-04-07",
     "coverage": "Trinity"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.053571,
-        "test_positivity_7_days_delta_7_days": -0.018718,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-28",
+        "test_positivity_7_days": 0.041667,
+        "test_positivity_7_days_delta_7_days": -0.022436,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
         "POPULATION": 13354
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-05",
+          "VALUE": 0.041667
+        },
+        {
           "DATE": "2021-04-04",
-          "VALUE": 0.053571
+          "VALUE": 0.064516
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0.050847
+          "VALUE": 0.0625
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.045455
+          "VALUE": 0.057143
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.056338
-        },
-        {
-          "DATE": "2021-03-31",
           "VALUE": 0.069444
         },
         {
+          "DATE": "2021-03-31",
+          "VALUE": 0.082192
+        },
+        {
           "DATE": "2021-03-30",
-          "VALUE": 0.067568
+          "VALUE": 0.08
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 0.051948
+          "VALUE": 0.064103
         },
         {
           "DATE": "2021-03-28",
@@ -1617,16 +1621,20 @@
       ],
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-04-04",
+          "DATE": "2021-04-05",
           "VALUE": 0
         },
         {
+          "DATE": "2021-04-04",
+          "VALUE": 1
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 8
+          "VALUE": 9
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 2
+          "VALUE": 5
         },
         {
           "DATE": "2021-04-01",
@@ -1642,7 +1650,7 @@
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 13
+          "VALUE": 14
         },
         {
           "DATE": "2021-03-28",
