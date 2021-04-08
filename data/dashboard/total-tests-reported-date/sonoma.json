@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 626321,
-        "new_tests_reported": 1210,
-        "new_tests_reported_delta_1_day": 0.001935656227,
+        "total_tests_performed": 627265,
+        "new_tests_reported": 944,
+        "new_tests_reported_delta_1_day": 0.001507214352,
         "POPULATION": 496668
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 944
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 1210
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 386.230986149
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 390.516688929

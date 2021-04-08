@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Sierra"
   },
   "data": {
@@ -8,27 +8,31 @@
       "POSITIVITY_RATE": {
         "test_positivity_7_days": 0.04,
         "test_positivity_7_days_delta_7_days": 0.04,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 3115
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
-          "DATE": "2021-04-05",
+          "DATE": "2021-04-06",
           "VALUE": 0.04
         },
         {
-          "DATE": "2021-04-04",
-          "VALUE": 0.025
+          "DATE": "2021-04-05",
+          "VALUE": 0.035714
         },
         {
-          "DATE": "2021-04-03",
+          "DATE": "2021-04-04",
           "VALUE": 0.02381
         },
         {
+          "DATE": "2021-04-03",
+          "VALUE": 0.022727
+        },
+        {
           "DATE": "2021-04-02",
-          "VALUE": 0.027027
+          "VALUE": 0.025641
         },
         {
           "DATE": "2021-04-01",
@@ -1621,8 +1625,12 @@
       ],
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-04-05",
+          "DATE": "2021-04-06",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-05",
+          "VALUE": 1
         },
         {
           "DATE": "2021-04-04",
@@ -1634,7 +1642,7 @@
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 1
+          "VALUE": 3
         },
         {
           "DATE": "2021-04-01",

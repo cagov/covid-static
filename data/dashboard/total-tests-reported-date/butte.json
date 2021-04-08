@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Butte"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 199176,
-        "new_tests_reported": 332,
-        "new_tests_reported_delta_1_day": 0.00166965058,
+        "total_tests_performed": 199596,
+        "new_tests_reported": 420,
+        "new_tests_reported_delta_1_day": 0.002108687794,
         "POPULATION": 217769
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 420
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 332
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 255.644414822
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 261.548442878

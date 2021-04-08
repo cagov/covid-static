@@ -1,38 +1,42 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.015441,
-        "test_positivity_7_days_delta_7_days": 0.004127,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
+        "test_positivity_7_days": 0.018757,
+        "test_positivity_7_days_delta_7_days": 0.008876,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 88439
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0.018757
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 0.015441
+          "VALUE": 0.014617
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 0.014449
+          "VALUE": 0.01419
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0.014535
+          "VALUE": 0.014472
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.012793
+          "VALUE": 0.012775
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.013879
+          "VALUE": 0.01387
         },
         {
           "DATE": "2021-03-31",
@@ -76,31 +80,31 @@
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 0.01827
+          "VALUE": 0.019465
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 0.019839
+          "VALUE": 0.021053
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 0.020923
+          "VALUE": 0.022127
         },
         {
           "DATE": "2021-03-18",
-          "VALUE": 0.018265
+          "VALUE": 0.019544
         },
         {
           "DATE": "2021-03-17",
-          "VALUE": 0.020584
+          "VALUE": 0.021883
         },
         {
           "DATE": "2021-03-16",
-          "VALUE": 0.020434
+          "VALUE": 0.021684
         },
         {
           "DATE": "2021-03-15",
-          "VALUE": 0.020686
+          "VALUE": 0.021842
         },
         {
           "DATE": "2021-03-14",
@@ -536,31 +540,31 @@
         },
         {
           "DATE": "2020-11-26",
-          "VALUE": 0.065603
+          "VALUE": 0.065271
         },
         {
           "DATE": "2020-11-25",
-          "VALUE": 0.058279
+          "VALUE": 0.057997
         },
         {
           "DATE": "2020-11-24",
-          "VALUE": 0.05666
+          "VALUE": 0.05638
         },
         {
           "DATE": "2020-11-23",
-          "VALUE": 0.054348
+          "VALUE": 0.054062
         },
         {
           "DATE": "2020-11-22",
-          "VALUE": 0.051868
+          "VALUE": 0.051575
         },
         {
           "DATE": "2020-11-21",
-          "VALUE": 0.044161
+          "VALUE": 0.043848
         },
         {
           "DATE": "2020-11-20",
-          "VALUE": 0.044928
+          "VALUE": 0.044593
         },
         {
           "DATE": "2020-11-19",
@@ -1621,24 +1625,28 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 27
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 42
+          "VALUE": 80
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 30
+          "VALUE": 48
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 112
+          "VALUE": 116
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 127
+          "VALUE": 128
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 259
+          "VALUE": 260
         },
         {
           "DATE": "2021-03-31",
@@ -1706,7 +1714,7 @@
         },
         {
           "DATE": "2021-03-15",
-          "VALUE": 331
+          "VALUE": 333
         },
         {
           "DATE": "2021-03-14",
@@ -2166,7 +2174,7 @@
         },
         {
           "DATE": "2020-11-20",
-          "VALUE": 439
+          "VALUE": 438
         },
         {
           "DATE": "2020-11-19",

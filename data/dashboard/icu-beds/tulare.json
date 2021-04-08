@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 24,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 26,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.083333,
         "POPULATION": 484423
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 26
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 24

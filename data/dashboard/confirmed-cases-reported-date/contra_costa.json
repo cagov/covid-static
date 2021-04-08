@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 65575,
-        "new_cases": 118,
-        "new_cases_delta_1_day": 0.001803,
-        "cases_per_100k_7_days": 5.529010886,
+        "total_confirmed_cases": 65619,
+        "new_cases": 44,
+        "new_cases_delta_1_day": 0.000671,
+        "cases_per_100k_7_days": 5.418244477,
         "POPULATION": 1160099
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 44
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 118
@@ -1625,6 +1629,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 6.280239876
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 6.575731899

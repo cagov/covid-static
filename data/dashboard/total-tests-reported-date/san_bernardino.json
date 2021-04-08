@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 2679062,
-        "new_tests_reported": 2987,
-        "new_tests_reported_delta_1_day": 0.001116186953,
+        "total_tests_performed": 2685255,
+        "new_tests_reported": 6193,
+        "new_tests_reported_delta_1_day": 0.002311629966,
         "POPULATION": 2217398
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 6193
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 2987
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 331.759502418
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 336.11467134

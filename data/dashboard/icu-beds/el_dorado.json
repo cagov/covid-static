@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "El Dorado"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 6,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 2,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.666667,
         "POPULATION": 193098
       }
     },
     "time_series": {
       "ICU_BEDS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 2
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 6

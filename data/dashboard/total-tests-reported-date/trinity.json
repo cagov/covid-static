@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Trinity"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 7424,
-        "new_tests_reported": 6,
-        "new_tests_reported_delta_1_day": 0.000808843354,
+        "total_tests_performed": 7428,
+        "new_tests_reported": 4,
+        "new_tests_reported_delta_1_day": 0.0005387931034,
         "POPULATION": 13354
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 4
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 6
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 83.442093327
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 89.86071589

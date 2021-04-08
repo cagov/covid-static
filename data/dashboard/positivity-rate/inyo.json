@@ -1,38 +1,42 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Inyo"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.032432,
-        "test_positivity_7_days_delta_7_days": 0.009068,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
+        "test_positivity_7_days": 0.067797,
+        "test_positivity_7_days_delta_7_days": 0.043733,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 18453
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0.067797
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 0.032432
+          "VALUE": 0.04902
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 0.022901
+          "VALUE": 0.022727
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0.030303
+          "VALUE": 0.030075
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.022222
+          "VALUE": 0.022059
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 0.023649
+          "VALUE": 0.02349
         },
         {
           "DATE": "2021-03-31",
@@ -1621,8 +1625,12 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 25
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 28
+          "VALUE": 45
         },
         {
           "DATE": "2021-04-04",
@@ -1638,7 +1646,7 @@
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 33
+          "VALUE": 35
         },
         {
           "DATE": "2021-03-31",

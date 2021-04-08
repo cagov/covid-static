@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Alameda"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 84091,
-        "new_cases": 84,
-        "new_cases_delta_1_day": 0.001,
-        "cases_per_100k_7_days": 4.618165167,
+        "total_confirmed_cases": 84130,
+        "new_cases": 39,
+        "new_cases_delta_1_day": 0.000464,
+        "cases_per_100k_7_days": 4.60968298,
         "POPULATION": 1685886
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 39
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 84
@@ -1625,6 +1629,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 5.55025666
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 5.897670424

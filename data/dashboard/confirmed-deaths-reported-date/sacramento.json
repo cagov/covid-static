@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Sacramento"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 1537,
-        "new_deaths": 4,
-        "new_deaths_delta_1_day": 0.002609,
-        "deaths_per_100k_7_days": 0.127553054,
+        "total_confirmed_deaths": 1544,
+        "new_deaths": 7,
+        "new_deaths_delta_1_day": 0.004554,
+        "deaths_per_100k_7_days": 0.145729364,
         "POPULATION": 1567975
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 7
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 4
@@ -1625,6 +1629,10 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 0.227745978
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 0.191329581

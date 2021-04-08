@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Shasta"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 171739,
-        "new_tests_reported": 265,
-        "new_tests_reported_delta_1_day": 0.001545423796,
+        "total_tests_performed": 172404,
+        "new_tests_reported": 665,
+        "new_tests_reported_delta_1_day": 0.00387215484,
         "POPULATION": 177925
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 665
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 265
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 405.146630804
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 415.022381019

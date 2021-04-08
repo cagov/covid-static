@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Orange"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 130,
-        "CHANGE": -4,
-        "CHANGE_FACTOR": -0.029851,
+        "TOTAL": 124,
+        "CHANGE": -6,
+        "CHANGE_FACTOR": -0.046154,
         "POPULATION": 3228519
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 124
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 130
@@ -1508,6 +1512,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 150.142
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 154.785

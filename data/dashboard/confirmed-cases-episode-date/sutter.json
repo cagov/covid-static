@@ -1,44 +1,48 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Sutter"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 9179,
-        "new_cases": 10,
-        "new_cases_delta_1_day": 0.001091,
-        "cases_per_100k_7_days": 7.294769592,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
+        "total_confirmed_cases": 9188,
+        "new_cases": 9,
+        "new_cases_delta_1_day": 0.00098,
+        "cases_per_100k_7_days": 6.889084324,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 105747
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-04-06",
+          "DATE": "2021-04-07",
           "VALUE": 0
         },
         {
+          "DATE": "2021-04-06",
+          "VALUE": 9
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 5
+          "VALUE": 4
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 3
+          "VALUE": 2
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 5
+          "VALUE": 4
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 12
+          "VALUE": 11
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 9
+          "VALUE": 10
         },
         {
           "DATE": "2021-03-31",
@@ -66,7 +70,7 @@
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 13
+          "VALUE": 16
         },
         {
           "DATE": "2021-03-24",
@@ -1627,20 +1631,24 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 5.403462982
+        },
+        {
           "DATE": "2021-04-06",
-          "VALUE": 4.862549292
+          "VALUE": 5.673919828
         },
         {
           "DATE": "2021-04-05",
-          "VALUE": 5.808202597
+          "VALUE": 5.403462982
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 6.213887864
+          "VALUE": 5.943431019
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 6.753855901
+          "VALUE": 6.619573132
         },
         {
           "DATE": "2021-04-02",
@@ -1648,35 +1656,35 @@
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 5.943431019
+          "VALUE": 6.078659442
         },
         {
           "DATE": "2021-03-31",
-          "VALUE": 6.48434471
+          "VALUE": 6.889084324
         },
         {
           "DATE": "2021-03-30",
-          "VALUE": 7.294769592
+          "VALUE": 7.699509206
         },
         {
           "DATE": "2021-03-29",
-          "VALUE": 8.105194474
+          "VALUE": 8.510879741
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 8.780390933
+          "VALUE": 9.186076201
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 8.915619356
+          "VALUE": 9.321304623
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 8.915619356
+          "VALUE": 9.321304623
         },
         {
           "DATE": "2021-03-25",
-          "VALUE": 9.321304623
+          "VALUE": 9.726044238
         },
         {
           "DATE": "2021-03-24",

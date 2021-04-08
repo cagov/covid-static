@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Sierra"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 2433,
-        "new_tests_reported": 5,
-        "new_tests_reported_delta_1_day": 0.002059308072,
+        "total_tests_performed": 2436,
+        "new_tests_reported": 3,
+        "new_tests_reported_delta_1_day": 0.001233045623,
         "POPULATION": 3115
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 3
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 5
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 210.96078881
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 201.788580601

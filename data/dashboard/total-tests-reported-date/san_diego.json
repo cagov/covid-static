@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "San Diego"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 3837175,
-        "new_tests_reported": 7186,
-        "new_tests_reported_delta_1_day": 0.001876245598,
+        "total_tests_performed": 3849387,
+        "new_tests_reported": 12212,
+        "new_tests_reported_delta_1_day": 0.003182549662,
         "POPULATION": 3370418
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 12212
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 7186
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 397.093603396
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 396.924061051

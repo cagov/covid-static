@@ -1,34 +1,38 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Humboldt"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.009469,
-        "test_positivity_7_days_delta_7_days": -0.01036,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
+        "test_positivity_7_days": 0.009351,
+        "test_positivity_7_days_delta_7_days": -0.007921,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 134098
       }
     },
     "time_series": {
       "TEST_POSITIVITY_RATE_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 0.009351
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 0.009469
+          "VALUE": 0.009666
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 0.010297
+          "VALUE": 0.010534
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 0.010062
+          "VALUE": 0.010309
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 0.01181
+          "VALUE": 0.012153
         },
         {
           "DATE": "2021-04-01",
@@ -456,67 +460,67 @@
         },
         {
           "DATE": "2020-12-16",
-          "VALUE": 0.033843
+          "VALUE": 0.033835
         },
         {
           "DATE": "2020-12-15",
-          "VALUE": 0.036543
+          "VALUE": 0.036534
         },
         {
           "DATE": "2020-12-14",
-          "VALUE": 0.042626
+          "VALUE": 0.042616
         },
         {
           "DATE": "2020-12-13",
-          "VALUE": 0.044479
+          "VALUE": 0.044449
         },
         {
           "DATE": "2020-12-12",
-          "VALUE": 0.047473
+          "VALUE": 0.047441
         },
         {
           "DATE": "2020-12-11",
-          "VALUE": 0.049242
+          "VALUE": 0.049209
         },
         {
           "DATE": "2020-12-10",
-          "VALUE": 0.05262
+          "VALUE": 0.052585
         },
         {
           "DATE": "2020-12-09",
-          "VALUE": 0.051658
+          "VALUE": 0.051635
         },
         {
           "DATE": "2020-12-08",
-          "VALUE": 0.05153
+          "VALUE": 0.051507
         },
         {
           "DATE": "2020-12-07",
-          "VALUE": 0.049369
+          "VALUE": 0.049335
         },
         {
           "DATE": "2020-12-06",
-          "VALUE": 0.048994
+          "VALUE": 0.048982
         },
         {
           "DATE": "2020-12-05",
-          "VALUE": 0.045763
+          "VALUE": 0.045752
         },
         {
           "DATE": "2020-12-04",
-          "VALUE": 0.046585
+          "VALUE": 0.046572
         },
         {
           "DATE": "2020-12-03",
-          "VALUE": 0.044045
+          "VALUE": 0.044032
         },
         {
           "DATE": "2020-12-02",
-          "VALUE": 0.045422
+          "VALUE": 0.045405
         },
         {
           "DATE": "2020-12-01",
-          "VALUE": 0.043559
+          "VALUE": 0.043542
         },
         {
           "DATE": "2020-11-30",
@@ -1621,20 +1625,24 @@
       ],
       "TOTAL_TESTS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 78
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 100
+          "VALUE": 245
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 51
+          "VALUE": 246
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 113
+          "VALUE": 140
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 373
+          "VALUE": 381
         },
         {
           "DATE": "2021-04-01",
@@ -2086,7 +2094,7 @@
         },
         {
           "DATE": "2020-12-10",
-          "VALUE": 833
+          "VALUE": 834
         },
         {
           "DATE": "2020-12-09",
@@ -2098,7 +2106,7 @@
         },
         {
           "DATE": "2020-12-07",
-          "VALUE": 789
+          "VALUE": 791
         },
         {
           "DATE": "2020-12-06",
@@ -2122,7 +2130,7 @@
         },
         {
           "DATE": "2020-12-01",
-          "VALUE": 720
+          "VALUE": 721
         },
         {
           "DATE": "2020-11-30",

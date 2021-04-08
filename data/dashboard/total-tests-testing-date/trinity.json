@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Trinity"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 7424,
-        "new_tests_reported": 6,
-        "new_tests_reported_delta_1_day": 0.000808843354,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_tests_performed": 7428,
+        "new_tests_reported": 4,
+        "new_tests_reported_delta_1_day": 0.0005387931034,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 13354
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-05",
           "VALUE": 0
@@ -25,11 +29,11 @@
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 9
+          "VALUE": 10
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 5
+          "VALUE": 8
         },
         {
           "DATE": "2021-04-01",
@@ -1622,20 +1626,24 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 43.859517747
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 51.347910738
+          "VALUE": 55.623783136
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 66.32469672
+          "VALUE": 70.600569118
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 68.458888722
+          "VALUE": 72.742249513
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 74.883929909
+          "VALUE": 78.088962109
         },
         {
           "DATE": "2021-04-01",

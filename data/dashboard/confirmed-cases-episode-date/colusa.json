@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Colusa"
   },
   "data": {
@@ -9,20 +9,24 @@
         "total_confirmed_cases": 1894,
         "new_cases": 0,
         "new_cases_delta_1_day": 0,
-        "cases_per_100k_7_days": 1.894392068,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
+        "cases_per_100k_7_days": 0.628513256,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 22593
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-06",
           "VALUE": 0
         },
         {
           "DATE": "2021-04-05",
-          "VALUE": 0
+          "VALUE": 1
         },
         {
           "DATE": "2021-04-04",
@@ -282,7 +286,7 @@
         },
         {
           "DATE": "2021-01-30",
-          "VALUE": 4
+          "VALUE": 3
         },
         {
           "DATE": "2021-01-29",
@@ -1627,12 +1631,16 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 1.261452662
+        },
+        {
           "DATE": "2021-04-06",
-          "VALUE": 0.628513256
+          "VALUE": 1.261452662
         },
         {
           "DATE": "2021-04-05",
-          "VALUE": 0.628513256
+          "VALUE": 1.261452662
         },
         {
           "DATE": "2021-04-04",
@@ -1868,31 +1876,31 @@
         },
         {
           "DATE": "2021-02-05",
-          "VALUE": 22.759261718
+          "VALUE": 22.130748462
         },
         {
           "DATE": "2021-02-04",
-          "VALUE": 25.923958748
+          "VALUE": 25.291019342
         },
         {
           "DATE": "2021-02-03",
-          "VALUE": 26.556898154
-        },
-        {
-          "DATE": "2021-02-02",
           "VALUE": 25.923958748
         },
         {
+          "DATE": "2021-02-02",
+          "VALUE": 25.291019342
+        },
+        {
           "DATE": "2021-02-01",
-          "VALUE": 29.084229629
+          "VALUE": 28.451290223
         },
         {
           "DATE": "2021-01-31",
-          "VALUE": 32.244500509
+          "VALUE": 31.611561103
         },
         {
           "DATE": "2021-01-30",
-          "VALUE": 33.510379321
+          "VALUE": 32.877439915
         },
         {
           "DATE": "2021-01-29",

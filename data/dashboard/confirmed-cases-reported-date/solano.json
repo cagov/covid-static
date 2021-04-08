@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Solano"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 31078,
-        "new_cases": 52,
-        "new_cases_delta_1_day": 0.001676,
-        "cases_per_100k_7_days": 6.945785641,
+        "total_confirmed_cases": 31097,
+        "new_cases": 19,
+        "new_cases_delta_1_day": 0.000611,
+        "cases_per_100k_7_days": 6.977974362,
         "POPULATION": 444255
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 19
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 52
@@ -1625,6 +1629,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 8.778741939
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 8.875083004
