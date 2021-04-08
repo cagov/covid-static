@@ -1,28 +1,32 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Inyo"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 1379,
-        "new_cases": 2,
-        "new_cases_delta_1_day": 0.001452,
-        "cases_per_100k_7_days": 3.869289546,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
+        "total_confirmed_cases": 1386,
+        "new_cases": 7,
+        "new_cases_delta_1_day": 0.005076,
+        "cases_per_100k_7_days": 3.094347803,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 18453
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-04-06",
+          "DATE": "2021-04-07",
           "VALUE": 0
         },
         {
+          "DATE": "2021-04-06",
+          "VALUE": 3
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 2
+          "VALUE": 6
         },
         {
           "DATE": "2021-04-04",
@@ -1627,12 +1631,16 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 7.738579093
+        },
+        {
           "DATE": "2021-04-06",
-          "VALUE": 2.319406059
+          "VALUE": 7.738579093
         },
         {
           "DATE": "2021-04-05",
-          "VALUE": 2.319406059
+          "VALUE": 5.419173034
         },
         {
           "DATE": "2021-04-04",

@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Alameda"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 1223,
-        "new_deaths": 4,
-        "new_deaths_delta_1_day": 0.003281,
-        "deaths_per_100k_7_days": 0.10166761,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-16",
+        "total_confirmed_deaths": 1224,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.000818,
+        "deaths_per_100k_7_days": 0.118631983,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-17",
         "POPULATION": 1685886
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 0
@@ -1538,7 +1542,7 @@
         },
         {
           "DATE": "2020-03-22",
-          "VALUE": 1
+          "VALUE": 2
         },
         {
           "DATE": "2020-03-21",
@@ -1626,6 +1630,10 @@
         }
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 0.008422871
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 0.016905058
@@ -3124,31 +3132,31 @@
         },
         {
           "DATE": "2020-03-28",
-          "VALUE": 0.067738863
+          "VALUE": 0.076221049
         },
         {
           "DATE": "2020-03-27",
-          "VALUE": 0.042351618
+          "VALUE": 0.050833805
         },
         {
           "DATE": "2020-03-26",
-          "VALUE": 0.033869431
+          "VALUE": 0.042351618
         },
         {
           "DATE": "2020-03-25",
-          "VALUE": 0.025387244
+          "VALUE": 0.033869431
         },
         {
           "DATE": "2020-03-24",
-          "VALUE": 0.008422871
+          "VALUE": 0.016905058
         },
         {
           "DATE": "2020-03-23",
-          "VALUE": 0.008422871
+          "VALUE": 0.016905058
         },
         {
           "DATE": "2020-03-22",
-          "VALUE": 0.008422871
+          "VALUE": 0.016905058
         },
         {
           "DATE": "2020-03-21",

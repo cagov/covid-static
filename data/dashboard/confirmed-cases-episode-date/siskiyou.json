@@ -1,24 +1,28 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_EPISODE_DATE": {
-        "total_confirmed_cases": 1510,
-        "new_cases": 1,
-        "new_cases_delta_1_day": 0.000663,
-        "cases_per_100k_7_days": 4.224679225,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-30",
+        "total_confirmed_cases": 1512,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.001325,
+        "cases_per_100k_7_days": 2.598052598,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 43956
       }
     },
     "time_series": {
       "CONFIRMED_CASES_EPISODE_DATE": [
         {
-          "DATE": "2021-04-06",
+          "DATE": "2021-04-07",
           "VALUE": 0
+        },
+        {
+          "DATE": "2021-04-06",
+          "VALUE": 2
         },
         {
           "DATE": "2021-04-05",
@@ -78,7 +82,7 @@
         },
         {
           "DATE": "2021-03-22",
-          "VALUE": 1
+          "VALUE": 0
         },
         {
           "DATE": "2021-03-21",
@@ -90,7 +94,7 @@
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 2
+          "VALUE": 3
         },
         {
           "DATE": "2021-03-18",
@@ -1627,8 +1631,12 @@
       ],
       "AVG_CASE_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 0.648375648
+        },
+        {
           "DATE": "2021-04-06",
-          "VALUE": 0.323050323
+          "VALUE": 0.973700974
         },
         {
           "DATE": "2021-04-05",
@@ -1664,15 +1672,15 @@
         },
         {
           "DATE": "2021-03-28",
-          "VALUE": 4.224679225
+          "VALUE": 3.899353899
         },
         {
           "DATE": "2021-03-27",
-          "VALUE": 4.224679225
+          "VALUE": 3.899353899
         },
         {
           "DATE": "2021-03-26",
-          "VALUE": 3.574028574
+          "VALUE": 3.248703249
         },
         {
           "DATE": "2021-03-25",
@@ -1692,15 +1700,15 @@
         },
         {
           "DATE": "2021-03-21",
-          "VALUE": 3.248703249
+          "VALUE": 3.574028574
         },
         {
           "DATE": "2021-03-20",
-          "VALUE": 3.899353899
+          "VALUE": 4.224679225
         },
         {
           "DATE": "2021-03-19",
-          "VALUE": 4.224679225
+          "VALUE": 4.55000455
         },
         {
           "DATE": "2021-03-18",

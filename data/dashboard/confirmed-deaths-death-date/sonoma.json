@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 311,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 310,
+        "new_deaths": -1,
+        "new_deaths_delta_1_day": -0.003215,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-16",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-17",
         "POPULATION": 496668
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 0
@@ -450,7 +454,7 @@
         },
         {
           "DATE": "2020-12-19",
-          "VALUE": 3
+          "VALUE": 2
         },
         {
           "DATE": "2020-12-18",
@@ -1627,6 +1631,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-06",
           "VALUE": 0
         },
@@ -2036,31 +2044,31 @@
         },
         {
           "DATE": "2020-12-25",
-          "VALUE": 0.402683483
+          "VALUE": 0.373891614
         },
         {
           "DATE": "2020-12-24",
-          "VALUE": 0.43127401
+          "VALUE": 0.402683483
         },
         {
           "DATE": "2020-12-23",
-          "VALUE": 0.373891614
+          "VALUE": 0.345099745
         },
         {
           "DATE": "2020-12-22",
-          "VALUE": 0.316307876
+          "VALUE": 0.287516007
         },
         {
           "DATE": "2020-12-21",
-          "VALUE": 0.402683483
+          "VALUE": 0.373891614
         },
         {
           "DATE": "2020-12-20",
-          "VALUE": 0.402683483
+          "VALUE": 0.373891614
         },
         {
           "DATE": "2020-12-19",
-          "VALUE": 0.373891614
+          "VALUE": 0.345099745
         },
         {
           "DATE": "2020-12-18",

@@ -1,39 +1,43 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_TESTING_DATE": {
-        "total_tests_performed": 77079,
-        "new_tests_reported": 56,
-        "new_tests_reported_delta_1_day": 0.0007270555548,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-29",
+        "total_tests_performed": 77277,
+        "new_tests_reported": 198,
+        "new_tests_reported_delta_1_day": 0.002568793056,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
         "POPULATION": 27558
       }
     },
     "time_series": {
       "TOTAL_TESTS": [
         {
-          "DATE": "2021-04-05",
-          "VALUE": 23
-        },
-        {
-          "DATE": "2021-04-04",
+          "DATE": "2021-04-06",
           "VALUE": 21
         },
         {
+          "DATE": "2021-04-05",
+          "VALUE": 158
+        },
+        {
+          "DATE": "2021-04-04",
+          "VALUE": 25
+        },
+        {
           "DATE": "2021-04-03",
-          "VALUE": 39
+          "VALUE": 48
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 134
+          "VALUE": 159
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 569
+          "VALUE": 572
         },
         {
           "DATE": "2021-03-31",
@@ -1622,24 +1626,28 @@
       ],
       "AVG_TEST_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-06",
+          "VALUE": 578.51803469
+        },
+        {
           "DATE": "2021-04-05",
-          "VALUE": 894.215835692
+          "VALUE": 985.452500181
         },
         {
           "DATE": "2021-04-04",
-          "VALUE": 1234.276798026
+          "VALUE": 1255.533783293
         },
         {
           "DATE": "2021-04-03",
-          "VALUE": 1250.348356194
+          "VALUE": 1269.529719138
         },
         {
           "DATE": "2021-04-02",
-          "VALUE": 1264.344292039
+          "VALUE": 1278.859133464
         },
         {
           "DATE": "2021-04-01",
-          "VALUE": 1273.677335075
+          "VALUE": 1275.230423108
         },
         {
           "DATE": "2021-03-31",

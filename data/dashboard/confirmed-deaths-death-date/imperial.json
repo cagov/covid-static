@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Imperial"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "total_confirmed_deaths": 713,
-        "new_deaths": 3,
-        "new_deaths_delta_1_day": 0.004225,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-16",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-17",
         "POPULATION": 191649
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 0
@@ -354,7 +358,7 @@
         },
         {
           "DATE": "2021-01-12",
-          "VALUE": 4
+          "VALUE": 5
         },
         {
           "DATE": "2021-01-11",
@@ -1627,6 +1631,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-06",
           "VALUE": 0
         },
@@ -1940,31 +1948,31 @@
         },
         {
           "DATE": "2021-01-18",
-          "VALUE": 2.310473835
+          "VALUE": 2.385089408
         },
         {
           "DATE": "2021-01-17",
-          "VALUE": 2.608936128
-        },
-        {
-          "DATE": "2021-01-16",
           "VALUE": 2.683029914
         },
         {
+          "DATE": "2021-01-16",
+          "VALUE": 2.757645487
+        },
+        {
           "DATE": "2021-01-15",
-          "VALUE": 3.279432713
+          "VALUE": 3.354048286
         },
         {
           "DATE": "2021-01-14",
-          "VALUE": 3.279432713
+          "VALUE": 3.354048286
         },
         {
           "DATE": "2021-01-13",
-          "VALUE": 3.577895006
+          "VALUE": 3.652510579
         },
         {
           "DATE": "2021-01-12",
-          "VALUE": 3.577895006
+          "VALUE": 3.652510579
         },
         {
           "DATE": "2021-01-11",

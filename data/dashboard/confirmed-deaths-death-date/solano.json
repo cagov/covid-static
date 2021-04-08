@@ -1,21 +1,25 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Solano"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_DEATH_DATE": {
-        "total_confirmed_deaths": 237,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 238,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.004219,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-16",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-17",
         "POPULATION": 444255
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_DEATH_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 0
@@ -506,7 +510,7 @@
         },
         {
           "DATE": "2020-12-05",
-          "VALUE": 1
+          "VALUE": 2
         },
         {
           "DATE": "2020-12-04",
@@ -1627,6 +1631,10 @@
       ],
       "AVG_DEATH_RATE_PER_100K_7_DAYS": [
         {
+          "DATE": "2021-04-07",
+          "VALUE": 0
+        },
+        {
           "DATE": "2021-04-06",
           "VALUE": 0
         },
@@ -2092,31 +2100,31 @@
         },
         {
           "DATE": "2020-12-11",
-          "VALUE": 0.064152345
-        },
-        {
-          "DATE": "2020-12-10",
-          "VALUE": 0.064152345
-        },
-        {
-          "DATE": "2020-12-09",
           "VALUE": 0.096341065
         },
         {
+          "DATE": "2020-12-10",
+          "VALUE": 0.096341065
+        },
+        {
+          "DATE": "2020-12-09",
+          "VALUE": 0.128529786
+        },
+        {
           "DATE": "2020-12-08",
-          "VALUE": 0.160718506
+          "VALUE": 0.192907227
         },
         {
           "DATE": "2020-12-07",
-          "VALUE": 0.225095947
-        },
-        {
-          "DATE": "2020-12-06",
           "VALUE": 0.257059572
         },
         {
+          "DATE": "2020-12-06",
+          "VALUE": 0.289248292
+        },
+        {
           "DATE": "2020-12-05",
-          "VALUE": 0.225095947
+          "VALUE": 0.257059572
         },
         {
           "DATE": "2020-12-04",

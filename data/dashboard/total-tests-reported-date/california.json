@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "California"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 55483634,
-        "new_tests_reported": 106309,
-        "new_tests_reported_delta_1_day": 0.001919720752,
+        "total_tests_performed": 55610191,
+        "new_tests_reported": 126557,
+        "new_tests_reported_delta_1_day": 0.002280978928,
         "POPULATION": 40129160
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 126557
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 106309
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 465.596232622
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 474.096641943

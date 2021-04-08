@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Santa Barbara"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES_REPORTED_DATE": {
-        "total_confirmed_cases": 33257,
-        "new_cases": 22,
-        "new_cases_delta_1_day": 0.000662,
-        "cases_per_100k_7_days": 6.229115219,
+        "total_confirmed_cases": 33289,
+        "new_cases": 32,
+        "new_cases_delta_1_day": 0.000962,
+        "cases_per_100k_7_days": 5.978662191,
         "POPULATION": 456373
       }
     },
     "time_series": {
       "CONFIRMED_CASES_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 32
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 22
@@ -1625,6 +1629,10 @@
         }
       ],
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 7.418712325
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 7.54382928

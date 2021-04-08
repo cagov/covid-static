@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Sacramento"
   },
   "data": {
     "latest": {
       "ICU_PATIENTS": {
-        "TOTAL": 25,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.038462,
+        "TOTAL": 26,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.04,
         "POPULATION": 1567975
       }
     },
     "time_series": {
       "ICU_PATIENTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 26
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 25
@@ -1508,6 +1512,10 @@
         }
       ],
       "ICU_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 23.642
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 22.928

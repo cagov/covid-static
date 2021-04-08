@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Kern"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 944824,
-        "new_tests_reported": 1633,
-        "new_tests_reported_delta_1_day": 0.001731356639,
+        "total_tests_performed": 947274,
+        "new_tests_reported": 2450,
+        "new_tests_reported_delta_1_day": 0.002593075536,
         "POPULATION": 927251
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 2450
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 1633
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 345.753199511
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 355.490122339

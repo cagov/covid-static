@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Ventura"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 50,
-        "CHANGE": 9,
-        "CHANGE_FACTOR": 0.219512,
+        "TOTAL": 47,
+        "CHANGE": -3,
+        "CHANGE_FACTOR": -0.06,
         "POPULATION": 852747
       }
     },
     "time_series": {
       "HOSPITALIZED_PATIENTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 47
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 50
@@ -1508,6 +1512,10 @@
         }
       ],
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 51.5
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 52.357

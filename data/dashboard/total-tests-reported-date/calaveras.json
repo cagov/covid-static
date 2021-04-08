@@ -1,19 +1,23 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Calaveras"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS_REPORTED_DATE": {
-        "total_tests_performed": 37367,
-        "new_tests_reported": 52,
-        "new_tests_reported_delta_1_day": 0.001393541471,
+        "total_tests_performed": 37439,
+        "new_tests_reported": 72,
+        "new_tests_reported_delta_1_day": 0.001926833837,
         "POPULATION": 44289
       }
     },
     "time_series": {
       "REPORTED_TESTS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 72
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 52
@@ -1364,6 +1368,10 @@
         }
       ],
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 237.079184448
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 258.690484254

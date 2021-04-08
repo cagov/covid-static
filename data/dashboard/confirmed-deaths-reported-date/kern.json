@@ -1,20 +1,24 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-07",
+    "PUBLISHED_DATE": "2021-04-08",
     "coverage": "Kern"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS_REPORTED_DATE": {
-        "total_confirmed_deaths": 1259,
-        "new_deaths": 10,
-        "new_deaths_delta_1_day": 0.008006,
-        "deaths_per_100k_7_days": 0.169425539,
+        "total_confirmed_deaths": 1275,
+        "new_deaths": 16,
+        "new_deaths_delta_1_day": 0.012708,
+        "deaths_per_100k_7_days": 0.215691328,
         "POPULATION": 927251
       }
     },
     "time_series": {
       "CONFIRMED_DEATHS_REPORTED_DATE": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 16
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 10
@@ -1625,6 +1629,10 @@
         }
       ],
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": [
+        {
+          "DATE": "2021-04-07",
+          "VALUE": 0.70865386
+        },
         {
           "DATE": "2021-04-06",
           "VALUE": 0.585386265
