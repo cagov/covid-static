@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-08",
+    "PUBLISHED_DATE": "2021-04-09",
     "coverage": "Tehama"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.055807,
-        "test_positivity_7_days_delta_7_days": 0.01627,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
+        "test_positivity_7_days": 0.046926,
+        "test_positivity_7_days_delta_7_days": 0.007286,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 65885
       }
     },
@@ -16,28 +16,32 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-07",
+            "VALUE": 0.046926
+          },
+          {
             "DATE": "2021-04-06",
-            "VALUE": 0.055807
+            "VALUE": 0.04896
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 0.048984
+            "VALUE": 0.045502
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 0.051506
+            "VALUE": 0.052632
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 0.048632
+            "VALUE": 0.0501
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 0.045908
+            "VALUE": 0.047761
           },
           {
             "DATE": "2021-04-01",
@@ -1632,28 +1636,32 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-07",
+            "VALUE": 3
+          },
+          {
             "DATE": "2021-04-06",
-            "VALUE": 8
+            "VALUE": 32
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 36
+            "VALUE": 150
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 90
+            "VALUE": 95
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 29
+            "VALUE": 37
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 95
+            "VALUE": 98
           },
           {
             "DATE": "2021-04-01",
