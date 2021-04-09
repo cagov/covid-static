@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-08",
+    "PUBLISHED_DATE": "2021-04-09",
     "coverage": "San Francisco"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 84,
-        "CHANGE": -13,
-        "CHANGE_FACTOR": -0.134021,
+        "TOTAL": 85,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.011905,
         "POPULATION": 892280
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-07"
+          "MAXIMUM": "2021-04-08"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-08",
+            "VALUE": 85
+          },
           {
             "DATE": "2021-04-07",
             "VALUE": 84
