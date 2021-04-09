@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-08",
+    "PUBLISHED_DATE": "2021-04-09",
     "coverage": "Del Norte"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.032258,
-        "test_positivity_7_days_delta_7_days": 0.007935,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
+        "test_positivity_7_days": 0.022291,
+        "test_positivity_7_days_delta_7_days": -0.003476,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 27558
       }
     },
@@ -16,32 +16,36 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-07",
+            "VALUE": 0.022291
+          },
+          {
             "DATE": "2021-04-06",
-            "VALUE": 0.032258
+            "VALUE": 0.026893
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 0.024724
+            "VALUE": 0.022405
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 0.025186
+            "VALUE": 0.025431
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 0.0245
+            "VALUE": 0.024787
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 0.026753
+            "VALUE": 0.027071
           },
           {
             "DATE": "2021-04-01",
-            "VALUE": 0.028049
+            "VALUE": 0.028444
           },
           {
             "DATE": "2021-03-31",
@@ -1632,32 +1636,36 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-06",
+            "DATE": "2021-04-07",
             "VALUE": 21
           },
           {
+            "DATE": "2021-04-06",
+            "VALUE": 32
+          },
+          {
             "DATE": "2021-04-05",
-            "VALUE": 158
+            "VALUE": 428
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 25
+            "VALUE": 29
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 48
+            "VALUE": 52
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 159
+            "VALUE": 166
           },
           {
             "DATE": "2021-04-01",
-            "VALUE": 572
+            "VALUE": 573
           },
           {
             "DATE": "2021-03-31",

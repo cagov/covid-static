@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-08",
+    "PUBLISHED_DATE": "2021-04-09",
     "coverage": "Calaveras"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.026201,
-        "test_positivity_7_days_delta_7_days": -0.001462,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
+        "test_positivity_7_days": 0.021818,
+        "test_positivity_7_days_delta_7_days": -0.013015,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 44289
       }
     },
@@ -16,32 +16,36 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-07",
+            "VALUE": 0.021818
+          },
+          {
             "DATE": "2021-04-06",
-            "VALUE": 0.026201
+            "VALUE": 0.026359
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 0.026978
+            "VALUE": 0.027108
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 0.026049
+            "VALUE": 0.028736
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 0.024286
+            "VALUE": 0.025641
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 0.026874
+            "VALUE": 0.026836
           },
           {
             "DATE": "2021-04-01",
-            "VALUE": 0.034188
+            "VALUE": 0.034139
           },
           {
             "DATE": "2021-03-31",
@@ -1632,24 +1636,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-06",
-            "VALUE": 19
+            "DATE": "2021-04-07",
+            "VALUE": 23
           },
           {
-            "DATE": "2021-04-05",
+            "DATE": "2021-04-06",
             "VALUE": 60
           },
           {
+            "DATE": "2021-04-05",
+            "VALUE": 163
+          },
+          {
             "DATE": "2021-04-04",
-            "VALUE": 18
+            "VALUE": 21
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 17
+            "VALUE": 18
           },
           {
             "DATE": "2021-04-02",
@@ -1657,7 +1665,7 @@
           },
           {
             "DATE": "2021-04-01",
-            "VALUE": 150
+            "VALUE": 151
           },
           {
             "DATE": "2021-03-31",

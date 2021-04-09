@@ -1,15 +1,15 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-08",
+    "PUBLISHED_DATE": "2021-04-09",
     "coverage": "Tehama"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS": {
-        "total_tests_performed": 54036,
-        "new_tests_reported": 112,
-        "new_tests_reported_delta_1_day": 0.002076997255,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-03-30",
+        "total_tests_performed": 54193,
+        "new_tests_reported": 157,
+        "new_tests_reported_delta_1_day": 0.002905470427,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-03-31",
         "POPULATION": 65885
       }
     },
@@ -17,28 +17,32 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-07",
+            "VALUE": 3
+          },
+          {
             "DATE": "2021-04-06",
-            "VALUE": 8
+            "VALUE": 32
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 36
+            "VALUE": 150
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 90
+            "VALUE": 95
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 29
+            "VALUE": 37
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 95
+            "VALUE": 98
           },
           {
             "DATE": "2021-04-01",
@@ -1633,9 +1637,13 @@
       "REPORTED_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-07"
+          "MAXIMUM": "2021-04-08"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-08",
+            "VALUE": 157
+          },
           {
             "DATE": "2021-04-07",
             "VALUE": 112
@@ -2993,28 +3001,32 @@
       "AVG_TEST_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-06"
+          "MAXIMUM": "2021-04-07"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-07",
+            "VALUE": 133.998633983
+          },
+          {
             "DATE": "2021-04-06",
-            "VALUE": 143.756545496
+            "VALUE": 177.148061015
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 181.484404644
+            "VALUE": 209.671397131
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 223.116035516
+            "VALUE": 226.584199742
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 214.009258557
+            "VALUE": 216.393716324
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 217.260377931
+            "VALUE": 217.911512484
           },
           {
             "DATE": "2021-04-01",
@@ -4609,9 +4621,13 @@
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-07"
+          "MAXIMUM": "2021-04-08"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-08",
+            "VALUE": 251.737334533
+          },
           {
             "DATE": "2021-04-07",
             "VALUE": 259.976799402
