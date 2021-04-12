@@ -1,13 +1,13 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-09",
+    "PUBLISHED_DATE": "2021-04-12",
     "coverage": "Lake"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 2,
-        "CHANGE": 0,
+        "TOTAL": 5,
+        "CHANGE": 5,
         "CHANGE_FACTOR": 0,
         "POPULATION": 64871
       }
@@ -16,9 +16,21 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-08"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-11",
+            "VALUE": 5
+          },
+          {
+            "DATE": "2021-04-10",
+            "VALUE": 0
+          },
+          {
+            "DATE": "2021-04-09",
+            "VALUE": 2
+          },
           {
             "DATE": "2021-04-08",
             "VALUE": 2
