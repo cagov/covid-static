@@ -1,20 +1,20 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-09",
+    "PUBLISHED_DATE": "2021-04-12",
     "coverage": "Merced"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 16,
-        "CHANGE": -3,
-        "CHANGE_FACTOR": -0.157895,
+        "TOTAL": 13,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.083333,
         "POPULATION": 287420
       },
       "ICU_PATIENTS": {
         "TOTAL": 3,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.25,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.5,
         "POPULATION": 287420
       }
     },
@@ -22,9 +22,21 @@
       "HOSPITALIZED_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-08"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-11",
+            "VALUE": 13
+          },
+          {
+            "DATE": "2021-04-10",
+            "VALUE": 12
+          },
+          {
+            "DATE": "2021-04-09",
+            "VALUE": 12
+          },
           {
             "DATE": "2021-04-08",
             "VALUE": 16
@@ -1530,9 +1542,21 @@
       "ICU_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-08"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-11",
+            "VALUE": 3
+          },
+          {
+            "DATE": "2021-04-10",
+            "VALUE": 2
+          },
+          {
+            "DATE": "2021-04-09",
+            "VALUE": 2
+          },
           {
             "DATE": "2021-04-08",
             "VALUE": 3
@@ -3038,9 +3062,21 @@
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-08"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-11",
+            "VALUE": 17.714
+          },
+          {
+            "DATE": "2021-04-10",
+            "VALUE": 18.142
+          },
+          {
+            "DATE": "2021-04-09",
+            "VALUE": 18.785
+          },
           {
             "DATE": "2021-04-08",
             "VALUE": 19.285
@@ -4546,9 +4582,21 @@
       "ICU_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-08"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-11",
+            "VALUE": 5.357
+          },
+          {
+            "DATE": "2021-04-10",
+            "VALUE": 5.642
+          },
+          {
+            "DATE": "2021-04-09",
+            "VALUE": 6.142
+          },
           {
             "DATE": "2021-04-08",
             "VALUE": 6.571
