@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-09",
+    "PUBLISHED_DATE": "2021-04-12",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 44,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.022222,
+        "TOTAL": 55,
+        "CHANGE": 8,
+        "CHANGE_FACTOR": 0.170213,
         "POPULATION": 1160099
       }
     },
@@ -16,9 +16,21 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-08"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-11",
+            "VALUE": 55
+          },
+          {
+            "DATE": "2021-04-10",
+            "VALUE": 47
+          },
+          {
+            "DATE": "2021-04-09",
+            "VALUE": 51
+          },
           {
             "DATE": "2021-04-08",
             "VALUE": 44
