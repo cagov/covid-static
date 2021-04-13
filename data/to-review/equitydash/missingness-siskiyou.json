@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Siskiyou",
       "METRIC": "cases",
-      "MISSING": 15,
-      "NOT_MISSING": 41,
-      "TOTAL": 56,
-      "PERCENT_COMPLETE": 0.732142857142857,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.834394904458599,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.102252047315742,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 6,
+      "NOT_MISSING": 28,
+      "TOTAL": 34,
+      "PERCENT_COMPLETE": 0.823529411764706,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.781954887218045,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0415745245466607,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "COUNTY": "Siskiyou",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     },
     "tests": {
       "COUNTY": "Siskiyou",
       "METRIC": "tests",
-      "MISSING": 1030,
-      "NOT_MISSING": 1117,
-      "TOTAL": 2147,
-      "PERCENT_COMPLETE": 0.52026082906381,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.509666080843585,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0105947482202248,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 1107,
+      "NOT_MISSING": 1088,
+      "TOTAL": 2195,
+      "PERCENT_COMPLETE": 0.495671981776765,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.512665406427221,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0169934246504558,
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 1,
-      "NOT_MISSING": 41,
-      "TOTAL": 42,
-      "PERCENT_COMPLETE": 0.976190476190476,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.023809523809524,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 0,
+      "NOT_MISSING": 28,
+      "TOTAL": 28,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 40,
-      "NOT_MISSING": 2,
-      "TOTAL": 42,
-      "PERCENT_COMPLETE": 0.047619047619048,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.103460089071599,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 24,
+      "NOT_MISSING": 4,
+      "TOTAL": 28,
+      "PERCENT_COMPLETE": 0.142857142857143,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.057387057387058,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     }
   }
 }

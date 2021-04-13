@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Lake",
       "METRIC": "cases",
-      "MISSING": 8,
-      "NOT_MISSING": 130,
-      "TOTAL": 138,
-      "PERCENT_COMPLETE": 0.942028985507246,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.928571428571429,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0134575569358178,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 4,
+      "NOT_MISSING": 108,
+      "TOTAL": 112,
+      "PERCENT_COMPLETE": 0.964285714285714,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.925925925925926,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0383597883597884,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "COUNTY": "Lake",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     },
     "tests": {
       "COUNTY": "Lake",
       "METRIC": "tests",
-      "MISSING": 1809,
-      "NOT_MISSING": 3192,
-      "TOTAL": 5001,
-      "PERCENT_COMPLETE": 0.638272345530894,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.600210811624755,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0380615339061385,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 1683,
+      "NOT_MISSING": 3035,
+      "TOTAL": 4718,
+      "PERCENT_COMPLETE": 0.643281051292921,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.610312345066931,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0329687062259896,
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 113,
-      "TOTAL": 113,
+      "NOT_MISSING": 88,
+      "TOTAL": 88,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 85,
-      "NOT_MISSING": 28,
-      "TOTAL": 113,
-      "PERCENT_COMPLETE": 0.247787610619469,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.063323500491642,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 72,
+      "NOT_MISSING": 16,
+      "TOTAL": 88,
+      "PERCENT_COMPLETE": 0.181818181818182,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.12669245647969,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     }
   }
 }

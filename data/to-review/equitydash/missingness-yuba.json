@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Yuba",
       "METRIC": "cases",
-      "MISSING": 21,
-      "NOT_MISSING": 165,
-      "TOTAL": 186,
-      "PERCENT_COMPLETE": 0.887096774193548,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.908045977011494,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0209492028179459,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 13,
+      "NOT_MISSING": 147,
+      "TOTAL": 160,
+      "PERCENT_COMPLETE": 0.91875,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.913494809688581,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0052551903114187,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "COUNTY": "Yuba",
@@ -20,58 +20,58 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     },
     "tests": {
       "COUNTY": "Yuba",
       "METRIC": "tests",
-      "MISSING": 1869,
-      "NOT_MISSING": 3351,
-      "TOTAL": 5220,
-      "PERCENT_COMPLETE": 0.641954022988506,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.564820742637644,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0771332803508618,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 1746,
+      "NOT_MISSING": 3247,
+      "TOTAL": 4993,
+      "PERCENT_COMPLETE": 0.650310434608452,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.579101394388019,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0712090402204333,
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 147,
-      "TOTAL": 147,
+      "NOT_MISSING": 131,
+      "TOTAL": 131,
       "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.014440433212996,
-      "REPORT_DATE": "2021-04-05"
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.016806722689076,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 75,
-      "NOT_MISSING": 72,
-      "TOTAL": 147,
-      "PERCENT_COMPLETE": 0.489795918367347,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.00117881087453,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 62,
+      "NOT_MISSING": 69,
+      "TOTAL": 131,
+      "PERCENT_COMPLETE": 0.526717557251908,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.009910834562832,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     }
   }
 }

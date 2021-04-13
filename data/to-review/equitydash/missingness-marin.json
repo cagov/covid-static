@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Marin",
       "METRIC": "cases",
-      "MISSING": 50,
-      "NOT_MISSING": 281,
-      "TOTAL": 331,
-      "PERCENT_COMPLETE": 0.848942598187311,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.912708600770218,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0637660025829071,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 46,
+      "NOT_MISSING": 262,
+      "TOTAL": 308,
+      "PERCENT_COMPLETE": 0.850649350649351,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.900316455696203,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0496671050468518,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "COUNTY": "Marin",
@@ -20,58 +20,58 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     },
     "tests": {
       "COUNTY": "Marin",
       "METRIC": "tests",
-      "MISSING": 19238,
-      "NOT_MISSING": 21665,
-      "TOTAL": 40903,
-      "PERCENT_COMPLETE": 0.529667750531746,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.532620340611031,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0029525900792851,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 18714,
+      "NOT_MISSING": 20865,
+      "TOTAL": 39579,
+      "PERCENT_COMPLETE": 0.527173501099068,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.531872312600313,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0046988115012454,
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 232,
-      "TOTAL": 232,
+      "NOT_MISSING": 231,
+      "TOTAL": 231,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-04-05"
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 0,
+      "NOT_MISSING": 11,
+      "TOTAL": 11,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 171,
-      "NOT_MISSING": 61,
-      "TOTAL": 232,
-      "PERCENT_COMPLETE": 0.262931034482759,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.042529716370483,
-      "REPORT_DATE": "2021-04-05"
+      "NOT_MISSING": 60,
+      "TOTAL": 231,
+      "PERCENT_COMPLETE": 0.25974025974026,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.034119389382547,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 10,
+      "NOT_MISSING": 1,
+      "TOTAL": 11,
+      "PERCENT_COMPLETE": 0.090909090909091,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.337662337662338,
+      "REPORT_DATE": "2021-04-13"
     }
   }
 }
