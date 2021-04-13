@@ -1,20 +1,20 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-12",
     "coverage": "Riverside"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 124,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -0.008,
+        "TOTAL": 125,
+        "CHANGE": 19,
+        "CHANGE_FACTOR": 0.179245,
         "POPULATION": 2468145
       },
       "ICU_PATIENTS": {
-        "TOTAL": 25,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.041667,
+        "TOTAL": 24,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 2468145
       }
     },
@@ -22,13 +22,9 @@
       "HOSPITALIZED_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
-          {
-            "DATE": "2021-04-12",
-            "VALUE": 124
-          },
           {
             "DATE": "2021-04-11",
             "VALUE": 125
@@ -1546,13 +1542,9 @@
       "ICU_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
-          {
-            "DATE": "2021-04-12",
-            "VALUE": 25
-          },
           {
             "DATE": "2021-04-11",
             "VALUE": 24
@@ -3070,13 +3062,9 @@
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
-          {
-            "DATE": "2021-04-12",
-            "VALUE": 126.142
-          },
           {
             "DATE": "2021-04-11",
             "VALUE": 127.642
@@ -4594,13 +4582,9 @@
       "ICU_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
-          {
-            "DATE": "2021-04-12",
-            "VALUE": 27.142
-          },
           {
             "DATE": "2021-04-11",
             "VALUE": 27.714

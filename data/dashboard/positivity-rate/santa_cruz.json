@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-12",
     "coverage": "Santa Cruz"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.005365,
-        "test_positivity_7_days_delta_7_days": -0.005004,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-04",
+        "test_positivity_7_days": 0.005641,
+        "test_positivity_7_days_delta_7_days": -0.004562,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-03",
         "POPULATION": 273999
       }
     },
@@ -16,48 +16,44 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-10"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-11",
-            "VALUE": 0.005365
-          },
-          {
             "DATE": "2021-04-10",
-            "VALUE": 0.005732
+            "VALUE": 0.005641
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 0.006806
+            "VALUE": 0.006686
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 0.008176
+            "VALUE": 0.008287
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 0.008197
+            "VALUE": 0.008206
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 0.007788
+            "VALUE": 0.007791
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 0.008627
+            "VALUE": 0.00863
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 0.010369
+            "VALUE": 0.01037
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 0.010202
+            "VALUE": 0.010203
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 0.009748
+            "VALUE": 0.009749
           },
           {
             "DATE": "2021-04-01",
@@ -1652,28 +1648,24 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-10"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-11",
-            "VALUE": 14
-          },
-          {
             "DATE": "2021-04-10",
-            "VALUE": 199
+            "VALUE": 37
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 1616
+            "VALUE": 1205
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 1517
+            "VALUE": 1383
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 2163
+            "VALUE": 2155
           },
           {
             "DATE": "2021-04-06",
@@ -1681,7 +1673,7 @@
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 2591
+            "VALUE": 2589
           },
           {
             "DATE": "2021-04-04",
@@ -1693,7 +1685,7 @@
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 1775
+            "VALUE": 1774
           },
           {
             "DATE": "2021-04-01",
