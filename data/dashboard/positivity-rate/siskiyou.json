@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-12",
+    "PUBLISHED_DATE": "2021-04-13",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.010309,
-        "test_positivity_7_days_delta_7_days": -0.00245,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-03",
+        "test_positivity_7_days": 0.014778,
+        "test_positivity_7_days_delta_7_days": 0.001998,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-04",
         "POPULATION": 43956
       }
     },
@@ -16,32 +16,36 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 0.014778
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 0.010309
+            "VALUE": 0.014354
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 0.010101
+            "VALUE": 0.011962
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 0.013699
+            "VALUE": 0.013483
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 0.015556
+            "VALUE": 0.015453
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 0.014614
+            "VALUE": 0.014583
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 0.015209
+            "VALUE": 0.01518
           },
           {
             "DATE": "2021-04-04",
@@ -1648,24 +1652,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 3
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 6
+            "VALUE": 14
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 15
+            "VALUE": 30
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 89
+            "VALUE": 93
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 135
+            "VALUE": 137
           },
           {
             "DATE": "2021-04-06",
@@ -1673,7 +1681,7 @@
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 98
+            "VALUE": 99
           },
           {
             "DATE": "2021-04-04",
