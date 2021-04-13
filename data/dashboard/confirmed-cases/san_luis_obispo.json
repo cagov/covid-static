@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-12",
+    "PUBLISHED_DATE": "2021-04-13",
     "coverage": "San Luis Obispo"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
-        "total_confirmed_cases": 20501,
-        "new_cases": 40,
-        "new_cases_delta_1_day": 0.001955,
-        "cases_per_100k_7_days": 7.018166692,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-04",
+        "total_confirmed_cases": 20515,
+        "new_cases": 14,
+        "new_cases_delta_1_day": 0.000683,
+        "cases_per_100k_7_days": 6.966886847,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-05",
         "POPULATION": 278862
       }
     },
@@ -18,24 +18,28 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-11",
+            "DATE": "2021-04-12",
             "VALUE": 0
           },
           {
-            "DATE": "2021-04-10",
+            "DATE": "2021-04-11",
             "VALUE": 1
           },
           {
+            "DATE": "2021-04-10",
+            "VALUE": 2
+          },
+          {
             "DATE": "2021-04-09",
-            "VALUE": 17
+            "VALUE": 24
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 11
+            "VALUE": 15
           },
           {
             "DATE": "2021-04-07",
@@ -43,7 +47,7 @@
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 28
+            "VALUE": 29
           },
           {
             "DATE": "2021-04-05",
@@ -1654,9 +1658,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 14
+          },
           {
             "DATE": "2021-04-11",
             "VALUE": 40
@@ -3290,32 +3298,36 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-12",
+            "VALUE": 4.405404824
+          },
+          {
             "DATE": "2021-04-11",
-            "VALUE": 5.020404358
+            "VALUE": 5.73760498
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 5.686325136
+            "VALUE": 6.352245914
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 6.044925447
+            "VALUE": 6.659566381
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 6.300966069
-          },
-          {
-            "DATE": "2021-04-07",
             "VALUE": 6.557006691
           },
           {
+            "DATE": "2021-04-07",
+            "VALUE": 6.608286536
+          },
+          {
             "DATE": "2021-04-06",
-            "VALUE": 6.710846225
+            "VALUE": 6.76212607
           },
           {
             "DATE": "2021-04-05",
@@ -4926,9 +4938,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 9.323608093
+          },
           {
             "DATE": "2021-04-11",
             "VALUE": 8.862448093
