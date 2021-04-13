@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "Stanislaus",
       "METRIC": "cases",
-      "MISSING": 383,
-      "NOT_MISSING": 1689,
-      "TOTAL": 2072,
-      "PERCENT_COMPLETE": 0.81515444015444,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.880468268638324,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0653138284838839,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 295,
+      "NOT_MISSING": 1598,
+      "TOTAL": 1893,
+      "PERCENT_COMPLETE": 0.844162704701532,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.86841107318923,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0242483684876983,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "COUNTY": "Stanislaus",
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 0,
+      "NOT_MISSING": 20,
+      "TOTAL": 20,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.972972972972973,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0270270270270269,
+      "REPORT_DATE": "2021-04-13"
     },
     "tests": {
       "COUNTY": "Stanislaus",
       "METRIC": "tests",
-      "MISSING": 21671,
-      "NOT_MISSING": 33092,
-      "TOTAL": 54763,
-      "PERCENT_COMPLETE": 0.604276610119971,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.603108392040539,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0011682180794325,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 20949,
+      "NOT_MISSING": 32213,
+      "TOTAL": 53162,
+      "PERCENT_COMPLETE": 0.605940333320793,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.607157319295404,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.001216985974611,
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 12,
-      "NOT_MISSING": 1676,
-      "TOTAL": 1688,
-      "PERCENT_COMPLETE": 0.992890995260664,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.003253954623685,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 6,
+      "NOT_MISSING": 1566,
+      "TOTAL": 1572,
+      "PERCENT_COMPLETE": 0.99618320610687,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.00083220657177,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 0,
+      "NOT_MISSING": 21,
+      "TOTAL": 21,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.028571428571429,
+      "REPORT_DATE": "2021-04-13"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 1121,
-      "NOT_MISSING": 567,
-      "TOTAL": 1688,
-      "PERCENT_COMPLETE": 0.335900473933649,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.081601453591409,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 1020,
+      "NOT_MISSING": 552,
+      "TOTAL": 1572,
+      "PERCENT_COMPLETE": 0.351145038167939,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.057037202650285,
+      "REPORT_DATE": "2021-04-13"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
-      "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-05"
+      "MISSING": 19,
+      "NOT_MISSING": 2,
+      "TOTAL": 21,
+      "PERCENT_COMPLETE": 0.095238095238095,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.076190476190476,
+      "REPORT_DATE": "2021-04-13"
     }
   }
 }
