@@ -1,15 +1,15 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-12",
+    "PUBLISHED_DATE": "2021-04-13",
     "coverage": "Santa Cruz"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS": {
-        "total_tests_performed": 370582,
-        "new_tests_reported": 2496,
-        "new_tests_reported_delta_1_day": 0.006781024,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-03",
+        "total_tests_performed": 371314,
+        "new_tests_reported": 732,
+        "new_tests_reported_delta_1_day": 0.00197527133,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-04",
         "POPULATION": 273999
       }
     },
@@ -17,24 +17,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 14
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 37
+            "VALUE": 199
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 1205
+            "VALUE": 1616
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 1383
+            "VALUE": 1517
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 2155
+            "VALUE": 2163
           },
           {
             "DATE": "2021-04-06",
@@ -42,7 +46,7 @@
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 2589
+            "VALUE": 2591
           },
           {
             "DATE": "2021-04-04",
@@ -54,7 +58,7 @@
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 1774
+            "VALUE": 1775
           },
           {
             "DATE": "2021-04-01",
@@ -1649,9 +1653,13 @@
       "REPORTED_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 732
+          },
           {
             "DATE": "2021-04-11",
             "VALUE": 2496
@@ -3025,44 +3033,48 @@
       "AVG_TEST_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 534.464724324
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 508.343826072
+            "VALUE": 545.726444257
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 530.293906182
+            "VALUE": 559.230143176
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 559.960072847
+            "VALUE": 567.520319417
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 559.126128198
+            "VALUE": 559.699487954
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 555.476479841
+            "VALUE": 555.632684791
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 531.649385582
+            "VALUE": 531.805590531
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 527.895357282
+            "VALUE": 527.947547254
           },
           {
             "DATE": "2021-04-03",
-            "VALUE": 531.440625696
+            "VALUE": 531.492815667
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 534.777499188
+            "VALUE": 534.829689159
           },
           {
             "DATE": "2021-04-01",
@@ -4657,9 +4669,13 @@
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 588.114763714
+          },
           {
             "DATE": "2021-04-11",
             "VALUE": 578.729953655

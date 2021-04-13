@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-12",
+    "PUBLISHED_DATE": "2021-04-13",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.009588,
-        "test_positivity_7_days_delta_7_days": -0.004497,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-03",
+        "test_positivity_7_days": 0.010791,
+        "test_positivity_7_days_delta_7_days": -0.002957,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-04",
         "POPULATION": 88439
       }
     },
@@ -16,28 +16,32 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 0.010791
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 0.009588
+            "VALUE": 0.010462
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 0.010453
+            "VALUE": 0.011254
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 0.009114
+            "VALUE": 0.010101
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 0.011914
+            "VALUE": 0.013235
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 0.014883
+            "VALUE": 0.016266
           },
           {
             "DATE": "2021-04-05",
@@ -1648,28 +1652,32 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 18
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 21
+            "VALUE": 29
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 84
+            "VALUE": 100
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 129
+            "VALUE": 192
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 129
+            "VALUE": 143
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 317
+            "VALUE": 320
           },
           {
             "DATE": "2021-04-05",

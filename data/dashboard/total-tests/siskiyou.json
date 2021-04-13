@@ -1,15 +1,15 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-12",
+    "PUBLISHED_DATE": "2021-04-13",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS": {
-        "total_tests_performed": 29739,
-        "new_tests_reported": 35,
-        "new_tests_reported_delta_1_day": 0.001178292486,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-03",
+        "total_tests_performed": 29772,
+        "new_tests_reported": 33,
+        "new_tests_reported_delta_1_day": 0.00110965399,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-04",
         "POPULATION": 43956
       }
     },
@@ -17,24 +17,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 3
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 6
+            "VALUE": 14
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 15
+            "VALUE": 30
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 89
+            "VALUE": 93
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 135
+            "VALUE": 137
           },
           {
             "DATE": "2021-04-06",
@@ -42,7 +46,7 @@
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 98
+            "VALUE": 99
           },
           {
             "DATE": "2021-04-04",
@@ -1649,9 +1653,13 @@
       "REPORTED_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 33
+          },
           {
             "DATE": "2021-04-11",
             "VALUE": 35
@@ -3025,32 +3033,36 @@
       "AVG_TEST_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-10"
+          "MAXIMUM": "2021-04-11"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-11",
+            "VALUE": 131.95013195
+          },
+          {
             "DATE": "2021-04-10",
-            "VALUE": 126.098826099
+            "VALUE": 135.849485849
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 128.699153699
+            "VALUE": 135.849485849
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 142.349167349
+            "VALUE": 144.624169624
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 146.248521249
+            "VALUE": 147.224497224
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 155.673855674
+            "VALUE": 155.999180999
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 170.948220948
+            "VALUE": 171.273546274
           },
           {
             "DATE": "2021-04-04",
@@ -4657,9 +4669,13 @@
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 201.175201175
+          },
           {
             "DATE": "2021-04-11",
             "VALUE": 198.575198575
