@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-12",
+    "PUBLISHED_DATE": "2021-04-13",
     "coverage": "Imperial"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 9,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.125,
+        "TOTAL": 5,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.444444,
         "POPULATION": 191649
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 5
+          },
           {
             "DATE": "2021-04-11",
             "VALUE": 9
