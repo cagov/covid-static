@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-12",
     "coverage": "San Benito"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.027301,
-        "test_positivity_7_days_delta_7_days": -0.009312,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-04",
+        "test_positivity_7_days": 0.032232,
+        "test_positivity_7_days_delta_7_days": -0.000901,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-03",
         "POPULATION": 64022
       }
     },
@@ -16,28 +16,24 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-10"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-11",
-            "VALUE": 0.027301
-          },
-          {
             "DATE": "2021-04-10",
-            "VALUE": 0.030372
+            "VALUE": 0.032232
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 0.031134
+            "VALUE": 0.032609
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 0.037037
+            "VALUE": 0.037821
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 0.041455
+            "VALUE": 0.041485
           },
           {
             "DATE": "2021-04-06",
@@ -1652,28 +1648,24 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-10"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-11",
-            "VALUE": 19
-          },
-          {
             "DATE": "2021-04-10",
-            "VALUE": 24
+            "VALUE": 9
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 152
+            "VALUE": 119
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 175
+            "VALUE": 148
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 289
+            "VALUE": 288
           },
           {
             "DATE": "2021-04-06",
