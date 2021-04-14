@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-14",
     "coverage": "Kings"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 241,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.273580323,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-22",
+        "total_confirmed_deaths": 243,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.008299,
+        "deaths_per_100k_7_days": 0.456393342,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-23",
         "POPULATION": 156444
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -123,7 +127,7 @@
           },
           {
             "DATE": "2021-03-18",
-            "VALUE": 1
+            "VALUE": 2
           },
           {
             "DATE": "2021-03-17",
@@ -171,7 +175,7 @@
           },
           {
             "DATE": "2021-03-06",
-            "VALUE": 2
+            "VALUE": 3
           },
           {
             "DATE": "2021-03-05",
@@ -1658,9 +1662,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 2
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -3298,9 +3306,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -3379,31 +3391,31 @@
           },
           {
             "DATE": "2021-03-24",
-            "VALUE": 0.364986832
+            "VALUE": 0.456393342
           },
           {
             "DATE": "2021-03-23",
-            "VALUE": 0.364986832
+            "VALUE": 0.456393342
           },
           {
             "DATE": "2021-03-22",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-21",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-20",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-19",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-18",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-17",
@@ -3427,31 +3439,31 @@
           },
           {
             "DATE": "2021-03-12",
-            "VALUE": 0.182173813
+            "VALUE": 0.273580323
           },
           {
             "DATE": "2021-03-11",
-            "VALUE": 0.182173813
+            "VALUE": 0.273580323
           },
           {
             "DATE": "2021-03-10",
-            "VALUE": 0.182173813
+            "VALUE": 0.273580323
           },
           {
             "DATE": "2021-03-09",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-08",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-07",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-06",
-            "VALUE": 0.273580323
+            "VALUE": 0.364986832
           },
           {
             "DATE": "2021-03-05",
@@ -4938,9 +4950,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0.273580323
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0.182173813
