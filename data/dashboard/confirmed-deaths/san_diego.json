@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-14",
     "coverage": "San Diego"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 3621,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.110194047,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-22",
+        "total_confirmed_deaths": 3623,
+        "new_deaths": 2,
+        "new_deaths_delta_1_day": 0.000552,
+        "deaths_per_100k_7_days": 0.084766934,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-23",
         "POPULATION": 3370418
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -35,7 +39,7 @@
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 1
+            "VALUE": 2
           },
           {
             "DATE": "2021-04-08",
@@ -203,7 +207,7 @@
           },
           {
             "DATE": "2021-02-26",
-            "VALUE": 12
+            "VALUE": 13
           },
           {
             "DATE": "2021-02-25",
@@ -1658,9 +1662,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 2
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -3298,24 +3306,28 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-12",
-            "VALUE": 0.016941519
-          },
-          {
-            "DATE": "2021-04-11",
-            "VALUE": 0.016941519
-          },
-          {
-            "DATE": "2021-04-10",
+            "DATE": "2021-04-13",
             "VALUE": 0.021184316
           },
           {
-            "DATE": "2021-04-09",
+            "DATE": "2021-04-12",
+            "VALUE": 0.021184316
+          },
+          {
+            "DATE": "2021-04-11",
+            "VALUE": 0.021184316
+          },
+          {
+            "DATE": "2021-04-10",
             "VALUE": 0.025427113
+          },
+          {
+            "DATE": "2021-04-09",
+            "VALUE": 0.02966991
           },
           {
             "DATE": "2021-04-08",
@@ -3459,31 +3471,31 @@
           },
           {
             "DATE": "2021-03-04",
-            "VALUE": 0.288213509
-          },
-          {
-            "DATE": "2021-03-03",
-            "VALUE": 0.313640623
-          },
-          {
-            "DATE": "2021-03-02",
             "VALUE": 0.292456307
           },
           {
+            "DATE": "2021-03-03",
+            "VALUE": 0.31788342
+          },
+          {
+            "DATE": "2021-03-02",
+            "VALUE": 0.296699104
+          },
+          {
             "DATE": "2021-03-01",
-            "VALUE": 0.322126217
+            "VALUE": 0.326369014
           },
           {
             "DATE": "2021-02-28",
-            "VALUE": 0.343310533
+            "VALUE": 0.34755333
           },
           {
             "DATE": "2021-02-27",
-            "VALUE": 0.372980443
+            "VALUE": 0.377223241
           },
           {
             "DATE": "2021-02-26",
-            "VALUE": 0.419591873
+            "VALUE": 0.42383467
           },
           {
             "DATE": "2021-02-25",
@@ -4938,9 +4950,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0.161048274
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0.161048274
