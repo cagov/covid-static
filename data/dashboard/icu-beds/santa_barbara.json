@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-14",
     "coverage": "Santa Barbara"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 31,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 0.107143,
+        "TOTAL": 26,
+        "CHANGE": -5,
+        "CHANGE_FACTOR": -0.16129,
         "POPULATION": 456373
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 26
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 31

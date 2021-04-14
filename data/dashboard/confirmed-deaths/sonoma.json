@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-14",
     "coverage": "Sonoma"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 310,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
+        "total_confirmed_deaths": 311,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.003226,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-22",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-23",
         "POPULATION": 496668
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -1071,7 +1075,7 @@
           },
           {
             "DATE": "2020-07-24",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2020-07-23",
@@ -1658,9 +1662,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 1
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -3298,9 +3306,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": 0
@@ -4327,31 +4339,31 @@
           },
           {
             "DATE": "2020-07-30",
-            "VALUE": 0.287516007
+            "VALUE": 0.316307876
           },
           {
             "DATE": "2020-07-29",
-            "VALUE": 0.287516007
+            "VALUE": 0.316307876
           },
           {
             "DATE": "2020-07-28",
-            "VALUE": 0.229932269
+            "VALUE": 0.258724138
           },
           {
             "DATE": "2020-07-27",
-            "VALUE": 0.229932269
+            "VALUE": 0.258724138
           },
           {
             "DATE": "2020-07-26",
-            "VALUE": 0.172549872
+            "VALUE": 0.201341741
           },
           {
             "DATE": "2020-07-25",
-            "VALUE": 0.143758003
+            "VALUE": 0.172549872
           },
           {
             "DATE": "2020-07-24",
-            "VALUE": 0.172549872
+            "VALUE": 0.201341741
           },
           {
             "DATE": "2020-07-23",
@@ -4938,9 +4950,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-12"
+          "MAXIMUM": "2021-04-13"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-13",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-12",
             "VALUE": -0.028590527

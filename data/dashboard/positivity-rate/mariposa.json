@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-13",
+    "PUBLISHED_DATE": "2021-04-14",
     "coverage": "Mariposa"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.010381,
-        "test_positivity_7_days_delta_7_days": 0.002024,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-04",
+        "test_positivity_7_days": 0.007813,
+        "test_positivity_7_days_delta_7_days": -0.003298,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-05",
         "POPULATION": 17795
       }
     },
@@ -16,32 +16,36 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-12",
+            "VALUE": 0.007813
+          },
+          {
             "DATE": "2021-04-11",
-            "VALUE": 0.010381
+            "VALUE": 0.009868
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 0.013746
+            "VALUE": 0.013423
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 0.012539
+            "VALUE": 0.012308
           },
           {
             "DATE": "2021-04-08",
-            "VALUE": 0.009231
+            "VALUE": 0.009174
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 0.009091
+            "VALUE": 0.009036
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 0.009119
+            "VALUE": 0.009091
           },
           {
             "DATE": "2021-04-05",
@@ -1652,20 +1656,24 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-11"
+          "MAXIMUM": "2021-04-12"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-12",
+            "VALUE": 3
+          },
+          {
             "DATE": "2021-04-11",
-            "VALUE": 2
+            "VALUE": 10
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 7
+            "VALUE": 8
           },
           {
             "DATE": "2021-04-09",
-            "VALUE": 55
+            "VALUE": 59
           },
           {
             "DATE": "2021-04-08",
@@ -1673,11 +1681,11 @@
           },
           {
             "DATE": "2021-04-07",
-            "VALUE": 59
+            "VALUE": 60
           },
           {
             "DATE": "2021-04-06",
-            "VALUE": 78
+            "VALUE": 79
           },
           {
             "DATE": "2021-04-05",
