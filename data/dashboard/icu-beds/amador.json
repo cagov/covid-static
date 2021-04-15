@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-14",
+    "PUBLISHED_DATE": "2021-04-15",
     "coverage": "Amador"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 4,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 3,
+        "TOTAL": 6,
+        "CHANGE": 2,
+        "CHANGE_FACTOR": 0.5,
         "POPULATION": 38531
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 6
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 4
