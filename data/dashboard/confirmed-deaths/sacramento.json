@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-14",
+    "PUBLISHED_DATE": "2021-04-15",
     "coverage": "Sacramento"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 1569,
-        "new_deaths": 3,
-        "new_deaths_delta_1_day": 0.001916,
-        "deaths_per_100k_7_days": 0.091072881,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-23",
+        "total_confirmed_deaths": 1570,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.000637,
+        "deaths_per_100k_7_days": 0.063776527,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 1567975
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -1662,9 +1666,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 1
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 3
@@ -3306,9 +3314,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0.009056267
@@ -4950,9 +4962,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0.236866021
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0.291522505

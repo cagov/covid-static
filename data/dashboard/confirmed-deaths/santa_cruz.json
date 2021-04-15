@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-14",
+    "PUBLISHED_DATE": "2021-04-15",
     "coverage": "Santa Cruz"
   },
   "data": {
@@ -10,7 +10,7 @@
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-23",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 273999
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -335,7 +339,7 @@
           },
           {
             "DATE": "2021-01-25",
-            "VALUE": 2
+            "VALUE": 3
           },
           {
             "DATE": "2021-01-24",
@@ -875,11 +879,11 @@
           },
           {
             "DATE": "2020-09-12",
-            "VALUE": 1
+            "VALUE": 0
           },
           {
             "DATE": "2020-09-11",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2020-09-10",
@@ -1662,9 +1666,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -3306,9 +3314,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -3599,31 +3611,31 @@
           },
           {
             "DATE": "2021-01-31",
-            "VALUE": 0.364964836
+            "VALUE": 0.416789842
           },
           {
             "DATE": "2021-01-30",
-            "VALUE": 0.312774864
+            "VALUE": 0.364964836
           },
           {
             "DATE": "2021-01-29",
-            "VALUE": 0.573359757
-          },
-          {
-            "DATE": "2021-01-28",
-            "VALUE": 0.573359757
-          },
-          {
-            "DATE": "2021-01-27",
             "VALUE": 0.625549728
           },
           {
-            "DATE": "2021-01-26",
+            "DATE": "2021-01-28",
+            "VALUE": 0.625549728
+          },
+          {
+            "DATE": "2021-01-27",
             "VALUE": 0.6777397
           },
           {
-            "DATE": "2021-01-25",
+            "DATE": "2021-01-26",
             "VALUE": 0.729929671
+          },
+          {
+            "DATE": "2021-01-25",
+            "VALUE": 0.781754678
           },
           {
             "DATE": "2021-01-24",
@@ -4139,7 +4151,7 @@
           },
           {
             "DATE": "2020-09-18",
-            "VALUE": 0.104014978
+            "VALUE": 0.051825007
           },
           {
             "DATE": "2020-09-17",
@@ -4167,7 +4179,7 @@
           },
           {
             "DATE": "2020-09-11",
-            "VALUE": 0
+            "VALUE": 0.051825007
           },
           {
             "DATE": "2020-09-10",
@@ -4950,9 +4962,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0

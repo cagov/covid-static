@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-14",
+    "PUBLISHED_DATE": "2021-04-15",
     "coverage": "Santa Barbara"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 444,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.125116955,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-23",
+        "total_confirmed_deaths": 445,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.002252,
+        "deaths_per_100k_7_days": 0.062448918,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 456373
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -35,7 +39,7 @@
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2021-04-09",
@@ -431,7 +435,7 @@
           },
           {
             "DATE": "2021-01-01",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2020-12-31",
@@ -1662,9 +1666,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 1
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -3306,24 +3314,28 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-14",
+            "VALUE": 0.031114899
+          },
+          {
             "DATE": "2021-04-13",
-            "VALUE": 0
+            "VALUE": 0.031114899
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 0
+            "VALUE": 0.031114899
           },
           {
             "DATE": "2021-04-11",
-            "VALUE": 0
+            "VALUE": 0.031114899
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 0
+            "VALUE": 0.031114899
           },
           {
             "DATE": "2021-04-09",
@@ -3695,31 +3707,31 @@
           },
           {
             "DATE": "2021-01-07",
-            "VALUE": 1.001592995
+            "VALUE": 1.032927014
           },
           {
             "DATE": "2021-01-06",
-            "VALUE": 1.001592995
+            "VALUE": 1.032927014
           },
           {
             "DATE": "2021-01-05",
-            "VALUE": 1.064261032
+            "VALUE": 1.095595051
           },
           {
             "DATE": "2021-01-04",
-            "VALUE": 1.001592995
+            "VALUE": 1.032927014
           },
           {
             "DATE": "2021-01-03",
-            "VALUE": 0.938924958
+            "VALUE": 0.970258977
           },
           {
             "DATE": "2021-01-02",
-            "VALUE": 0.938924958
+            "VALUE": 0.970258977
           },
           {
             "DATE": "2021-01-01",
-            "VALUE": 0.782473985
+            "VALUE": 0.813808004
           },
           {
             "DATE": "2020-12-31",
@@ -4950,9 +4962,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0.031114899
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0.031114899
