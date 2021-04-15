@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-14",
+    "PUBLISHED_DATE": "2021-04-15",
     "coverage": "San Benito"
   },
   "data": {
@@ -10,7 +10,7 @@
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-23",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
         "POPULATION": 64022
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -423,7 +427,7 @@
           },
           {
             "DATE": "2021-01-03",
-            "VALUE": 1
+            "VALUE": 2
           },
           {
             "DATE": "2021-01-02",
@@ -1662,9 +1666,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -3306,9 +3314,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
@@ -3687,31 +3699,31 @@
           },
           {
             "DATE": "2021-01-09",
-            "VALUE": 1.115241636
+            "VALUE": 1.338602355
           },
           {
             "DATE": "2021-01-08",
-            "VALUE": 1.338602355
-          },
-          {
-            "DATE": "2021-01-07",
             "VALUE": 1.561963075
           },
           {
+            "DATE": "2021-01-07",
+            "VALUE": 1.783761832
+          },
+          {
             "DATE": "2021-01-06",
-            "VALUE": 1.338602355
+            "VALUE": 1.561963075
           },
           {
             "DATE": "2021-01-05",
-            "VALUE": 1.338602355
+            "VALUE": 1.561963075
           },
           {
             "DATE": "2021-01-04",
-            "VALUE": 1.338602355
+            "VALUE": 1.561963075
           },
           {
             "DATE": "2021-01-03",
-            "VALUE": 1.338602355
+            "VALUE": 1.561963075
           },
           {
             "DATE": "2021-01-02",
@@ -4950,9 +4962,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-13"
+          "MAXIMUM": "2021-04-14"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-14",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-13",
             "VALUE": 0
