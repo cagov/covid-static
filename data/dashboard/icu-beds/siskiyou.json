@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-15",
+    "PUBLISHED_DATE": "2021-04-16",
     "coverage": "Siskiyou"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 5,
-        "CHANGE": 2,
-        "CHANGE_FACTOR": 0.666667,
+        "TOTAL": 6,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.2,
         "POPULATION": 43956
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 6
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 5
