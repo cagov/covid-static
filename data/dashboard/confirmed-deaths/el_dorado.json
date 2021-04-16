@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-15",
+    "PUBLISHED_DATE": "2021-04-16",
     "coverage": "El Dorado"
   },
   "data": {
@@ -10,7 +10,7 @@
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 193098
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -175,7 +179,7 @@
           },
           {
             "DATE": "2021-03-07",
-            "VALUE": 1
+            "VALUE": 0
           },
           {
             "DATE": "2021-03-06",
@@ -279,7 +283,7 @@
           },
           {
             "DATE": "2021-02-09",
-            "VALUE": 1
+            "VALUE": 2
           },
           {
             "DATE": "2021-02-08",
@@ -1666,9 +1670,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -3314,9 +3322,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -3447,31 +3459,31 @@
           },
           {
             "DATE": "2021-03-13",
-            "VALUE": 0.073537789
+            "VALUE": 0
           },
           {
             "DATE": "2021-03-12",
-            "VALUE": 0.073537789
+            "VALUE": 0
           },
           {
             "DATE": "2021-03-11",
-            "VALUE": 0.073537789
+            "VALUE": 0
           },
           {
             "DATE": "2021-03-10",
-            "VALUE": 0.073537789
+            "VALUE": 0
           },
           {
             "DATE": "2021-03-09",
-            "VALUE": 0.14759345
+            "VALUE": 0.073537789
           },
           {
             "DATE": "2021-03-08",
-            "VALUE": 0.14759345
+            "VALUE": 0.073537789
           },
           {
             "DATE": "2021-03-07",
-            "VALUE": 0.14759345
+            "VALUE": 0.073537789
           },
           {
             "DATE": "2021-03-06",
@@ -3551,31 +3563,31 @@
           },
           {
             "DATE": "2021-02-15",
-            "VALUE": 0.14759345
+            "VALUE": 0.221649111
           },
           {
             "DATE": "2021-02-14",
-            "VALUE": 0.14759345
+            "VALUE": 0.221649111
           },
           {
             "DATE": "2021-02-13",
-            "VALUE": 0.14759345
+            "VALUE": 0.221649111
           },
           {
             "DATE": "2021-02-12",
-            "VALUE": 0.14759345
+            "VALUE": 0.221649111
           },
           {
             "DATE": "2021-02-11",
-            "VALUE": 0.073537789
+            "VALUE": 0.14759345
           },
           {
             "DATE": "2021-02-10",
-            "VALUE": 0.221649111
+            "VALUE": 0.295704772
           },
           {
             "DATE": "2021-02-09",
-            "VALUE": 0.221649111
+            "VALUE": 0.295704772
           },
           {
             "DATE": "2021-02-08",
@@ -4962,9 +4974,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0

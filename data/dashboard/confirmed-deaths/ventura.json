@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-15",
+    "PUBLISHED_DATE": "2021-04-16",
     "coverage": "Ventura"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 986,
-        "new_deaths": 0,
-        "new_deaths_delta_1_day": 0,
-        "deaths_per_100k_7_days": 0.200997482,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
+        "total_confirmed_deaths": 989,
+        "new_deaths": 3,
+        "new_deaths_delta_1_day": 0.003043,
+        "deaths_per_100k_7_days": 0.167458813,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 852747
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -39,7 +43,7 @@
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2021-04-09",
@@ -83,7 +87,7 @@
           },
           {
             "DATE": "2021-03-30",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2021-03-29",
@@ -1666,9 +1670,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 3
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -3314,28 +3322,32 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-15",
+            "VALUE": 0.016652067
+          },
+          {
             "DATE": "2021-04-14",
-            "VALUE": 0
+            "VALUE": 0.016652067
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 0
+            "VALUE": 0.016652067
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 0
+            "VALUE": 0.016652067
           },
           {
             "DATE": "2021-04-11",
-            "VALUE": 0
+            "VALUE": 0.016652067
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 0.016652067
+            "VALUE": 0.033421402
           },
           {
             "DATE": "2021-04-09",
@@ -3355,31 +3367,31 @@
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 0.016652067
-          },
-          {
-            "DATE": "2021-04-04",
-            "VALUE": 0.016652067
-          },
-          {
-            "DATE": "2021-04-03",
-            "VALUE": 0
-          },
-          {
-            "DATE": "2021-04-02",
-            "VALUE": 0
-          },
-          {
-            "DATE": "2021-04-01",
-            "VALUE": 0
-          },
-          {
-            "DATE": "2021-03-31",
             "VALUE": 0.033421402
           },
           {
-            "DATE": "2021-03-30",
+            "DATE": "2021-04-04",
+            "VALUE": 0.033421402
+          },
+          {
+            "DATE": "2021-04-03",
+            "VALUE": 0.016652067
+          },
+          {
+            "DATE": "2021-04-02",
+            "VALUE": 0.016652067
+          },
+          {
+            "DATE": "2021-04-01",
+            "VALUE": 0.016652067
+          },
+          {
+            "DATE": "2021-03-31",
             "VALUE": 0.050190737
+          },
+          {
+            "DATE": "2021-03-30",
+            "VALUE": 0.066960071
           },
           {
             "DATE": "2021-03-29",
@@ -4962,9 +4974,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0.050190737
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
