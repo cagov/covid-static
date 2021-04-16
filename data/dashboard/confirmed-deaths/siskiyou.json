@@ -1,6 +1,6 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-15",
+    "PUBLISHED_DATE": "2021-04-16",
     "coverage": "Siskiyou"
   },
   "data": {
@@ -10,7 +10,7 @@
         "new_deaths": 0,
         "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 43956
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -31,7 +35,7 @@
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2021-04-11",
@@ -411,7 +415,7 @@
           },
           {
             "DATE": "2021-01-07",
-            "VALUE": 1
+            "VALUE": 0
           },
           {
             "DATE": "2021-01-06",
@@ -1666,9 +1670,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -3314,20 +3322,24 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-15",
+            "VALUE": 0.323050323
+          },
+          {
             "DATE": "2021-04-14",
-            "VALUE": 0
+            "VALUE": 0.323050323
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 0
+            "VALUE": 0.323050323
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 0
+            "VALUE": 0.323050323
           },
           {
             "DATE": "2021-04-11",
@@ -3683,31 +3695,31 @@
           },
           {
             "DATE": "2021-01-13",
-            "VALUE": 0.323050323
+            "VALUE": 0
           },
           {
             "DATE": "2021-01-12",
-            "VALUE": 0.323050323
+            "VALUE": 0
           },
           {
             "DATE": "2021-01-11",
-            "VALUE": 0.323050323
+            "VALUE": 0
           },
           {
             "DATE": "2021-01-10",
-            "VALUE": 0.323050323
+            "VALUE": 0
           },
           {
             "DATE": "2021-01-09",
-            "VALUE": 0.323050323
+            "VALUE": 0
           },
           {
             "DATE": "2021-01-08",
-            "VALUE": 0.323050323
+            "VALUE": 0
           },
           {
             "DATE": "2021-01-07",
-            "VALUE": 0.648375648
+            "VALUE": 0.323050323
           },
           {
             "DATE": "2021-01-06",
@@ -4962,9 +4974,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0.973700974
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0.973700974

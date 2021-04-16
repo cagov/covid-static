@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-15",
+    "PUBLISHED_DATE": "2021-04-16",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
         "total_confirmed_deaths": 781,
-        "new_deaths": 3,
-        "new_deaths_delta_1_day": 0.003856,
+        "new_deaths": 0,
+        "new_deaths_delta_1_day": 0,
         "deaths_per_100k_7_days": 0.024566869,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-24",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-25",
         "POPULATION": 1160099
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -1666,9 +1670,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 3
@@ -3314,9 +3322,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
@@ -4962,9 +4974,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0.073873006
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0.073873006

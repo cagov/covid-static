@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-15",
+    "PUBLISHED_DATE": "2021-04-16",
     "coverage": "Tuolumne"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
-        "total_confirmed_cases": 3997,
-        "new_cases": 2,
-        "new_cases_delta_1_day": 0.000501,
-        "cases_per_100k_7_days": 1.637026991,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-07",
+        "total_confirmed_cases": 4003,
+        "new_cases": 6,
+        "new_cases_delta_1_day": 0.001501,
+        "cases_per_100k_7_days": 1.910183187,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-08",
         "POPULATION": 52351
       }
     },
@@ -18,16 +18,20 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 0
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 0
+            "VALUE": 5
           },
           {
             "DATE": "2021-04-12",
@@ -107,7 +111,7 @@
           },
           {
             "DATE": "2021-03-24",
-            "VALUE": 3
+            "VALUE": 4
           },
           {
             "DATE": "2021-03-23",
@@ -1666,9 +1670,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 6
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 2
@@ -3314,16 +3322,20 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-15",
+            "VALUE": 2.181429199
+          },
+          {
             "DATE": "2021-04-14",
-            "VALUE": 1.0907146
+            "VALUE": 2.454585395
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 1.0907146
+            "VALUE": 2.454585395
           },
           {
             "DATE": "2021-04-12",
@@ -3379,31 +3391,31 @@
           },
           {
             "DATE": "2021-03-30",
-            "VALUE": 3.547210177
-          },
-          {
-            "DATE": "2021-03-29",
-            "VALUE": 3.547210177
-          },
-          {
-            "DATE": "2021-03-28",
-            "VALUE": 3.547210177
-          },
-          {
-            "DATE": "2021-03-27",
-            "VALUE": 3.547210177
-          },
-          {
-            "DATE": "2021-03-26",
-            "VALUE": 4.091612386
-          },
-          {
-            "DATE": "2021-03-25",
             "VALUE": 3.820366373
           },
           {
-            "DATE": "2021-03-24",
+            "DATE": "2021-03-29",
+            "VALUE": 3.820366373
+          },
+          {
+            "DATE": "2021-03-28",
+            "VALUE": 3.820366373
+          },
+          {
+            "DATE": "2021-03-27",
+            "VALUE": 3.820366373
+          },
+          {
+            "DATE": "2021-03-26",
             "VALUE": 4.364768581
+          },
+          {
+            "DATE": "2021-03-25",
+            "VALUE": 4.091612386
+          },
+          {
+            "DATE": "2021-03-24",
+            "VALUE": 4.637924777
           },
           {
             "DATE": "2021-03-23",
@@ -4962,9 +4974,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-14"
+          "MAXIMUM": "2021-04-15"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-15",
+            "VALUE": 4.637924777
+          },
           {
             "DATE": "2021-04-14",
             "VALUE": 4.091612386
