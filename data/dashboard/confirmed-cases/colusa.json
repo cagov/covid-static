@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-16",
+    "PUBLISHED_DATE": "2021-04-17",
     "coverage": "Colusa"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
-        "total_confirmed_cases": 1909,
-        "new_cases": 4,
-        "new_cases_delta_1_day": 0.0021,
-        "cases_per_100k_7_days": 5.054662949,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-08",
+        "total_confirmed_cases": 1911,
+        "new_cases": 2,
+        "new_cases_delta_1_day": 0.001048,
+        "cases_per_100k_7_days": 5.687602355,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-09",
         "POPULATION": 22593
       }
     },
@@ -18,16 +18,20 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-15"
+          "MAXIMUM": "2021-04-16"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-15",
+            "DATE": "2021-04-16",
             "VALUE": 0
           },
           {
+            "DATE": "2021-04-15",
+            "VALUE": 1
+          },
+          {
             "DATE": "2021-04-14",
-            "VALUE": 2
+            "VALUE": 3
           },
           {
             "DATE": "2021-04-13",
@@ -1670,9 +1674,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-15"
+          "MAXIMUM": "2021-04-16"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-16",
+            "VALUE": 2
+          },
           {
             "DATE": "2021-04-15",
             "VALUE": 4
@@ -3322,16 +3330,20 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-15"
+          "MAXIMUM": "2021-04-16"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-15",
+            "DATE": "2021-04-16",
             "VALUE": 3.16027088
           },
           {
+            "DATE": "2021-04-15",
+            "VALUE": 4.426149692
+          },
+          {
             "DATE": "2021-04-14",
-            "VALUE": 5.687602355
+            "VALUE": 6.320541761
           },
           {
             "DATE": "2021-04-13",
@@ -4974,9 +4986,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-15"
+          "MAXIMUM": "2021-04-16"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-16",
+            "VALUE": 8.219359979
+          },
           {
             "DATE": "2021-04-15",
             "VALUE": 7.586420573
