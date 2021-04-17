@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-16",
+    "PUBLISHED_DATE": "2021-04-17",
     "coverage": "Mono"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 1,
+        "TOTAL": 0,
         "CHANGE": -1,
-        "CHANGE_FACTOR": -0.5,
+        "CHANGE_FACTOR": -1,
         "POPULATION": 13961
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-15"
+          "MAXIMUM": "2021-04-16"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-16",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-15",
             "VALUE": 1
