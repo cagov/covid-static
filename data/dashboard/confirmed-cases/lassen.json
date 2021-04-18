@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-17",
+    "PUBLISHED_DATE": "2021-04-18",
     "coverage": "Lassen"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
-        "total_confirmed_cases": 5155,
-        "new_cases": 3,
-        "new_cases_delta_1_day": 0.000582,
+        "total_confirmed_cases": 5154,
+        "new_cases": -1,
+        "new_cases_delta_1_day": -0.000194,
         "cases_per_100k_7_days": 2.374854482,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-09",
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-10",
         "POPULATION": 30065
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-17",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-16",
             "VALUE": 0
@@ -67,11 +71,11 @@
           },
           {
             "DATE": "2021-04-05",
-            "VALUE": 1
+            "VALUE": 0
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2021-04-03",
@@ -587,7 +591,7 @@
           },
           {
             "DATE": "2020-11-26",
-            "VALUE": 27
+            "VALUE": 26
           },
           {
             "DATE": "2020-11-25",
@@ -1674,9 +1678,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-17",
+            "VALUE": -1
+          },
           {
             "DATE": "2021-04-16",
             "VALUE": 3
@@ -3330,9 +3338,13 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-17",
+            "VALUE": 2.374854482
+          },
           {
             "DATE": "2021-04-16",
             "VALUE": 2.374854482
@@ -3355,7 +3367,7 @@
           },
           {
             "DATE": "2021-04-11",
-            "VALUE": 2.374854482
+            "VALUE": 1.89921836
           },
           {
             "DATE": "2021-04-10",
@@ -3383,7 +3395,7 @@
           },
           {
             "DATE": "2021-04-04",
-            "VALUE": 1.89921836
+            "VALUE": 2.374854482
           },
           {
             "DATE": "2021-04-03",
@@ -3875,31 +3887,31 @@
           },
           {
             "DATE": "2020-12-02",
-            "VALUE": 230.450690171
+            "VALUE": 229.97505405
           },
           {
             "DATE": "2020-12-01",
-            "VALUE": 157.751538334
+            "VALUE": 157.275902212
           },
           {
             "DATE": "2020-11-30",
-            "VALUE": 155.852319973
+            "VALUE": 155.376683852
           },
           {
             "DATE": "2020-11-29",
-            "VALUE": 182.461333777
+            "VALUE": 181.985697655
           },
           {
             "DATE": "2020-11-28",
-            "VALUE": 182.461333777
+            "VALUE": 181.985697655
           },
           {
             "DATE": "2020-11-27",
-            "VALUE": 217.621819391
+            "VALUE": 217.14618327
           },
           {
             "DATE": "2020-11-26",
-            "VALUE": 267.989356394
+            "VALUE": 267.513720273
           },
           {
             "DATE": "2020-11-25",
@@ -4986,9 +4998,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-17",
+            "VALUE": 3.79843672
+          },
           {
             "DATE": "2021-04-16",
             "VALUE": 7.124563446
