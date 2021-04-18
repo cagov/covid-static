@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-17",
+    "PUBLISHED_DATE": "2021-04-18",
     "coverage": "Calaveras"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
-        "total_confirmed_cases": 2042,
+        "total_confirmed_cases": 2045,
         "new_cases": 3,
-        "new_cases_delta_1_day": 0.001471,
+        "new_cases_delta_1_day": 0.001469,
         "cases_per_100k_7_days": 5.805053173,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-09",
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-10",
         "POPULATION": 44289
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-17",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-16",
             "VALUE": 0
@@ -31,7 +35,7 @@
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 0
+            "VALUE": 2
           },
           {
             "DATE": "2021-04-13",
@@ -39,7 +43,7 @@
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 3
+            "VALUE": 4
           },
           {
             "DATE": "2021-04-11",
@@ -1674,9 +1678,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-17",
+            "VALUE": 3
+          },
           {
             "DATE": "2021-04-16",
             "VALUE": 3
@@ -3330,28 +3338,32 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
           {
-            "DATE": "2021-04-16",
-            "VALUE": 1.935017724
-          },
-          {
-            "DATE": "2021-04-15",
+            "DATE": "2021-04-17",
             "VALUE": 2.578518368
           },
           {
-            "DATE": "2021-04-14",
-            "VALUE": 3.870035449
+            "DATE": "2021-04-16",
+            "VALUE": 2.901397638
           },
           {
-            "DATE": "2021-04-13",
+            "DATE": "2021-04-15",
+            "VALUE": 3.547156179
+          },
+          {
+            "DATE": "2021-04-14",
             "VALUE": 4.836415363
           },
           {
-            "DATE": "2021-04-12",
+            "DATE": "2021-04-13",
             "VALUE": 5.159294633
+          },
+          {
+            "DATE": "2021-04-12",
+            "VALUE": 5.482173903
           },
           {
             "DATE": "2021-04-11",
@@ -4986,9 +4998,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-17",
+            "VALUE": 4.192914719
+          },
           {
             "DATE": "2021-04-16",
             "VALUE": 4.515793989
