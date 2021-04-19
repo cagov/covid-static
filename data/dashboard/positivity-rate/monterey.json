@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-18",
+    "PUBLISHED_DATE": "2021-04-19",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.008655,
-        "test_positivity_7_days_delta_7_days": -0.001862,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-09",
+        "test_positivity_7_days": 0.007915,
+        "test_positivity_7_days_delta_7_days": -0.002758,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-10",
         "POPULATION": 448732
       }
     },
@@ -16,28 +16,32 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-17",
+            "VALUE": 0.007915
+          },
+          {
             "DATE": "2021-04-16",
-            "VALUE": 0.008655
+            "VALUE": 0.008224
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 0.010472
+            "VALUE": 0.010112
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 0.011482
+            "VALUE": 0.011305
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 0.01134
+            "VALUE": 0.011316
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 0.0104
+            "VALUE": 0.010386
           },
           {
             "DATE": "2021-04-11",
@@ -1672,28 +1676,32 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-16"
+          "MAXIMUM": "2021-04-17"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-17",
+            "VALUE": 134
+          },
+          {
             "DATE": "2021-04-16",
-            "VALUE": 133
+            "VALUE": 717
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 627
+            "VALUE": 1382
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 1834
+            "VALUE": 1972
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 1754
+            "VALUE": 1762
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 2647
+            "VALUE": 2662
           },
           {
             "DATE": "2021-04-11",
