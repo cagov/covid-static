@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-18",
+    "PUBLISHED_DATE": "2021-04-19",
     "coverage": "San Bernardino"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 4555,
-        "new_deaths": 5,
-        "new_deaths_delta_1_day": 0.001099,
+        "total_confirmed_deaths": 4556,
+        "new_deaths": 1,
+        "new_deaths_delta_1_day": 0.00022,
         "deaths_per_100k_7_days": 0.057950805,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-03-27",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-03-28",
         "POPULATION": 2217398
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-18",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-17",
             "VALUE": 0
@@ -1459,7 +1463,7 @@
           },
           {
             "DATE": "2020-04-23",
-            "VALUE": 4
+            "VALUE": 5
           },
           {
             "DATE": "2020-04-22",
@@ -1678,9 +1682,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-18",
+            "VALUE": 1
+          },
           {
             "DATE": "2021-04-17",
             "VALUE": 5
@@ -3338,9 +3346,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-18",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-17",
             "VALUE": 0.006403902
@@ -4755,31 +4767,31 @@
           },
           {
             "DATE": "2020-04-29",
-            "VALUE": 0.115946709
+            "VALUE": 0.122395709
           },
           {
             "DATE": "2020-04-28",
-            "VALUE": 0.128844709
-          },
-          {
-            "DATE": "2020-04-27",
-            "VALUE": 0.115946709
-          },
-          {
-            "DATE": "2020-04-26",
             "VALUE": 0.135293709
           },
           {
-            "DATE": "2020-04-25",
-            "VALUE": 0.167493612
+            "DATE": "2020-04-27",
+            "VALUE": 0.122395709
           },
           {
-            "DATE": "2020-04-24",
+            "DATE": "2020-04-26",
+            "VALUE": 0.141697611
+          },
+          {
+            "DATE": "2020-04-25",
             "VALUE": 0.173942612
           },
           {
+            "DATE": "2020-04-24",
+            "VALUE": 0.180391612
+          },
+          {
             "DATE": "2020-04-23",
-            "VALUE": 0.154595612
+            "VALUE": 0.161044612
           },
           {
             "DATE": "2020-04-22",
@@ -4998,9 +5010,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-18",
+            "VALUE": 0.41228503
+          },
           {
             "DATE": "2021-04-17",
             "VALUE": 0.42518303
