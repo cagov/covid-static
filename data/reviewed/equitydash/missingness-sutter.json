@@ -4,12 +4,12 @@
       "COUNTY": "Sutter",
       "METRIC": "cases",
       "MISSING": 39,
-      "NOT_MISSING": 188,
-      "TOTAL": 227,
-      "PERCENT_COMPLETE": 0.828193832599119,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.801724137931034,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0264696946680844,
-      "REPORT_DATE": "2021-04-13"
+      "NOT_MISSING": 169,
+      "TOTAL": 208,
+      "PERCENT_COMPLETE": 0.8125,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.833333333333333,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0208333333333334,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "COUNTY": "Sutter",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     },
     "tests": {
       "COUNTY": "Sutter",
       "METRIC": "tests",
-      "MISSING": 3224,
-      "NOT_MISSING": 3939,
-      "TOTAL": 7163,
-      "PERCENT_COMPLETE": 0.549909255898367,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.548732463696776,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0011767922015908,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 3587,
+      "NOT_MISSING": 3944,
+      "TOTAL": 7531,
+      "PERCENT_COMPLETE": 0.523702031602709,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.55171102661597,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0280089950132609,
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 195,
-      "TOTAL": 195,
+      "NOT_MISSING": 175,
+      "TOTAL": 175,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 171,
-      "NOT_MISSING": 24,
-      "TOTAL": 195,
-      "PERCENT_COMPLETE": 0.123076923076923,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.016854817537411,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 152,
+      "NOT_MISSING": 23,
+      "TOTAL": 175,
+      "PERCENT_COMPLETE": 0.131428571428571,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.008412698412698,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   }
 }
