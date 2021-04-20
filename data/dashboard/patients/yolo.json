@@ -1,19 +1,19 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-19",
+    "PUBLISHED_DATE": "2021-04-20",
     "coverage": "Yolo"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 1,
+        "TOTAL": 2,
         "CHANGE": 1,
-        "CHANGE_FACTOR": 0,
+        "CHANGE_FACTOR": 1,
         "POPULATION": 223612
       },
       "ICU_PATIENTS": {
         "TOTAL": 1,
-        "CHANGE": 1,
+        "CHANGE": 0,
         "CHANGE_FACTOR": 0,
         "POPULATION": 223612
       }
@@ -22,9 +22,13 @@
       "HOSPITALIZED_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 2
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 1
@@ -1570,9 +1574,13 @@
       "ICU_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 1
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 1
@@ -3118,9 +3126,13 @@
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 2.142
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 2.214
@@ -4666,9 +4678,13 @@
       "ICU_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 1.285
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 1.285
