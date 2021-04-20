@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-19",
+    "PUBLISHED_DATE": "2021-04-20",
     "coverage": "Mono"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.008032,
-        "test_positivity_7_days_delta_7_days": 0.000398,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-10",
+        "test_positivity_7_days": 0.007246,
+        "test_positivity_7_days_delta_7_days": -0.000198,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-11",
         "POPULATION": 13961
       }
     },
@@ -16,28 +16,32 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-18",
+            "VALUE": 0.007246
+          },
+          {
             "DATE": "2021-04-17",
-            "VALUE": 0.008032
+            "VALUE": 0.007117
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 0.007168
+            "VALUE": 0.006579
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 0.009585
+            "VALUE": 0.009375
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 0.00304
+            "VALUE": 0.002985
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 0.005935
+            "VALUE": 0.0059
           },
           {
             "DATE": "2021-04-12",
@@ -1676,28 +1680,32 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-18",
+            "VALUE": 10
+          },
+          {
             "DATE": "2021-04-17",
-            "VALUE": 4
+            "VALUE": 11
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 38
+            "VALUE": 56
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 32
+            "VALUE": 33
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 60
+            "VALUE": 64
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 48
+            "VALUE": 50
           },
           {
             "DATE": "2021-04-12",

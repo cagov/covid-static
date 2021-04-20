@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-19",
+    "PUBLISHED_DATE": "2021-04-20",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.007915,
-        "test_positivity_7_days_delta_7_days": -0.002758,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-10",
+        "test_positivity_7_days": 0.007336,
+        "test_positivity_7_days_delta_7_days": -0.003367,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-11",
         "POPULATION": 448732
       }
     },
@@ -16,24 +16,28 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-18",
+            "VALUE": 0.007336
+          },
+          {
             "DATE": "2021-04-17",
-            "VALUE": 0.007915
+            "VALUE": 0.008068
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 0.008224
+            "VALUE": 0.008316
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 0.010112
+            "VALUE": 0.009911
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 0.011305
+            "VALUE": 0.011297
           },
           {
             "DATE": "2021-04-13",
@@ -1676,24 +1680,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-18",
+            "VALUE": 79
+          },
+          {
             "DATE": "2021-04-17",
-            "VALUE": 134
+            "VALUE": 212
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 717
+            "VALUE": 1134
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 1382
+            "VALUE": 1578
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 1972
+            "VALUE": 1979
           },
           {
             "DATE": "2021-04-13",
