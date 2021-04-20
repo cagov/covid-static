@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "San Diego",
       "METRIC": "cases",
-      "MISSING": 879,
-      "NOT_MISSING": 4704,
-      "TOTAL": 5583,
-      "PERCENT_COMPLETE": 0.842557764642665,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.872303622303622,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0297458576609571,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 943,
+      "NOT_MISSING": 4920,
+      "TOTAL": 5863,
+      "PERCENT_COMPLETE": 0.839160839160839,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.860109568097847,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0209487289370077,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "COUNTY": "San Diego",
       "METRIC": "deaths",
       "MISSING": 0,
-      "NOT_MISSING": 68,
-      "TOTAL": 68,
+      "NOT_MISSING": 53,
+      "TOTAL": 53,
       "PERCENT_COMPLETE": 1,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.974358974358974,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0256410256410257,
-      "REPORT_DATE": "2021-04-13"
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.988,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.012,
+      "REPORT_DATE": "2021-04-20"
     },
     "tests": {
       "COUNTY": "San Diego",
       "METRIC": "tests",
-      "MISSING": 120422,
-      "NOT_MISSING": 247879,
-      "TOTAL": 368301,
-      "PERCENT_COMPLETE": 0.673033741423455,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.657664008676469,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0153697327469865,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 114237,
+      "NOT_MISSING": 239753,
+      "TOTAL": 353990,
+      "PERCENT_COMPLETE": 0.677287493997006,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.65850344474067,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.018784049256336,
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 27,
-      "NOT_MISSING": 4579,
-      "TOTAL": 4606,
-      "PERCENT_COMPLETE": 0.994138080764221,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.00757621463846,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 24,
+      "NOT_MISSING": 4804,
+      "TOTAL": 4828,
+      "PERCENT_COMPLETE": 0.995028997514499,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.005323803317026,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
       "MISSING": 0,
-      "NOT_MISSING": 66,
-      "TOTAL": 66,
+      "NOT_MISSING": 47,
+      "TOTAL": 47,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 4606,
+      "MISSING": 4828,
       "NOT_MISSING": 0,
-      "TOTAL": 4606,
+      "TOTAL": 4828,
       "PERCENT_COMPLETE": 0,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 66,
+      "MISSING": 47,
       "NOT_MISSING": 0,
-      "TOTAL": 66,
+      "TOTAL": 47,
       "PERCENT_COMPLETE": 0,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   }
 }

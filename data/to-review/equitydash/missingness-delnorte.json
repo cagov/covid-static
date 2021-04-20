@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Del Norte",
       "METRIC": "cases",
-      "MISSING": 20,
-      "NOT_MISSING": 139,
-      "TOTAL": 159,
-      "PERCENT_COMPLETE": 0.874213836477987,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.867132867132867,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0070809693451204,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 12,
+      "NOT_MISSING": 129,
+      "TOTAL": 141,
+      "PERCENT_COMPLETE": 0.914893617021277,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.856209150326797,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0586844666944792,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "COUNTY": "Del Norte",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     },
     "tests": {
       "COUNTY": "Del Norte",
       "METRIC": "tests",
-      "MISSING": 7845,
-      "NOT_MISSING": 1871,
-      "TOTAL": 9716,
-      "PERCENT_COMPLETE": 0.192568958419103,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.119611807521229,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0729571508978732,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 7642,
+      "NOT_MISSING": 1863,
+      "TOTAL": 9505,
+      "PERCENT_COMPLETE": 0.196002104155707,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.138964130345563,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.057037973810144,
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 4,
-      "NOT_MISSING": 103,
-      "TOTAL": 107,
-      "PERCENT_COMPLETE": 0.962616822429907,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.029383177570093,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 2,
+      "NOT_MISSING": 89,
+      "TOTAL": 91,
+      "PERCENT_COMPLETE": 0.978021978021978,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.014041514041514,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 84,
-      "NOT_MISSING": 23,
-      "TOTAL": 107,
-      "PERCENT_COMPLETE": 0.214953271028037,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.113046728971963,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 70,
+      "NOT_MISSING": 21,
+      "TOTAL": 91,
+      "PERCENT_COMPLETE": 0.230769230769231,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.094627594627594,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   }
 }

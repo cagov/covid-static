@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Shasta",
       "METRIC": "cases",
-      "MISSING": 46,
-      "NOT_MISSING": 268,
-      "TOTAL": 314,
-      "PERCENT_COMPLETE": 0.853503184713376,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.844705882352941,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0087973023604347,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 61,
+      "NOT_MISSING": 327,
+      "TOTAL": 388,
+      "PERCENT_COMPLETE": 0.842783505154639,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.859943977591036,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0171604724363974,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "COUNTY": "Shasta",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     },
     "tests": {
       "COUNTY": "Shasta",
       "METRIC": "tests",
-      "MISSING": 8132,
-      "NOT_MISSING": 8213,
-      "TOTAL": 16345,
-      "PERCENT_COMPLETE": 0.502477821963903,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.466728889864939,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0357489320989643,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 8001,
+      "NOT_MISSING": 8457,
+      "TOTAL": 16458,
+      "PERCENT_COMPLETE": 0.513853445133066,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.471942841439956,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.04191060369311,
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 2,
-      "NOT_MISSING": 266,
-      "TOTAL": 268,
-      "PERCENT_COMPLETE": 0.992537313432836,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.004767268777407,
-      "REPORT_DATE": "2021-04-13"
+      "NOT_MISSING": 337,
+      "TOTAL": 339,
+      "PERCENT_COMPLETE": 0.994100294985251,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.00362410450906,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 222,
-      "NOT_MISSING": 46,
-      "TOTAL": 268,
-      "PERCENT_COMPLETE": 0.171641791044776,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.11407249466951,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 276,
+      "NOT_MISSING": 63,
+      "TOTAL": 339,
+      "PERCENT_COMPLETE": 0.185840707964602,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.10622278409889,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   }
 }

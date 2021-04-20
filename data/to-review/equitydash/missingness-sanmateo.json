@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "San Mateo",
       "METRIC": "cases",
-      "MISSING": 144,
-      "NOT_MISSING": 901,
-      "TOTAL": 1045,
-      "PERCENT_COMPLETE": 0.862200956937799,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.822316555488175,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0398844014496245,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 153,
+      "NOT_MISSING": 940,
+      "TOTAL": 1093,
+      "PERCENT_COMPLETE": 0.860018298261665,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.825327510917031,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0346907873446345,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "COUNTY": "San Mateo",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     },
     "tests": {
       "COUNTY": "San Mateo",
       "METRIC": "tests",
-      "MISSING": 53279,
-      "NOT_MISSING": 114076,
-      "TOTAL": 167355,
-      "PERCENT_COMPLETE": 0.681640823399361,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.662273280172996,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0193675432263642,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 53842,
+      "NOT_MISSING": 118993,
+      "TOTAL": 172835,
+      "PERCENT_COMPLETE": 0.68847744959065,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.663505438700479,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0249720108901711,
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 1,
-      "NOT_MISSING": 837,
-      "TOTAL": 838,
-      "PERCENT_COMPLETE": 0.998806682577566,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.003486869785054,
-      "REPORT_DATE": "2021-04-13"
+      "NOT_MISSING": 845,
+      "TOTAL": 846,
+      "PERCENT_COMPLETE": 0.998817966903073,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.000674977116629,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 831,
-      "NOT_MISSING": 7,
-      "TOTAL": 838,
-      "PERCENT_COMPLETE": 0.008353221957041,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.005233097152048,
-      "REPORT_DATE": "2021-04-13"
+      "MISSING": 835,
+      "NOT_MISSING": 11,
+      "TOTAL": 846,
+      "PERCENT_COMPLETE": 0.013002364066194,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.009288343639082,
+      "REPORT_DATE": "2021-04-20"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-13"
+      "REPORT_DATE": "2021-04-20"
     }
   }
 }
