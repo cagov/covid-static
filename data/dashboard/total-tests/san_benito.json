@@ -1,15 +1,15 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-19",
+    "PUBLISHED_DATE": "2021-04-20",
     "coverage": "San Benito"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS": {
-        "total_tests_performed": 76569,
-        "new_tests_reported": 171,
-        "new_tests_reported_delta_1_day": 0.002238278489,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-10",
+        "total_tests_performed": 76659,
+        "new_tests_reported": 90,
+        "new_tests_reported_delta_1_day": 0.001175410414,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-11",
         "POPULATION": 64022
       }
     },
@@ -17,24 +17,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-18",
+            "VALUE": 20
+          },
+          {
             "DATE": "2021-04-17",
-            "VALUE": 17
+            "VALUE": 32
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 108
+            "VALUE": 156
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 161
+            "VALUE": 167
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 272
+            "VALUE": 273
           },
           {
             "DATE": "2021-04-13",
@@ -1677,9 +1681,13 @@
       "REPORTED_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 90
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 171
@@ -3081,24 +3089,28 @@
       "AVG_TEST_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-17"
+          "MAXIMUM": "2021-04-18"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-18",
+            "VALUE": 286.507762956
+          },
+          {
             "DATE": "2021-04-17",
-            "VALUE": 287.401205835
+            "VALUE": 303.020836587
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 294.094217613
+            "VALUE": 306.366561494
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 308.375246009
+            "VALUE": 309.937209084
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 313.954578114
+            "VALUE": 314.17637687
           },
           {
             "DATE": "2021-04-13",
@@ -4741,9 +4753,13 @@
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 317.524779428
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 318.640467339
