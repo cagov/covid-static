@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-19",
+    "PUBLISHED_DATE": "2021-04-20",
     "coverage": "Stanislaus"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 24,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.043478,
+        "TOTAL": 28,
+        "CHANGE": 4,
+        "CHANGE_FACTOR": 0.166667,
         "POPULATION": 562303
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 28
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 24

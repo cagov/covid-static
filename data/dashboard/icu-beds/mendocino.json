@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-19",
+    "PUBLISHED_DATE": "2021-04-20",
     "coverage": "Mendocino"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 5,
+        "TOTAL": 6,
         "CHANGE": 1,
-        "CHANGE_FACTOR": 0.25,
+        "CHANGE_FACTOR": 0.2,
         "POPULATION": 88439
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-19",
+            "VALUE": 6
+          },
           {
             "DATE": "2021-04-18",
             "VALUE": 5
