@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-20",
+    "PUBLISHED_DATE": "2021-04-21",
     "coverage": "Monterey"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 33,
-        "CHANGE": 6,
-        "CHANGE_FACTOR": 0.222222,
+        "TOTAL": 32,
+        "CHANGE": -1,
+        "CHANGE_FACTOR": -0.030303,
         "POPULATION": 448732
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 32
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 33

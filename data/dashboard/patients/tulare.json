@@ -1,20 +1,20 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-20",
+    "PUBLISHED_DATE": "2021-04-21",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 27,
-        "CHANGE": 6,
-        "CHANGE_FACTOR": 0.285714,
+        "TOTAL": 31,
+        "CHANGE": 4,
+        "CHANGE_FACTOR": 0.148148,
         "POPULATION": 484423
       },
       "ICU_PATIENTS": {
         "TOTAL": 6,
-        "CHANGE": 1,
-        "CHANGE_FACTOR": 0.2,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 484423
       }
     },
@@ -22,9 +22,13 @@
       "HOSPITALIZED_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 31
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 27
@@ -1574,9 +1578,13 @@
       "ICU_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 6
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 6
@@ -3126,9 +3134,13 @@
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 23.642
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 22.857
@@ -4678,9 +4690,13 @@
       "ICU_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 4.571
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 4.357

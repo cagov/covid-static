@@ -1,20 +1,20 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-20",
+    "PUBLISHED_DATE": "2021-04-21",
     "coverage": "Contra Costa"
   },
   "data": {
     "latest": {
       "HOSPITALIZED_PATIENTS": {
-        "TOTAL": 53,
-        "CHANGE": 3,
-        "CHANGE_FACTOR": 0.06,
+        "TOTAL": 49,
+        "CHANGE": -4,
+        "CHANGE_FACTOR": -0.075472,
         "POPULATION": 1160099
       },
       "ICU_PATIENTS": {
-        "TOTAL": 9,
-        "CHANGE": 0,
-        "CHANGE_FACTOR": 0,
+        "TOTAL": 10,
+        "CHANGE": 1,
+        "CHANGE_FACTOR": 0.111111,
         "POPULATION": 1160099
       }
     },
@@ -22,9 +22,13 @@
       "HOSPITALIZED_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 49
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 53
@@ -1574,9 +1578,13 @@
       "ICU_PATIENTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 10
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 9
@@ -3126,9 +3134,13 @@
       "HOSPITALIZED_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 41.142
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 40.642
@@ -4678,9 +4690,13 @@
       "ICU_PATIENTS_14_DAY_AVG": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 10.214
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 10.571
