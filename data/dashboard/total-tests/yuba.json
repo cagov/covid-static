@@ -1,15 +1,15 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-20",
+    "PUBLISHED_DATE": "2021-04-21",
     "coverage": "Yuba"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS": {
-        "total_tests_performed": 65233,
-        "new_tests_reported": 123,
-        "new_tests_reported_delta_1_day": 0.001889110736,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-11",
+        "total_tests_performed": 65335,
+        "new_tests_reported": 102,
+        "new_tests_reported_delta_1_day": 0.001563625772,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-12",
         "POPULATION": 79290
       }
     },
@@ -17,32 +17,36 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-19",
+            "VALUE": 37
+          },
+          {
             "DATE": "2021-04-18",
-            "VALUE": 30
+            "VALUE": 58
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 57
+            "VALUE": 72
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 135
+            "VALUE": 142
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 146
+            "VALUE": 153
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 165
+            "VALUE": 169
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 280
+            "VALUE": 283
           },
           {
             "DATE": "2021-04-12",
@@ -498,7 +502,7 @@
           },
           {
             "DATE": "2020-12-20",
-            "VALUE": 156
+            "VALUE": 157
           },
           {
             "DATE": "2020-12-19",
@@ -1681,9 +1685,13 @@
       "REPORTED_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 102
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 123
@@ -3089,32 +3097,36 @@
       "AVG_TEST_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-19",
+            "VALUE": 164.67524278
+          },
+          {
             "DATE": "2021-04-18",
-            "VALUE": 200.349350486
+            "VALUE": 211.880438895
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 208.817000883
+            "VALUE": 215.303316938
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 218.006053727
+            "VALUE": 221.789632993
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 221.969983604
+            "VALUE": 224.492369782
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 220.887879934
+            "VALUE": 222.149073023
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 224.131668558
+            "VALUE": 224.6714592
           },
           {
             "DATE": "2021-04-12",
@@ -3546,31 +3558,31 @@
           },
           {
             "DATE": "2020-12-26",
-            "VALUE": 354.214907302
+            "VALUE": 354.395257914
           },
           {
             "DATE": "2020-12-25",
-            "VALUE": 370.249716232
+            "VALUE": 370.430066843
           },
           {
             "DATE": "2020-12-24",
-            "VALUE": 417.994702989
+            "VALUE": 418.175053601
           },
           {
             "DATE": "2020-12-23",
-            "VALUE": 422.859124732
+            "VALUE": 423.039475344
           },
           {
             "DATE": "2020-12-22",
-            "VALUE": 444.119056628
+            "VALUE": 444.299407239
           },
           {
             "DATE": "2020-12-21",
-            "VALUE": 440.156387943
+            "VALUE": 440.335477362
           },
           {
             "DATE": "2020-12-20",
-            "VALUE": 442.137722285
+            "VALUE": 442.318072897
           },
           {
             "DATE": "2020-12-19",
@@ -4753,9 +4765,13 @@
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 224.672540223
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 227.1949264
