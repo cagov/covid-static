@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-20",
+    "PUBLISHED_DATE": "2021-04-21",
     "coverage": "Butte"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
-        "TOTAL": 7,
-        "CHANGE": -6,
-        "CHANGE_FACTOR": -0.461538,
+        "TOTAL": 12,
+        "CHANGE": 5,
+        "CHANGE_FACTOR": 0.714286,
         "POPULATION": 217769
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 12
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 7
