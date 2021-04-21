@@ -1,15 +1,15 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-20",
+    "PUBLISHED_DATE": "2021-04-21",
     "coverage": "Sutter"
   },
   "data": {
     "latest": {
       "TOTAL_TESTS": {
-        "total_tests_performed": 93596,
-        "new_tests_reported": 183,
-        "new_tests_reported_delta_1_day": 0.001959042103,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-11",
+        "total_tests_performed": 93714,
+        "new_tests_reported": 118,
+        "new_tests_reported_delta_1_day": 0.001260737638,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-12",
         "POPULATION": 105747
       }
     },
@@ -17,36 +17,40 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-19",
+            "VALUE": 61
+          },
+          {
             "DATE": "2021-04-18",
-            "VALUE": 35
+            "VALUE": 59
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 74
+            "VALUE": 85
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 226
+            "VALUE": 234
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 173
+            "VALUE": 179
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 189
+            "VALUE": 193
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 419
+            "VALUE": 422
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 700
+            "VALUE": 701
           },
           {
             "DATE": "2021-04-11",
@@ -1681,9 +1685,13 @@
       "REPORTED_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 118
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 183
@@ -3089,36 +3097,40 @@
       "AVG_TEST_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-18"
+          "MAXIMUM": "2021-04-19"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-19",
+            "VALUE": 166.569264376
+          },
+          {
             "DATE": "2021-04-18",
-            "VALUE": 245.328945502
+            "VALUE": 253.029400361
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 254.650250125
+            "VALUE": 259.109005456
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 257.487210039
+            "VALUE": 260.459398375
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 254.515021703
+            "VALUE": 256.406328312
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 263.161129867
+            "VALUE": 264.242011594
           },
           {
             "DATE": "2021-04-13",
-            "VALUE": 268.835049694
+            "VALUE": 269.375963384
           },
           {
             "DATE": "2021-04-12",
-            "VALUE": 282.88462084
+            "VALUE": 283.019849263
           },
           {
             "DATE": "2021-04-11",
@@ -4753,9 +4765,13 @@
       "AVG_TEST_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-05-05",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-20",
+            "VALUE": 301.798497492
+          },
           {
             "DATE": "2021-04-19",
             "VALUE": 300.717750858
