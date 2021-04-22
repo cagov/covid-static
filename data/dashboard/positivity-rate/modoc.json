@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-21",
+    "PUBLISHED_DATE": "2021-04-22",
     "coverage": "Modoc"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.066667,
-        "test_positivity_7_days_delta_7_days": 0.048148,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-12",
+        "test_positivity_7_days": 0,
+        "test_positivity_7_days_delta_7_days": -0.053571,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-13",
         "POPULATION": 9475
       }
     },
@@ -16,12 +16,16 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-20",
+            "VALUE": 0
+          },
+          {
             "DATE": "2021-04-19",
-            "VALUE": 0.066667
+            "VALUE": 0.057143
           },
           {
             "DATE": "2021-04-18",
@@ -669,31 +673,31 @@
           },
           {
             "DATE": "2020-11-08",
-            "VALUE": 0.077465
+            "VALUE": 0.076923
           },
           {
             "DATE": "2020-11-07",
-            "VALUE": 0.083333
+            "VALUE": 0.082759
           },
           {
             "DATE": "2020-11-06",
-            "VALUE": 0.083333
+            "VALUE": 0.082759
           },
           {
             "DATE": "2020-11-05",
-            "VALUE": 0.068182
+            "VALUE": 0.067797
           },
           {
             "DATE": "2020-11-04",
-            "VALUE": 0.042683
+            "VALUE": 0.042424
           },
           {
             "DATE": "2020-11-03",
-            "VALUE": 0.047945
+            "VALUE": 0.047619
           },
           {
             "DATE": "2020-11-02",
-            "VALUE": 0.042254
+            "VALUE": 0.041958
           },
           {
             "DATE": "2020-11-01",
@@ -1684,12 +1688,16 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-19"
+          "MAXIMUM": "2021-04-20"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-20",
+            "VALUE": 0
+          },
+          {
             "DATE": "2021-04-19",
-            "VALUE": 1
+            "VALUE": 6
           },
           {
             "DATE": "2021-04-18",
@@ -2361,7 +2369,7 @@
           },
           {
             "DATE": "2020-11-02",
-            "VALUE": 22
+            "VALUE": 23
           },
           {
             "DATE": "2020-11-01",
