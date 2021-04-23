@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-22",
+    "PUBLISHED_DATE": "2021-04-23",
     "coverage": "Trinity"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0,
-        "test_positivity_7_days_delta_7_days": -0.034091,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-13",
+        "test_positivity_7_days": 0.014706,
+        "test_positivity_7_days_delta_7_days": -0.021879,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-14",
         "POPULATION": 13354
       }
     },
@@ -16,24 +16,28 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-20"
+          "MAXIMUM": "2021-04-21"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-21",
+            "VALUE": 0.014706
+          },
+          {
             "DATE": "2021-04-20",
-            "VALUE": 0
+            "VALUE": 0.012048
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 0
+            "VALUE": 0.011236
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 0
+            "VALUE": 0.012048
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 0
+            "VALUE": 0.012821
           },
           {
             "DATE": "2021-04-16",
@@ -93,31 +97,31 @@
           },
           {
             "DATE": "2021-04-02",
-            "VALUE": 0.065789
+            "VALUE": 0.064935
           },
           {
             "DATE": "2021-04-01",
-            "VALUE": 0.067568
+            "VALUE": 0.066667
           },
           {
             "DATE": "2021-03-31",
-            "VALUE": 0.08
+            "VALUE": 0.078947
           },
           {
             "DATE": "2021-03-30",
-            "VALUE": 0.077922
+            "VALUE": 0.076923
           },
           {
             "DATE": "2021-03-29",
-            "VALUE": 0.064103
+            "VALUE": 0.063291
           },
           {
             "DATE": "2021-03-28",
-            "VALUE": 0.072289
+            "VALUE": 0.071429
           },
           {
             "DATE": "2021-03-27",
-            "VALUE": 0.074074
+            "VALUE": 0.073171
           },
           {
             "DATE": "2021-03-26",
@@ -1688,16 +1692,20 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-20"
+          "MAXIMUM": "2021-04-21"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-21",
+            "VALUE": 1
+          },
+          {
             "DATE": "2021-04-20",
-            "VALUE": 3
+            "VALUE": 5
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 22
+            "VALUE": 26
           },
           {
             "DATE": "2021-04-18",
@@ -1705,7 +1713,7 @@
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 8
+            "VALUE": 9
           },
           {
             "DATE": "2021-04-16",
@@ -1789,7 +1797,7 @@
           },
           {
             "DATE": "2021-03-27",
-            "VALUE": 15
+            "VALUE": 16
           },
           {
             "DATE": "2021-03-26",
