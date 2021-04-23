@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-22",
+    "PUBLISHED_DATE": "2021-04-23",
     "coverage": "San Benito"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
         "TOTAL": 0,
-        "CHANGE": -1,
-        "CHANGE_FACTOR": -1,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 64022
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-21"
+          "MAXIMUM": "2021-04-22"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-22",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-21",
             "VALUE": 0
