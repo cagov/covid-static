@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-22",
+    "PUBLISHED_DATE": "2021-04-23",
     "coverage": "Glenn"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
         "total_confirmed_cases": 2361,
-        "new_cases": 2,
-        "new_cases_delta_1_day": 0.000848,
-        "cases_per_100k_7_days": 4.865748944,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-14",
+        "new_cases": 0,
+        "new_cases_delta_1_day": 0,
+        "cases_per_100k_7_days": 3.8912362,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-15",
         "POPULATION": 29348
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-21"
+          "MAXIMUM": "2021-04-22"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-22",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-21",
             "VALUE": 0
@@ -443,7 +447,7 @@
           },
           {
             "DATE": "2021-01-06",
-            "VALUE": 28
+            "VALUE": 27
           },
           {
             "DATE": "2021-01-05",
@@ -463,7 +467,7 @@
           },
           {
             "DATE": "2021-01-01",
-            "VALUE": 19
+            "VALUE": 20
           },
           {
             "DATE": "2020-12-31",
@@ -1694,9 +1698,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-21"
+          "MAXIMUM": "2021-04-22"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-22",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-21",
             "VALUE": 2
@@ -3370,9 +3378,13 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-21"
+          "MAXIMUM": "2021-04-22"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-22",
+            "VALUE": 1.458361728
+          },
           {
             "DATE": "2021-04-21",
             "VALUE": 1.9456181
@@ -3771,23 +3783,23 @@
           },
           {
             "DATE": "2021-01-12",
-            "VALUE": 71.555131525
+            "VALUE": 71.067875153
           },
           {
             "DATE": "2021-01-11",
-            "VALUE": 74.475262369
+            "VALUE": 73.988005997
           },
           {
             "DATE": "2021-01-10",
-            "VALUE": 76.420880469
-          },
-          {
-            "DATE": "2021-01-09",
             "VALUE": 75.933624097
           },
           {
+            "DATE": "2021-01-09",
+            "VALUE": 75.446367725
+          },
+          {
             "DATE": "2021-01-08",
-            "VALUE": 80.802780428
+            "VALUE": 80.315524056
           },
           {
             "DATE": "2021-01-07",
@@ -3799,23 +3811,23 @@
           },
           {
             "DATE": "2021-01-05",
-            "VALUE": 89.563172959
+            "VALUE": 90.050429331
           },
           {
             "DATE": "2021-01-04",
-            "VALUE": 87.617554859
+            "VALUE": 88.104811231
           },
           {
             "DATE": "2021-01-03",
-            "VALUE": 85.184680387
+            "VALUE": 85.668529372
           },
           {
             "DATE": "2021-01-02",
-            "VALUE": 87.617554859
+            "VALUE": 88.104811231
           },
           {
             "DATE": "2021-01-01",
-            "VALUE": 81.777293172
+            "VALUE": 82.261142156
           },
           {
             "DATE": "2020-12-31",
@@ -5046,9 +5058,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-21"
+          "MAXIMUM": "2021-04-22"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-22",
+            "VALUE": 3.407387215
+          },
           {
             "DATE": "2021-04-21",
             "VALUE": 3.8912362
