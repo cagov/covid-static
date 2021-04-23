@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-22",
+    "PUBLISHED_DATE": "2021-04-23",
     "coverage": "Lassen"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.005325,
-        "test_positivity_7_days_delta_7_days": 0.000273,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-13",
+        "test_positivity_7_days": 0.005357,
+        "test_positivity_7_days_delta_7_days": 0.000832,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-14",
         "POPULATION": 30065
       }
     },
@@ -16,24 +16,28 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-20"
+          "MAXIMUM": "2021-04-21"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-21",
+            "VALUE": 0.005357
+          },
+          {
             "DATE": "2021-04-20",
-            "VALUE": 0.005325
+            "VALUE": 0.005023
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 0.005195
+            "VALUE": 0.005512
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 0.006041
+            "VALUE": 0.006031
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 0.006046
+            "VALUE": 0.006044
           },
           {
             "DATE": "2021-04-16",
@@ -1117,55 +1121,55 @@
           },
           {
             "DATE": "2020-07-20",
-            "VALUE": 0.039006
+            "VALUE": 0.038593
           },
           {
             "DATE": "2020-07-19",
-            "VALUE": 0.037229
+            "VALUE": 0.036812
           },
           {
             "DATE": "2020-07-18",
-            "VALUE": 0.037892
+            "VALUE": 0.037473
           },
           {
             "DATE": "2020-07-17",
-            "VALUE": 0.027386
+            "VALUE": 0.026982
           },
           {
             "DATE": "2020-07-16",
-            "VALUE": 0.051392
+            "VALUE": 0.050985
           },
           {
             "DATE": "2020-07-15",
-            "VALUE": 0.083041
+            "VALUE": 0.082683
           },
           {
             "DATE": "2020-07-14",
-            "VALUE": 0.083464
+            "VALUE": 0.082889
           },
           {
             "DATE": "2020-07-13",
-            "VALUE": 0.076074
+            "VALUE": 0.075798
           },
           {
             "DATE": "2020-07-12",
-            "VALUE": 0.070423
+            "VALUE": 0.070161
           },
           {
             "DATE": "2020-07-11",
-            "VALUE": 0.069899
+            "VALUE": 0.069636
           },
           {
             "DATE": "2020-07-10",
-            "VALUE": 0.076185
+            "VALUE": 0.075898
           },
           {
             "DATE": "2020-07-09",
-            "VALUE": 0.064571
+            "VALUE": 0.064252
           },
           {
             "DATE": "2020-07-08",
-            "VALUE": 0.036314
+            "VALUE": 0.035938
           },
           {
             "DATE": "2020-07-07",
@@ -1688,24 +1692,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-20"
+          "MAXIMUM": "2021-04-21"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-21",
+            "VALUE": 4
+          },
+          {
             "DATE": "2021-04-20",
-            "VALUE": 1
+            "VALUE": 416
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 69
+            "VALUE": 702
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 18
+            "VALUE": 21
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 30
+            "VALUE": 31
           },
           {
             "DATE": "2021-04-16",
@@ -2813,7 +2821,7 @@
           },
           {
             "DATE": "2020-07-14",
-            "VALUE": 303
+            "VALUE": 302
           },
           {
             "DATE": "2020-07-13",
@@ -2837,7 +2845,7 @@
           },
           {
             "DATE": "2020-07-08",
-            "VALUE": 928
+            "VALUE": 927
           },
           {
             "DATE": "2020-07-07",
