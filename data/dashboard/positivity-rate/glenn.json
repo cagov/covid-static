@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-23",
+    "PUBLISHED_DATE": "2021-04-24",
     "coverage": "Glenn"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.01487,
-        "test_positivity_7_days_delta_7_days": -0.009821,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-14",
+        "test_positivity_7_days": 0.010753,
+        "test_positivity_7_days_delta_7_days": -0.012324,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-15",
         "POPULATION": 29348
       }
     },
@@ -16,20 +16,24 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-21"
+          "MAXIMUM": "2021-04-22"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-22",
+            "VALUE": 0.010753
+          },
+          {
             "DATE": "2021-04-21",
-            "VALUE": 0.01487
+            "VALUE": 0.013289
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 0.015432
+            "VALUE": 0.014577
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 0.016
+            "VALUE": 0.015873
           },
           {
             "DATE": "2021-04-18",
@@ -1692,20 +1696,24 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-21"
+          "MAXIMUM": "2021-04-22"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-22",
+            "VALUE": 3
+          },
+          {
             "DATE": "2021-04-21",
-            "VALUE": 2
+            "VALUE": 15
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 17
+            "VALUE": 33
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 138
+            "VALUE": 141
           },
           {
             "DATE": "2021-04-18",
