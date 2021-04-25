@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-24",
+    "PUBLISHED_DATE": "2021-04-25",
     "coverage": "Riverside"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 4399,
+        "total_confirmed_deaths": 4400,
         "new_deaths": 1,
         "new_deaths_delta_1_day": 0.000227,
         "deaths_per_100k_7_days": 0.086785825,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-04-02",
+        "DEATH_UNCERTAINTY_PERIOD": "2021-04-03",
         "POPULATION": 2468145
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 0
@@ -419,7 +423,7 @@
           },
           {
             "DATE": "2021-01-14",
-            "VALUE": 46
+            "VALUE": 47
           },
           {
             "DATE": "2021-01-13",
@@ -1702,9 +1706,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 1
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 1
@@ -3386,9 +3394,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 0.005753309
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 0.005753309
@@ -3763,31 +3775,31 @@
           },
           {
             "DATE": "2021-01-20",
-            "VALUE": 1.828984926
+            "VALUE": 1.834778751
           },
           {
             "DATE": "2021-01-19",
-            "VALUE": 1.886882659
+            "VALUE": 1.892676484
           },
           {
             "DATE": "2021-01-18",
-            "VALUE": 1.944780392
-          },
-          {
-            "DATE": "2021-01-17",
-            "VALUE": 1.927398917
-          },
-          {
-            "DATE": "2021-01-16",
-            "VALUE": 1.933192742
-          },
-          {
-            "DATE": "2021-01-15",
             "VALUE": 1.9505337
           },
           {
-            "DATE": "2021-01-14",
+            "DATE": "2021-01-17",
+            "VALUE": 1.933192742
+          },
+          {
+            "DATE": "2021-01-16",
+            "VALUE": 1.938986567
+          },
+          {
+            "DATE": "2021-01-15",
             "VALUE": 1.956327525
+          },
+          {
+            "DATE": "2021-01-14",
+            "VALUE": 1.96212135
           },
           {
             "DATE": "2021-01-13",
@@ -5070,9 +5082,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 0.167818341
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 0.173612166

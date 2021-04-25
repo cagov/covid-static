@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-24",
+    "PUBLISHED_DATE": "2021-04-25",
     "coverage": "Inyo"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
-        "total_confirmed_cases": 1395,
+        "total_confirmed_cases": 1396,
         "new_cases": 1,
         "new_cases_delta_1_day": 0.000717,
-        "cases_per_100k_7_days": 1.544464315,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-16",
+        "cases_per_100k_7_days": 0.769522571,
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-17",
         "POPULATION": 18453
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 0
@@ -71,11 +75,11 @@
           },
           {
             "DATE": "2021-04-11",
-            "VALUE": 1
+            "VALUE": 0
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 0
+            "VALUE": 1
           },
           {
             "DATE": "2021-04-09",
@@ -671,7 +675,7 @@
           },
           {
             "DATE": "2020-11-12",
-            "VALUE": 2
+            "VALUE": 3
           },
           {
             "DATE": "2020-11-11",
@@ -1702,9 +1706,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 1
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 1
@@ -3386,9 +3394,13 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 3.094347803
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 3.094347803
@@ -3415,7 +3427,7 @@
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 1.544464315
+            "VALUE": 0.769522571
           },
           {
             "DATE": "2021-04-16",
@@ -3443,7 +3455,7 @@
           },
           {
             "DATE": "2021-04-10",
-            "VALUE": 6.963637349
+            "VALUE": 7.738579093
           },
           {
             "DATE": "2021-04-09",
@@ -4015,31 +4027,31 @@
           },
           {
             "DATE": "2020-11-18",
-            "VALUE": 14.707635615
+            "VALUE": 15.482577359
           },
           {
             "DATE": "2020-11-17",
-            "VALUE": 14.707635615
+            "VALUE": 15.482577359
           },
           {
             "DATE": "2020-11-16",
-            "VALUE": 12.382810383
+            "VALUE": 13.157752127
           },
           {
             "DATE": "2020-11-15",
-            "VALUE": 7.738579093
+            "VALUE": 8.513520837
           },
           {
             "DATE": "2020-11-14",
-            "VALUE": 8.513520837
-          },
-          {
-            "DATE": "2020-11-13",
             "VALUE": 9.288462581
           },
           {
+            "DATE": "2020-11-13",
+            "VALUE": 10.063404325
+          },
+          {
             "DATE": "2020-11-12",
-            "VALUE": 8.513520837
+            "VALUE": 9.288462581
           },
           {
             "DATE": "2020-11-11",
@@ -5070,9 +5082,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-23"
+          "MAXIMUM": "2021-04-24"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-24",
+            "VALUE": 3.094347803
+          },
           {
             "DATE": "2021-04-23",
             "VALUE": 2.319406059
