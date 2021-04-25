@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-24",
+    "PUBLISHED_DATE": "2021-04-25",
     "coverage": "Lake"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.015348,
-        "test_positivity_7_days_delta_7_days": -0.015718,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-15",
+        "test_positivity_7_days": 0.016624,
+        "test_positivity_7_days_delta_7_days": -0.011498,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-16",
         "POPULATION": 64871
       }
     },
@@ -16,24 +16,28 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 0.016624
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 0.015348
+            "VALUE": 0.015924
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 0.014437
+            "VALUE": 0.015357
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 0.015789
+            "VALUE": 0.015639
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 0.022202
+            "VALUE": 0.022163
           },
           {
             "DATE": "2021-04-18",
@@ -1696,24 +1700,28 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 6
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 27
+            "VALUE": 54
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 71
+            "VALUE": 128
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 221
+            "VALUE": 230
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 254
+            "VALUE": 256
           },
           {
             "DATE": "2021-04-18",

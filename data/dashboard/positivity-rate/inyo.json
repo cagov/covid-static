@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-24",
+    "PUBLISHED_DATE": "2021-04-25",
     "coverage": "Inyo"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.017422,
-        "test_positivity_7_days_delta_7_days": 0.001612,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-15",
+        "test_positivity_7_days": 0.01773,
+        "test_positivity_7_days_delta_7_days": 0.006102,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-16",
         "POPULATION": 18453
       }
     },
@@ -16,24 +16,28 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 0.01773
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 0.017422
+            "VALUE": 0.01634
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 0.013245
+            "VALUE": 0.013072
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 0.009901
+            "VALUE": 0.009772
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 0.012346
+            "VALUE": 0.012146
           },
           {
             "DATE": "2021-04-18",
@@ -1696,12 +1700,16 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 4
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 28
+            "VALUE": 43
           },
           {
             "DATE": "2021-04-21",
@@ -1713,7 +1721,7 @@
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 40
+            "VALUE": 44
           },
           {
             "DATE": "2021-04-18",
