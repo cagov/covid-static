@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-24",
+    "PUBLISHED_DATE": "2021-04-25",
     "coverage": "Tulare"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.012955,
-        "test_positivity_7_days_delta_7_days": 0.001413,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-15",
+        "test_positivity_7_days": 0.012418,
+        "test_positivity_7_days_delta_7_days": 0.001072,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-16",
         "POPULATION": 484423
       }
     },
@@ -16,44 +16,48 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 0.012418
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 0.012955
+            "VALUE": 0.012442
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 0.012571
+            "VALUE": 0.01241
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 0.011571
+            "VALUE": 0.01168
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 0.011955
+            "VALUE": 0.011884
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 0.012158
+            "VALUE": 0.012153
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 0.011786
+            "VALUE": 0.011782
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 0.011349
+            "VALUE": 0.011346
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 0.011542
+            "VALUE": 0.011541
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 0.010636
+            "VALUE": 0.010635
           },
           {
             "DATE": "2021-04-13",
@@ -1696,28 +1700,32 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 131
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 232
+            "VALUE": 578
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 833
+            "VALUE": 1336
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 1759
+            "VALUE": 1956
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 2582
+            "VALUE": 2636
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 336
+            "VALUE": 337
           },
           {
             "DATE": "2021-04-17",
@@ -1725,7 +1733,7 @@
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 1160
+            "VALUE": 1162
           },
           {
             "DATE": "2021-04-15",
@@ -1733,7 +1741,7 @@
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 1496
+            "VALUE": 1497
           },
           {
             "DATE": "2021-04-13",

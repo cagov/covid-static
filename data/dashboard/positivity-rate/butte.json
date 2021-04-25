@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-24",
+    "PUBLISHED_DATE": "2021-04-25",
     "coverage": "Butte"
   },
   "data": {
     "latest": {
       "POSITIVITY_RATE": {
-        "test_positivity_7_days": 0.038207,
-        "test_positivity_7_days_delta_7_days": 0.002534,
-        "TESTING_UNCERTAINTY_PERIOD": "2021-04-15",
+        "test_positivity_7_days": 0.038205,
+        "test_positivity_7_days_delta_7_days": 0.000796,
+        "TESTING_UNCERTAINTY_PERIOD": "2021-04-16",
         "POPULATION": 217769
       }
     },
@@ -16,36 +16,40 @@
       "TEST_POSITIVITY_RATE_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 0.038205
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 0.038207
+            "VALUE": 0.036985
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 0.040441
+            "VALUE": 0.039875
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 0.038734
+            "VALUE": 0.039267
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 0.039805
+            "VALUE": 0.039601
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 0.040646
+            "VALUE": 0.040601
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 0.039379
+            "VALUE": 0.039368
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 0.03742
+            "VALUE": 0.037409
           },
           {
             "DATE": "2021-04-15",
@@ -1696,28 +1700,32 @@
       "TOTAL_TESTS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-22"
+          "MAXIMUM": "2021-04-23"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-23",
+            "VALUE": 13
+          },
+          {
             "DATE": "2021-04-22",
-            "VALUE": 85
+            "VALUE": 141
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 207
+            "VALUE": 369
           },
           {
             "DATE": "2021-04-20",
-            "VALUE": 402
+            "VALUE": 440
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 730
+            "VALUE": 744
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 263
+            "VALUE": 266
           },
           {
             "DATE": "2021-04-17",
@@ -1725,7 +1733,7 @@
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 600
+            "VALUE": 601
           },
           {
             "DATE": "2021-04-15",
