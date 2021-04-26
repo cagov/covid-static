@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-25",
+    "PUBLISHED_DATE": "2021-04-26",
     "coverage": "Nevada"
   },
   "data": {
     "latest": {
       "CONFIRMED_CASES": {
-        "total_confirmed_cases": 4522,
-        "new_cases": 12,
-        "new_cases_delta_1_day": 0.002661,
+        "total_confirmed_cases": 4536,
+        "new_cases": 14,
+        "new_cases_delta_1_day": 0.003096,
         "cases_per_100k_7_days": 8.538142032,
-        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-17",
+        "EPISODE_UNCERTAINTY_PERIOD": "2021-04-18",
         "POPULATION": 98710
       }
     },
@@ -18,24 +18,28 @@
       "CONFIRMED_CASES_EPISODE_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 0
           },
           {
             "DATE": "2021-04-23",
-            "VALUE": 1
+            "VALUE": 2
           },
           {
             "DATE": "2021-04-22",
-            "VALUE": 1
+            "VALUE": 12
           },
           {
             "DATE": "2021-04-21",
-            "VALUE": 7
+            "VALUE": 8
           },
           {
             "DATE": "2021-04-20",
@@ -63,7 +67,7 @@
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 9
+            "VALUE": 10
           },
           {
             "DATE": "2021-04-13",
@@ -1706,9 +1710,13 @@
       "CONFIRMED_CASES_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": 14
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 12
@@ -3394,52 +3402,56 @@
       "AVG_CASE_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
           {
+            "DATE": "2021-04-25",
+            "VALUE": 4.630736501
+          },
+          {
             "DATE": "2021-04-24",
-            "VALUE": 3.617667916
+            "VALUE": 5.498936278
           },
           {
             "DATE": "2021-04-23",
-            "VALUE": 4.485867693
-          },
-          {
-            "DATE": "2021-04-22",
-            "VALUE": 5.788673893
-          },
-          {
-            "DATE": "2021-04-21",
             "VALUE": 6.367136055
           },
           {
+            "DATE": "2021-04-22",
+            "VALUE": 7.525073447
+          },
+          {
+            "DATE": "2021-04-21",
+            "VALUE": 6.512004863
+          },
+          {
             "DATE": "2021-04-20",
-            "VALUE": 6.65687367
+            "VALUE": 6.801742478
           },
           {
             "DATE": "2021-04-19",
-            "VALUE": 7.38020464
+            "VALUE": 7.525073447
           },
           {
             "DATE": "2021-04-18",
-            "VALUE": 8.393273225
+            "VALUE": 8.538142032
           },
           {
             "DATE": "2021-04-17",
-            "VALUE": 8.538142032
+            "VALUE": 8.68301084
           },
           {
             "DATE": "2021-04-16",
-            "VALUE": 8.538142032
+            "VALUE": 8.68301084
           },
           {
             "DATE": "2021-04-15",
-            "VALUE": 8.538142032
+            "VALUE": 8.68301084
           },
           {
             "DATE": "2021-04-14",
-            "VALUE": 8.68301084
+            "VALUE": 8.827879647
           },
           {
             "DATE": "2021-04-13",
@@ -5082,9 +5094,13 @@
       "AVG_CASE_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": 10.419410394
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 9.406341809
