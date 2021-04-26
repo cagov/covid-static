@@ -1,16 +1,16 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-25",
+    "PUBLISHED_DATE": "2021-04-26",
     "coverage": "Alameda"
   },
   "data": {
     "latest": {
       "CONFIRMED_DEATHS": {
-        "total_confirmed_deaths": 1257,
-        "new_deaths": 1,
-        "new_deaths_delta_1_day": 0.000796,
-        "deaths_per_100k_7_days": 0.067738863,
-        "DEATH_UNCERTAINTY_PERIOD": "2021-04-03",
+        "total_confirmed_deaths": 1256,
+        "new_deaths": -1,
+        "new_deaths_delta_1_day": -0.000796,
+        "deaths_per_100k_7_days": 0.076221049,
+        "DEATH_UNCERTAINTY_PERIOD": "2021-04-04",
         "POPULATION": 1685886
       }
     },
@@ -18,9 +18,13 @@
       "CONFIRMED_DEATHS_DEATH_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": 0
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 0
@@ -367,7 +371,7 @@
           },
           {
             "DATE": "2021-01-28",
-            "VALUE": 11
+            "VALUE": 10
           },
           {
             "DATE": "2021-01-27",
@@ -1706,9 +1710,13 @@
       "CONFIRMED_DEATHS_REPORTED_DATE": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": -1
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 1
@@ -3394,9 +3402,13 @@
       "AVG_DEATH_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": 0.016905058
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 0.016905058
@@ -3719,31 +3731,31 @@
           },
           {
             "DATE": "2021-02-03",
-            "VALUE": 0.508397365
+            "VALUE": 0.499915178
           },
           {
             "DATE": "2021-02-02",
-            "VALUE": 0.516879552
+            "VALUE": 0.508397365
           },
           {
             "DATE": "2021-02-01",
-            "VALUE": 0.55923117
+            "VALUE": 0.550748983
           },
           {
             "DATE": "2021-01-31",
-            "VALUE": 0.525361739
+            "VALUE": 0.516879552
           },
           {
             "DATE": "2021-01-30",
-            "VALUE": 0.601582788
+            "VALUE": 0.593159917
           },
           {
             "DATE": "2021-01-29",
-            "VALUE": 0.58467773
+            "VALUE": 0.576195543
           },
           {
             "DATE": "2021-01-28",
-            "VALUE": 0.567713357
+            "VALUE": 0.55923117
           },
           {
             "DATE": "2021-01-27",
@@ -5082,9 +5094,13 @@
       "AVG_DEATH_REPORT_RATE_PER_100K_7_DAYS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-01",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": 0.076221049
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 0.084703236
