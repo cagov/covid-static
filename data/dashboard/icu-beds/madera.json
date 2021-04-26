@@ -1,14 +1,14 @@
 {
   "meta": {
-    "PUBLISHED_DATE": "2021-04-25",
+    "PUBLISHED_DATE": "2021-04-26",
     "coverage": "Madera"
   },
   "data": {
     "latest": {
       "ICU_BEDS": {
         "TOTAL": 11,
-        "CHANGE": 2,
-        "CHANGE_FACTOR": 0.222222,
+        "CHANGE": 0,
+        "CHANGE_FACTOR": 0,
         "POPULATION": 160089
       }
     },
@@ -16,9 +16,13 @@
       "ICU_BEDS": {
         "DATE_RANGE": {
           "MINIMUM": "2020-03-30",
-          "MAXIMUM": "2021-04-24"
+          "MAXIMUM": "2021-04-25"
         },
         "VALUES": [
+          {
+            "DATE": "2021-04-25",
+            "VALUE": 11
+          },
           {
             "DATE": "2021-04-24",
             "VALUE": 11
