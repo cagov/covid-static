@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Imperial",
       "METRIC": "cases",
-      "MISSING": 123,
-      "NOT_MISSING": 436,
-      "TOTAL": 559,
-      "PERCENT_COMPLETE": 0.779964221824687,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.680487804878049,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0994764169466382,
-      "REPORT_DATE": "2021-04-20"
+      "MISSING": 151,
+      "NOT_MISSING": 480,
+      "TOTAL": 631,
+      "PERCENT_COMPLETE": 0.760697305863708,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.74054054054054,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0201567653231679,
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "COUNTY": "Imperial",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     },
     "tests": {
       "COUNTY": "Imperial",
       "METRIC": "tests",
-      "MISSING": 16457,
-      "NOT_MISSING": 6463,
-      "TOTAL": 22920,
-      "PERCENT_COMPLETE": 0.281980802792321,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.219711575537904,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0622692272544172,
-      "REPORT_DATE": "2021-04-20"
+      "MISSING": 17219,
+      "NOT_MISSING": 6787,
+      "TOTAL": 24006,
+      "PERCENT_COMPLETE": 0.282720986420062,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.2312,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0515209864200617,
+      "REPORT_DATE": "2021-04-27"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 1,
-      "NOT_MISSING": 463,
-      "TOTAL": 464,
-      "PERCENT_COMPLETE": 0.997844827586207,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.000685736677116,
-      "REPORT_DATE": "2021-04-20"
+      "MISSING": 3,
+      "NOT_MISSING": 504,
+      "TOTAL": 507,
+      "PERCENT_COMPLETE": 0.994082840236686,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.005917159763314,
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 288,
-      "NOT_MISSING": 176,
-      "TOTAL": 464,
-      "PERCENT_COMPLETE": 0.379310344827586,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.044083072100313,
-      "REPORT_DATE": "2021-04-20"
+      "MISSING": 350,
+      "NOT_MISSING": 157,
+      "TOTAL": 507,
+      "PERCENT_COMPLETE": 0.309664694280079,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.110274882759196,
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     }
   }
 }
