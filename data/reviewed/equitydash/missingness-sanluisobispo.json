@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "San Luis Obispo",
       "METRIC": "cases",
-      "MISSING": 73,
-      "NOT_MISSING": 532,
-      "TOTAL": 605,
-      "PERCENT_COMPLETE": 0.879338842975207,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.933414043583535,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0540752006083285,
-      "REPORT_DATE": "2021-04-20"
+      "MISSING": 74,
+      "NOT_MISSING": 504,
+      "TOTAL": 578,
+      "PERCENT_COMPLETE": 0.8719723183391,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.940182054616385,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0682097362772845,
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "COUNTY": "San Luis Obispo",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     },
     "tests": {
       "COUNTY": "San Luis Obispo",
       "METRIC": "tests",
-      "MISSING": 22584,
-      "NOT_MISSING": 16478,
-      "TOTAL": 39062,
-      "PERCENT_COMPLETE": 0.421842199580155,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.377208326045129,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.044633873535026,
-      "REPORT_DATE": "2021-04-20"
+      "MISSING": 23525,
+      "NOT_MISSING": 16053,
+      "TOTAL": 39578,
+      "PERCENT_COMPLETE": 0.405604123502956,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.389682482712416,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0159216407905402,
+      "REPORT_DATE": "2021-04-27"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 0,
-      "NOT_MISSING": 509,
-      "TOTAL": 509,
+      "NOT_MISSING": 506,
+      "TOTAL": 506,
       "PERCENT_COMPLETE": 1,
       "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 508,
+      "MISSING": 505,
       "NOT_MISSING": 1,
-      "TOTAL": 509,
-      "PERCENT_COMPLETE": 0.00196463654224,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.005420887829991,
-      "REPORT_DATE": "2021-04-20"
+      "TOTAL": 506,
+      "PERCENT_COMPLETE": 0.00197628458498,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.004263965025004,
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     }
   }
 }
