@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Sierra",
       "METRIC": "cases",
-      "MISSING": null,
-      "NOT_MISSING": null,
-      "TOTAL": null,
+      "MISSING": 0,
+      "NOT_MISSING": 0,
+      "TOTAL": 0,
       "PERCENT_COMPLETE": null,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.5,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "COUNTY": "Sierra",
@@ -20,18 +20,18 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     },
     "tests": {
       "COUNTY": "Sierra",
       "METRIC": "tests",
-      "MISSING": 116,
-      "NOT_MISSING": 51,
-      "TOTAL": 167,
-      "PERCENT_COMPLETE": 0.305389221556886,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.258373205741627,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0470160158152594,
-      "REPORT_DATE": "2021-04-20"
+      "MISSING": 124,
+      "NOT_MISSING": 55,
+      "TOTAL": 179,
+      "PERCENT_COMPLETE": 0.307262569832402,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.288557213930348,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.018705355902054,
+      "REPORT_DATE": "2021-04-27"
     }
   },
   "gender_identity": {
@@ -42,7 +42,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,7 +51,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     }
   },
   "sexual_orientation": {
@@ -62,7 +62,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": 0,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-20"
+      "REPORT_DATE": "2021-04-27"
     }
   }
 }
