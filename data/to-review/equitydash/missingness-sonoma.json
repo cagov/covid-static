@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Sonoma",
       "METRIC": "cases",
-      "MISSING": 29,
-      "NOT_MISSING": 492,
-      "TOTAL": 521,
-      "PERCENT_COMPLETE": 0.944337811900192,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.948623853211009,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0042860413108173,
-      "REPORT_DATE": "2021-04-27"
+      "MISSING": 49,
+      "NOT_MISSING": 390,
+      "TOTAL": 439,
+      "PERCENT_COMPLETE": 0.888382687927107,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.93652561247216,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0481429245450533,
+      "REPORT_DATE": "2021-05-04"
     },
     "deaths": {
       "COUNTY": "Sonoma",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-27"
+      "REPORT_DATE": "2021-05-04"
     },
     "tests": {
       "COUNTY": "Sonoma",
       "METRIC": "tests",
-      "MISSING": 16975,
-      "NOT_MISSING": 36947,
-      "TOTAL": 53922,
-      "PERCENT_COMPLETE": 0.685193427543489,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.664254062038405,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.020939365505084,
-      "REPORT_DATE": "2021-04-27"
+      "MISSING": 16837,
+      "NOT_MISSING": 37156,
+      "TOTAL": 53993,
+      "PERCENT_COMPLETE": 0.68816328042524,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.674116871927424,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0140464084978164,
+      "REPORT_DATE": "2021-05-04"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 1,
-      "NOT_MISSING": 384,
-      "TOTAL": 385,
-      "PERCENT_COMPLETE": 0.997402597402597,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.000164312573072,
-      "REPORT_DATE": "2021-04-27"
+      "MISSING": 0,
+      "NOT_MISSING": 317,
+      "TOTAL": 317,
+      "PERCENT_COMPLETE": 1,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0,
+      "REPORT_DATE": "2021-05-04"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-27"
+      "REPORT_DATE": "2021-05-04"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 253,
-      "NOT_MISSING": 132,
-      "TOTAL": 385,
-      "PERCENT_COMPLETE": 0.342857142857143,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.116996871741397,
-      "REPORT_DATE": "2021-04-27"
+      "MISSING": 237,
+      "NOT_MISSING": 80,
+      "TOTAL": 317,
+      "PERCENT_COMPLETE": 0.252365930599369,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.227519126871895,
+      "REPORT_DATE": "2021-05-04"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-04-27"
+      "REPORT_DATE": "2021-05-04"
     }
   }
 }
