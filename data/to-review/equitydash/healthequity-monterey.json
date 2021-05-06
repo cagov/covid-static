@@ -2,22 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Monterey",
-      "DATE": "2021-03-26",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.01577840112202,
-      "METRIC_VALUE_30_DAYS_AGO": 0.036784991723377,
-      "METRIC_VALUE_DIFF": -0.021006590601357
-    },
-    {
-      "COUNTY": "Monterey",
-      "DATE": "2021-03-27",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.015525431583826,
-      "METRIC_VALUE_30_DAYS_AGO": 0.035076108537393,
-      "METRIC_VALUE_DIFF": -0.019550676953567
-    },
-    {
-      "COUNTY": "Monterey",
       "DATE": "2021-03-28",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.015379278445883,
@@ -228,36 +212,36 @@
       "COUNTY": "Monterey",
       "DATE": "2021-04-23",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.007874015748032,
+      "METRIC_VALUE": 0.007872293898972,
       "METRIC_VALUE_30_DAYS_AGO": 0.014065335753176,
-      "METRIC_VALUE_DIFF": -0.006191320005145
+      "METRIC_VALUE_DIFF": -0.006193041854204
     },
     {
       "COUNTY": "Monterey",
       "DATE": "2021-04-24",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.007122507122507,
+      "METRIC_VALUE": 0.007120946538124,
       "METRIC_VALUE_30_DAYS_AGO": 0.013903017972194,
-      "METRIC_VALUE_DIFF": -0.006780510849687
+      "METRIC_VALUE_DIFF": -0.00678207143407
+    },
+    {
+      "COUNTY": "Monterey",
+      "DATE": "2021-04-25",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.006434023991276,
+      "METRIC_VALUE_30_DAYS_AGO": 0.01577840112202,
+      "METRIC_VALUE_DIFF": -0.009344377130744
+    },
+    {
+      "COUNTY": "Monterey",
+      "DATE": "2021-04-26",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.006887645286268,
+      "METRIC_VALUE_30_DAYS_AGO": 0.015525431583826,
+      "METRIC_VALUE_DIFF": -0.008637786297558
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Monterey",
-      "DATE": "2021-03-26",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.023299748110831,
-      "METRIC_VALUE_30_DAYS_AGO": 0.063655030800821,
-      "METRIC_VALUE_DIFF": -0.04035528268999
-    },
-    {
-      "COUNTY": "Monterey",
-      "DATE": "2021-03-27",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.024405506883605,
-      "METRIC_VALUE_30_DAYS_AGO": 0.061937533086289,
-      "METRIC_VALUE_DIFF": -0.037532026202685
-    },
     {
       "COUNTY": "Monterey",
       "DATE": "2021-03-28",
@@ -470,17 +454,33 @@
       "COUNTY": "Monterey",
       "DATE": "2021-04-23",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.012593016599886,
+      "METRIC_VALUE": 0.012585812356979,
       "METRIC_VALUE_30_DAYS_AGO": 0.022129186602871,
-      "METRIC_VALUE_DIFF": -0.009536170002985
+      "METRIC_VALUE_DIFF": -0.009543374245891
     },
     {
       "COUNTY": "Monterey",
       "DATE": "2021-04-24",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.012027491408935,
+      "METRIC_VALUE": 0.012020606754436,
       "METRIC_VALUE_30_DAYS_AGO": 0.021263669501823,
-      "METRIC_VALUE_DIFF": -0.009236178092888
+      "METRIC_VALUE_DIFF": -0.009243062747386
+    },
+    {
+      "COUNTY": "Monterey",
+      "DATE": "2021-04-25",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.010826210826211,
+      "METRIC_VALUE_30_DAYS_AGO": 0.023299748110831,
+      "METRIC_VALUE_DIFF": -0.01247353728462
+    },
+    {
+      "COUNTY": "Monterey",
+      "DATE": "2021-04-26",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.012408347433728,
+      "METRIC_VALUE_30_DAYS_AGO": 0.024405506883605,
+      "METRIC_VALUE_DIFF": -0.011997159449876
     }
   ]
 }

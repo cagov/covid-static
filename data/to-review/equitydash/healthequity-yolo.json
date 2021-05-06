@@ -2,22 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Yolo",
-      "DATE": "2021-03-26",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.006087812077235,
-      "METRIC_VALUE_30_DAYS_AGO": 0.011028844670677,
-      "METRIC_VALUE_DIFF": -0.004941032593442
-    },
-    {
-      "COUNTY": "Yolo",
-      "DATE": "2021-03-27",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.006313834726091,
-      "METRIC_VALUE_30_DAYS_AGO": 0.011627906976744,
-      "METRIC_VALUE_DIFF": -0.005314072250653
-    },
-    {
-      "COUNTY": "Yolo",
       "DATE": "2021-03-28",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.006021531537011,
@@ -220,44 +204,44 @@
       "COUNTY": "Yolo",
       "DATE": "2021-04-22",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.006530096371584,
+      "METRIC_VALUE": 0.006529064869419,
       "METRIC_VALUE_30_DAYS_AGO": 0.006059944314025,
-      "METRIC_VALUE_DIFF": 0.000470152057558
+      "METRIC_VALUE_DIFF": 0.000469120555393
     },
     {
       "COUNTY": "Yolo",
       "DATE": "2021-04-23",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.005705229793978,
+      "METRIC_VALUE": 0.005704024506179,
       "METRIC_VALUE_30_DAYS_AGO": 0.006040420006774,
-      "METRIC_VALUE_DIFF": -0.000335190212796
+      "METRIC_VALUE_DIFF": -0.000336395500595
     },
     {
       "COUNTY": "Yolo",
       "DATE": "2021-04-24",
       "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.005730963120191,
+      "METRIC_VALUE": 0.005726708733231,
       "METRIC_VALUE_30_DAYS_AGO": 0.005768222338752,
-      "METRIC_VALUE_DIFF": -0.000037259218561
+      "METRIC_VALUE_DIFF": -0.000041513605521
+    },
+    {
+      "COUNTY": "Yolo",
+      "DATE": "2021-04-25",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.005971594577147,
+      "METRIC_VALUE_30_DAYS_AGO": 0.006087812077235,
+      "METRIC_VALUE_DIFF": -0.000116217500089
+    },
+    {
+      "COUNTY": "Yolo",
+      "DATE": "2021-04-26",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.006488631488631,
+      "METRIC_VALUE_30_DAYS_AGO": 0.006313834726091,
+      "METRIC_VALUE_DIFF": 0.000174796762541
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Yolo",
-      "DATE": "2021-03-26",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.023317788141239,
-      "METRIC_VALUE_30_DAYS_AGO": 0.042638241172552,
-      "METRIC_VALUE_DIFF": -0.019320453031313
-    },
-    {
-      "COUNTY": "Yolo",
-      "DATE": "2021-03-27",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.02322495023225,
-      "METRIC_VALUE_30_DAYS_AGO": 0.043239533287577,
-      "METRIC_VALUE_DIFF": -0.020014583055328
-    },
     {
       "COUNTY": "Yolo",
       "DATE": "2021-03-28",
@@ -462,25 +446,41 @@
       "COUNTY": "Yolo",
       "DATE": "2021-04-22",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.033586818757921,
+      "METRIC_VALUE": 0.034198860037999,
       "METRIC_VALUE_30_DAYS_AGO": 0.026097271648873,
-      "METRIC_VALUE_DIFF": 0.007489547109048
+      "METRIC_VALUE_DIFF": 0.008101588389126
     },
     {
       "COUNTY": "Yolo",
       "DATE": "2021-04-23",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.026832460732984,
+      "METRIC_VALUE": 0.027450980392157,
       "METRIC_VALUE_30_DAYS_AGO": 0.020457280385078,
-      "METRIC_VALUE_DIFF": 0.006375180347906
+      "METRIC_VALUE_DIFF": 0.006993700007079
     },
     {
       "COUNTY": "Yolo",
       "DATE": "2021-04-24",
       "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.024869109947644,
+      "METRIC_VALUE": 0.025490196078431,
       "METRIC_VALUE_30_DAYS_AGO": 0.020382952439778,
-      "METRIC_VALUE_DIFF": 0.004486157507866
+      "METRIC_VALUE_DIFF": 0.005107243638654
+    },
+    {
+      "COUNTY": "Yolo",
+      "DATE": "2021-04-25",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.024723487312947,
+      "METRIC_VALUE_30_DAYS_AGO": 0.023317788141239,
+      "METRIC_VALUE_DIFF": 0.001405699171708
+    },
+    {
+      "COUNTY": "Yolo",
+      "DATE": "2021-04-26",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.027095148078135,
+      "METRIC_VALUE_30_DAYS_AGO": 0.02322495023225,
+      "METRIC_VALUE_DIFF": 0.003870197845885
     }
   ]
 }

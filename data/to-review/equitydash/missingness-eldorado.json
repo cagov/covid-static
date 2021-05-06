@@ -3,75 +3,75 @@
     "cases": {
       "COUNTY": "El Dorado",
       "METRIC": "cases",
-      "MISSING": 87,
-      "NOT_MISSING": 396,
-      "TOTAL": 483,
-      "PERCENT_COMPLETE": 0.819875776397515,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.878205128205128,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0583293518076127,
-      "REPORT_DATE": "2021-05-04"
+      "MISSING": 96,
+      "NOT_MISSING": 400,
+      "TOTAL": 496,
+      "PERCENT_COMPLETE": 0.806451612903226,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.867741935483871,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0612903225806453,
+      "REPORT_DATE": "2021-05-06"
     },
     "deaths": {
       "COUNTY": "El Dorado",
       "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 0,
-      "TOTAL": 0,
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-05-04"
+      "REPORT_DATE": "2021-05-06"
     },
     "tests": {
       "COUNTY": "El Dorado",
       "METRIC": "tests",
-      "MISSING": 6538,
-      "NOT_MISSING": 10699,
-      "TOTAL": 17237,
-      "PERCENT_COMPLETE": 0.620699657713059,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.573816925734024,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0468827319790349,
-      "REPORT_DATE": "2021-05-04"
+      "MISSING": 6673,
+      "NOT_MISSING": 10812,
+      "TOTAL": 17485,
+      "PERCENT_COMPLETE": 0.618358593079783,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.572619475386274,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.0457391176935089,
+      "REPORT_DATE": "2021-05-06"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
       "MISSING": 1,
-      "NOT_MISSING": 372,
-      "TOTAL": 373,
-      "PERCENT_COMPLETE": 0.997319034852547,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.001256042726563,
-      "REPORT_DATE": "2021-05-04"
+      "NOT_MISSING": 370,
+      "TOTAL": 371,
+      "PERCENT_COMPLETE": 0.997304582210243,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": 0.001106863579064,
+      "REPORT_DATE": "2021-05-06"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 0,
-      "TOTAL": 0,
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-05-04"
+      "REPORT_DATE": "2021-05-06"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 320,
-      "NOT_MISSING": 53,
-      "TOTAL": 373,
-      "PERCENT_COMPLETE": 0.142091152815013,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.239798610964515,
-      "REPORT_DATE": "2021-05-04"
+      "MISSING": 317,
+      "NOT_MISSING": 54,
+      "TOTAL": 371,
+      "PERCENT_COMPLETE": 0.1455525606469,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.20805960665348,
+      "REPORT_DATE": "2021-05-06"
     },
     "deaths": {
       "METRIC": "deaths",
-      "MISSING": 0,
-      "NOT_MISSING": 0,
-      "TOTAL": 0,
+      "MISSING": null,
+      "NOT_MISSING": null,
+      "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-05-04"
+      "REPORT_DATE": "2021-05-06"
     }
   }
 }

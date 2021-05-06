@@ -2,22 +2,6 @@
   "county_positivity_all_nopris": [
     {
       "COUNTY": "Santa Barbara",
-      "DATE": "2021-03-26",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.025221478936901,
-      "METRIC_VALUE_30_DAYS_AGO": 0.043507817811013,
-      "METRIC_VALUE_DIFF": -0.018286338874112
-    },
-    {
-      "COUNTY": "Santa Barbara",
-      "DATE": "2021-03-27",
-      "METRIC": "county_positivity_all_nopris",
-      "METRIC_VALUE": 0.025808764226185,
-      "METRIC_VALUE_30_DAYS_AGO": 0.041737168640722,
-      "METRIC_VALUE_DIFF": -0.015928404414537
-    },
-    {
-      "COUNTY": "Santa Barbara",
       "DATE": "2021-03-28",
       "METRIC": "county_positivity_all_nopris",
       "METRIC_VALUE": 0.026339285714286,
@@ -239,25 +223,25 @@
       "METRIC_VALUE": 0.016111457036115,
       "METRIC_VALUE_30_DAYS_AGO": 0.024611856033874,
       "METRIC_VALUE_DIFF": -0.00850039899776
+    },
+    {
+      "COUNTY": "Santa Barbara",
+      "DATE": "2021-04-25",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.015865608959403,
+      "METRIC_VALUE_30_DAYS_AGO": 0.025221478936901,
+      "METRIC_VALUE_DIFF": -0.009355869977498
+    },
+    {
+      "COUNTY": "Santa Barbara",
+      "DATE": "2021-04-26",
+      "METRIC": "county_positivity_all_nopris",
+      "METRIC_VALUE": 0.014683824109892,
+      "METRIC_VALUE_30_DAYS_AGO": 0.025808764226185,
+      "METRIC_VALUE_DIFF": -0.011124940116293
     }
   ],
   "county_positivity_low_hpi": [
-    {
-      "COUNTY": "Santa Barbara",
-      "DATE": "2021-03-26",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.046586715867159,
-      "METRIC_VALUE_30_DAYS_AGO": 0.065691158156912,
-      "METRIC_VALUE_DIFF": -0.019104442289753
-    },
-    {
-      "COUNTY": "Santa Barbara",
-      "DATE": "2021-03-27",
-      "METRIC": "county_positivity_low_hpi",
-      "METRIC_VALUE": 0.049597855227882,
-      "METRIC_VALUE_30_DAYS_AGO": 0.063218390804598,
-      "METRIC_VALUE_DIFF": -0.013620535576716
-    },
     {
       "COUNTY": "Santa Barbara",
       "DATE": "2021-03-28",
@@ -481,6 +465,22 @@
       "METRIC_VALUE": 0.018604651162791,
       "METRIC_VALUE_30_DAYS_AGO": 0.04375,
       "METRIC_VALUE_DIFF": -0.025145348837209
+    },
+    {
+      "COUNTY": "Santa Barbara",
+      "DATE": "2021-04-25",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.019,
+      "METRIC_VALUE_30_DAYS_AGO": 0.046586715867159,
+      "METRIC_VALUE_DIFF": -0.027586715867159
+    },
+    {
+      "COUNTY": "Santa Barbara",
+      "DATE": "2021-04-26",
+      "METRIC": "county_positivity_low_hpi",
+      "METRIC_VALUE": 0.014910536779324,
+      "METRIC_VALUE_30_DAYS_AGO": 0.049597855227882,
+      "METRIC_VALUE_DIFF": -0.034687318448558
     }
   ]
 }
