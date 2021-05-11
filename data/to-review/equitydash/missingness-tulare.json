@@ -3,13 +3,13 @@
     "cases": {
       "COUNTY": "Tulare",
       "METRIC": "cases",
-      "MISSING": 98,
-      "NOT_MISSING": 311,
-      "TOTAL": 409,
-      "PERCENT_COMPLETE": 0.76039119804401,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.827250608272506,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0668594102284962,
-      "REPORT_DATE": "2021-05-04"
+      "MISSING": 90,
+      "NOT_MISSING": 312,
+      "TOTAL": 402,
+      "PERCENT_COMPLETE": 0.776119402985075,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.828054298642534,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0519348956574592,
+      "REPORT_DATE": "2021-05-11"
     },
     "deaths": {
       "COUNTY": "Tulare",
@@ -20,29 +20,29 @@
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_PRIOR": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-05-04"
+      "REPORT_DATE": "2021-05-11"
     },
     "tests": {
       "COUNTY": "Tulare",
       "METRIC": "tests",
-      "MISSING": 21316,
-      "NOT_MISSING": 18883,
-      "TOTAL": 40199,
-      "PERCENT_COMPLETE": 0.469738053185403,
-      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.476994552272245,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0072564990868423,
-      "REPORT_DATE": "2021-05-04"
+      "MISSING": 21295,
+      "NOT_MISSING": 18930,
+      "TOTAL": 40225,
+      "PERCENT_COMPLETE": 0.470602858918583,
+      "PERCENT_COMPLETE_30_DAYS_PRIOR": 0.473108566685384,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.0025057077668007,
+      "REPORT_DATE": "2021-05-11"
     }
   },
   "gender_identity": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 3,
-      "NOT_MISSING": 328,
-      "TOTAL": 331,
-      "PERCENT_COMPLETE": 0.990936555891239,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.002694017357169,
-      "REPORT_DATE": "2021-05-04"
+      "MISSING": 4,
+      "NOT_MISSING": 313,
+      "TOTAL": 317,
+      "PERCENT_COMPLETE": 0.987381703470031,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.008727245946311,
+      "REPORT_DATE": "2021-05-11"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -51,18 +51,18 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-05-04"
+      "REPORT_DATE": "2021-05-11"
     }
   },
   "sexual_orientation": {
     "cases": {
       "METRIC": "cases",
-      "MISSING": 282,
-      "NOT_MISSING": 49,
-      "TOTAL": 331,
-      "PERCENT_COMPLETE": 0.148036253776435,
-      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.130626166605731,
-      "REPORT_DATE": "2021-05-04"
+      "MISSING": 262,
+      "NOT_MISSING": 55,
+      "TOTAL": 317,
+      "PERCENT_COMPLETE": 0.173501577287066,
+      "PERCENT_COMPLETE_30_DAYS_DIFF": -0.094980912985308,
+      "REPORT_DATE": "2021-05-11"
     },
     "deaths": {
       "METRIC": "deaths",
@@ -71,7 +71,7 @@
       "TOTAL": null,
       "PERCENT_COMPLETE": null,
       "PERCENT_COMPLETE_30_DAYS_DIFF": null,
-      "REPORT_DATE": "2021-05-04"
+      "REPORT_DATE": "2021-05-11"
     }
   }
 }
