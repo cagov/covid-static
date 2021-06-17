@@ -110,4 +110,5 @@ export class CaGovAccordion extends window.HTMLElement {
   }
 
 }
+
 window.customElements.define('cagov-accordion', CaGovAccordion);
