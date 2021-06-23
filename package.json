@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "move": "node src/move.js",
-    "updateSitemap": "node src/updateSitemap.js"
+    "updateSitemap": "node src/updateSitemap.js",
+    "git-history-csv": "bash ./src/industry-guidance-git-history.sh"
   },
   "repository": {
     "type": "git",
