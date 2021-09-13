@@ -1,0 +1,21 @@
+name: SVG pregeneration
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 17 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          npm install
+          date > img/generated/sparklines/generated.txt
+          npm run sparklines
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add img/generated/sparklines/*
+          git commit -m "generated sparklines"
+          git push
+          
