@@ -1,8 +1,9 @@
-name: Eleventy Build Master
+name: SVG pregeneration
 on:
-  push:
-    branches:
-      - task-5276/svg-pregen-save-to-git
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 17 * * *'
+
 jobs:
   build:
     runs-on: ubuntu-latest
