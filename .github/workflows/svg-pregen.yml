@@ -13,7 +13,7 @@ jobs:
           npm run sparklines
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add src/img/generated/sparklines/*
+          git add img/generated/sparklines/*
           git commit -m "generated sparklines"
           git push
           
