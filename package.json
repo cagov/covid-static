@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "move": "node src/move.js",
-    "updateSitemap": "node src/updateSitemap.js"
+    "updateSitemap": "node src/updateSitemap.js",
+    "sparklines": "node src/svg-pregen.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cagov/covid-static/issues"
   },
-  "homepage": "https://github.com/cagov/covid-static#readme"
+  "homepage": "https://github.com/cagov/covid-static#readme",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
 }

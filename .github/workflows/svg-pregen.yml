@@ -1,0 +1,19 @@
+name: Eleventy Build Master
+on:
+  push:
+    branches:
+      - task-5276/svg-pregen-save-to-git
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          npm install
+          npm run sparklines
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add src/img/generated/sparklines/*
+          git commit -m "generated sparklines"
+          git push
+          
