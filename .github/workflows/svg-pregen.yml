@@ -2,7 +2,7 @@ name: SVG pregeneration
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '30 18 * * *'
+    - cron:  '10 19 * * *'
       
 jobs:
   build:
@@ -12,11 +12,18 @@ jobs:
       - run: |
           git pull
           npm install
-          date > img/generated/sparklines/generated-date.txt
           npm run sparklines
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add img/generated/sparklines/*
           git commit -m "generated sparklines"
-          git push
+          git push origin master
+      - uses: StateOfCalifornia/azblob-upload-artifact@master     
+        with:
+          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+          container: '$web'
+          name: .
+          path: path/to/artifact
+          cleanup: false
+          sync: false
           

@@ -1,5 +1,12 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require('path');
+
+function writeFile(file, filecontent) {
+  fs.writeFileSync(file,filecontent,'utf8');
+  fs.mkdirSync(path.dirname('path/to/artifact/'+file), { recursive: true }); // put the files in the path to artifact too so this git action can deploy them because standard push watch is not being triggered
+  fs.createReadStream(file).pipe(fs.createWriteStream('path/to/artifact/'+file));
+}
 
 (async () => {
   const browser = await puppeteer.launch();
@@ -7,18 +14,21 @@ const fs = require('fs');
   await page.goto('https://covid19.ca.gov/state-dashboard-sparklines/', {
     waitUntil: 'networkidle2',
   });  
-  
+
+  // write a new date file to make sure script runs even if there is no svg change  
+  writeFile('./img/generated/sparklines/date-ran.txt',new Date().toString());
+
   const sparklineVax = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='vaccines'] svg", el => el.outerHTML);
-  fs.writeFileSync('./img/generated/sparklines/sparkline-vaccines.svg',sparklineVax,'utf8');
+  writeFile('./img/generated/sparklines/sparkline-vaccines.svg',sparklineVax);
 
   const sparklineCases = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='cases'] svg", el => el.outerHTML);
-  fs.writeFileSync('./img/generated/sparklines/sparkline-cases.svg',sparklineCases,'utf8');
+  writeFile('./img/generated/sparklines/sparkline-cases.svg',sparklineCases);
 
   const sparklineDeaths = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='deaths'] svg", el => el.outerHTML);
-  fs.writeFileSync('./img/generated/sparklines/sparkline-deaths.svg',sparklineDeaths,'utf8');
+  writeFile('./img/generated/sparklines/sparkline-deaths.svg',sparklineDeaths);
 
   const sparklineTests = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='tests'] svg", el => el.outerHTML);
-  fs.writeFileSync('./img/generated/sparklines/sparkline-tests.svg',sparklineTests,'utf8');
-
+  writeFile('./img/generated/sparklines/sparkline-tests.svg',sparklineTests);
+  
   await browser.close();
 })();
