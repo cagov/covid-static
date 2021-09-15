@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
+          git pull
           npm install
           date > img/generated/sparklines/generated.txt
           npm run sparklines
