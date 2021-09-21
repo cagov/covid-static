@@ -6,7 +6,7 @@
   "scripts": {
     "move": "node src/move.js",
     "updateSitemap": "node src/updateSitemap.js",
-    "sparklines": "node src/svg-pregen.js"
+    "svgPregen": "node src/svg-pregen.js"
   },
   "repository": {
     "type": "git",

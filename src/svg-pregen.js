@@ -29,6 +29,16 @@ function writeFile(file, filecontent) {
 
   const sparklineTests = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='tests'] svg", el => el.outerHTML);
   writeFile('./img/generated/sparklines/sparkline-tests.svg',sparklineTests);
-  
+
+  const postvaxCases = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='cases'] svg", el => el.outerHTML);
+  writeFile('./img/generated/postvax/postvax-cases.svg',postvaxCases);
+
+  const postvaxDeaths = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='deaths'] svg", el => el.outerHTML);
+  writeFile('./img/generated/postvax/postvax-deaths.svg',postvaxDeaths);
+
+  const postvaxHospitalizations = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='hospitalizations'] svg", el => el.outerHTML);
+  writeFile('./img/generated/postvax/postvax-hospitalizations.svg',postvaxHospitalizations);
+
+
   await browser.close();
 })();

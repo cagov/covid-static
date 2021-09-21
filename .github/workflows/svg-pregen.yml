@@ -12,11 +12,12 @@ jobs:
       - run: |
           git pull
           npm install
-          npm run sparklines
+          npm run svgPregen
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add img/generated/sparklines/*
-          git commit -m "generated sparklines"
+          git add img/generated/postvax/*
+          git commit -m "generated sparklines and postvax charts"
           git push origin master
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
         with:
