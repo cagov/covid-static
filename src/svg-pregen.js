@@ -11,7 +11,7 @@ function writeFile(file, filecontent) {
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto('https://covid19.ca.gov/state-dashboard-sparklines/', {
+  await page.goto('https://covid19.ca.gov/chart-renderer/', {
     waitUntil: 'networkidle2',
   });  
 
