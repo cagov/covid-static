@@ -18,11 +18,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Slack Notification
-      uses: rtCamp/action-slack-notify@v2
+      uses: edge/simple-slack-notify@master
       env:
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-        SLACK_CHANNEL: jbum-testing
-        SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
-        SLACK_MESSAGE: 'Testing github slack messaging'
-        SLACK_TITLE: GH->Slack test
-        SLACK_USERNAME: jbumbot
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
+        channel: #jbum-testing
+        text: 'Testing github slack messaging'
+        color: 'good'
+        username: jbumbot
