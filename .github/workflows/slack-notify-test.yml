@@ -21,3 +21,8 @@ jobs:
       uses: rtCamp/action-slack-notify@v2
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        SLACK_CHANNEL: testingbot
+        SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
+        SLACK_MESSAGE: 'Testing github slack messaging'
+        SLACK_TITLE: GH->Slack test
+        SLACK_USERNAME: jbumbot
