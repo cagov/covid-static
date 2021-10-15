@@ -21,7 +21,8 @@ jobs:
       uses: edge/simple-slack-notify@master
       env:
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
-        channel: #jbum-testing
+      with:
+        channel: '#jbum-testing'
         text: 'Testing github slack messaging'
         color: 'good'
         username: jbumbot
