@@ -22,6 +22,8 @@ jobs:
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
       with:
         channel: '#jbum-testing'
-        text: "Testing github slack messaging at $(date +'%Y-%m-%d %H:%M:%S')"
+        text: "Testing github slack messaging"
         color: 'good'
         username: jbumbot
+        fields: |
+          [{ "title": "Timestamp", "value": "${Date.now()}", "short": true }]      
