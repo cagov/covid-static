@@ -26,4 +26,4 @@ jobs:
         color: 'good'
         username: jbumbot
         fields: |
-          [{ "title": "Timestamp", "value": "${Date.now()}", "short": true }]      
+          [{ "title": "Time triggered", "value": "${(new Date(Date.now())).toLocaleDateString()} ${(new Date(Date.now())).toLocaleTimeString()}", "short": true }]      
