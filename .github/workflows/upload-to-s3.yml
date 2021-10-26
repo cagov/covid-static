@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Push built site files to S3 production bucket    
-      - id: file_changes
       - name: Deploy to S3 (PDFs)
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:
