@@ -20,6 +20,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
           SOURCE_DIR: ./pdfs # only move built directory
+          DEST_DIR: ./pdf # only move built directory
 
       - name: Deploy to S3 (img)
         uses: jakejarvis/s3-sync-action@v0.5.1
@@ -31,6 +32,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
           SOURCE_DIR: ./img # only move built directory
+          DEST_DIR: ./img # only move built directory
 
       #
       # Invalidate Cloudfront production distribution
