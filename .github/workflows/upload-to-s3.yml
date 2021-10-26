@@ -1,0 +1,55 @@
+name: Upload To Amazon S3 / Clear Cloudfront cache
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    steps:
+      # Push built site files to S3 production bucket    
+      - id: file_changes
+      - name: Deploy to S3 (PDFs)
+        uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: 'static.covid19.ca.gov'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
+          SOURCE_DIR: ./pdfs # only move built directory
+
+      - name: Deploy to S3 (img)
+        uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: 'static.covid19.ca.gov'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
+          SOURCE_DIR: ./img # only move built directory
+
+      - name: Deploy to S3 (data)
+        uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: 'static.covid19.ca.gov'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-west-1'   # optional: defaults to us-east-1
+          SOURCE_DIR: ./data # only move built directory
+
+      #
+      # Invalidate Cloudfront production distribution
+      - name: invalidate
+        uses: chetan/invalidate-cloudfront-action@v1.3
+        env:
+          DISTRIBUTION: 'E2JUQO39Z38NB3'
+          PATHS: '/*'
+          AWS_REGION: 'us-west-1'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
