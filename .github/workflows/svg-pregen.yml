@@ -19,6 +19,8 @@ jobs:
           git add img/generated/postvax/*
           git commit -m "generated sparklines and postvax charts"
           git push origin master
+      #
+      # Upload to Azure
       - uses: StateOfCalifornia/azblob-upload-artifact@master     
         with:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
@@ -27,4 +29,27 @@ jobs:
           path: path/to/artifact
           cleanup: false
           sync: false
+      #
+      # Sync SVGs to S3
+      - name: Deploy to S3 (img)
+        uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: 'static.covid19.ca.gov'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-west-1'
+          SOURCE_DIR: ./img
+          DEST_DIR: /img
+      #
+      # Invalidate Cloudfront production distribution
+      - name: invalidate
+        uses: chetan/invalidate-cloudfront-action@v1.3
+        env:
+          DISTRIBUTION: 'E2JUQO39Z38NB3'
+          PATHS: '/img'
+          AWS_REGION: 'us-west-1'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           
