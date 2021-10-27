@@ -21,7 +21,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'
           SOURCE_DIR: ./pdf
-          DEST_DIR: /pdf
+          DEST_DIR: pdf
 
       - name: Deploy to S3 (img)
         uses: jakejarvis/s3-sync-action@v0.5.1
@@ -33,7 +33,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'
           SOURCE_DIR: ./img
-          DEST_DIR: /img
+          DEST_DIR: img
 
       #
       # Invalidate Cloudfront production distribution
