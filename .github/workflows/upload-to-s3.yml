@@ -31,7 +31,7 @@ jobs:
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: 'static.covid19.ca.gov'
+          AWS_S3_BUCKET: 'data.covid19.ca.gov'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'
@@ -39,12 +39,23 @@ jobs:
           DEST_DIR: img
 
       #
-      # Invalidate Cloudfront production distribution
+      # Invalidate Cloudfront production distribution for static.covid19.ca.gov/pdf
       - name: invalidate
         uses: chetan/invalidate-cloudfront-action@v1.3
         env:
           DISTRIBUTION: 'E2JUQO39Z38NB3'
-          PATHS: '/pdf /img'
+          PATHS: '/pdf'
+          AWS_REGION: 'us-west-1'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+      #
+      # Invalidate Cloudfront production distribution for data.covid19.ca.gov/img
+      - name: invalidate
+        uses: chetan/invalidate-cloudfront-action@v1.3
+        env:
+          DISTRIBUTION: 'EHNPIZWYYWA31'
+          PATHS: '/img'
           AWS_REGION: 'us-west-1'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
