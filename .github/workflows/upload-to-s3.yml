@@ -1,8 +1,11 @@
 name: Upload To Amazon S3 / Clear Cloudfront cache
 on:
-  push:
+  push: # only on pushes to master that involve pdf/ or img/
     branches:
       - master
+    paths:
+      - 'pdf/*'
+      - 'img/*'
 
 # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
