@@ -1,8 +1,16 @@
 name: Upload To Azure Blob Storage
 on:
-  push:
+  push: # only on pushes to master that involve pdf/ or img/ or data/
     branches:
       - master
+    paths:
+      - 'pdf/*'
+      - 'img/*'
+      - 'data/*'
+
+# Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
 
 jobs:
   changes:
