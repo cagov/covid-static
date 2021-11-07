@@ -15,6 +15,9 @@ function writeFile(file, filecontent) {
     waitUntil: 'networkidle2',
   });  
 
+  const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+  await sleep(30*1000);
+
   // write a new date file to make sure script runs even if there is no svg change  
   writeFile('./img/generated/sparklines/date-ran.txt',new Date().toString());
 
