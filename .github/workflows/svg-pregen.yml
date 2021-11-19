@@ -43,7 +43,7 @@ jobs:
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: 'data.covid19.ca.gov'
+          AWS_S3_BUCKET: 'static.covid19.ca.gov'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'
@@ -54,7 +54,7 @@ jobs:
       - name: invalidate
         uses: chetan/invalidate-cloudfront-action@v1.3
         env:
-          DISTRIBUTION: 'EHNPIZWYYWA31'
+          DISTRIBUTION: 'E2JUQO39Z38NB3'
           PATHS: '/img /img/*'
           AWS_REGION: 'us-west-1'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
