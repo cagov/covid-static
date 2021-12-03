@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const artifactPath = 'path/to/artifact';
-const sitemapOutputPath = `${artifactPath}/sitemap.xml`;
-const sitemapPaths = ['pdf/','img/'];
+const sitemapPathPrefix = 'sitemap';
+const sitemapOutputPath = `${sitemapPathPrefix}/sitemap.xml`;
+const assetPaths = ['pdf/','img/'];
 
 // the root of your website - the protocol and the domain name with a trailing slash
 const root_path = 'https://files.covid19.ca.gov/';
@@ -29,7 +29,7 @@ const getAllFiles = (dirPath, arrayOfFiles) => {
 //var freq = 'monthly';
 var xml = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
 
-for (targetpath of sitemapPaths) {
+for (targetpath of assetPaths) {
   for (file of getAllFiles(targetpath)) {
     const lastmod = fs.statSync(file).mtime;
 
@@ -43,5 +43,5 @@ for (targetpath of sitemapPaths) {
 }
 xml += '</urlset>\n';
 
-fs.mkdirSync(artifactPath, { recursive: true });
+fs.mkdirSync(sitemapPathPrefix, { recursive: true });
 fs.writeFile(sitemapOutputPath, xml, err => {if (err) console.error(err); else console.log('Sitemap created.');});
