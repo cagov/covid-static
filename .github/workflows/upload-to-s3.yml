@@ -15,31 +15,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
+      - run: mkdir -p path/to/artifact/data
+      - run: HOMEDIR=$HOME npm run updateSitemap
 
-      # Push built site files to S3 production bucket (static)
-      - name: Deploy to S3 (PDFs -> static)
+      # Push the site map to S3 data
+      - name: Deploy to S3 (PDFs)
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:
-          args: --acl public-read --follow-symlinks --delete
+          args: --acl public-read --follow-symlinks
         env:
-          AWS_S3_BUCKET: 'static.covid19.ca.gov'
+          AWS_S3_BUCKET: 'files.covid19.ca.gov'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'
-          SOURCE_DIR: ./pdf
-          DEST_DIR: pdf
-
-      - name: Deploy to S3 (img -> static)
-        uses: jakejarvis/s3-sync-action@v0.5.1
-        with:
-          args: --acl public-read --follow-symlinks --delete
-        env:
-          AWS_S3_BUCKET: 'static.covid19.ca.gov'
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: 'us-west-1'
-          SOURCE_DIR: ./img
-          DEST_DIR: img
+          SOURCE_DIR: ./path/to/artifact/data/sitemap.xml
+          DEST_DIR: data
 
       # Push built site files to S3 production bucket (files)
       - name: Deploy to S3 (PDFs -> files)
@@ -66,25 +56,13 @@ jobs:
           SOURCE_DIR: ./img
           DEST_DIR: img
 
-
-      #
-      # Invalidate Cloudfront production distribution for static.covid19.ca.gov/pdf
-      - name: invalidate
-        uses: chetan/invalidate-cloudfront-action@v1.3
-        env:
-          DISTRIBUTION: 'E2JUQO39Z38NB3'
-          PATHS: '/pdf /pdf/* /img /img/*'
-          AWS_REGION: 'us-west-1'
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-
       #
       # Invalidate Cloudfront production distribution for files.covid19.ca.gov/pdf
       - name: invalidate
         uses: chetan/invalidate-cloudfront-action@v1.3
         env:
           DISTRIBUTION: 'E21D0URMALUUJ4'
-          PATHS: '/pdf /pdf/* /img /img/*'
+          PATHS: '/pdf /pdf/* /img /img/* /data /data/*'
           AWS_REGION: 'us-west-1'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
