@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - run: mkdir -p path/to/artifact/data
+      - run: mkdir -p path/to/artifact
       - run: HOMEDIR=$HOME npm run updateSitemap
 
       # Push the site map to S3 data
@@ -28,8 +28,7 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-1'
-          SOURCE_DIR: ./path/to/artifact/data/sitemap.xml
-          DEST_DIR: data
+          SOURCE_DIR: ./path/to/artifact/sitemap.xml
 
       # Push built site files to S3 production bucket (files)
       - name: Deploy to S3 (PDFs -> files)
