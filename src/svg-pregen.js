@@ -36,17 +36,17 @@ function writeFile(file, filecontent) {
   writeFile('./img/generated/sparklines/sparkline-tests.svg',sparklineTests);
   console.log('got tests');
 
-  const postvaxCases = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='cases'] svg", el => el.outerHTML);
-  writeFile('./img/generated/postvax/postvax-cases.svg',postvaxCases);
-  console.log('got vax cases');
+  // const postvaxCases = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='cases'] svg", el => el.outerHTML);
+  // writeFile('./img/generated/postvax/postvax-cases.svg',postvaxCases);
+  // console.log('got vax cases');
 
-  const postvaxDeaths = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='deaths'] svg", el => el.outerHTML);
-  writeFile('./img/generated/postvax/postvax-deaths.svg',postvaxDeaths);
-  console.log('got vax deaths');
+  // const postvaxDeaths = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='deaths'] svg", el => el.outerHTML);
+  // writeFile('./img/generated/postvax/postvax-deaths.svg',postvaxDeaths);
+  // console.log('got vax deaths');
 
-  const postvaxHospitalizations = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='hospitalizations'] svg", el => el.outerHTML);
-  writeFile('./img/generated/postvax/postvax-hospitalizations.svg',postvaxHospitalizations);
-  console.log('got vax hospitalizations');
+  // const postvaxHospitalizations = await page.$eval("cagov-chart-dashboard-postvax-chart-prerender[data-chart-config-key='hospitalizations'] svg", el => el.outerHTML);
+  // writeFile('./img/generated/postvax/postvax-hospitalizations.svg',postvaxHospitalizations);
+  // console.log('got vax hospitalizations');
 
 
   await browser.close();

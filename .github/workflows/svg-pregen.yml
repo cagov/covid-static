@@ -23,8 +23,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add img/generated/sparklines/*
-          git add img/generated/postvax/*
-          git commit -m "generated sparklines and postvax charts"
+          git commit -m "generated sparkline charts"
           git push origin master
 
       - name: Configure AWS Credentials
