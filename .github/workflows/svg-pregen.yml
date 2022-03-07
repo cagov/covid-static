@@ -2,7 +2,7 @@ name: SVG pregeneration
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '20,25,45,55 17 * * *'
+    - cron:  '20,25,45,55 16 * * *'
 
 # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
