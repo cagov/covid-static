@@ -24,7 +24,7 @@ jobs:
           git config user.email github-actions@github.com
           git add img/generated/sparklines/*
           git commit -m "generated sparkline charts"
-          git push origin master
+          git push origin main
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1

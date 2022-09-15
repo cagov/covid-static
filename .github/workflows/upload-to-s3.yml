@@ -1,8 +1,8 @@
 name: Upload To Amazon S3 / Clear Cloudfront cache
 on:
-  push: # only on pushes to master that involve pdf/ or img/
+  push: # only on pushes to main that involve pdf/ or img/
     branches:
-      - master
+      - main
     paths:
       - 'pdf/**'
       - 'img/**'

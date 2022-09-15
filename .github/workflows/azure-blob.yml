@@ -2,7 +2,7 @@ name: Upload To Azure Blob Storage
 on:
   push: # only on pushes to master that involve pdf/ or img/ or data/
     branches:
-      - master
+      - main
     paths:
       - 'pdf/**'
       - 'img/**'
