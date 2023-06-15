@@ -24,9 +24,9 @@ function writeFile(file, filecontent) {
   writeFile('./img/generated/sparklines/sparkline-vaccines.svg',sparklineVax);
   console.log('got vaccines');
 
-  const sparklineCases = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='cases'] svg", el => el.outerHTML);
-  writeFile('./img/generated/sparklines/sparkline-cases.svg',sparklineCases);
-  console.log('got cases');
+  //const sparklineCases = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='cases'] svg", el => el.outerHTML);
+  //writeFile('./img/generated/sparklines/sparkline-cases.svg',sparklineCases);
+  //console.log('got cases');
 
   const sparklineDeaths = await page.$eval("cagov-chart-dashboard-sparkline[data-chart-config-key='deaths'] svg", el => el.outerHTML);
   writeFile('./img/generated/sparklines/sparkline-deaths.svg',sparklineDeaths);
