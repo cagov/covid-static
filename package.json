@@ -6,7 +6,8 @@
   "scripts": {
     "move": "node src/move.js",
     "updateSitemap": "node src/updateSitemap.js",
-    "svgPregen": "node src/svg-pregen.js"
+    "svgPregen": "node src/svg-pregen.js",
+    "svgPregenPreview": "node src/svg-pregen-preview.js"
   },
   "repository": {
     "type": "git",

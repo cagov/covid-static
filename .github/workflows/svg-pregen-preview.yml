@@ -1,0 +1,29 @@
+name: SVG pregeneration
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '45 22 * * 3'
+
+# Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "America/Los_Angeles"
+
+      - uses: actions/checkout@v2
+      - run: |
+          git pull
+          npm install
+          npm run svgPregenPreview
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add img/generated/sparklines_staging/*
+          git commit -m "generated staging sparkline charts"
+          git push origin main
+
+          
