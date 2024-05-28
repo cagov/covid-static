@@ -1,5 +1,7 @@
 # covid-static
 
+## NOTE: As of 5-28-2024 This project is not actively maintained by ODI and this repo is being converted to Archive (read-only) status.
+
 This handles the binary files for the covid19.ca.gov site. Files placed in this repository will be deployed to Azure blob storage backed CDN with a low cache timer on files with .pdf extension. This will allow content authors to get new or modified pdfs to production quickly.
 
 We pointed a friendly subdomain at this new CDN: https://files.covid19.ca.gov/ so file paths in this directory are browseable there. 
